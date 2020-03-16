@@ -1,0 +1,155 @@
+;x<L>19<pc>0002-c<k1>aMh<k2>aMh
+;x{#aMh#}¦ 1 A {#aMhate, aMhituM#} To go; ap-
+;x<>proach; set out, Bk. 3. 25, 46; 14. 51,
+;x<L>1028<pc>0050-a<k1>aDiSI<k2>aDiSI
+;x;{#aDiSI#}¦ 2A. To lie or sleep upon,
+;x;<>sleep in, rest or recline upon; (with 
+<L>1749<pc>0074-c<k1>anuprasad<k2>anuprasad
+;{#anuprasad#}¦ {%Caus.%} To propitiate, con-
+;<>ciliate; {#priyaM#} V. 3.
+;x<L>1816<pc>0077-c<k1>anumf<k2>anumf
+;x;{#anumf#}¦ 6A. To follow in death;
+;x;<>{#rudatA kuta eva sA punarBavatA nAnumftApi#}
+;x<L>1818<pc>0078-a<k1>anuyA<k2>anuyA
+;x;{#anuyA#}¦ 2P. {@1@} To follow, go after
+<L>2069<pc>0087-a<k1>anekIkf<k2>anekIkf
+;{#anekIkf#} or {#BU#}¦ To make or be mani-
+;<>fold; to divide or be divided into.
+<L>2416<pc>0108-b<k1>apaman<k2>apaman
+;{#apaman#}¦ {%Caus.%} To disrespect, dis-
+;<>honour, despise.
+;x<L>2522<pc>0112-a<k1>apavf<k2>apavf
+;x;{#apavf#}¦ 5U. To open, uncover, dis-
+;x;<>close, exhibit. {%--Caus.%} or 10 P.
+<L>3284<pc>0137-a<k1>aBirAD<k2>aBirAD
+;{#aBirAD#}¦ {%Caus.%} To propitiate; Śi.
+;<>7. 1.
+<L>4017<pc>0160-a<k1>araMkf<k2>araMkf
+;{#araMkf#}¦ To prepare, make ready,
+;<>serve; {#ºkft#} gratifying, decorating,
+<L>4018<pc>0160-a<k1>araMgam<k2>araMgam
+;{#araMgam#}¦ To be present, come or go
+;<>near (to help); become visible,
+;x<L>4477<pc>0179-a<k1>avaci<k2>avaci
+;x;{#avaci#}¦ 3P. {@1@} To worship, honour,
+;x;<>respect. {@--2@} (5 U.) To gather, pick up,
+;x<L>4522<pc>0180-a<k1>avatan<k2>avatan
+;x;{#avatan#}¦ 8U. {@1@} To stretch or ex-
+;x;<>tend downwards; {#fjvIrdaDAnEravatatya#}
+<L>4824<pc>0189-a<k1>avaSiz<k2>avaSiz
+;{#avaSiz#}¦ (Used mostly in {%pass.%})
+;<>To be left last or as a remainder,
+<L>4931<pc>0192-c<k1>avahA<k2>avahA
+;{#avahA#}¦ To leave, a bandon(used
+;<>only in derivatives).
+<L>6175<pc>0238-a<k1>AdIp<k2>AdIp
+;{#AdIp#}¦ {%Caus.%} To kindle, set on
+;<>fire; to illuminate.
+<L>6618<pc>0250-c<k1>Amreq<k2>Amreq
+;{#Amreq#}¦ {%Caus.%} To repeat; {#etadeva#}
+;<>{#yadA vAkyamAmreqayati devarAw#} Mb.
+<L>6740<pc>0254-b<k1>Aruc<k2>Aruc
+;{#Aruc#}¦ {%Caus.%} To regard as
+;<>pleasant, choose, like; {#vAsaM nArocaye'-#}
+<L>6937<pc>0261-a<k1>Avid<k2>Avid
+;{#Avid#}¦ {%Caus.%} {@1@} To make known,
+;<>technical name of the Vedic form-
+<L>7634<pc>0288-a<k1>ucCuz<k2>ucCuz
+;{#ucCuz#}¦ {%Caus.%} To dry up, make
+;<>dry, wither up.
+<L>7661<pc>0288-c<k1>ujjas<k2>ujjas
+;{#ujjas#}¦ {%Caus.%} To kill, destroy,
+;<>extirpate (with gen.); {#biqOjasojjA-#}
+;x<L>7969<pc>0299-c<k1>utsukAyate<k2>utsukAyate
+;x;{#utsukAyate#}¦ Den. A To become un-
+;x;<>easy or anxious.
+;x<L>8186<pc>0308-b<k1>udDA<k2>udDA
+;x;{#udDA#}¦ I. 3P. Ved. {@1@} To abandon or
+;x;<>expose (an infant). {@--2@} To set up, erect,
+<L>8286<pc>0311-a<k1>udvas<k2>udvas
+;{#udvas#}¦ {%Caus.%} To banish, expel,
+;<>drive away.
+<L>9188<pc>0340-b<k1>ur<k2>ur
+;{#ur#}¦ To go (a Sautra root).
+<L>9240<pc>0341-c<k1>ul<k2>ul
+;{#ul#}¦ (A Sautra root) To burn.
+<L>9459<pc>0349-a<k1>ftayati<k2>ftayati
+;{#ftayati#}¦ To desire sacrifice.
+<L>11488<pc>0423-c<k1>kev<k2>kev
+;{#kev#}¦ ({#kevate#}) {@1@} To serve, attend to,
+;<>wait upon.
+;x<L>12509<pc>0458-b<k1>gAh<k2>gAh
+;x;{#gAh#}¦ {@1@} A [{#gAhate, jagAhe, agAhizwa,#}
+;x;<>{#agAQa, gAhituM, gAQuM, gAQa#} or {#gAhita#}] {@1@}
+<L>12681<pc>0466-b<k1>gfhIBU<k2>gfhIBU
+;{#gfhIBU#}¦ To serve as a house; Ś. 7. 20.
+;x<L>13004<pc>0481-b<k1>cakz<k2>cakz
+;x;{#cakz#}¦ 2 A ({#cazwe#}) (Defective in
+;x;<>non-conjugational tenses). {@1@} To
+<L>13691<pc>0504-a<k1>jajJ<k2>jajJ
+;{#jajJ#}¦ ({#jajJati#}) To make a dash-
+;<>ing sound.
+<L>14251<pc>0523-b<k1>qim<k2>qim
+;{#qim#}¦ ({#qemati#}) To hurt, injure.
+<L>16140<pc>0600-a<k1>Df<k2>Df
+;x;{#Df#}¦ I. 6 A (Supposed by some to
+;x;<>be a passive form of {#Df;#}{# (Driyate, Dfta)#}
+<L>16576<pc>0617-b<k1>niHSvas<k2>niHSvas
+;{#niHSvas#}¦ (often written {#niSvas#}]
+;<>2 P. To sigh, heave a sigh of grief,
+;x<L>16607<pc>0618-a<k1>nikf<k2>nikf
+;x;{#nikf#}¦ 8U. Ved. {@1@} To humiliate,
+;x;<>subdue, overcome. {@--2@} To maltreat,
+;x<L>18075<pc>0677-a<k1>paripA<k2>paripA
+;x;{#paripA#}¦ I. 1 P To drink; {#upani-#}
+;x;<>{#zadaH paripItAH#} Bv. 2. 40. --II. 2 P. {@1@}
+;x<L>19848<pc>0736-c<k1>praticakz<k2>praticakz
+;x;{#praticakz#}¦ 2 A {@1@} To see, perceive,
+;x;<>{@--2@} To make visible, bring to light.
+<L>20185<pc>0745-b<k1>pratyaBivad<k2>pratyaBivad
+;{#pratyaBivad#}¦ {%Caus.%} To salute or
+;<>greet in return.
+;x<L>20968<pc>0767-c<k1>prasPur<k2>prasPur
+;x;{#prasPur#}¦ 6P. {@1@} To quiver, tremble.
+;x;<>{@--2@} To expand, be dilated; {#prAsPurannaya-#}
+;x<L>21605<pc>0790-a<k1>balAyate<k2>balAyate
+;x;{#balAyate#}¦ Den. A To put forth
+;x;<>strength.
+;x<L>21664<pc>0793-b<k1>bahulIBU<k2>bahulIBU
+;x;{#bahulIBU#}¦ 1 P, {@1@} To spread, increase,
+;x;<>multiply; {#CidrezvanarTA bahulIBavaMti#} Pt.
+;x<L>21668<pc>0793-b<k1>bAq<k2>bAq
+;x;{#bAq#}¦ 1 A ({#bAqate#}) {@1@} To bathe. {@--2@}
+;x;<>To emerge.
+;x<L>22145<pc>0815-c<k1>BAz<k2>BAz
+;x;{#BAz#}¦ {@1@} A ({#BAzate, BAzita#}) {@1@} To
+;x;<>say, speak, utter; {#tvayEkamISaM prati sA-#}
+;x<L>24185<pc>0913-b<k1>rizaRyati<k2>rizaRyati
+;x;{#rizaRyati#}¦ Den. P, Ved. {@1@} To in-
+;x;<>jure, harm. {@--2@} To reject. {@--3@} To
+<L>24844<pc>0938-a<k1>vaK<k2>vaK, vaMK
+;{#vaK, vaMK#}¦ ({#vaKati, vaMKati#}) To go,
+;<>move.
+<L>26118<pc>0981-b<k1>vipariRam<k2>vipariRam
+;{#vipariRam#}¦ {%Caus.%} To change or
+;<>transform into. {%--Pass.%} {@1@} To be
+;x<L>26221<pc>0984-c<k1>viBAz<k2>viBAz
+;x;{#viBAz#}¦ 1 A {@1@} To lay down as
+;x;<>an optional rule. {@--2@} To abuse, revile,
+<L>26259<pc>0986-a<k1>viman<k2>viman
+;{#viman#}¦ {%Caus.%} To disrespect, dis-
+;<>honour, insult; {#tvayA nAma munirvimAnyaH#}
+;x<L>26790<pc>1003-c<k1>vIj<k2>vIj
+;x;{#vIj#}¦ I. {@1@} A ({#vIjate#}) To go. --II.
+;x;<>10 U. ({#vIjayati-te#}) To fan, cool by
+;x<L>27242<pc>1018-b<k1>vyapatrap<k2>vyapatrap
+;x;{#vyapatrap#}¦ 1 A {@1@} To turn away
+;x;<>through shame. {@--2@} To be ashamed,
+;x<L>31170<pc>1161-c<k1>svask<k2>svask
+;x;{#svask#}¦ 1 A ({#svaskate#}) See {#zvask#}.
+<L>31613<pc>1177-c<k1>hrIC<k2>hrIC
+;{#hrIC#}¦ [{#hrIcCati#}] To be ashamed
+;<>or modest, blush.
+;x<L>31624<pc>1177-c<k1>hlAd<k2>hlAd
+;x;{#hlAd#}¦ 1 A ({#hlAdate, hlanna#} or {#hlAdita#}) {@1@}
+;x;<>To be glad or delighted, rejoice. 

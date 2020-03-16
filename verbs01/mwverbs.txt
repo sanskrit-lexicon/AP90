@@ -10286,6 +10286,7 @@ stFh:254870.1:root:6P:
 sten:254872:root:10P:
 step:254882:root:1Ā,10P:
 stE:254884:root:1P:
+stom:254903:root::
 styE:254911:root:1P,1Ā:
 strIya:255134:nom:P:
 sTag:255154:genuineroot:1P:

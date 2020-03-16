@@ -9934,6 +9934,7 @@ stFh:254870.1:verb:6P:
 sten:254872:verb:10P:
 step:254882:verb:1Ā,10P:
 stE:254884:verb:1P:
+stom:254903:verb::
 styE:254911:verb:1P,1Ā:
 strIya:255134:verb:P:
 sTag:255154:verb:1P:

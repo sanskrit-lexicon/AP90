@@ -1,0 +1,497 @@
+<L>527<pc>0037-1<k1>aR<k2>aR
+;{#aR#}¦
+;.²1 P. To sound.
+;
+<L>1048<pc>0063-1<k1>aDikram<k2>aDikram
+;{#aDikram#}¦
+;.²1 U. To ascend, mount upon.
+;
+<L>1053<pc>0063-2<k1>aDigam<k2>aDigam
+;{#aDigam#}¦
+;.²1 P. 1
+;
+<L>1653<pc>0089-2<k1>anukaT<k2>anukaT
+;{#anukaT#}¦
+;.²10 P. To relate after (some one else), mention subsequently.
+;
+<L>2515<pc>0137-1<k1>apakfz<k2>apakfz
+;{#apakfz#}¦
+;.²1 P., 6 U. 1
+;
+<L>2574<pc>0139-2<k1>apacyu<k2>apacyu
+;{#apacyu#}¦
+;.²1 A. 1 To fall off, go away or off, withdraw, desert; {#ihEvEDi mApa #}
+;
+<L>2633<pc>0141-2<k1>apaDvaMs<k2>apaDvaMs
+;{#apaDvaMs#}¦
+;.²1 A (rarely P.) 1 To pack off, clear out; {#apaDvaMseti bahuSo badan #}
+;
+<L>2805<pc>0148-2<k1>apavft<k2>apavft
+;{#apavft#}¦
+;.²1 A. To turn back, turn away, depart; {#tasmAdapAvartata dUrakfzwA#} 
+;
+<L>2850<pc>0150-2<k1>apasf<k2>apasf
+;{#apasf#}¦
+;.²1 P. 1 To walk off, go or get away, depart; {#apasara itaH#} begone, 
+;
+<L>3053<pc>0159-1<k1>apoh<k2>apoh
+;{#apoh#}¦
+;.²1 U. [{#apa-uh#} or {#Uh#}] To remove, drive or push away, dispel, take
+;
+<L>3538<pc>0178-1<k1>aBiBAz<k2>aBiBAz
+;{#aBiBAz#}¦
+;.²1 A. (P. in epic poetry) 1 To speak to, address; talk or converse with
+;
+<L>3541<pc>0178-2<k1>aBiBU<k2>aBiBU
+;{#aBiBU#}¦
+;.²1 P. 1 To overcome, subdue, conquer, vanquish (of persons or things);
+;
+<L>3579<pc>0180-2<k1>aBimfd<k2>aBimfd
+;{#aBimfd#}¦
+;.²1 P. To crush by standing, tread under foot, trample down; oppress, devastate
+;
+<L>3611<pc>0182-1<k1>aBiram<k2>aBiram
+;{#aBiram#}¦
+;.²1 A. (rarely P.) 1 To be pleased or delighted (with loc.); {#ddazwirihABiramate#}
+;
+<L>3816<pc>0188-2<k1>aBisf<k2>aBisf
+;{#aBisf#}¦
+;.²1 P. To go up to, go towards, approach; to go to some place or other,
+;
+<L>4041<pc>0196-1<k1>aByAhf<k2>aByAhf
+;{#aByAhf#}¦
+;.²1 P. 1 To bring towards, bring near; to give or hand over; {#gfhItvA #}
+;
+<L>5250<pc>0256-1<k1>avalok<k2>avalok
+;{#avalok#}¦
+;.²1 A. or 10 P. 1 To see, behold, view, look at; observe (lit.); {#nolUkopyavalokate#}
+;
+<L>5352<pc>0260-1<k1>avaskand<k2>avaskand
+;{#avaskand#}¦
+;.²1 P. 1 To attack, storm, assault; overpower, overwhelm; {#CAyAmapyavaskanditum#}
+;
+<L>5369<pc>0260-2<k1>avasTA<k2>avasTA
+;{#avasTA#}¦
+;.²1 A. 1 To remain, stay, abide; {#tena saha suKa‡mavatizWante#} K. 108;
+;
+<L>6387<pc>0306-2<k1>AkuYc<k2>AkuYc
+;{#AkuYc#}¦
+;.²1 Ā., 6 P. To bend. -{%Caus.%} 1 To draw together, contract, bend
+;
+<L>6573<pc>0315-2<k1>AGUrR<k2>AGUrR
+;{#AGUrR#}¦
+;.²1 A., 6 P. 1 To roll, stagger, whirl, toss about; {#AGUrRatIvAnilEH#}
+;
+<L>6776<pc>0323-2<k1>AtF<k2>AtF
+;{#AtF#}¦
+;.²1 P. 1 To pass through or over; {#ukzante aSvAn taruzanta A rajaH#} Rv. 5. 59. ?1.
+;
+<L>6939<pc>0333-2<k1>Anand<k2>Anand
+;{#Anand#}¦
+;.²1 P. To rejoice, be glad or delighted; {#AnanditArastvAM dfzwvA#} Bk.
+;
+<L>7192<pc>0342-2<k1>ABAz<k2>ABAz
+;{#ABAz#}¦
+;.²1 Ā. 1 To address, speak to, converse with; {#vESampAyanaScandrApIqamAbaBAze#}
+;
+<L>7229<pc>0344-1<k1>ABf<k2>ABf
+;{#ABf#}¦
+;.²1 P. 1 To bring; {#A no agne rayiM Bara#} Rv. ?1. 79. 8; {#kadapatyABftaM#}
+;
+<L>7774<pc>0365-2<k1>ASaMs<k2>ASaMs
+;{#ASaMs#}¦
+;.²1 Ā. (rarely P.) 1 To hope for, expect, desire, wish or long for; {#svakAryAsidDiM#}
+;
+<L>7785<pc>0366-1<k1>ASaNk<k2>ASaNk
+;{#ASaNk#}¦
+;.²1 Ā. 1 To suspect, distrust; {#dayitAM sADvIM tvamASaNkizvaTAH kaTam#} Bk. 21. ?1.
+;
+<L>7837<pc>0368-2<k1>ASri<k2>ASri
+;{#ASri#}¦
+;.²1 U. 1
+;
+<L>7942<pc>0373-2<k1>Asev<k2>Asev
+;{#Asev#}¦
+;.²1 Ā. To carry out, practise, perform zealously; {#Darmam, vratam#} &c.
+;
+<L>7955<pc>0374-1<k1>Astf<k2>Astf,
+;{#Astf,#}¦
+;.{@{#-stF#}@} 5, 9 U. To spread over, strew, cover, scatter over, bestrew,
+;
+<L>7980<pc>0375-1<k1>AsPal<k2>AsPal,
+;{#AsPal,#}¦
+;.{@{#-sPul#}@} 10 P. or {%Caus.%}
+;
+<L>8108<pc>0380-2<k1>iw<k2>iw
+;{#iw#}¦
+;.²1 P. [{#ewati, iwita#}] 1 To go, go to or towards; {#tvaM tyamiwato raTamindra#}
+;
+<L>8300<pc>0392-1<k1>IK<k2>IK
+;{#IK#}¦
+;.{@{#-INK#}@} 1 P. ({#INKati, INKAYcake, INKitum, INKita#}) To go, move,
+;
+<L>8301<pc>0392-1<k1>Ij<k2>Ij
+;{#Ij#}¦
+;.{@{#-IYj#}@} 1 Ā.
+;
+<L>8557<pc>0403-1<k1>utkaw<k2>utkaw
+;{#utkaw#}¦
+;.²1 P. To start or burst out; {#waNkArotkawamuccaranti nalakAH#} Mv. 5. 33.
+;
+<L>8790<pc>0414-1<k1>utprekz<k2>utprekz
+;{#utprekz#}¦
+;.²1 Ā. [{#utpra-Ikz#}] 1 To look up to; Pt. ?1. to expect; K. 35, 229;
+;
+<L>8794<pc>0414-2<k1>utplu<k2>utplu
+;{#utplu#}¦
+;.²1 Ā. 1 To jump or leap up, bound, bound away; {#durdAntamutplutya nirastasAdinam#}
+;
+<L>8822<pc>0415-2<k1>utsah<k2>utsah
+;{#utsah#}¦
+;.²1 Ā. 1 To be able, have power or energy; (expressed by 'can'); dare,
+;
+<L>8968<pc>0423-2<k1>udIkz<k2>udIkz
+;{#udIkz#}¦
+;.²1 Ā. 1 To look up to, look at, view, behold; {#tamudIkzyAByuvAda#} Bṛ.
+;
+<L>9025<pc>0426-1<k1>udGaw<k2>udGaw
+;{#udGaw#}¦
+;.²1 Ā. To open; {#dvAre purasyodGawitApiDAne#} Ku. 7. 53. -{%Caus.%}
+;
+<L>9131<pc>0430-1<k1>udbuD<k2>udbuD
+;{#udbuD#}¦
+;.²1 P. 1 To awaken, remind; {#udbuDyaDvaM samanasaH saKAyaH#} Rv. 10. 101. ?1.
+;
+<L>9160<pc>0431-2<k1>udyam<k2>udyam
+;{#udyam#}¦
+;.²1 Ā. (P. in some cases) 1 To raise, elevate, lift up; {#bAhU udyamya#}
+;
+<L>9237<pc>0434-1<k1>udvIkz<k2>udvIkz
+;{#udvIkz#}¦ [{#ud--vi--Ikz#}]
+;.²1 Ā. To look up, view, see, perceive; {#ddazwiraDikaM sotkaRWamudvIkzate#}
+;
+<L>9611<pc>0449-2<k1>upaDAv<k2>upaDAv
+;{#upaDAv#}¦
+;.²1 U. 1 To run towards, approach hastily; {#yena sAmnA stozyan syAt tatsAmopaDAvet#}
+;
+<L>10042<pc>0466-1<k1>upasev<k2>upasev
+;{#upasev#}¦
+;.²1 Ā. 1 To serve, worship, honour; {#vEriRaM nopa‡sevate#} Ms. 4. 133.
+;
+<L>10062<pc>0466-2<k1>upastf<k2>upastf,
+;{#upastf,#}¦
+;.{@{#-stF#}@} 5, 9 U.
+;
+<L>10228<pc>0474-2<k1>upekz<k2>upekz
+;{#upekz#}¦
+;.²1 Ā. 1 To neglect, overlook, disregard, connive at; {#kimAtmanirvAdakaTAmupekze#}
+;
+<L>10351<pc>0479-2<k1>ullaNG<k2>ullaNG
+;{#ullaNG#}¦
+;.²1 Ā., 10 P. 1 To leap over, pass over or beyond; {#ullaNDyoccEHkucatawaBuvam#}
+;
+<L>10438<pc>0483-1<k1>uh<k2>uh
+;{#uh#}¦
+;.²1 P. ({#ohati, uvoha, uhita#}) To hurt or give pain.
+;
+<L>10687<pc>0500-1<k1>eD<k2>eD
+;{#eD#}¦
+;.²1 Ā ({#eDate, eDAYcake, EDizwa, eDitum, eDita#}) 1 To grow, increase;
+;
+<L>11085<pc>0514-1<k1>kaMs<k2>kaMs
+;{#kaMs#}¦ €2Ā ({#kaMste#})
+;.²1 To go.
+;
+<L>11119<pc>0516-1<k1>kakzAyate<k2>kakzAyate
+;{#kakzAyate#}¦ Den. Ā
+;.²1 To lie in ambush.
+;
+<L>11331<pc>0524-2<k1>kaRqUyati<k2>kaRqUyati
+;{#kaRqUyati#}¦
+;.{@{#-te#}@} Den. U. ({%p. p.%} {#kaRqUyita#}) 1 To scratch, rub gently;
+;
+<L>11359<pc>0525-2<k1>katT<k2>katT
+;{#katT#}¦
+;.²1 Ā. ({#katTate, katTita#}) 1 To boast, swagger; {#kftbA katTizyate #}
+;
+<L>11838<pc>0551-2<k1>kas<k2>kas
+;{#kas#}¦ I.
+;.²1 P. ({#kasati, kasita#}) To move, go, approach. --II. 2. Ā. ({#kaste#}
+;
+<L>12846<pc>0602-1<k1>kxp<k2>kxp
+;{#kxp#}¦
+;.²1 Ā. ({#kalpate, cakxpe, akxpat, akxpta, akalpizwa; kalpi‡zyate; kalpsyati-te,#}
+;
+<L>13302<pc>0622-2<k1>kzam<k2>kzam
+;{#kzam#}¦ {%f.%} Ved. The ground, earth.
+;
+<L>13717<pc>0640-2<k1>Kow<k2>Kow,
+;{#Kow,#}¦
+;.{@{#-q, -r, -l#}@} 1 P.
+;
+<L>14203<pc>0668-1<k1>gfj<k2>gfj,
+;{#gfj,#}¦
+;.{@{#-gfYj#}@} 1 P. ({#garjati#} or {#gfYjati#}) To sound, roar, grumble &c.
+;
+<L>15453<pc>0729-2<k1>jarc<k2>jarc
+;{#jarc#}¦
+;.({@{#-rC, -rj#}@}) 1, 6. P.
+;
+<L>15475<pc>0731-2<k1>jalp<k2>jalp
+;{#jalp#}¦
+;.²1 P. ({#jalpati, jalpita#}) 1 To speak, talk, speak or converse (with
+;
+<L>15986<pc>0751-1<k1>qip<k2>qip,
+;{#qip,#}¦
+;.{@{#-qimp#}@} I. 10 Ā. To collect, heap together. --II. 4, 6, 10. P. 
+;
+; tuMj not found
+;
+<L>16567<pc>0778-1<k1>tup<k2>tup,
+;{#tup,#}¦
+;.{@{#-tump, -tumP#}@} 1, 6. P. ({#topati, tupati, tumpa-Pa-ti#}) To injure, hurt.
+;
+<L>17326<pc>0816-2<k1>dIkz<k2>dIkz
+;{#dIkz#}¦
+;.²1 Ā. ({#dIkzate, dIkzita#}) 1 To consecrate or prepare oneself for the
+;
+<L>17481<pc>0830-1<k1>dfmp<k2>dfmp
+;{#dfmp#}¦
+;.({@{#-mP#}@}) 6 P. ({#dfmpa-mPa-ti#}) To afflict, torture, hurt.
+;
+<L>18132<pc>0868-1<k1>Dor<k2>Dor
+;{#Dor#}¦
+;.²1 P. ({#Dorati#}) To go quickly, have good paces, run, trot.
+;
+<L>18187<pc>0870-1<k1>DvaMs<k2>DvaMs
+;{#DvaMs#}¦
+;.²1 Ā. ({#DvaMsate, Dvasta#}) 1 To fall down, fall to pieces, be reduced
+;
+<L>18314<pc>0877-2<k1>naB<k2>naB
+;{#naB#}¦
+;.²1 Ā. ({#naBate#}) 1 To hurt, injure; {#sugrIvaH praGasaM neBe#} Bk. 14. 33.
+;
+<L>18846<pc>0902-1<k1>nibuD<k2>nibuD
+;{#nibuD#}¦
+;.²1 P. 1 To know, understand, learn; {#niboDa sADo tava cet kutUhalam#}
+;
+<L>18949<pc>0912-2<k1>nirIkz<k2>nirIkz
+;{#nirIkz#}¦
+;.²1 Ā. 1 To gaze at steadfastly, mark or view completely; ({#DenvA#})...{#nirIkzyamARaH#}
+;
+<L>18975<pc>0914-1<k1>nirgam<k2>nirgam
+;{#nirgam#}¦
+;.²1 P. 1 To go out or forth, depart; {#prakASaM nirgataH#} Ś. 4; {#hutavahapariKedAdASu#}
+;
+;
+<L>20259<pc>0978-2<k1>paridiv<k2>paridiv,
+;{#paridiv,#}¦
+;.{@{#-dev#}@} I. 1, 10 P. To lament, moan, suffer pain; {#KaradUzaRayorBrAtroH#}
+;
+<L>20502<pc>0986-1<k1>parivft<k2>parivft
+;{#parivft#}¦
+;.²1 Ā. 1 To turn round, revolve; {#aDo vivasvAn parivartamAnaH#} Ku. 1. 16.
+;
+;
+<L>20648<pc>0990-2<k1>parIkz<k2>parIkz
+;{#parIkz#}¦
+;.²1 Ā. 1 To examine, look at or scrutinize carefully; {#ataH parIkzya #}
+;
+<L>21333<pc>1019-1<k1>piYj<k2>piYj
+;{#piYj#}¦ I. 2 Ā ({#piNkte#})
+;.²1 To tinge, dye.
+;
+; putrIyati not found
+;
+<L>21699<pc>1039-2<k1>pUr<k2>pUr
+;{#pUr#}¦ I. 4 Ā ({#pUryate, pUrRa#})
+;.²1 To fill, fill out (allied in this sense with pass. of {#pF#} q. v.).
+;
+<L>22134<pc>1059-1<k1>praGaw<k2>praGaw
+;{#praGaw#}¦
+;.²1 Ā. 1 To be busy with, be occupied in; {#ko vA viSvajanInezu karmasu#}
+;
+<L>22704<pc>1082-2<k1>pratisf<k2>pratisf
+;{#pratisf#}¦
+;.²1 P. To go back, return.
+;
+<L>22920<pc>1089-2<k1>praT<k2>praT
+;{#praT#}¦ I.
+;.²1 Ā. ({#praTate, praTita#}) 1 To increase (wealth &c.); {#tatpraTyamAnavapuzA#}
+;
+<L>23168<pc>1099-2<k1>praBraMS<k2>praBraMS
+;{#praBraMS#}¦
+;.²1 Ā., 4 P. To fall or drop down, slip; {#praBraSyamAnABaraRaprasUnA#} R. 14. 54.
+;
+<L>23178<pc>1100-1<k1>pramaT<k2>pramaT,
+;{#pramaT,#}¦
+;.{@{#-manT#}@} 1, 9 P.
+;
+<L>23596<pc>1116-1<k1>prasah<k2>prasah
+;{#prasah#}¦
+;.²1 Ā. 1 To bear, endure; {#na tejastejasvI prasftamaparezAM prasahate#} U. 6. 14.
+;
+<L>23617<pc>1117-1<k1>prasu<k2>prasu,
+;{#prasu,#}¦
+;.{@{#-sU#}@} 1 P., 2, 4 Ā.
+;
+<L>23632<pc>1117-2<k1>prasf<k2>prasf
+;{#prasf#}¦
+;.²1 P. To flow forth, spring, arise, proceed; {#lohitAdyA mahAnadyaH prasasrustatra cAsakft#} Mb.
+;
+<L>24651<pc>1166-1<k1>bid<k2>bid,
+;{#bid,#}¦
+;.{@{#-bind#}@} 1 P. ({#bindati#})
+;
+<L>25154<pc>1197-2<k1>Bid<k2>Bid
+;{#Bid#}¦ I.
+;.²1 P. ({#Bindati#}) To divide or cut into parts. --II. 7 U. ({#Binatti,#}
+;
+<L>25722<pc>1237-1<k1>manT<k2>manT,
+;{#manT,#}¦
+;.{@{#-maT#}@} 1, 9 P. ({#manTati, maTati, maTnAti, maTita;#} {%pass.%} {#maTyate#})
+;
+<L>26634<pc>1289-1<k1>mew<k2>mew,
+;{#mew,#}¦
+;.{@{#-meq#}@} 1 P. ({#mewati, meqati#}) To be mad.
+;
+<L>27160<pc>1320-1<k1>yOw<k2>yOw
+;{#yOw#}¦
+;.({@{#-q#}@}) 1 P. ({#yOwa-qa-ti#}) To join together.
+;
+<L>27276<pc>1328-2<k1>raD<k2>raD,
+;{#raD,#}¦
+;.{@{#-ranD#}@} 4 P. ({#raDyati, radDa;#} {%caus.%} {#ranDayati;#} {%desid.%}
+;
+<L>27290<pc>1329-1<k1>raP<k2>raP,
+;{#raP,#}¦
+;.{@{#-ramP#}@} 1 P. ({#ra-ramPati#})
+;
+<L>27726<pc>1352-a1<k1>lakz<k2>lakz
+;{#lakz#}¦ I.
+;.²1 Ā. ({#lakzate, lakzita#}) To perceive, apprehend, observe, see. --II.
+;
+<L>27791<pc>1357-1<k1>law<k2>law
+;{#law#}¦
+;.²1 P. ({#lawati#}) To be a child,
+;
+<L>27897<pc>1362-2<k1>lasj<k2>lasj
+;{#lasj#}¦
+;.²1 Ā. ({#lajjate, lajjita#}) 1 To be ashamed, feel shame (oft. with instr.
+;
+<L>28036<pc>1368-1<k1>lIlAyati<k2>lIlAyati
+;{#lIlAyati#}¦
+;.{@{#-te#}@} Den. U. To sport, play, divert oneself.
+;
+<L>28430<pc>1387-2<k1>vand<k2>vand
+;{#vand#}¦
+;.²1 Ā. ({#vandate, vandita#}) 1 To salute, greet respectfully, pay homage
+;
+<L>29172<pc>1423-1<k1>vikamp<k2>vikamp
+;{#vikamp#}¦
+;.²1 Ā. 1 To shake, tremble; {#kiM yAsi bAlakadalIva bikampamAnA#} Mk. 
+;
+<L>29236<pc>1425-2<k1>vikxp<k2>vikxp
+;{#vikxp#}¦
+;.²1 Ā. 1 To doubt, be doubtful; {#kaTaMcinna vikalpante vidvadBiScintitA#}
+;
+<L>29311<pc>1428-2<k1>vigAh<k2>vigAh
+;{#vigAh#}¦
+;.²1 Ā. To plunge or dive into, bathe; ({#dIrDikAH#}) {#sa vyagAhata vigAQamanmaTaH#} R. 19. 9.
+;
+<L>29439<pc>1433-1<k1>viji<k2>viji
+;{#viji#}¦
+;.²1 Ā. 1 To conquer, defeat, overcome, subdue; {#vyajezwa zaqvargam#} 
+;
+<L>29454<pc>1434-1<k1>vijfmB<k2>vijfmB
+;{#vijfmB#}¦
+;.²1 Ā. 1 To yawn, gape, open the mouth; {#vyajfmBizata cApare#} Bk. 15.
+;
+<L>29525<pc>1436-2<k1>vitap<k2>vitap
+;{#vitap#}¦
+;.²1 Ā. To shine; {#ravirvitapate'tyarTam#} Bk. 8. 14.
+;
+<L>29613<pc>1440-2<k1>vidyut<k2>vidyut
+;{#vidyut#}¦
+;.²1 Ā. 1 To shine, sparkle, be bright; {#vyadyotizwa saBAvedyAmasO naraSiKitrayI#}
+;
+<L>29821<pc>1449-2<k1>viparivft<k2>viparivft
+;{#viparivft#}¦
+;.²1 Ā. 1 To turn round, revolve (fig. also); {#hetunAnena kOnteya jagadviparivartate#} Bg. 9. 10.
+;
+<L>29940<pc>1454-2<k1>viBaj<k2>viBaj
+;{#viBaj#}¦
+;.²1 U. 1 To divide, distribute; {#viBajya merurna yadarTisAtkftaH#} N. 
+;
+<L>30002<pc>1457-1<k1>vimaT<k2>vimaT,
+;{#vimaT,#}¦
+;.{@{#-vimanT#}@} 9 P.
+;
+<L>30099<pc>1461-1<k1>viram<k2>viram
+;{#viram#}¦
+;.²1 P. 1 To end, terminate, come to an end; {#abiditagatayAmA rAtrireva#}
+;
+<L>30112<pc>1461-2<k1>virAj<k2>virAj
+;{#virAj#}¦
+;.²1 U. 1 To shine, glitter; {#SAKino'nye birAjante KaRqyante candanadrumAH#} 
+;
+<L>30427<pc>1477-1<k1>vizad<k2>vizad
+;{#vizad#}¦
+;.²1 P. To sink down, be exhausted.
+;
+<L>30442<pc>1478-2<k1>vizah<k2>vizah
+;{#vizah#}¦
+;.²1 Ā. 1 To bear, suffer, endure; {#durbAraM sA kaTamapi parityAgaduHKaM#}
+;
+<L>30461<pc>1479-1<k1>vizkand<k2>vizkand
+;{#vizkand#}¦
+;.²1 P. To go in different directions, roam, wander about.
+;
+<L>30565<pc>1483-1<k1>vismi<k2>vismi
+;{#vismi#}¦
+;.²1 Ā. 1 To wonder or be surprised at; {#uBayorna taTA lokaH prAvIRyena#}
+;
+<L>31158<pc>1508-2<k1>vyatikram<k2>vyatikram
+;{#vyatikram#}¦
+;.²1 U. 1 To transgress, violate, offend against; {#saMmato'haM praBornityamiti#}
+;
+<L>31186<pc>1509-2<k1>vyaT<k2>vyaT
+;{#vyaT#}¦
+;.²1 Ā. ({#vyaTate, vyaTita#}) 1 To be sorry, to be pained, vexed or afflicted,
+;
+<L>31227<pc>1511-1<k1>vyapekz<k2>vyapekz
+;{#vyapekz#}¦
+;.²1 Ā. 1 To mind, care for, regard; {#na vyapEkzata samutsukAH prajAH#} R. 19. 6.
+;
+<L>31516<pc>1524-2<k1>vrUz<k2>vrUz
+{#vrUz#}¦
+.{@{#-s#}@} 1 P., 10 U. See {#vrIs#}.
+;
+<L>31600<pc>1529-1<k1>SaW<k2>SaW
+;{#SaW#}¦ I.
+;.²1 P. ({#SaWati#}) To deceive, cheat, defraud.
+;
+<L>32018<pc>1549-2<k1>Sikz<k2>Sikz
+;{#Sikz#}¦
+;.²1 Ā. ({#Sikzate, Sikzita#}) 1 To learn, study, acquire knowledge of;
+;
+<L>32996<pc>1596-2<k1>saMstf<k2>saMstf
+;{#saMstf#}¦
+;.{@{#-stF#}@} 5, 9 U.
+;
+<L>33776<pc>1632-2<k1>samAkfz<k2>samAkfz
+;{#samAkfz#}¦
+;.²1 P. To draw out, extract.
+;
+<L>34106<pc>1643-2<k1>samf<k2>samf
+;{#samf#}¦
+;.²1 P. To meet, be united.
+;
+<L>35284<pc>1701-2<k1>sfB<k2>sfB,
+;{#sfB,#}¦
+;.{@{#-sfmB#}@} 1 P. ({#sarBat-sfmBati#}) To hurt, injure, kill.
+;
+<L>36675<pc>1768-1<k1>hruq<k2>hruq,
+;{#hruq,#}¦
+;.{@{#-hrUq#}@} 1 P. ({#hnoqati; hnUqati#})
+;

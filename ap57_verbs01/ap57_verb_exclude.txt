@@ -1,0 +1,446 @@
+; ----------------
+; words ending in aH
+<L>81<pc>0005-1<k1>akAsAraH<k2>akAsAraH
+;{#akAsAraH#}¦ Name of a teacher; Bhav. P.
+<L>344<pc>0028-1<k1>aNguzWaH<k2>aNguzWaH
+;{#aNguzWaH#}¦ [{#aNgO pARO prADAnyena tizWati; aNgu-sTA#} P. VIII. 4. 97]
+<L>480<pc>0035-1<k1>aYjakaH<k2>aYjakaH
+;{#aYjakaH#}¦ N. of the son of Viprachitti; V. P.
+<L>544<pc>0038-1<k1>aRqIraH<k2>aRqIraH
+;{#aRqIraH#}¦ [{#aRqaH asti asya; aRqa-Irac#} P. V. 2. III.] A full-grown
+<L>757<pc>0046-1<k1>ativistaraH<k2>ativistaraH
+;{#ativistaraH#}¦ Prolixity, diffuseness; U. 1; Māl. 1.
+<L>1935<pc>0099-2<k1>anuprayogaH<k2>anuprayogaH
+;{#anuprayogaH#}¦ Additional use, repetition; P. I. 3. 63; III. 4. 4--5.
+<L>2027<pc>0104-1<k1>anuyAjaH<k2>anuyAjaH
+;{#anuyAjaH#}¦ [{#yaj-GaY, kutvABAvaH#} P. VII. 3. 62] A part of a sacrificial
+<L>2085<pc>0106-2<k1>anuvAkaH<k2>anuvAkaH
+;{#anuvAkaH#}¦ [{#anUcyate iti, vac GaY kutvam#} P. II. 4. 29 Vārt.]
+<L>2350<pc>0125-1<k1>antarIpaH<k2>antarIpaH
+;{#antarIpaH#}¦ [{#antaH maDye gatA Apo yasya bahu#}.{# a#} P. V. 4. 74.
+<L>2863<pc>0151-1<k1>apaskaraH<k2>apaskaraH
+;{#apaskaraH#}¦ [{#apa-kF ap-suw raTANge nipAtaH apaskaro raTANgam#} P. VI. 1. 149]
+<L>3642<pc>0183-1<k1>aBilAvaH<k2>aBilAvaH
+;{#aBilAvaH#}¦ [{#lU-GaY niraByoH pUlvoH#} P. III. 3. 28] Cutting, reaping,
+<L>4111<pc>0199-1<k1>aBrezaH<k2>aBrezaH
+;{#aBrezaH#}¦ Non-deviation, fitness, propriety. P. III. 3. 37.
+<L>4128<pc>0199-2<k1>amadanaH<k2>amadanaH
+;{#amadanaH#}¦ Name of Śiva. Bhaviṣya P. 
+<L>4171<pc>0202-1<k1>amAtyaH<k2>amAtyaH
+;{#amAtyaH#}¦ [{#amA saha vasati, amA--tyap, avyayAttyap#} P. IV. 2. 104.
+<L>4906<pc>0242-2<k1>avacAyaH<k2>avacAyaH
+;{#avacAyaH#}¦ [{#ava-ci GaY#}] P. III. 3. 40. Gathering flowers (with 
+<L>5293<pc>0257-1<k1>avaSyAyaH<k2>avaSyAyaH
+;{#avaSyAyaH#}¦ [{#ava-SyE-Ra#} P. III. 1. 141]
+<L>5347<pc>0259-2<k1>avasAyaH<k2>avasAyaH
+;{#avasAyaH#}¦ [{#ava-so-GaY#} P. III. 1. 141]
+<L>5358<pc>0260-1<k1>avaskaraH<k2>avaskaraH
+;{#avaskaraH#}¦ [{#avakIryate ityavaskaraH, kF-ap suw vacaske'vaskaraH#} P. VI. 1. 148]
+<L>5366<pc>0260-2<k1>avastAraH<k2>avastAraH
+;{#avastAraH#}¦ [{#ava-stF karmaRi GaY#} P. III. 3. 120]
+<L>5408<pc>0262-1<k1>avahAraH<k2>avahAraH
+;{#avahAraH#}¦ [{#avahf-kartari Ra#} P. III. 1. 141]
+<L>5466<pc>0264-1<k1>avikaH<k2>avikaH
+;{#avikaH#}¦ [{#avireva avikaH, avi-ka aveH kaH#} P. V. 4. 28] A sheep.
+<L>6401<pc>0307-1<k1>AkaraH<k2>AkaraH
+;{#AkaraH#}¦ [by {#puMsi saMjYAyAM GaH prAyeRa#} P. III. 3. 118 {#Akurba‡ntyasmin;#} Kāśi.
+<L>6482<pc>0311-1<k1>AKanikabakaH<k2>AKanikabakaH
+;{#AKanikabakaH#}¦ [{#A-Kan-karaRe kartari vA ikabaka#} P. Mbh. on P. III. 3. 125]
+<L>6555<pc>0314-2<k1>AgraBojanikaH<k2>AgraBojanikaH
+;{#AgraBojanikaH#}¦ [{#agraBojanaM niyataM dIyate asmE Wak#} P. IV. 4. 
+<L>6618<pc>0317-2<k1>AcAryaH<k2>AcAryaH
+;{#AcAryaH#}¦ [{#A-car-Ryat#} P. III. 1. 100 Vār. Kāś.]
+<L>6914<pc>0332-2<k1>ADoraRaH<k2>ADoraRaH
+;{#ADoraRaH#}¦ [{#A-Dor-lyuw; Dorf gaticAturye#} 1. P.] The rider or driver
+<L>6996<pc>0335-2<k1>AnuyAtrikaH<k2>AnuyAtrikaH
+;{#AnuyAtrikaH#}¦ A follower, attendant; Māl. 6; U. 4.
+<L>7726<pc>0363-2<k1>AvuttaH<k2>AvuttaH
+;{#AvuttaH#}¦ A sister's husband; brother-in-law; U. 1; Ś. 6.
+<L>7878<pc>0370-2<k1>AzwamaH<k2>AzwamaH
+;{#AzwamaH#}¦ [{#azwamo BAgaH, azwama-Y#}] The 8th part; P. V. 3. 50--1.
+<L>7936<pc>0373-2<k1>AsutIvalaH<k2>AsutIvalaH
+;{#AsutIvalaH#}¦ [{#Asutirastyasya valac dIrGaH#} P. V. 2. 112]
+<L>7951<pc>0374-1<k1>AstAvaH<k2>AstAvaH
+;{#AstAvaH#}¦ [{#A-stu-GaY;#} P. III. 3. 120]
+<L>7957<pc>0374-1<k1>AstarakaH<k2>AstarakaH
+;{#AstarakaH#}¦ One who spreads the bed; Kau. A. 1. 12.
+<L>8608<pc>0404-2<k1>utkAraH<k2>utkAraH
+;{#utkAraH#}¦ [{#kF-GaY kF DAnye#} P. III. 3. 30]
+<L>8619<pc>0405-1<k1>utkoWaH<k2>utkoWaH
+;{#utkoWaH#}¦ A Kind of leprosy. Bhāva. P.
+<L>8879<pc>0418-2<k1>udajaH<k2>udajaH
+;{#udajaH#}¦ Driving out or forth (of cattle &c.); P. III. 3. 69. {#samudorajaH paSuzu#}.
+<L>8883<pc>0418-2<k1>udaNkaH<k2>udaNkaH
+;{#udaNkaH#}¦ [{#aYc-GaY#} P. III. 3. 123.] 1 A leathern vessel (for oil &c.). 
+<L>9000<pc>0425-1<k1>udgAraH<k2>udgAraH
+;{#udgAraH#}¦ [{#ud-gF-GaY#} P. III. 3. 29] {#unnyorgraH#}
+<L>9018<pc>0425-2<k1>udgrAhaH<k2>udgrAhaH
+;{#udgrAhaH#}¦ {#udi grahaH#} P. III. 3. 35.
+<L>9022<pc>0426-1<k1>udGaH<k2>udGaH
+;{#udGaH#}¦ [{#ud-han ap nipAta°#} P. III. 3. 86.]
+<L>9023<pc>0426-1<k1>udGanaH<k2>udGanaH
+;{#udGanaH#}¦ P. III. 3. 80. A carpenter's bench (the plank on which he
+<L>9291<pc>0436-2<k1>unnayaH<k2>unnayaH,
+;{#unnayaH,#}¦ {@{#unnAyaH#}@} P. III. 3. 26. {#avodorniyaH#}
+<L>9474<pc>0443-2<k1>upaGnaH<k2>upaGnaH
+;{#upaGnaH#}¦ [{#upa-han-ka#}] P. III. 3. 85 {#upaGna ASraye#}.
+<L>9491<pc>0444-2<k1>upacAyyaH<k2>upacAyyaH
+;{#upacAyyaH#}¦ [{#upacIyate'gniratra ADAre Ryat#} P. III. 1. 131]
+<L>9823<pc>0458-1<k1>uparAvaH<k2>uparAvaH
+;{#uparAvaH#}¦ A near sound; P. III. 3. 22. {#upasarge ruvaH#}.
+<L>9825<pc>0458-1<k1>uparAjaH<k2>uparAjaH
+;{#uparAjaH#}¦ A viceroy, one inferior to the ruling authority; P. IV. 
+<L>9848<pc>0460-1<k1>upalamBaH<k2>upalamBaH
+;{#upalamBaH#}¦ [{#laB-GaY-mum ca#} P. VII. 4. 64]
+<L>10891<pc>0508-1<k1>OkTikaH<k2>OkTikaH
+;{#OkTikaH#}¦ [{#ukTa-Wak#}] P. IV. 2. 60. A Brāhmaṇa who knows or studies
+<L>10993<pc>0511-1<k1>OpapAdikaH<k2>OpapAdikaH
+;{#OpapAdikaH#}¦ An upstart (?) Kau. A. 1. 10.
+<L>11408<pc>0528-2<k1>kanizkaH<k2>kanizkaH
+;{#kanizkaH#}¦ N. of a celebrated ancient king in India in the first century A. D.
+;<L>11593<pc>0537-2<k1>karkawakaH<k2>karkawakaH  error corrected
+;{#karkawakaH#}¦ €1A crab. {#karkawakasaDarmARo hi janakaBakzAH rAjaputrAH#} Kau. A. 1. 17.
+<L>11629<pc>0540-1<k1>karRejapaH<k2>karRejapaH
+;{#karRejapaH#}¦ [{#karRe-jap-ac aluk samAsa;#} cf. P. III. 2. 13.] A secret
+<L>11879<pc>0553-2<k1>kAkzaH<k2>kAkzaH
+;{#kAkzaH#}¦ [{#kutsitamakzaM atra, koH kAdeSaH;#} Sk. on P. VI. 3. 104]
+<L>11925<pc>0555-1<k1>kARqIraH<k2>kARqIraH
+;{#kARqIraH#}¦ [{#kARqa--iran Irac vA#} P. V. 2. 111.] An archer (this 
+<L>11955<pc>0556-1<k1>kAnInaH<k2>kAnInaH
+;{#kAnInaH#}¦ [{#kanyAyA anUQAyA apatyaM aR kanInAdeSaH#} P. IV. 1. 116]
+<L>12053<pc>0562-1<k1>kAraskaraH<k2>kAraskaraH
+;{#kAraskaraH#}¦ [{#kAra--s--kara#} P. VI. 1. 56.] N. of a tree ({#kiMpAka;#}
+<L>12079<pc>0563-1<k1>kArtAntikaH<k2>kArtAntikaH
+;{#kArtAntikaH#}¦ [{#kftAntaM vetti Wak#} P. IV. 2. 59] An astrologer, 
+<L>12096<pc>0563-2<k1>kArmAntikaH<k2>kArmAntikaH
+;{#kArmAntikaH#}¦ A superintendent of manufactures; Kau. A. 1. 12.
+<L>12099<pc>0564-1<k1>kArmArikaH<k2>kArmArikaH
+;{#kArmArikaH#}¦ A spear? {#kAryAH kArmArikAH SUlAveDanAgrASca veRavaH#} Kau. A. 2. 3.
+<L>12569<pc>0586-1<k1>kurkuraH<k2>kurkuraH
+;{#kurkuraH#}¦ A dog (Mbh. on P. VIII. 2. 78); {#upakartumapi prAptaM niHsvaM#}
+<L>12830<pc>0600-2<k1>kfzIvalaH<k2>kfzIvalaH
+;{#kfzIvalaH#}¦ [{#kfzi valac dIrGaH;#} cf. P. V. 2. 112] One who lives
+<L>13023<pc>0610-1<k1>kOkzeyakaH<k2>kOkzeyakaH
+;{#kOkzeyakaH#}¦ [{#kukzO badDo'siH QakaY#} cf. P. IV. 2. 96.] A sword,
+<L>13072<pc>0611-2<k1>kOravyaH<k2>kOravyaH
+;{#kOravyaH#}¦ [{#kuru-Rya#} P. IV. 1. 151]
+<L>13078<pc>0612-1<k1>kOlawineyaH<k2>kOlawineyaH
+;{#kOlawineyaH#}¦ [{#kulawAyAH apatyam#} P. IV. 1. 127]
+<L>13111<pc>0613-1<k1>kOsftikaH<k2>kOsftikaH
+;{#kOsftikaH#}¦ [{#kusftyA carati Wak#} P. V. 2. 75]
+<L>13389<pc>0627-1<k1>kzIrapakaH<k2>kzIrapakaH
+;{#kzIrapakaH#}¦ A variety of inferior gems; Kau. A. 2. 11.
+<L>13980<pc>0656-1<k1>gARqivaH<k2>gARqi(RqI)vaH, -vam
+;{#gARqi(RqI)vaH, -vam#}¦  [{#gARqirastyasya saMjYAyAm va#} P. V. 2. 110]
+<L>14055<pc>0660-1<k1>giriSaH<k2>giriSaH
+;{#giriSaH#}¦ [{#girO kElAsaparvate Sete, SI bAhu °qa;#} P. III. 2. 15 
+<L>14403<pc>0682-1<k1>glahaH<k2>glahaH
+;{#glahaH#}¦ [cf. P. III. 3. 70]
+<L>14520<pc>0687-2<k1>GUtkAraH<k2>GUtkAraH
+;{#GUtkAraH#}¦ Hooting; Māl. 5. 19; U. 2. 29.
+<L>15571<pc>0735-2<k1>jAmBavABaH<k2>jAmBavABaH
+;{#jAmBavABaH#}¦ A gem having the colour of a Jambu fruit; Kau. A. 2. 11.
+<L>15952<pc>0750-a1<k1>WakkaH<k2>WakkaH
+;{#WakkaH#}¦ A merchant; Inscription, 1st cen. A. D. 
+<L>17750<pc>0845-1<k1>drumaH<k2>drumaH
+;{#drumaH#}¦ [{#druH SAKAstyasya-maH,#} cf. P. V. 2. 108]
+<L>18099<pc>0866-1<k1>DArayaH<k2>DArayaH
+;{#DArayaH#}¦ [{#anupasargAt limpa vindaDAri iti SaH#}] P. III. 1. 138]
+<L>18629<pc>0893-2<k1>nikAyyaH<k2>nikAyyaH
+;{#nikAyyaH#}¦ [cf. P. III. 1. 129] A dwelling, habitation, house; {#na#}
+<L>19649<pc>0943-2<k1>nyAdaH<k2>nyAdaH
+;{#nyAdaH#}¦ Eating, feeding; P. III. 3. 60.
+<L>20791<pc>0996-1<k1>parvataH<k2>parvataH
+;{#parvataH#}¦ [{#parb-atac; parbARi BAgAH santyasya vA;#} cf. P. V. 2. 122 Vārt.]
+<L>21167<pc>1012-2<k1>pAripanTikaH<k2>pAripanTikaH
+;{#pAripanTikaH#}¦ A robber, highwayman; P. IV. 4. 36.
+<L>21194<pc>1013-2<k1>pArizadyaH<k2>pArizadyaH
+;{#pArizadyaH#}¦ One present at an assembly, a spectator; cf. P. IV. 4. 44, 101.
+<L>21391<pc>1022-1<k1>pittakaH<k2>pittakaH
+;{#pittakaH#}¦ An inferior variety of gems; Kau. A. 2. 11. 29.
+<L>26046<pc>1259-2<k1>mAtsyikaH<k2>mAtsyikaH
+;{#mAtsyikaH#}¦ A fisherman; P. IV. 4. 35.
+<L>26712<pc>1292-1<k1>mEleyakaH<k2>mEleyakaH
+;{#mEleyakaH#}¦ A variety of inferior gems; Kau. A. 2. 11. 29.
+<L>26796<pc>1295-1<k1>mOleyakaH<k2>mOleyakaH
+;{#mOleyakaH#}¦ A variety of gems; Kau. A. 2. 11. 29.
+<L>27866<pc>1361-2<k1>lavakaH<k2>lavakaH
+;{#lavakaH#}¦ A reaper; P. III. 1. 14.
+<L>29820<pc>1449-2<k1>viparimarSaH<k2>viparimarSaH
+;{#viparimarSaH#}¦ Consideration; {#prakftInAM sAmavAyita-viparimarSaH#} Kau. A. 3, 11.
+<L>29851<pc>1451-1<k1>vipUyaH<k2>vipUyaH
+;{#vipUyaH#}¦ The {%Munja%} grass; P. III. 1. 117; {#vipUyEH kfta‡meKalAm#} Bk. 6. 60.
+<L>30370<pc>1473-2<k1>viSnaH<k2>viSnaH
+;{#viSnaH#}¦ Lustre, splendour; P. III. 3. 90.
+<L>33156<pc>1604-1<k1>saMkroSaH<k2>saMkroSaH
+;{#saMkroSaH#}¦ Lamentation; Kau. A. 1. 17.
+<L>33280<pc>1609-1<k1>saMcAyyaH<k2>saMcAyyaH
+;{#saMcAyyaH#}¦ N. of a particular sacrifice; P. III. 1. 130.
+;
+;---------------------------words ending in 'A'
+<L>315<pc>0026-1<k1>aNganA<k2>aNganA
+;{#aNganA#}¦ [{#praSastam aNgaM yasyAH sA; aNgAt kalyARe naH#} P. V. 2. 100.]
+<L>408<pc>0031-2<k1>ajaTyA<k2>ajaTyA
+;{#ajaTyA#}¦ [{#ajAya hitA ajaTyA; aj-Tyan#} P. V. 1. 8]
+<L>1066<pc>0064-1<k1>aDityakA<k2>aDityakA
+;{#aDityakA#}¦ [{#aDi-tyakan#} P. V. 2. 34; {#parvatasya ArUQasTala‡maDityakA#}
+<L>5525<pc>0265-2<k1>aviTyA<k2>aviTyA
+;{#aviTyA#}¦ [{#avaye hitA, abi Tyan, ajAviByAM Tyan#} P. V. 1. 8] N. of
+<L>9359<pc>0439-1<k1>unmfjAvamfjA<k2>unmfjAvamfjA
+;{#unmfjAvamfjA#}¦ Repeatedly rubbing up and down. P. II. 1. 72.
+<L>9369<pc>0439-2<k1>upakanyA<k2>upakanyA
+;{#upakanyA#}¦ The friend of one's daughter; P. VI. 2. 194; {#°puram#} 
+<L>9555<pc>0447-1<k1>upatyakA<k2>upatyakA
+;{#upatyakA#}¦ [{#upa-tyakan#} P. V. 2. 34.; {#parvatasyAsatraM sTalaM #}
+<L>10030<pc>0465-1<k1>upasaryA<k2>upasaryA
+;{#upasaryA#}¦ A cow fit for a bull (cf. P. III. 1. 104). {#upasaryA kAlyA#}
+<L>11371<pc>0526-1<k1>kaTA<k2>kaTA
+;{#kaTA#}¦ [{#kaT ni° a#}] A tale, story; {#°prAvIRyam#} U. 4. historical knowledge.
+<L>12581<pc>0587-2<k1>kulamitikA<k2>kulamitikA
+;{#kulamitikA#}¦ A variety of carpets; Kau. A. 2. 11.
+<L>12597<pc>0588-1<k1>kulAyikA<k2>kulAyikA
+;{#kulAyikA#}¦ A bird-cage, an aviary, dove-cot.
+<L>13156<pc>0615-2<k1>kriyA<k2>kriyA
+;{#kriyA#}¦ [{#kf BAve karaRAdO vA Sa#} cf. P. III]
+<L>14379<pc>0681-1<k1>grAmawikA<k2>grAmawikA
+;{#grAmawikA#}¦ A wretched or miserable village; {#katipaya‡grAmawikAparyawanadurvidagDa#} P. R. 1.
+<L>15816<pc>0746-1<k1>jyotsnA<k2>jyotsnA
+;{#jyotsnA#}¦ [{#jyotirastyasyAM jyotiza upaDAlopo naSca pratyayaH#} P. V. 2. 114 Sk.]
+<L>17434<pc>0827-2<k1>duhilitikA<k2>duhilitikA
+;{#duhilitikA#}¦ A hairy variety of skins of animals; Kau. A. 2. 11.
+<L>20047<pc>0970-2<k1>parikartikA<k2>parikartikA
+;{#parikartikA#}¦ A. sharp shooting pain, especially in the rectum.
+<L>25763<pc>1239-2<k1>manyA<k2>manyA
+;{#manyA#}¦ [{#manyate'nayA manyA galapArSvaSirA#} P. III. 3. 59 Sk.]
+<L>26701<pc>1291-2<k1>mETunikA<k2>mETunikA
+;{#mETunikA#}¦ Union by marriage, matrimonial alliance; P. IV. 3. 125.
+<L>26974<pc>1309-1<k1>yAcyatA<k2>yAcyatA
+;{#yAcyatA#}¦ To be wooed or honoured ({#prArTanIyatA#}); {#yadA yAsyanti#}
+<L>27832<pc>1359-2<k1>lambarA<k2>lambarA
+;{#lambarA#}¦ A variety of blanket; Kau. A. 2. 11.
+<L>33366<pc>1613-1<k1>sattalikA<k2>sattalikA
+;{#sattalikA#}¦ A carpet; Kau. A. 2. 11.
+<L>34639<pc>1665-1<k1>sAtinA<k2>sAtinA
+;{#sAtinA#}¦ A black variety of skin ({#carmajAti#}); Kau. A. 2. 11.
+<L>35690<pc>1718-1<k1>strItamA<k2>strItamA,
+;{#strItamA,#}¦ {@{#strItarA#}@} A thorough woman, more thoroughly a woman; P. VI. 3. 44.
+; -------------------------------------------
+; words ending in 'am'
+<L>404<pc>0031-2<k1>ajagavam<k2>ajagavam
+;{#ajagavam#}¦ [{#ajago vizRuH Saratvena astyasya ajaga-va#} P. V. 2. 110]
+<L>424<pc>0032-1<k1>ajastundam<k2>ajastundam
+;{#ajastundam#}¦ [{#ajasya iva tundam asya suw nipAto'yam#}] N. of a town, P. VI. 1. 155.
+<L>2625<pc>0141-2<k1>apadrutam<k2>apadrutam
+;{#apadrutam#}¦ To run away in a bent posture; Rām. 6. 40. 25. ({#parasparajAnvAdigrahAyAvanatakAyayA#}
+<L>2833<pc>0149-2<k1>apazWam<k2>apazWam
+;{#apazWam#}¦ [{#apa-sTA, -ka sasya zatvam#} P. VIII. 3. 97] The point 
+<L>3779<pc>0187-2<k1>aBisaMharaRam<k2>aBisaMharaRam
+;{#aBisaMharaRam#}¦ Replenishment. {#koSa°#} Kau. A. 5.
+<L>4427<pc>0215-2<k1>aravindam<k2>aravindam
+;{#aravindam#}¦ [{#arAn cakANgAnIva patrARi vindate vind Sa#} P. III. 1. 138. Vārt.]
+<L>4959<pc>0244-2<k1>avatamasam<k2>avatamasam
+;{#avatamasam#}¦ [{#avatataM vyAptaM tamaH acsamAsaH avasamanDeByastamasaH#} P. V. 4. 79]
+<L>5330<pc>0259-1<k1>avasAmam<k2>avasAmam
+;{#avasAmam#}¦ [{#avaraM sAma acsamA°#} P. V. 4. 75] A bad song.
+<L>5857<pc>0277-2<k1>aSyAnam<k2>aSyAnam
+;{#aSyAnam#}¦ A moist variety of {#aguru,#} Kau. A. 2. 11.
+<L>6263<pc>0299-1<k1>asyavAmIyam<k2>asyavAmIyam
+;{#asyavAmIyam#}¦ [{#asyavAmiti Sabdo'styatra sUkte matvarTe Ca#} P. V.
+<L>6356<pc>0304-2<k1>Akatyam<k2>Akatyam
+;{#Akatyam#}¦ [{#a-kata-zyaY#} P. V. 1. 121] Making anything impure.
+<L>6484<pc>0311-1<k1>AKAwISvaratIrTam<k2>AKAwISvaratIrTam
+;{#AKAwISvaratIrTam#}¦ N. of {#tIrTa;#} Śiva P.
+<L>6694<pc>0320-2<k1>AYjanikyam<k2>AYjanikyam
+;{#AYjanikyam#}¦ [{#purohitAdigaRa#} P. V. 1. 128] That which is used to
+<L>6913<pc>0332-2<k1>ADenavam<k2>ADenavam
+;{#ADenavam#}¦ [{#aDenu-aY#}] {#aDenUnAM samUhaH#} Mbh. on P. IV. 2. 45. Want of cows.
+<L>6937<pc>0333-1<k1>Anantaryam<k2>Anantaryam
+;{#Anantaryam#}¦ [{#anantara-zyaY#} P. IV. 1. 104.]
+<L>7101<pc>0339-2<k1>ApANgyam<k2>ApANgyam
+;{#ApANgyam#}¦ [{#apANge deyaM Yya#}] To be used for anointing the corners
+<L>7554<pc>0357-2<k1>Alakandakam<k2>Alakandakam
+;{#Alakandakam#}¦ a variety of coral ({#pravAlakam#}) Kau. A. 2. 11.
+<L>7821<pc>0367-2<k1>ASOcam<k2>ASOcam
+;{#ASOcam#}¦ [{#aSucerBAvaH aR;#} P. VII. 3. 30] Impurity, see {#aSOcam;#}
+<L>8811<pc>0415-1<k1>utsaYjanam<k2>utsaYjanam
+;{#utsaYjanam#}¦ Throwing upwards, lifting up; P. I. 3. 36.
+<L>9731<pc>0454-2<k1>upabfMhaRam<k2>upabfMhaRam
+;{#upabfMhaRam#}¦ Increase; A. Rām. 7. 6. 29.
+<L>9978<pc>0463-2<k1>upasaMvyAnam<k2>upasaMvyAnam
+;{#upasaMvyAnam#}¦ An under garment; {#antaraM bahiryogopa‡saMvyAnayoH#} P. I. 1. 36.
+<L>10826<pc>0505-2<k1>Ezwakam<k2>Ezwakam
+;{#Ezwakam#}¦ Ved. Sacrificial bricks collectively. {%a.%} built of bricks; Kau. A. 2. 5.
+<L>11876<pc>0553-2<k1>kAkudam<k2>kAkudam
+;{#kAkudam#}¦ The palate {#anukzaranti kAkudaM sUrmyaM suzirAmiba#} Mbh. on P. I. 1. 1.
+<L>12604<pc>0588-1<k1>kulijam<k2>kulijam
+;{#kulijam#}¦ A measure; cf. P. V. 1. 55. 
+<L>13037<pc>0610-1<k1>kOwilyam<k2>kOwilyam
+;{#kOwilyam#}¦ [cf. {#nityaM kOwilye gatO#} P. III. 1. 23.]
+<L>13060<pc>0611-1<k1>kOpInam<k2>kOpInam
+;{#kOpInam#}¦ [{#kUpa-KaY;#} see Sk. on {#SAlInakOpIne aDfzwAkAryayoH#} P. V. 2. 20]
+<L>13063<pc>0611-1<k1>kObjyam<k2>kObjyam
+;{#kObjyam#}¦ [{#kubja-zyaY#} P. V. 1. 124]
+<L>13093<pc>0612-2<k1>kOSalam<k2>kOSalam
+;{#kOSalam#}¦ ({@{#-lyam#}@}) [{#kuSala-aR zyaY vA#} P. V. 1. 124]
+<L>13563<pc>0636-1<k1>Kanitram<k2>Kanitram
+;{#Kanitram#}¦ [{#Kan-itra#} P. III. 2. 184] A spade, hoe, a pick-axe; 
+<L>13974<pc>0656-1<k1>gARanikyam<k2>gARanikyam
+;{#gARanikyam#}¦ Keeping accounts; {#akzapawale gARanikyADikAraH#} Kau. A. 2. 7.
+<L>14388<pc>0681-2<k1>grAmerukam<k2>grAmerukam
+;{#grAmerukam#}¦ A variety of sandal; Kau. A. 2. 11.
+<L>14786<pc>0702-1<k1>cAkacakyam<k2>cAkacakyam
+;{#cAkacakyam#}¦ Brilliancy, lustre; Vedānta P.
+<L>17387<pc>0820-1<k1>dundumAyitam<k2>dundumAyitam
+;{#dundumAyitam#}¦ Drum-sound; {#stanayitnorivAmandadunduBerdundu‡mAyitam#} U. 6. 2.
+<L>17784<pc>0846-2<k1>dvandvam<k2>dvandvam
+;{#dvandvam#}¦ [{#dvO dvO sahABivyaktO;#} cf. P. VIII. 1. 15. Sk.]
+<L>18238<pc>0873-2<k1>nagaram<k2>nagaram
+;{#nagaram#}¦ [{#nagA iva prAsAdAH santyatra bA° ra;#} cf. P. V. 2. 107
+<L>18864<pc>0903-1<k1>nimAnam<k2>nimAnam
+;{#nimAnam#}¦ [{#saMKyAyA guRasya nimAne mayaw;#} P. V. 2. 47]
+<L>20447<pc>0984-1<k1>pariliKanam<k2>pariliKanam
+;{#pariliKanam#}¦ Smoothing, polishing; Mārk. P.
+<L>20579<pc>0988-2<k1>parizWalam<k2>parizWalam
+;{#parizWalam#}¦ A surrounding place; cf. P. VIII. 3. 96.
+<L>20996<pc>1005-1<k1>pARqyakavAwakam<k2>pARqyakavAwakam
+;{#pARqyakavAwakam#}¦ A gem from the country of {#pARqya‡kavAwaka;#} Kau. A. 2. 10. 29.
+<L>21184<pc>1013-1<k1>pArimuKyam<k2>pArimuKyam
+;{#pArimuKyam#}¦ Presence; P. IV. 3. 58; Vārt. 1.
+<L>21285<pc>1017-1<k1>pASikyam<k2>pASikyam
+;{#pASikyam#}¦ A pearl from the river Pāśā; Kau. A. 2. 11. 22.
+<L>21990<pc>1052-2<k1>prakaTanam<k2>prakaTanam
+;{#prakaTanam#}¦ Announcing, narration; P. I. 3. 32.
+<L>22821<pc>1087-1<k1>pratyavasAnam<k2>pratyavasAnam
+;{#pratyavasAnam#}¦ Eating, or drinking; P. I. 4. 52.
+<L>23137<pc>1098-1<k1>praBAnam<k2>praBAnam
+;{#praBAnam#}¦ Light, lustre, splendour, radiance; P. VIII. 4. 34 com.
+<L>23338<pc>1106-2<k1>pralavitram<k2>pralavitram
+;{#pralavitram#}¦ An instrument for cutting off; P. VI. 2. 144 com.
+<L>23499<pc>1112-1<k1>pravedanam<k2>pravedanam
+;{#pravedanam#}¦ Making known, announcing, proclaiming; P. III. 3. 153.
+<L>23985<pc>1133-1<k1>prArRam<k2>prArRam
+;{#prArRam#}¦ A chief debt; P. VI. 1. 89.
+<L>24147<pc>1140-1<k1>prEyakam<k2>prEyakam
+;{#prEyakam#}¦ A variety of {#carma;#} Kau. A. 2. 11. 29.
+<L>24841<pc>1181-1<k1>BagAlam<k2>BagAlam
+;{#BagAlam#}¦ A skull; P. VI. 2. 29.
+<L>25446<pc>1217-2<k1>BrORahatyam<k2>BrORahatyam
+;{#BrORahatyam#}¦ The killing of an embryo; P. VI. 4. 174.
+<L>27204<pc>1323-1<k1>rakzitakam<k2>rakzitakam
+;{#rakzitakam#}¦ Safety; {#Atmarakzitakam#} Kau. A.
+<L>27881<pc>1362-1<k1>lavitram<k2>lavitram
+;{#lavitram#}¦ An instrument for mowing, a sickle; P. III. 2. 184.
+<L>28887<pc>1410-2<k1>vAqavyam<k2>vAqavyam
+;{#vAqavyam#}¦ A collection of Brāhmaṇas; P. IV. 2. 42.
+<L>28918<pc>1412-1<k1>vAtsakam<k2>vAtsakam
+;{#vAtsakam#}¦ A herd of calves; P. IV. 2. 39.
+<L>28974<pc>1414-1<k1>vAmadevyam<k2>vAmadevyam
+;{#vAmadevyam#}¦ ({#vAmadevena dfzwaM sAma iti vAmadevAqqapaqqapO#} P. 
+<L>29476<pc>1435-1<k1>vijYApyam<k2>vijYApyam
+;{#vijYApyam#}¦ A request; U. 1.
+<L>31014<pc>1503-2<k1>vEyarTyam<k2>vEyarTyam
+;{#vEyarTyam#}¦ Uselessness, unproductiveness; {#saKe bEyarTya‡miva cakzuzaH#} U. 2.
+<L>31368<pc>1517-2<k1>vyApyatvam<k2>vyApyatvam
+;{#vyApyatvam#}¦ Invariableness; {#vyApyatvAdaparA'pi ca#} Bhāṣā P.
+<L>31445<pc>1521-1<k1>vyutkramaRam<k2>vyutkramaRam
+;{#vyutkramaRam#}¦ Going apart, separation; P. VIII. 1. 15.
+<L>34463<pc>1658-2<k1>savitram<k2>savitram
+;{#savitram#}¦ Cause of generation; P. III. 2. 184.
+<L>34560<pc>1662-2<k1>sAMrAviRam<k2>sAMrAviRam
+;{#sAMrAviRam#}¦ [cf. P. III. 3. 44; V. 4. 15] A general or loud shout,
+<L>34795<pc>1672-1<k1>sAmUram<k2>sAmUram
+;{#sAmUram#}¦ Leather from the Bahlava country; Kau. A. 2. 11.
+<L>35302<pc>1702-1<k1>setram<k2>setram
+;{#setram#}¦ A bond, fetter; P. III. 2. 182.
+<L>35489<pc>1709-1<k1>sOmitikam<k2>sOmitikam
+;{#sOmitikam#}¦ A variety of woollen cloth; Kau. A. 2. 11.
+<L>36518<pc>1762-1<k1>hUtam<k2>hUtam
+;{#hUtam#}¦ The act of calling; P. VIII. 2. 84.
+; ---------------------------------------------------------
+; words ending in I
+<L>244<pc>0018-1<k1>agnAyI<k2>agnAyI
+;{#agnAyI#}¦ P. 4. 1. 37
+<L>4147<pc>0201-1<k1>amarAvatI<k2>amarAvatI
+;{#amarAvatI#}¦ [{#amara-vat, ra#} being changed to {#rA#} by P. VI. 3. 119]
+<L>6554<pc>0314-2<k1>AgnyADAnikI<k2>AgnyADAnikI
+;{#AgnyADAnikI#}¦ [{#agnyADAnasya yajYasya dakziRA WaY#} P. V. 1. 95] The
+<L>6621<pc>0318-1<k1>AcAryAnI<k2>AcAryAnI
+;{#AcAryAnI#}¦ [{#AcArya-striyAm Anuk#} P. IV. 1. 49 Vārt.] The wife of
+<L>8183<pc>0386-2<k1>indrARI<k2>indrARI
+;{#indrARI#}¦ [{#indrasya patnI Anuk qIp#} P. IV. 1. 49.]
+<L>13609<pc>0637-2<k1>KalinI<k2>KalinI
+;{#KalinI#}¦ A multitude of threshing floors. P. IV. 2. 51.
+<L>14502<pc>0687-1<k1>GurI<k2>GurI
+;{#GurI#}¦ The nostrils, especially of a hog; {#GurGurAyitaGurI‡Goro GurecCUkaraH#} K. P. 7.
+<L>23400<pc>1109-1<k1>pravahaRI<k2>pravahaRI-nikAyaH
+;{#pravahaRI-nikAyaH#}¦ Corporation of workmen; Kau. A. 2. 4.
+<L>25152<pc>1197-2<k1>BiNgisI<k2>BiNgisI
+;{#BiNgisI#}¦ A variety of {#kambala;#} Kau. A. 2. 11. 29.
+<L>28136<pc>1371-2<k1>lEkucI<k2>lEkucI
+;{#lEkucI#}¦ A variety of fibrous garment; Kau. A. 2. 11.
+<L>30797<pc>1495-2<k1>vetasI<k2>vetasI
+;{#vetasI#}¦ The ratan; {#vetasItarutale#} K. P. 1.
+<L>34796<pc>1672-1<k1>sAmUlI<k2>sAmUlI
+;{#sAmUlI#}¦ A kind of leather from the Bahlava country; Kau. A. 2. 11.
+; -------------------------------------------
+; misc. others
+<L>497<pc>0036-1<k1>aYjihizA<k2>aYjihizA
+<L>916<pc>0053-2<k1>adaDryaYc<k2>adaDryaYc
+<L>1022<pc>0059-2<k1>aDas<k2>aDas,
+<L>1029<pc>0060-2<k1>aDastAt<k2>aDastAt
+<L>1783<pc>0094-2<k1>anutTAnam<k2>anutTAnam
+<L>2679<pc>0143-1<k1>apamitya<k2>apamitya
+<L>2869<pc>0151-1<k1>apaspatiH<k2>apaspatiH
+<L>3309<pc>0168-2<k1>aBika<k2>aBi(BI)ka
+<L>3573<pc>0180-1<k1>aBimihya<k2>aBimi(me)hya
+<L>3761<pc>0187-1<k1>aBizwi<k2>aBi(BI)zwi
+<L>3982<pc>0194-2<k1>aByasanIya<k2>aByasanIya,
+<L>4393<pc>0214-2<k1>araRyetilakaH<k2>araRyetilakaH
+<L>4537<pc>0221-2<k1>arcanIya<k2>arcanIya,
+<L>4877<pc>0242-1<k1>avaGAwakama<k2>avaGAwakama
+<L>5034<pc>0247-2<k1>avaDAraRIya<k2>avaDAraRIya,
+<L>5532<pc>0266-1<k1>avidita<k2>avidita
+<L>5943<pc>0285-2<k1>azWIvat<k2>azWIvat
+<L>6561<pc>0315-1<k1>AgrahAyaRaka<k2>AgrahAyaRa(Ri)ka
+<L>6662<pc>0319-1<k1>AjiH<k2>AjiH
+<L>6751<pc>0322-2<k1>AtiH<k2>AtiH
+<L>7105<pc>0339-2<k1>ApiSaliH<k2>ApiSaliH
+<L>7570<pc>0358-1<k1>AlaBya<k2>AlaBya,
+<L>8024<pc>0377-1<k1>Ahitaka<k2>Ahitaka
+<L>8548<pc>0402-2<k1>utUlAH<k2>utUlAH
+<L>8617<pc>0405-1<k1>utkocin<k2>utkocin
+<L>8874<pc>0418-1<k1>udakala<k2>udaka(ki)la
+<L>9096<pc>0428-2<k1>udDiH<k2>udDiH
+<L>9120<pc>0430-1<k1>udDyaH<k2>udDyaH
+<L>9606<pc>0449-1<k1>upaDiH<k2>upaDiH
+<L>10399<pc>0481-1<k1>uSenya<k2>uSenya
+<L>10752<pc>0502-a2<k1>EkAgArikaH<k2>EkAgArikaH
+<L>10822<pc>0505-1<k1>Ezamas<k2>Ezamas
+<L>11277<pc>0522-1<k1>kaqera<k2>kaqera
+<L>11347<pc>0525-1<k1>katama<k2>katama
+<L>11442<pc>0529-2<k1>kannatu<k2>kannatu
+<L>11852<pc>0552-1<k1>kahika<k2>kahika
+<L>11871<pc>0553-1<k1>kAkiRika<k2>kAkiRika
+<L>12445<pc>0581-1<k1>kuRqinAH<k2>kuRqinAH
+<L>12896<pc>0605-1<k1>keSAkeSi<k2>keSAkeSi
+<L>13079<pc>0612-1<k1>kOlaweyaH<k2>kOlaweyaH
+<L>13080<pc>0612-1<k1>kOlaweraH<k2>kOlaweraH
+<L>13081<pc>0612-1<k1>kOlAlaH<k2>kOlAlaH
+<L>13088<pc>0612-1<k1>kOleyaka<k2>kOleyaka
+<L>13284<pc>0622-1<k1>kzatriyARI<k2>kzatriyARI
+<L>13336<pc>0624-1<k1>kzAtriH<k2>kzAtriH
+<L>13363<pc>0625-2<k1>kzipakaH<k2>kzipakaH
+<L>14693<pc>0697-2<k1>camaH<k2>camaH
+<L>14766<pc>0701-1<k1>carvya<k2>carvya
+<L>16345<pc>0767-2<k1>tAntuvAyiH<k2>tAntuvAyiH,
+<L>17365<pc>0819-2<k1>duHKAkfta<k2>duHKAkfta
+<L>17857<pc>0851-a2<k1>Dak<k2>Dak
+<L>18491<pc>0887-2<k1>nApitAyaniH<k2>nApitAyaniH
+<L>26337<pc>1272-2<k1>mImAMsitavya<k2>mImAMsitavya,
+<L>29731<pc>1446-1<k1>vinimayaH<k2>vinimayaH
+<L>30074<pc>1460-1<k1>viyujya<k2>viyujya
+<L>31552<pc>1526-1<k1>SakuntiH<k2>SakuntiH
+<L>32339<pc>1566-2<k1>SekuH<k2>SekuH
+<L>33027<pc>1598-2<k1>saMhatya<k2>saMhatya
+<L>33913<pc>1637-2<k1>samAsattiH<k2>samAsattiH
+<L>35964<pc>1732-1<k1>smaraRIya<k2>smaraRIya,

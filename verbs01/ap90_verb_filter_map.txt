@@ -3632,7 +3632,7 @@
 ;; Case 3632: L=31170, k1=svask, k2=svask, code=C, mw=svask
 ;; Case 3633: L=31210, k1=svid, k2=svid, code=C, mw=svid
 ;; Case 3634: L=31212, k1=svIkf, k2=svIkf, code=C, mw=svIkf svI+kf
-;; Case 3635: L=31215, k1=svurcC, k2=svurcC, code=C, mw=svUrcC
+;; Case 3635: L=31215, k1=svurcC, k2=svurcC, code=C, mw=svUrC
 ;; Case 3636: L=31216, k1=svf, k2=svf, code=C, mw=svf
 ;; Case 3637: L=31217, k1=svF, k2=svF, code=C, mw=svF
 ;; Case 3638: L=31218, k1=svek, k2=svek, code=C, mw=svek

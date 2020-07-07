@@ -36057,7 +36057,7 @@ assume (in argument). --4 To as-
 sent or agree to, accede. 
 ;----------------------------------------------------------------------
 ;
-;; Case 3635: L=31215, k1=svurcC, code=C, mw=svUrcC
+;; Case 3635: L=31215, k1=svurcC, code=C, mw=svUrC
 {#svurcC#}¦ 1 P. ({#svUrcCati#}) 1 To
 spread, extend. --2 To forget.
 ;----------------------------------------------------------------------

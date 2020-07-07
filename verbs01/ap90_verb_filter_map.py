@@ -131,7 +131,7 @@ map2mw_special = {
  'saMmurcC':'sammurC',
  'suKayati':'suK',
  'sPAl':'sPal',
- 'svurcC':'svUrcC',
+ 'svurcC':'svUrC',
  '':'',
  '':'',
  '':'',

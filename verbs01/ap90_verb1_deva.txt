@@ -8504,7 +8504,7 @@ easy; Śi. 1. 59.
 Mv. 5. 33.
 ;----------------------------------------------------------------------
 ;
-;; Case 0751: L=7720, k1=utkaMWate, code=D, mw=utkaMWa
+;; Case 0751: L=7720, k1=utkaMWate, code=D, mw=utkaRWa
 उत्कंठते¦ Den. A. 1 To be anxious.
 pine or be sorry for; Ś. 4; Śi.
 9. 54. --2 To yearn, be eagerly de-
@@ -9719,7 +9719,7 @@ off, clean by washing; Y. 1. 20.
 --3 To receive, accept (Ved.).
 ;----------------------------------------------------------------------
 ;
-;; Case 0860: L=8426, k1=upakarR, code=C, mw=upakarRaya
+;; Case 0860: L=8426, k1=upakarR, code=C, mw=?
 उपकर्ण्¦ 10 U. To hear; Śi. 20. 5.
 ;----------------------------------------------------------------------
 ;

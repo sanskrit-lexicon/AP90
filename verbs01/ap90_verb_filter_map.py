@@ -53,7 +53,7 @@ map2mw_special = {
  'aMdolayati':'andolaya',
  'avakarR':'avakarRaya',
  'AkarR':'AkarRaya', #den
- 'upakarR':'upakarRaya',  # MW has only upAkarRaya
+ #'upakarR':'upakarRaya',  # MW has only upAkarRaya
  'unmUl':'unmUla',
  'nirmUl':'nirmUlaya',
  'anukfpAyate':'anukfp',
@@ -87,7 +87,7 @@ map2mw_special = {
  'sTUlayati':'sTUl',
  'aruzati':'aruza',
  'aSvati':'aSva',
- 'utkaMWate':'utkaMWa',
+ 'utkaMWate':'utkaRWa',
  'upasAMtv':'upasAntvaya',
  'kraSayati':'kfS',
  'kzaMj':'kzaj',

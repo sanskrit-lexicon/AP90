@@ -748,7 +748,7 @@
 ;; Case 0748: L=7710, k1=utkAyate, k2=utkAyate, code=D, mw=utkAya
 ;; Case 0749: L=7711, k1=utkayati, k2=utkayati, code=D, mw=utkaya
 ;; Case 0750: L=7715, k1=utkaw, k2=utkaw, code=C, mw=?
-;; Case 0751: L=7720, k1=utkaMWate, k2=utkaMWate, code=D, mw=utkaMWa
+;; Case 0751: L=7720, k1=utkaMWate, k2=utkaMWate, code=D, mw=utkaRWa
 ;; Case 0752: L=7724, k1=utkaMp, k2=utkaMp, code=C, mw=utkamp ud+kamp
 ;; Case 0753: L=7733, k1=utkalApayati, k2=utkalApayati, code=D, mw=utkalApaya
 ;; Case 0754: L=7750, k1=utkf, k2=utkf, code=C, mw=utkf ud+kf
@@ -857,7 +857,7 @@
 ;; Case 0857: L=8409, k1=unmuc, k2=unmuc, code=C, mw=unmuc ud+muc
 ;; Case 0858: L=8413, k1=unmUl, k2=unmUl, code=C, mw=unmUla
 ;; Case 0859: L=8415, k1=unmfj, k2=unmfj, code=C, mw=unmfj ud+mfj
-;; Case 0860: L=8426, k1=upakarR, k2=upakarR, code=C, mw=upakarRaya
+;; Case 0860: L=8426, k1=upakarR, k2=upakarR, code=C, mw=?
 ;; Case 0861: L=8436, k1=upakUj, k2=upakUj, code=C, mw=upakUj upa+kUj
 ;; Case 0862: L=8440, k1=upakf, k2=upakf, code=C, mw=upakf upa+kf
 ;; Case 0863: L=8451, k1=upakF, k2=upakF, code=C, mw=upakF upa+kF

@@ -1,0 +1,776 @@
+; TODO Case 1 
+; <L>1<pc>0001-a<k1>a<k2>a
+872 old <>together in the following verse:--
+872 old <>together in the following verse:--
+;
+873 old <>{#tatsAdfSyamaBAvaSca tadanyatvaM tadalpatA . aprA-#}
+873 old <>{#tatsAdfSyamaBAvaSca tadanyatvaM tadalpatA . aprA-#}
+;
+; TODO Case 2 
+; <L>92<pc>0005-a<k1>akfta<k2>akfta
+1691 old <>Ms. 8. 168; {#kftaM cApyakftaM Bavet#} 117-
+1691 old <>Ms. 8. 168; {#kftaM cApyakftaM Bavet#} 117-
+;
+1692 old <>{@--2@} Wrongly or differently done;
+1692 old <>{@--2@} Wrongly or differently done;
+;
+; TODO Case 3 
+; <L>396<pc>0025-a<k1>ajinaM<k2>ajinaM
+6039 old <>{#hmaRaM rOraveRa kzatriyaM Ajinena vESyaM#} {%As%}-
+6039 old <>{#hmaRaM rOraveRa kzatriyaM Ajinena vESyaM#} {%As%}-
+;
+6040 old <>val. {@--2@} A sort of leather bag or
+6040 old <>val. {@--2@} A sort of leather bag or
+;
+; TODO Case 4 
+; <L>522<pc>0030-b<k1>atikrAMta<k2>atikrAMta
+7243 old <>{#ºkunfpati#} K. 5, past, former; 169-
+7243 old <>{#ºkunfpati#} K. 5, past, former; 169-
+;
+7244 old <>Pt. 1. 333, Pt. 2, Bh. 3. 32; {#ºpArTiva-#}
+7244 old <>Pt. 1. 333, Pt. 2, Bh. 3. 32; {#ºpArTiva-#}
+;
+; TODO Case 5 
+; <L>781<pc>0038-b<k1>atyugra<k2>atyugra
+9139 old {#atyugra#}¦ {%a.%} Very fierce. {#--graM#} Asa fœ-
+9139 old {#atyugra#}¦ {%a.%} Very fierce. {#--graM#} Asa fœ-
+;
+9140 old <>tida.
+9140 old <>tida.
+;
+; TODO Case 6 
+; <L>1487<pc>0066-c<k1>anu<k2>anu
+15561 old <>{#anu#} may be thus expressed in verse:--
+15561 old <>{#anu#} may be thus expressed in verse:--
+;
+15562 old <>{#AyAme'paraBAve ca (paScAdarTe) vIpsAyAM sanniDO#}
+15562 old <>{#AyAme'paraBAve ca (paScAdarTe) vIpsAyAM sanniDO#}
+;
+; TODO Case 7 
+; <L>1605<pc>0070-c<k1>anuttama<k2>anuttama
+16436 old <>Sāṃkhya philosophy, said to mean 'in-
+16436 old <>Sāṃkhya philosophy, said to mean 'in-
+;
+16437 old <>difference to and abstinence from
+16437 old <>difference to and abstinence from
+;
+; TODO Case 8 
+; <L>1882<pc>0080-b<k1>anuvatsaraH<k2>anuvatsaraH
+18632 old <>5 cycles of 12 years in the {%Br%}ihas-
+18632 old <>5 cycles of 12 years in the {%Br%}ihas-
+;
+18633 old <>pati cycle.
+18633 old <>pati cycle.
+;
+; TODO Case 9 
+; <L>2430<pc>0108-b<k1>apara<k2>apara
+24662 old <>{#rizuraMBoDiM vAnarAH setunApare#} Bk. 15. 31-
+24662 old <>{#rizuraMBoDiM vAnarAH setunApare#} Bk. 15. 31-
+;
+24663 old <>33. {#--raH#} {@1@} The hind foot of an ele-
+24663 old <>33. {#--raH#} {@1@} The hind foot of an ele-
+;
+; TODO Case 10 
+; <L>2693<pc>0117-c<k1>apit<k2>apit
+26728 old <>{#jaz#}] {@1@} Dry, waterless, as a river. {@--
+26728 old <>{#jaz#}] {@1@} Dry, waterless, as a river. {@--
+;
+26729 old <>2@} Not having the {#it#} or {#anubaMDa p#}.
+26729 old <>2@} Not having the {#it#} or {#anubaMDa p#}.
+;
+; TODO Case 11 
+; <L>3884<pc>0153-c<k1>aMbazWaH<k2>aMbazWaH
+35306 old <>Lahore). {#--zWA#} N. of several plants:--
+35306 old <>Lahore). {#--zWA#} N. of several plants:--
+;
+35307 old <>({%a%}) {#gaRikA, yUTikA#} (Mar. {#juI#}); ({%b%})
+35307 old <>({%a%}) {#gaRikA, yUTikA#} (Mar. {#juI#}); ({%b%})
+;
+; TODO Case 12 
+; <L>4068<pc>0161-b<k1>arizwa<k2>arizwa
+36998 old <>Mv. 4. 18. {@--4@} N. of various plants:--
+36998 old <>Mv. 4. 18. {@--4@} N. of various plants:--
+;
+36999 old <>({%a%}) the soap-berry tree (Mar. {#riWA#});
+36999 old <>({%a%}) the soap-berry tree (Mar. {#riWA#});
+;
+; TODO Case 13 
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+37977 old <>signification, import; {#arTa#} is of 3 kinds:-
+37977 old <>signification, import; {#arTa#} is of 3 kinds:-
+;
+37978 old <>{#vAcya#} or expressed, {#lakzya#} or indicated
+37978 old <>{#vAcya#} or expressed, {#lakzya#} or indicated
+;
+; TODO Case 14 
+; <L>5064<pc>0195-c<k1>avipra<k2>avipra
+44883 old {#avipra#}¦ {%a.%} Ved. {@1@} Not(spiritual-
+44883 old {#avipra#}¦ {%a.%} Ved. {@1@} Not(spiritual-
+;
+44884 old <>ly) excited, not inspired. {@--2@} Not a
+44884 old <>ly) excited, not inspired. {@--2@} Not a
+;
+; TODO Case 15 
+; <L>5333<pc>0204-c<k1>aSvatTaH<k2>aSvatTaH
+47027 old <>full moon in the month of {%As%}vi-
+47027 old <>full moon in the month of {%As%}vi-
+;
+47028 old <>na, (in which month the fruits of
+47028 old <>na, (in which month the fruits of
+;
+; TODO Case 16 
+; <L>5359<pc>0205-c<k1>azwan<k2>azwan
+47370 old <>things; according to some they are:--
+47370 old <>things; according to some they are:--
+;
+47371 old <>{#mfgarAjo vfzo nAgaH kalaSo vyaMjanaM taTA . vEjayaMtI#}
+47371 old <>{#mfgarAjo vfzo nAgaH kalaSo vyaMjanaM taTA . vEjayaMtI#}
+;
+; TODO Case 17 
+; <L>5575<pc>0214-c<k1>asfj<k2>asfj
+49253 old <>&c., is thus described by Suśr.:--
+49253 old <>&c., is thus described by Suśr.:--
+;
+49254 old <>{#rasAdraktaM tato mAMsaM mAMsAnmedaH prajAyate . medaso- #}
+49254 old <>{#rasAdraktaM tato mAMsaM mAMsAnmedaH prajAyate . medaso- #}
+;
+; TODO Case 18 
+; <L>6463<pc>0246-b<k1>AprItapaH<k2>AprItapaH, --pAH
+56461 old {#AprItapaH, --pAH#}¦ N. of Viṣṇu(pro-
+56461 old {#AprItapaH, --pAH#}¦ N. of Viṣṇu(pro-
+;
+56462 old <>tecting those who have appeased
+56462 old <>tecting those who have appeased
+;
+; TODO Case 19 
+; <L>6696<pc>0253-b<k1>AraRya<k2>AraRya
+58101 old <>10. 48; ({#AraRyapaSu#} is of 7 kinds:-
+58101 old <>10. 48; ({#AraRyapaSu#} is of 7 kinds:-
+;
+58102 old <>{#sarIsfpo ruruScEva mahizo vAnarastaTA . pfzatarkzO#}
+58102 old <>{#sarIsfpo ruruScEva mahizo vAnarastaTA . pfzatarkzO#}
+;
+; TODO Case 20 
+; <L>7037<pc>0264-a<k1>ASis<k2>ASis
+60636 old <>benediction. (It is thus defined:--
+60636 old <>benediction. (It is thus defined:--
+;
+60637 old <>{#vAtsalyAdyatra mAnyena kanizWasyABiDIyate . izwA-#}
+60637 old <>{#vAtsalyAdyatra mAnyena kanizWasyABiDIyate . izwA-#}
+;
+; TODO Case 21 
+; <L>7569<pc>0285-b<k1>ugra<k2>ugra
+65364 old <>violent, intense; {#ugrAtapAM velAM#} Ś. 3. in-
+65364 old <>violent, intense; {#ugrAtapAM velAM#} Ś. 3. in-
+;
+65365 old 
+65365 old 
+;
+; TODO Case 22 
+; <L>8779<pc>0327-c<k1>upayAta<k2>upayAta
+74901 old {#upayAta#}¦ {%p. p.%} Come, arrived. -
+74901 old {#upayAta#}¦ {%p. p.%} Come, arrived. -
+;
+74902 old <>Arrival, return.
+74902 old <>Arrival, return.
+;
+; TODO Case 23 
+; <L>9372<pc>0345-b<k1>UrRaM<k2>UrRaM
+79094 old <>{@--2@} A woollen cloth. {@--Comp.@} --
+79094 old <>{@--2@} A woollen cloth. {@--Comp.@} --
+;
+79095 old <>{#--nABaH, -pawaH, -vABiH#} a spider. {#--mrada, --das#}
+79095 old <>{#--nABaH, -pawaH, -vABiH#} a spider. {#--mrada, --das#}
+;
+; TODO Case 24 
+; <L>9726<pc>0360-c<k1>om<k2>om
+82296 old <>profound religious meditation. In the M{%andu%}-
+82296 old <>profound religious meditation. In the M{%andu%}-
+;
+82297 old <>kya Upaniṣad it is said that this
+82297 old <>kya Upaniṣad it is said that this
+;
+; TODO Case 25 
+; <L>10102<pc>0371-c<k1>kaMwakAraH<k2>kaMwakAraH
+84830 old <>{#vikaMkata#}. {#--rI#} N. of several plants:--
+84830 old <>{#vikaMkata#}. {#--rI#} N. of several plants:--
+;
+84831 old <>Solanum Jacquini, the silk-cotton
+84831 old <>Solanum Jacquini, the silk-cotton
+;
+; TODO Case 26 
+; <L>10267<pc>0377-c<k1>kapItanaH<k2>kapItanaH
+86189 old {#kapItanaH#}¦ N. of several plants:-
+86189 old {#kapItanaH#}¦ N. of several plants:-
+;
+86190 old <>such as the holy fig-tree, the betel-
+86190 old <>such as the holy fig-tree, the betel-
+;
+; TODO Case 27 
+; <L>10900<pc>0402-b<k1>kiMkiraH<k2>kiMkiraH
+91697 old {#kiMkiraH#}¦ {@1@} A horse. {@--2@} The(In-
+91697 old {#kiMkiraH#}¦ {@1@} A horse. {@--2@} The(In-
+;
+91698 old <>dian) cuckoo. {@--3@} A large black
+91698 old <>dian) cuckoo. {@--3@} A large black
+;
+; TODO Case 28 
+; <L>10919<pc>0403-a<k1>kim<k2>kim<h>2
+91933 old <>{#pitrElokyarAjyasya hetoH kinnu mahIkfte#} Bg-
+91933 old <>{#pitrElokyarAjyasya hetoH kinnu mahIkfte#} Bg-
+;
+91934 old <>1. 35. --3. what indeed; {#kiMnnu me rAjyenArTaH#}
+91934 old <>1. 35. --3. what indeed; {#kiMnnu me rAjyenArTaH#}
+;
+; TODO Case 29 
+; <L>11020<pc>0407-a<k1>kuMjaraH<k2>kuMjaraH
+92685 old <>{@--4@} The lunar asterism called {#hasta#}-
+92685 old <>{@--4@} The lunar asterism called {#hasta#}-
+;
+92686 old <>{@--5@} Hair. {#--rA, --rI#} A female elephant.
+92686 old <>{@--5@} Hair. {#--rA, --rI#} A female elephant.
+;
+; TODO Case 30 
+; <L>11154<pc>0410-b<k1>kumAraH<k2>kumAraH
+93531 old <>{#SvaraM#} R. 12. 11; {#kumArasyAyuzo bARaH#} V-
+93531 old <>{#SvaraM#} R. 12. 11; {#kumArasyAyuzo bARaH#} V-
+;
+93532 old <>5; {#upavezwumarhati kumAraH#} Mu. 4 (said by
+93532 old <>5; {#upavezwumarhati kumAraH#} Mu. 4 (said by
+;
+; TODO Case 31 
+; <L>11158<pc>0410-b<k1>kumArika<k2>kumArika
+93560 old {#kumArika#}¦ {%a.%} ({#kI#} {%f.%}) {#kumArin#} ({#RI#}-
+93560 old {#kumArika#}¦ {%a.%} ({#kI#} {%f.%}) {#kumArin#} ({#RI#}-
+;
+93561 old <>{%f.%}) {%a.%} Furnished with girls, abound-
+93561 old <>{%f.%}) {%a.%} Furnished with girls, abound-
+;
+; TODO Case 32 
+; <L>12011<pc>0440-1<k1>KaH<k2>KaH
+100454 old <>impossibilities stated in this verse:--
+100454 old <>impossibilities stated in this verse:--
+;
+100455 old <>{#mfgatfzRAMBasi snAtaH SaSaSfMgaDanurDaraH . eza#}
+100455 old <>{#mfgatfzRAMBasi snAtaH SaSaSfMgaDanurDaraH . eza#}
+;
+; TODO Case 33 
+; <L>12067<pc>0442-c<k1>KaMqita<k2>KaMqita
+100833 old <>67; Me. 39. She is thus described:--
+100833 old <>67; Me. 39. She is thus described:--
+;
+100834 old <>{#pArSvameti priyo yasyA anyasaMBogacihritaH . sA#}
+100834 old <>{#pArSvameti priyo yasyA anyasaMBogacihritaH . sA#}
+;
+; TODO Case 34 
+; <L>12125<pc>0443-c<k1>Kalu<k2>Kalu
+101157 old {#Kalu#}¦ {%ind.%} A particle implying:-
+101157 old {#Kalu#}¦ {%ind.%} A particle implying:-
+;
+101158 old <>{@1@} Certainly, surely, verily, indeed;
+101158 old <>{@1@} Certainly, surely, verily, indeed;
+;
+; TODO Case 35 
+; <L>12481<pc>0457-c<k1>gAyatrI<k2>gAyatrI
+104209 old <>this verse, which is as follows:--
+104209 old <>this verse, which is as follows:--
+;
+104210 old <>{#tatsaviturvareRyaM Bargo devasya DImahi Diyo yo na#}
+104210 old <>{#tatsaviturvareRyaM Bargo devasya DImahi Diyo yo na#}
+;
+; TODO Case 36 
+; <L>13540<pc>0499-b<k1>cyu<k2>cyu
+113330 old <>{#asmAdDarmAnna cyaveta#} Ms. 7. 98, 12. 71-
+113330 old <>{#asmAdDarmAnna cyaveta#} Ms. 7. 98, 12. 71-
+;
+113331 old <>72. {@--4@} To lose, be deprived of;
+113331 old <>72. {@--4@} To lose, be deprived of;
+;
+; TODO Case 37 
+; <L>13789<pc>0508-a<k1>jarA<k2>jarA
+115312 old <>Jarā, whence the boy was called Ja{%ra%}-
+115312 old <>Jarā, whence the boy was called Ja{%ra%}-
+;
+115313 old <>sandha. He became king of Magadha and
+115313 old <>sandha. He became king of Magadha and
+;
+; TODO Case 38 
+; <L>13865<pc>0510-c<k1>jAqyaM<k2>jAqyaM
+115947 old <>{#jAqyaM hrImati gaRyate#} 54. {@--4@}Tasteless-
+115947 old <>{#jAqyaM hrImati gaRyate#} 54. {@--4@}Tasteless-
+;
+115948 old <>ness of the tongue. {@--Comp.@} {#--ariH#}
+115948 old <>ness of the tongue. {@--Comp.@} {#--ariH#}
+;
+; TODO Case 39 
+; <L>13873<pc>0511-c<k1>jAtu<k2>jAtu
+116121 old {#jAtu#}¦ {%ind.%} A particle meaning:-
+116121 old {#jAtu#}¦ {%ind.%} A particle meaning:-
+;
+116122 old <>{@1@} At all, ever, at any time, possibly;
+116122 old <>{@1@} At all, ever, at any time, possibly;
+;
+; TODO Case 40 
+; <L>14583<pc>0535-a<k1>tAmasa<k2>tAmasa
+121273 old <>7. 12, 17. 2; M. 1. 1; Ms 12. 33-
+121273 old <>7. 12, 17. 2; M. 1. 1; Ms 12. 33-
+;
+121274 old <>34. {@--3@} Ignorant. {@--4@} Vicious. {#--saH#}
+121274 old <>34. {@--3@} Ignorant. {@--4@} Vicious. {#--saH#}
+;
+; TODO Case 41 
+; <L>15023<pc>0548-c<k1>tri<k2>tri
+124430 old {#tri#}¦ {%num. a.%} [Uṇ. 5. 66](declin-
+124430 old {#tri#}¦ {%num. a.%} [Uṇ. 5. 66](declin-
+;
+124431 old <>ed in pl. only, nom. {#trayaH#} {%m.,%} {#tisraH#} {%f.%}
+124431 old <>ed in pl. only, nom. {#trayaH#} {%m.,%} {#tisraH#} {%f.%}
+;
+; TODO Case 42 
+; <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+125729 old <>the sacred thread; cf. Ms. 2. 45-
+125729 old <>the sacred thread; cf. Ms. 2. 45-
+;
+125730 old <>47. {@--4@} The staff of a {#saMnyAsin#} or
+125730 old <>47. {@--4@} The staff of a {#saMnyAsin#} or
+;
+; TODO Case 43 
+; <L>15562<pc>0575-b<k1>dUrataH<k2>dUrataH
+130093 old <>distance; {#tadrAjyaM dUratastyajet#} Pt. 5-
+130093 old <>distance; {#tadrAjyaM dUratastyajet#} Pt. 5-
+;
+130094 old <>69; {#vahati ca parItApaM dozaM vimuMcati dUrataH#}
+130094 old <>69; {#vahati ca parItApaM dozaM vimuMcati dUrataH#}
+;
+; TODO Case 44 
+; <L>15846<pc>0586-a<k1>droRaH<k2>droRaH
+132524 old <>Bhīshma had been mortally wounded-
+132524 old <>Bhīshma had been mortally wounded-
+;
+132525 old <>‘lodged in the cage of darts’ --he as-
+132525 old <>‘lodged in the cage of darts’ --he as-
+;
+; TODO Case 45 
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132860 old <>{#ºiMdraH, ºISaH#} 1. the moon; Śi. 12. 3-
+132860 old <>{#ºiMdraH, ºISaH#} 1. the moon; Śi. 12. 3-
+;
+132861 old <>--2. an epithet of Garuḍa. --3. cam.
+132861 old <>--2. an epithet of Garuḍa. --3. cam.
+;
+; TODO Case 46 
+; <L>15947<pc>0591-b<k1>Danya<k2>Danya
+133611 old <>virtuous. {#--nyaH#} {@--1@} A lucky or bless’-
+133611 old <>virtuous. {#--nyaH#} {@--1@} A lucky or bless’-
+;
+133612 old <>ed man, a fortunate being; {#DanyAsta-#}
+133612 old <>ed man, a fortunate being; {#DanyAsta-#}
+;
+; TODO Case 47 
+; <L>16005<pc>0595-b<k1>DAtf<k2>DAtf
+134418 old <>{#pi BagnodyamaH#} H. 2. 165; R. 13. 6; Śi-
+134418 old <>{#pi BagnodyamaH#} H. 2. 165; R. 13. 6; Śi-
+;
+134419 old <>1. 13; Ku. 7. 44; Ki. 12. 33. {@--4@}
+134419 old <>1. 13; Ku. 7. 44; Ki. 12. 33. {@--4@}
+;
+; TODO Case 48 
+; <L>16174<pc>0601-c<k1>DoritaM<k2>DoritaM
+135834 old <>hurting, striking. {@--2@} Going, motion-
+135834 old <>hurting, striking. {@--2@} Going, motion-
+;
+135835 old <>{@--3@} A horse's trot.
+135835 old <>{@--3@} A horse's trot.
+;
+; TODO Case 49 
+; <L>16175<pc>0601-c<k1>DOta<k2>DOta
+135846 old <>{#tAMSuDOtADaraM#} Gīt. 12. {#--taM#} {@1@} Silver-
+135846 old <>{#tAMSuDOtADaraM#} Gīt. 12. {#--taM#} {@1@} Silver-
+;
+135847 old <>{@--2@} Cleaning, washing. {@--Comp.@} {#--kawa-#}
+135847 old <>{@--2@} Cleaning, washing. {@--Comp.@} {#--kawa-#}
+;
+; TODO Case 50 
+; <L>16184<pc>0602-a<k1>DmA<k2>DmA
+135887 old <>{#yati#}) {@1@} To blow, breathe out, exhale-
+135887 old <>{#yati#}) {@1@} To blow, breathe out, exhale-
+;
+135888 old <>{@--2@} To blow (as a wind-instrument),
+135888 old <>{@--2@} To blow (as a wind-instrument),
+;
+; TODO Case 51 
+; <L>16514<pc>0615-c<k1>nAyikA<k2>nAyikA
+138884 old {#nAyikA#}¦ {@1@} A mistress. {@--2@} A wife-
+138884 old {#nAyikA#}¦ {@1@} A mistress. {@--2@} A wife-
+;
+138885 old <>{@--3@} The heroine of a poetic composi-
+138885 old <>{@--3@} The heroine of a poetic composi-
+;
+; TODO Case 52 
+; <L>16688<pc>0620-b<k1>niculaH<k2>niculaH
+140011 old <>{#KaM#} Me. 14 (where Malli. observes:-
+140011 old <>{#KaM#} Me. 14 (where Malli. observes:-
+;
+140012 old <>{#niculo nAma maha kaviH kAlidAsasya sahADyAyaH;#}
+140012 old <>{#niculo nAma maha kaviH kAlidAsasya sahADyAyaH;#}
+;
+; TODO Case 53 
+; <L>16812<pc>0624-b<k1>nimittaM<k2>nimittaM
+140960 old <>sign, token. {@--5@} A butt, mark, target-
+140960 old <>sign, token. {@--5@} A butt, mark, target-
+;
+140961 old <>{#nimittAdaparAdDezorDAnuzkasyeva valgitaM#} Śi.
+140961 old <>{#nimittAdaparAdDezorDAnuzkasyeva valgitaM#} Śi.
+;
+; TODO Case 54 
+; <L>16995<pc>0634-a<k1>nirmARaM<k2>nirmARaM
+143000 old <>{#nirmARameva hi tadAdaralAlanIyaM#} Māl. 9. 49-
+143000 old <>{#nirmARameva hi tadAdaralAlanIyaM#} Māl. 9. 49-
+;
+143001 old <>{@--5@} A shape, make, figure; {#SarIranirmARa-#}
+143001 old <>{@--5@} A shape, make, figure; {#SarIranirmARa-#}
+;
+; TODO Case 55 
+; <L>16996<pc>0634-a<k1>nirmita<k2>nirmita
+143010 old {#nirmita#}¦ {%p. p.%} {@1@} Constructed, built,-
+143010 old {#nirmita#}¦ {%p. p.%} {@1@} Constructed, built,-
+;
+143011 old <>formed, prepared, made &c. {@--2@} Arti
+143011 old <>formed, prepared, made &c. {@--2@} Arti
+;
+; TODO Case 56 
+; <L>17042<pc>0635-c<k1>nirvAdaH<k2>nirvAdaH
+143356 old <>14. 34. {@--3@} Decision of a controversy-
+143356 old <>14. 34. {@--3@} Decision of a controversy-
+;
+143357 old <>{@--4@} Absence of dispute ({#vAdABAva#}). {@--5@}
+143357 old <>{@--4@} Absence of dispute ({#vAdABAva#}). {@--5@}
+;
+; TODO Case 57 
+; <L>17171<pc>0639-c<k1>nizAdita<k2>nizAdita
+144315 old {#nizAdita#}¦ {%p. p.%} {@1@} Made to sit down-
+144315 old {#nizAdita#}¦ {%p. p.%} {@1@} Made to sit down-
+;
+144316 old <>{@--2@} Afflicted, distressed.
+144316 old <>{@--2@} Afflicted, distressed.
+;
+; TODO Case 58 
+; <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+148042 old <>supposed to invest the soul; they are:--
+148042 old <>supposed to invest the soul; they are:--
+;
+148043 old <>{#annamayakoza#} or the earthly body {#(sTUla-#}
+148043 old <>{#annamayakoza#} or the earthly body {#(sTUla-#}
+;
+; TODO Case 59 
+; <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+148152 old <>vessels. {#--pitf#} {%m.%} pl. the five fathers:--
+148152 old <>vessels. {#--pitf#} {%m.%} pl. the five fathers:--
+;
+148153 old <>{#janakaScopanetA ca yaSca kanyAM prayacCati . anna-#}
+148153 old <>{#janakaScopanetA ca yaSca kanyAM prayacCati . anna-#}
+;
+; TODO Case 60 
+; <L>17988<pc>0674-c<k1>pariRAmaH<k2>pari(rI)RAmaH
+151950 old <>Māl. 9. 24. {@--5@} End, termination,-
+151950 old <>Māl. 9. 24. {@--5@} End, termination,-
+;
+151951 old <>conclusion, close, decline; {#divasAH#}
+151951 old <>conclusion, close, decline; {#divasAH#}
+;
+; TODO Case 61 
+; <L>19252<pc>0716-a<k1>pUrta<k2>pUrta
+161527 old <>{#izwa#} which is thus defined by Atri.--
+161527 old <>{#izwa#} which is thus defined by Atri.--
+;
+161528 old <>{#agnihotraM tazaH satyaM vedAnAM cEva pAlanam . Ati-#}
+161528 old <>{#agnihotraM tazaH satyaM vedAnAM cEva pAlanam . Ati-#}
+;
+; TODO Case 62 
+; <L>21541<pc>0786-a<k1>bata<k2>bata
+178022 old {#bata#}¦ {%ind.%} A particle expressing:-
+178022 old {#bata#}¦ {%ind.%} A particle expressing:-
+;
+178023 old <>{@1@} Sorrow, regret (alas!); {#vayaM bata#}
+178023 old <>{@1@} Sorrow, regret (alas!); {#vayaM bata#}
+;
+; TODO Case 63 
+; <L>21860<pc>0801-a<k1>brahman<k2>brahman
+181407 old <>{#hmacaryo gfhasTASramamAcaret#} Ms. 3. 2; 2-
+181407 old <>{#hmacaryo gfhasTASramamAcaret#} Ms. 3. 2; 2-
+;
+181408 old <>249; Mv. 1. 24. --2. religious study,
+181408 old <>249; Mv. 1. 24. --2. religious study,
+;
+; TODO Case 64 
+; <L>22622<pc>0839-c<k1>maDyama<k2>maDyama
+189465 old <>wife; it is thus defined by Vyāsa:--
+189465 old <>wife; it is thus defined by Vyāsa:--
+;
+189466 old <>{#prezaRaM gaMDamAlyAnAM DUpaBUzaRavAsasAM . pralo-#}
+189466 old <>{#prezaRaM gaMDamAlyAnAM DUpaBUzaRavAsasAM . pralo-#}
+;
+; TODO Case 65 
+; <L>22674<pc>0844-a<k1>maMda<k2>maMda
+190308 old <>{#--karRa#} {%a.%} slightly deaf; (Proverb:--
+190308 old <>{#--karRa#} {%a.%} slightly deaf; (Proverb:--
+;
+190309 old <>{#baDirAnmaMdakarRa Sreyan#} ‘something is
+190309 old <>{#baDirAnmaMdakarRa Sreyan#} ‘something is
+;
+; TODO Case 66 
+; <L>22865<pc>0850-b<k1>mahA<k2>mahA
+191936 old <>of great or medicinal herbs:--
+191936 old <>of great or medicinal herbs:--
+;
+191937 old <>{#pfSnipaRIM SyAmalatA BfMgarAjaH SatAvarI . guqUcA#}
+191937 old <>{#pfSnipaRIM SyAmalatA BfMgarAjaH SatAvarI . guqUcA#}
+;
+; TODO Case 67 
+; <L>22865<pc>0850-b<k1>mahA<k2>mahA
+192391 old <>of the Mahārāṣṭra; cf. Daṇḍin:--
+192391 old <>of the Mahārāṣṭra; cf. Daṇḍin:--
+;
+192392 old <>{#mahArAzwrASrayAM BAzAM prakfzwaM prakftaM vidaH#} Kāv.
+192392 old <>{#mahArAzwrASrayAM BAzAM prakfzwaM prakftaM vidaH#} Kāv.
+;
+; TODO Case 68 
+; <L>22865<pc>0850-b<k1>mahA<k2>mahA
+192399 old <>grievous malady; (these are eight:--
+192399 old <>grievous malady; (these are eight:--
+;
+192400 old <>{#unmAdo rAjayakzmA ca SvAsastvagdoza eva ca . ma-#}
+192400 old <>{#unmAdo rAjayakzmA ca SvAsastvagdoza eva ca . ma-#}
+;
+; TODO Case 69 
+; <L>23163<pc>0865-c<k1>miTyA<k2>miTyA
+194975 old <>falsely. --2. hypocritical. ({#--raH#}) 1-
+194975 old <>falsely. --2. hypocritical. ({#--raH#}) 1-
+;
+194976 old <>wrong treatment (in medic.). --2.
+194976 old <>wrong treatment (in medic.). --2.
+;
+; TODO Case 70 
+; <L>23224<pc>0868-a<k1>muktA<k2>muktA
+195491 old <>particularly from oyster-shells:--
+195491 old <>particularly from oyster-shells:--
+;
+195492 old <>{#karIMdrajImUtavarAhaSaMKamatsyAhiSaktyudBavaveRujA-#}
+195492 old <>{#karIMdrajImUtavarAhaSaMKamatsyAhiSaktyudBavaveRujA-#}
+;
+; TODO Case 71 
+; <L>23615<pc>0882-b<k1>mlecCaH<k2>mlecCaH
+198703 old <>(Baudhāyana thus defines the word:--
+198703 old <>(Baudhāyana thus defines the word:--
+;
+198704 old <>{#gomAMsaKAdako yastu virudDaM bahu BAzate . sarvA-#}
+198704 old <>{#gomAMsaKAdako yastu virudDaM bahu BAzate . sarvA-#}
+;
+; TODO Case 72 
+; <L>23668<pc>0885-b<k1>yatiH<k2>yatiH
+199294 old <>in music. {@--5@} (In prosody) A cæ-
+199294 old <>in music. {@--5@} (In prosody) A cæ-
+;
+199295 old <>sura; {#yatijihvezwaviSrAmasTAnaM kaviBi-#}
+199295 old <>sura; {#yatijihvezwaviSrAmasTAnaM kaviBi-#}
+;
+; TODO Case 73 
+; <L>23674<pc>0885-c<k1>yaTA<k2>yaTA
+199378 old <>({%c%}) since-therefore, as (because)-
+199378 old <>({%c%}) since-therefore, as (because)-
+;
+199379 old <>so; {#yaTA itomuKAgatErapi kalakalaH Sruta-#}
+199379 old <>so; {#yaTA itomuKAgatErapi kalakalaH Sruta-#}
+;
+; TODO Case 74 
+; <L>26370<pc>0989-b<k1>viroDaH<k2>viroDaH
+222506 old <>nature of things they are not so:--
+222506 old <>nature of things they are not so:--
+;
+222507 old <>representing things as being to-
+222507 old <>representing things as being to-
+;
+; TODO Case 75 
+; <L>26906<pc>1009-b<k1>ve<k2>ve
+226996 old <>{#yati sma tadguREH#} N. 1. 12. -
+226996 old <>{#yati sma tadguREH#} N. 1. 12. -
+;
+226997 old <>To braid, plait. {@--3@} To sew. {@--4@} To
+226997 old <>To braid, plait. {@--3@} To sew. {@--4@} To
+;
+; TODO Case 76 
+; <L>27516<pc>1027-1<k1>SakAraH<k2>SakAraH
+231399 old <>his desire; S. D. thus defines him:--
+231399 old <>his desire; S. D. thus defines him:--
+;
+231400 old <>{#madamUrKatABimAnI duzkulatESvaryasaMyuktaH . so-#}
+231400 old <>{#madamUrKatABimAnI duzkulatESvaryasaMyuktaH . so-#}
+;
+; TODO Case 77 
+; <L>27559<pc>1030-b<k1>SaMKinI<k2>SaMKinI
+231890 old <>Ratimañjarī thus describes her:--
+231890 old <>Ratimañjarī thus describes her:--
+;
+231891 old <>{#dIrGAtidIrGanayanA varasuMdarI yA kAmopaBogarasi-#}
+231891 old <>{#dIrGAtidIrGanayanA varasuMdarI yA kAmopaBogarasi-#}
+;
+; TODO Case 78 
+; <L>28049<pc>1048-c<k1>SIlaH<k2>SIlaH
+236027 old <>disposed or habituated to’, ‘in-
+236027 old <>disposed or habituated to’, ‘in-
+;
+236028 old <>‘dulging in’, ‘prone to’, ‘addict-
+236028 old <>‘dulging in’, ‘prone to’, ‘addict-
+;
+; TODO Case 79 
+; <L>28073<pc>1049-c<k1>Suci<k2>Suci
+236267 old <>student. {@--6@} A pure man. {@--7@} A Brāhmaṇa-
+236267 old <>student. {@--6@} A pure man. {@--7@} A Brāhmaṇa-
+;
+236268 old <>{@--8@} The hot season; {#upayaryA vidaDa#}.
+236268 old <>{@--8@} The hot season; {#upayaryA vidaDa#}.
+;
+; TODO Case 80 
+; <L>28519<pc>1064-1<k1>zaz<k2>zaz
+239769 old <>systems. {#--dIrGaH#} the six long vowels:--
+239769 old <>systems. {#--dIrGaH#} the six long vowels:--
+;
+239770 old <>{#A, I, U, E,#} and {#O#}. {#--durgaM (zaqdurgaM)#} the
+239770 old <>{#A, I, U, E,#} and {#O#}. {#--durgaM (zaqdurgaM)#} the
+;
+; TODO Case 81 
+; <L>28538<pc>1066-b<k1>zoqaSan<k2>zoqaSan
+239973 old <>sixteen divine mothers; they are:--
+239973 old <>sixteen divine mothers; they are:--
+;
+239974 old <>{#gOrI padmA SacI meGA sAvitrI vijayA jayA .#}
+239974 old <>{#gOrI padmA SacI meGA sAvitrI vijayA jayA .#}
+;
+; TODO Case 82 
+; <L>28649<pc>1069-c<k1>saMviBaj<k2>saMviBaj
+240750 old <>divide. {@--2@} To distribute, share with-
+240750 old <>divide. {@--2@} To distribute, share with-
+;
+240751 old <>{#snigDajanasaMviBaktaM hi duHKaM sahyavedanaM#}
+240751 old <>{#snigDajanasaMviBaktaM hi duHKaM sahyavedanaM#}
+;
+; TODO Case 83 
+; <L>29086<pc>1085-b<k1>sadA<k2>sadA
+244345 old <>tree. {#--prasUnaH#} N. of various plants:--
+244345 old <>tree. {#--prasUnaH#} N. of various plants:--
+;
+244346 old <>{#sohita, arka#} and {#kuMda#}. {#--Pala#} {%a.%} always
+244346 old <>{#sohita, arka#} and {#kuMda#}. {#--Pala#} {%a.%} always
+;
+; TODO Case 84 
+; <L>29451<pc>1098-b<k1>samAsaH<k2>samAsaH
+247271 old <>speech thus defined by Mammaṭa:--
+247271 old <>speech thus defined by Mammaṭa:--
+;
+247272 old <>{#paroktirBedakEH SlizwEH samAsoktiH#} K. P. 10.
+247272 old <>{#paroktirBedakEH SlizwEH samAsoktiH#} K. P. 10.
+;
+; TODO Case 85 
+; <L>30292<pc>1124-a<k1>sidDAMtin<k2>sidDAMtin
+253288 old <>answering objections (or {#pUrvapakza#})-
+253288 old <>answering objections (or {#pUrvapakza#})-
+;
+253289 old <>{@--2@} One learned in scientific text-
+253289 old <>{@--2@} One learned in scientific text-
+;
+; TODO Case 86 
+; <L>30293<pc>1124-a<k1>sidDiH<k2>sidDiH
+253312 old <>faculty; (these faculties are eight:--
+253312 old <>faculty; (these faculties are eight:--
+;
+253313 old <>{#aRimA laGimA prAptiH prAkAmyaM mahimA taTA .#}
+253313 old <>{#aRimA laGimA prAptiH prAkAmyaM mahimA taTA .#}
+;
+; TODO Case 87 
+; <L>30446<pc>1134-c<k1>sUtraM<k2>sUtraM
+255454 old <>memorial rule; it is thus defined:--
+255454 old <>memorial rule; it is thus defined:--
+;
+255455 old <>{#svalpAkzaramasaMdigDaM sAravadviSvatomuKam . asto-#}
+255455 old <>{#svalpAkzaramasaMdigDaM sAravadviSvatomuKam . asto-#}
+;
+; TODO Case 88 
+; <L>30499<pc>1136-c<k1>sfj<k2>sfj
+255930 old <>send away; forsake, give up; Ku-
+255930 old <>send away; forsake, give up; Ku-
+;
+255931 old <>1. 53. --II. 4 A. ({#sfjyate#}) To be
+255931 old <>1. 53. --II. 4 A. ({#sfjyate#}) To be
+;
+; TODO Case 89 
+; <L>30538<pc>1137-c<k1>seraH<k2>seraH
+256174 old <>{#Sera#}); it is thus defined in Līlāvatī:--
+256174 old <>{#Sera#}); it is thus defined in Līlāvatī:--
+;
+256175 old <>{#pAdonagadyAnakatulyawaMkErdvisaptatulyEH kaTito'tra#}
+256175 old <>{#pAdonagadyAnakatulyawaMkErdvisaptatulyEH kaTito'tra#}
+;
+; TODO Case 90 
+; <L>30751<pc>1144-b<k1>staMB<k2>staMB
+257767 old <>root in its different conjugations:--
+257767 old <>root in its different conjugations:--
+;
+257768 old <>{#staMBate puruzaH prAyo yOvanena Danane ca . na sta-#}
+257768 old <>{#staMBate puruzaH prAyo yOvanena Danane ca . na sta-#}
+;
+; TODO Case 91 
+; <L>31345<pc>1169-a<k1>hastinapuraM<k2>hastina(nA)puraM
+263167 old <>Mahābhārata; its other names are:--
+263167 old <>Mahābhārata; its other names are:--
+;
+263168 old <>{#gajAhvaya, nAgasAhvaya, nAgAhva, hAstina#}.
+263168 old <>{#gajAhvaya, nAgasAhvaya, nAgAhva, hAstina#}.
+;
+; TODO Case 92 
+; [Page1179-b+ 40]
+265317 old <>They are given in the following verse:--
+265317 old <>They are given in the following verse:--
+;
+265318 old <>{#mastrigurustrilaGuSca nakAro#}
+265318 old <>{#mastrigurustrilaGuSca nakAro#}
+;
+; TODO Case 93 
+; [Page1179-b+ 40]
+265326 old <>Gaṇas may be represented as follows:--
+265326 old <>Gaṇas may be represented as follows:--
+;
+265327 old <>{#ya#} {??} (Bacchius)
+265327 old <>{#ya#} {??} (Bacchius)
+;
+; TODO Case 94 
+; [Page1180-a+ 50]
+265367 old <>following order:--
+265367 old <>following order:--
+;
+265368 old <>{%Section%} A {#samavftta#}
+265368 old <>{%Section%} A {#samavftta#}
+;
+; TODO Case 95 
+; [Page1188-b+ 51]
+266214 old <>{#AMryA#}. It is said to have nine sub-divisions:--
+266214 old <>{#AMryA#}. It is said to have nine sub-divisions:--
+;
+266215 old <>{#paTyA vipulA capalA muKacapalA jaGanacapalA ca .#}
+266215 old <>{#paTyA vipulA capalA muKacapalA jaGanacapalA ca .#}
+;
+; TODO Case 96 
+; <L>32004<pc>1191-a<k1>kAlidAsa<k2>kAlidAsa
+266369 old <>is as follows:--
+266369 old <>is as follows:--
+;
+266370 old <>{#yenAyoji na veSma#}
+266370 old <>{#yenAyoji na veSma#}
+;
+; TODO Case 97 
+; <L>32011<pc>1191-b<k1>nArAyaRa<k2>nArAyaRa (BawwanArAyaRa)
+266458 old <>flourished under the reign of Avantivarman 855-
+266458 old <>flourished under the reign of Avantivarman 855-
+;
+266459 old <>884 A. D. (Rāj. T. 5. 34)
+266459 old <>884 A. D. (Rāj. T. 5. 34)
+;

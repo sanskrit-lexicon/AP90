@@ -1,0 +1,280 @@
+; Case 1
+; <L>11<pc>0002-a<k1>aMSuH<k2>aMSuH
+1027 old <>of light. {#--DaraH,#} {#--patiH --Bft, --bARaH--Bartf#}.  <lbinfo n="--"/>
+1027 new <>of light. {#--DaraH,#} {#--patiH --Bft, --bARaH--Bartf#}. {#--#}
+;
+1028 old <>{#--svAmI#} the sun, (bearer of rays or
+1028 new <>{#svAmI#} the sun, (bearer of rays or
+;
+; Case 2
+; <L>199<pc>0010-b<k1>agADa<k2>agADa
+2918 old <>incomprehensible, inscrutable. {#--DaH#}  <lbinfo n="--"/>
+2918 new <>incomprehensible, inscrutable. {#--DaH#} {#--#}
+;
+2919 old <>{#--DaM#} a deep hole or chasm. {#--DaH#} N. of
+2919 new <>{#DaM#} a deep hole or chasm. {#--DaH#} N. of
+;
+; Case 3
+; <L>213<pc>0010-c<k1>agniH<k2>agniH
+3532 old <>medical authority {#(caraka)#}. {#--SaraRaM#}  <lbinfo n="--"/>
+3532 new <>medical authority {#(caraka)#}. {#--SaraRaM#} {#--#}
+;
+3533 old <>{#--SAlA --laM#} a fire-sanctuary;  <lbinfo n="ºmArgamA#deSaya"/>
+3533 new <>{#SAlA --laM#} a fire-sanctuary;  <lbinfo n="ºmArgamA#deSaya"/>
+;
+; Case 4
+; <L>253<pc>0017-c<k1>aMkatiH<k2>aMkatiH
+4372 old <>who keeps the sacred fire. {#--tiH#}  <lbinfo n="--"/>
+4372 new <>who keeps the sacred fire. {#--tiH#} {#--#}
+;
+4373 old <>{#--tI#} {%f.%} Going; one who goes.
+4373 new <>{#tI#} {%f.%} Going; one who goes.
+;
+; Case 5
+; <L>845<pc>0041-b<k1>adIna<k2>adIna
+9818 old <>rich, happy. {@--Comp.@} {#--Atman, --vftti#},  <lbinfo n="--"/>
+9818 new <>rich, happy. {@--Comp.@} {#--Atman, --vftti#}, {#--#}
+;
+9819 old <>{#--sattva#} {%a.%} not depressed in spirit, <lbinfo n="high+spirited"/>
+9819 new <>{#sattva#} {%a.%} not depressed in spirit, <lbinfo n="high+spirited"/>
+;
+; Case 6
+; <L>2136<pc>0095-c<k1>aMtya<k2>aMtya
+21868 old <>59, 171; Y. 3. 231. {#--janman, --jAti#},  <lbinfo n="--"/>
+21868 new <>59, 171; Y. 3. 231. {#--janman, --jAti#}, {#--#}
+;
+21869 old <>{#--jAtIya#} {%a.%} 1. one belonging to the lowest
+21869 new <>{#jAtIya#} {%a.%} 1. one belonging to the lowest
+;
+; Case 7
+; <L>2171<pc>0099-b<k1>anyaTA<k2>anyaTA
+22627 old <>mentioned in Bhāṣā P. 19-22. {#--dDaM#},  <lbinfo n="--"/>
+22627 new <>mentioned in Bhāṣā P. 19-22. {#--dDaM#}, {#--#}
+;
+22628 old <>{#--sidDiH#} {%f.%} wrong demonstration; one
+22628 new <>{#sidDiH#} {%f.%} wrong demonstration; one
+;
+; Case 8
+; <L>3619<pc>0145-b<k1>aByAsaH<k2>aByAsaH
+33315 old <>200; Ms. 5. 4; {#vedaº#} is of 5 kinds:  <lbinfo n="--"/>
+33315 new <>200; Ms. 5. 4; {#vedaº#} is of 5 kinds: {#--#}
+;
+33316 old <>{#--vedasvIkaraRaM pUrvaM vicAro'ByasanaM japaH . taddAnaM#}
+33316 new <>{#vedasvIkaraRaM pUrvaM vicAro'ByasanaM japaH . taddAnaM#}
+;
+; Case 9
+; <L>4068<pc>0161-b<k1>arizwa<k2>arizwa
+37019 old <>Spirituous liquor; Śi. 18. 77. {@--Comp.@}  <lbinfo n="--"/>
+37019 new <>Spirituous liquor; Śi. 18. 77. {@--Comp.@} {#--#}
+;
+37020 old <>{#--asu#} {%a.%} Ved. having one's life unhurt.
+37020 new <>{#asu#} {%a.%} Ved. having one's life unhurt.
+;
+; Case 10
+; <L>4116<pc>0163-b<k1>arka<k2>arka
+37452 old <>{#--puzpaM#} a flower of {%arka.%} {#(--zpI)#},  <lbinfo n="--"/>
+37452 new <>{#--puzpaM#} a flower of {%arka.%} {#(--zpI)#}, {#--#}
+;
+37453 old <>{#--puzpikA#} N. of a plant {#(kuwuMbinI)#}.  <lbinfo n="--pri#yA"/>
+37453 new <>{#puzpikA#} N. of a plant {#(kuwuMbinI)#}.  <lbinfo n="--pri#yA"/>
+;
+; Case 11
+; <L>4116<pc>0163-b<k1>arka<k2>arka
+37454 old <>{#--priyA#} N. of a plant {#(javA)#}. {#--baMDuH#},  <lbinfo n="--"/>
+37454 new <>{#--priyA#} N. of a plant {#(javA)#}. {#--baMDuH#}, {#--#}
+;
+37455 old <>{#--bAMDavaH#} 1. N. of Buddha Śākyamuni.
+37455 new <>{#bAMDavaH#} 1. N. of Buddha Śākyamuni.
+;
+; Case 12
+; <L>7045<pc>0264-b<k1>ASayaH<k2>ASayaH
+60712 old <>of the body; the Āśayas are 7:  <lbinfo n="--"/>
+60712 new <>of the body; the Āśayas are 7: {#--#}
+;
+60713 old <>{#--vAtaº, pittaº, Slezmanº, raktaº, Amaº, pakvaº#}
+60713 new <>{#vAtaº, pittaº, Slezmanº, raktaº, Amaº, pakvaº#}
+;
+; Case 13
+; <L>8420<pc>0315-b<k1>upa<k2>upa
+72117 old <>G. M. the following are its senses:  <lbinfo n="--"/>
+72117 new <>G. M. the following are its senses: {#--#}
+;
+72118 old <>{#--upa #} <lbinfo n="sAmIpyasAmarTyavyAtyAcAryakftimftidozadAna#kriyAvIpsAraMBADyayanapUjanezuH"/>
+72118 new <>{#upa #} <lbinfo n="sAmIpyasAmarTyavyAtyAcAryakftimftidozadAna#kriyAvIpsAraMBADyayanapUjanezuH"/>
+;
+; Case 14
+; <L>8660<pc>0323-b<k1>upaniDiH<k2>upaniDiH
+73972 old <>Ms. 8. 145, 149; cf. Medhātithi:  <lbinfo n="--"/>
+73972 new <>Ms. 8. 145, 149; cf. Medhātithi: {#--#}
+;
+73973 old <>{#--yadapradarSitarUpaM sacihravastrAdinA pihitaM #} <lbinfo n="nikzipya#te"/>
+73973 new <>{#yadapradarSitarUpaM sacihravastrAdinA pihitaM #} <lbinfo n="nikzipya#te"/>
+;
+; Case 15
+; <L>8984<pc>0333-a<k1>upasargaH<k2>upasargaH
+76285 old <>alter, the senses of roots; cf. Sk.:  <lbinfo n="--"/>
+76285 new <>alter, the senses of roots; cf. Sk.: {#--#}
+;
+76286 old <>{#--upasargeRa DAtvarTo balAdanyatra nIyate . #} <lbinfo n="prahArAhArasaM#hAravihAraparihAravat"/>
+76286 new <>{#upasargeRa DAtvarTo balAdanyatra nIyate . #} <lbinfo n="prahArAhArasaM#hAravihAraparihAravat"/>
+;
+; Case 16
+; <L>10186<pc>0375-a<k1>kadalaH<k2>kadalaH, --kadalakaH
+85563 old <>Amaru. 95. {#--lA#} N. of several plants:  <lbinfo n="--"/>
+85563 new <>Amaru. 95. {#--lA#} N. of several plants: {#--#}
+;
+85564 old <>{#--pfSni qiMbikA,#} and {#SAlmali#}. {#--lI#} {@1@} The
+85564 new <>{#pfSni qiMbikA,#} and {#SAlmali#}. {#--lI#} {@1@} The
+;
+; Case 17
+; <L>10433<pc>0383-c<k1>karman<k2>karman
+87585 old <>categories of things; (thus defined:  <lbinfo n="--"/>
+87585 new <>categories of things; (thus defined: {#--#}
+;
+87587 old <>{#--ekadravyamaguRaM saMyogaviBogazvanapekzakAraRaM karma#}
+87587 new <>{#ekadravyamaguRaM saMyogaviBogazvanapekzakAraRaM karma#}
+;
+; Case 18
+; <L>10565<pc>0389-c<k1>kavyaM<k2>kavyaM
+88840 old <>class of manes. {#--vAh#} {%m.,%} {#--vAhaH#},  <lbinfo n="--"/>
+88840 new <>class of manes. {#--vAh#} {%m.,%} {#--vAhaH#}, {#--#}
+;
+88841 old <>{#--vAhanaH#} fire.
+88841 new <>{#vAhanaH#} fire.
+;
+; Case 19
+; <L>10575<pc>0390-a<k1>kaSmIraH<k2>kaSmIraH
+88898 old <>position is thus described in Tantras:  <lbinfo n="--"/>
+88898 new <>position is thus described in Tantras: {#--#}
+;
+88899 old <>{#--SAradAmaWamAraBya kuMkumAdritawAMtakaH . #} <lbinfo n="tAvatka#SmIradeSaH"/>
+88899 new <>{#SAradAmaWamAraBya kuMkumAdritawAMtakaH . #} <lbinfo n="tAvatka#SmIradeSaH"/>
+;
+; Case 20
+; <L>11558<pc>0425-c<k1>koRaH<k2>koRaH
+97001 old <>(It is thus defined by Bharata.:  <lbinfo n="--"/>
+97001 new <>(It is thus defined by Bharata.: {#--#}
+;
+97002 old <>{#--QakkASatasahasrARi BerISataSatAni ca . ekadA#}
+97002 new <>{#QakkASatasahasrARi BerISataSatAni ca . ekadA#}
+;
+; Case 21
+; <L>13055<pc>0482-c<k1>catur<k2>catur
+109625 old <>following popular Maṅgalāṣṭaka:  <lbinfo n="--"/>
+109625 new <>following popular Maṅgalāṣṭaka: {#--#}
+;
+109626 old <>{#--lakzmIH kOstuBapArijAtakasurA DanvaMtariScaMdramA#}
+109626 new <>{#lakzmIH kOstuBapArijAtakasurA DanvaMtariScaMdramA#}
+;
+; Case 22
+; <L>13334<pc>0493-b<k1>citra<k2>citra
+111982 old <>words. Mammaṭa thus defines it:  <lbinfo n="--"/>
+111982 new <>words. Mammaṭa thus defines it: {#--#}
+;
+111983 old <>{#--SabdacitraM vAcyacitramavyaMgyaM tvavaraM smftaM#} K. P.
+111983 new <>{#SabdacitraM vAcyacitramavyaMgyaM tvavaraM smftaM#} K. P.
+;
+; Case 23
+; <L>13695<pc>0504-a<k1>jawa<k2>jawa
+114430 old <>this manner would stand thus:  <lbinfo n="--"/>
+114430 new <>this manner would stand thus: {#--#}
+;
+114431 old <>{#--namo rudreByo rudreByo namo namo rudreByaH#}.
+114431 new <>{#namo rudreByo rudreByo namo namo rudreByaH#}.
+;
+; Case 24
+; <L>16002<pc>0595-a<k1>DAtuH<k2>DAtuH
+134394 old <>{#--rAjakaH --kaM#} semen. {#--vallaBaM#} borax.  <lbinfo n="--"/>
+134394 new <>{#--rAjakaH --kaM#} semen. {#--vallaBaM#} borax. {#--#}
+;
+134395 old <>{#--vAdaH#} mineralogy, metallurgy.  <lbinfo n="--vAdi#n"/>
+134395 new <>{#vAdaH#} mineralogy, metallurgy.  <lbinfo n="--vAdi#n"/>
+;
+; Case 25
+; <L>17772<pc>0667-c<k1>parama<k2>parama
+150316 old <>{#paramARurUpA#} T. S.; (a {#paramARu#} is thus defined:  <lbinfo n="--"/>
+150316 new <>{#paramARurUpA#} T. S.; (a {#paramARu#} is thus defined: {#--#}
+;
+150317 old <>{#--jAlAMtarasTasUryAMSO yatsUkzmaM dfSyate rajaH .#}
+150317 new <>{#jAlAMtarasTasUryAMSO yatsUkzmaM dfSyate rajaH .#}
+;
+; Case 26
+; <L>17786<pc>0668-b<k1>paraSuH<k2>paraSuH
+150502 old <>the Mahendra mountain. cf. Gīt. 1.:  <lbinfo n="--"/>
+150502 new <>the Mahendra mountain. cf. Gīt. 1.: {#--#}
+;
+150503 old <>{#--kzatriyaruDiramaye jagadapagatapApaM snapayasi payasi#}
+150503 new <>{#kzatriyaruDiramaye jagadapagatapApaM snapayasi payasi#}
+;
+; Case 27
+; <L>17974<pc>0674-a<k1>parijalpitaM<k2>parijalpitaM
+151813 old <>Ujjvalamaṇi thus defines it:  <lbinfo n="--"/>
+151813 new <>Ujjvalamaṇi thus defines it: {#--#}
+;
+151814 old <>{#--praBornirdayatASAWyacApalAGupapAdanAt . #} <lbinfo n="svavica#RatAvyaktirBaMgyA"/>
+151814 new <>{#praBornirdayatASAWyacApalAGupapAdanAt . #} <lbinfo n="svavica#RatAvyaktirBaMgyA"/>
+;
+; Case 28
+; <L>21499<pc>0785-a<k1>PAlgunaH<k2>PAlgunaH
+177774 old <>Mb. thus explains the epithet:  <lbinfo n="--"/>
+177774 new <>Mb. thus explains the epithet: {#--#}
+;
+177775 old <>{#--uttarAByAM PalgunIByAM nakzatrAByAmahaM divA . #} <lbinfo n="ja#to"/>
+177775 new <>{#uttarAByAM PalgunIByAM nakzatrAByAmahaM divA . #} <lbinfo n="ja#to"/>
+;
+; Case 29
+; <L>24094<pc>0909-c<k1>rAjyaM<k2>rAjyaM
+204351 old <>(these are usually said to be seven:  <lbinfo n="--"/>
+204351 new <>(these are usually said to be seven: {#--#}
+;
+204352 old <>{#--svAmyamAtyasuhftkozarAzwradurgabalAni ca#} Ak.).
+204352 new <>{#svAmyamAtyasuhftkozarAzwradurgabalAni ca#} Ak.).
+;
+; Case 30
+; <L>24122<pc>0911-a<k1>rAma<k2>rAma
+204671 old <>incarnation of Viṣṇu; cf. Jayadeva:  <lbinfo n="--"/>
+204671 new <>incarnation of Viṣṇu; cf. Jayadeva: {#--#}
+;
+204672 old <>{#--vitarasi dikzu raRe dikpatikamanIyaM #} <lbinfo n="daSamuKamO#libaliM"/>
+204672 new <>{#vitarasi dikzu raRe dikpatikamanIyaM #} <lbinfo n="daSamuKamO#libaliM"/>
+;
+; Case 31
+; <L>25389<pc>0958-a<k1>vAta<k2>vAta
+215185 old <>tree. --2. N. of several plants:  <lbinfo n="--"/>
+215185 new <>tree. --2. N. of several plants: {#--#}
+;
+215186 old <>{#--SatamUlI, SePAlikA, yavAnI, BArgI, snuhI, #} <lbinfo n="vi#qaMga"/>
+215186 new <>{#SatamUlI, SePAlikA, yavAnI, BArgI, snuhI, #} <lbinfo n="vi#qaMga"/>
+;
+; Case 32
+; <L>25546<pc>0963-a<k1>vAsaka<k2>vAsaka
+216374 old <>Nāyikā; S. D. thus defines her:  <lbinfo n="--"/>
+216374 new <>Nāyikā; S. D. thus defines her: {#--#}
+;
+216376 old <>{#--kuruta maMqanaM yAsyAH(yAtu)sajjite vAsaveSmani .#}
+216376 new <>{#kuruta maMqanaM yAsyAH(yAtu)sajjite vAsaveSmani .#}
+;
+; Case 33
+; <L>25920<pc>0974-a<k1>vid<k2>vid
+219018 old <>in some of its conjugations:  <lbinfo n="--"/>
+219018 new <>in some of its conjugations: {#--#}
+;
+219019 old <>{#--vetti sarvARi SAstrARi garvastasya na vidyate . #} <lbinfo n="viM#tte"/>
+219019 new <>{#vetti sarvARi SAstrARi garvastasya na vidyate . #} <lbinfo n="viM#tte"/>
+;
+; Case 34
+; <L>26370<pc>0989-b<k1>viroDaH<k2>viroDaH
+222513 old <>is thus defined by Mammaṭa:  <lbinfo n="--"/>
+222513 new <>is thus defined by Mammaṭa: {#--#}
+;
+222514 old <>{#--viroDa so'viroDe'pi virudDatvena yadvacaH#} K.
+222514 new <>{#viroDa so'viroDe'pi virudDatvena yadvacaH#} K.
+;
+; Case 35
+; <L>28093<pc>1050-b<k1>SudDa<k2>SudDa
+236420 old <>figure of speech; it is thus defined:  <lbinfo n="--"/>
+236420 new <>figure of speech; it is thus defined: {#--#}
+;
+236421 old <>{#--SuDApahnutiranyasyAropArTo DarmanihnavaH#}. {#--Atman#}
+236421 new <>{#SuDApahnutiranyasyAropArTo DarmanihnavaH#}. {#--Atman#}
+;

@@ -1,0 +1,340 @@
+; TODO Case 1 
+; <L>3772<pc>0149-b<k1>amara<k2>amara
+34345 old <>N. of the mountain Sumeru. {#--aDipaH-#}
+34345 new <>N. of the mountain Sumeru. {#--aDipaH,#}
+;
+; TODO Case 2 
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38150 old <>{#--kAma#} {%a.%} desirous of wealth. ({#--mO-#}
+38150 new <>{#--kAma#} {%a.%} desirous of wealth. ({#--mO#}
+;
+; TODO Case 3 
+; <L>7812<pc>0292-c<k1>uttAna<k2>uttAna
+67088 old <>upwardgerminating plants (Sāy.). {#--pAda-#}
+67088 new <>upwardgerminating plants (Sāy.). {#--pAda#}
+;
+; TODO Case 4 
+; <L>12666<pc>0465-a<k1>gfDra<k2>gfDra
+105841 old <>mountain near Rājagṛha. {#--patiH-#}
+105841 new <>mountain near Rājagṛha. {#--patiH#},
+;
+; TODO Case 5 
+; <L>16175<pc>0601-c<k1>DOta<k2>DOta
+135847 old <>{@--2@} Cleaning, washing. {@--Comp.@} {#--kawa-#}
+135847 new <>{@--2@} Cleaning, washing. {@--Comp.@} {#--kawa#}
+;
+; TODO Case 6 
+; <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+148134 old <>Ravee, Chenab and Jhelum). ({#--dA-#}
+148134 new <>Ravee, Chenab and Jhelum). ({#--dAH#}
+;
+; TODO Case 7 
+; <L>17595<pc>0658-a<k1>paMcama<k2>paMcama
+148297 old <>clever, {@--4@} Beautiful, brilliant. {#--maH-#}
+148297 new <>clever, {@--4@} Beautiful, brilliant. {#--maH#}
+;
+; TODO Case 8 
+; <L>19190<pc>0713-a<k1>puzkaraM<k2>puzkaraM
+160881 old <>inauspicious conjunction of planets. {#--raH-#}
+160881 new <>inauspicious conjunction of planets. {#--raH#},
+;
+; TODO Case 9 
+; <L>21068<pc>0770-b<k1>prAc<k2>prAc, prAMc
+174498 old <>{#kPalaH)#} the bread-fruit tree. {#--Pa-#}
+174498 new <>{#kPalaH)#} the bread-fruit tree. {#--Pa #}
+;
+;174499 old <>{#(PA) lgunI (prAkPalgunI)#} the <lbinfo n="ele+venth"/>
+;174499 new <>{#(PA) lgunI (prAkPalgunI)#} the <lbinfo n="ele+venth"/>
+;
+; TODO Case 10 
+; <L>21317<pc>0779-a<k1>prekzA<k2>prekzA
+176453 old <>The branch of a tree. {@--Comp.@} {#--a-#}
+176453 new <>The branch of a tree. {@--Comp.@} {#--a #}
+;
+;176454 old <>{#(A) gAraH --raM, --gfhaM, --sTAnaM#} 1. a
+;176454 new <>{#(A) gAraH --raM, --gfhaM, --sTAnaM#} 1. a
+;
+; TODO Case 11 
+; <L>21642<pc>0791-b<k1>bahis<k2>bahis
+179184 old <>abroad. {#--yoga#} {%a.%} external. {#--laMba-#}
+179184 new <>abroad. {#--yoga#} {%a.%} external. {#--laMba#}
+;
+;179185 old <>{%a.%} obtuse-angled. ({#--baH#}) an <lbinfo n="obtuse+angled"/>
+;179185 new <>{%a.%} obtuse-angled. ({#--baH#}) an <lbinfo n="obtuse+angled"/>
+;
+; TODO Case 12 
+; <L>22249<pc>0821-b<k1>BUta<k2>BUta
+185574 old <>{#SaH#} demoniac possession. {#--ijyaM-#}
+185574 new <>{#SaH#} demoniac possession. {#--ijyaM#},
+;
+;185575 old <>{#--ijyA#} making oblations to the
+;185575 new <>{#--ijyA#} making oblations to the
+;
+; TODO Case 13 
+; <L>23222<pc>0868-a<k1>mukta<k2>mukta
+195463 old <>loudly, aloud: R. 14. 68. {#--kara-#}
+195463 new <>loudly, aloud: R. 14. 68. {#--kara#},
+;
+;195464 old <>{#--hasta#} {%a.%} open-handed, liberal, <lbinfo n="bounti+ful"/>
+;195464 new <>{#--hasta#} {%a.%} open-handed, liberal, <lbinfo n="bounti+ful"/>
+;
+; TODO Case 14 
+; <L>23650<pc>0884-a<k1>yajYaH<k2>yajYaH
+199022 old <>{#ºBuj#} {%m.%} a deity, god, Ku. 3. 14. {#--a-#}
+199022 new <>{#ºBuj#} {%m.%} a deity, god, Ku. 3. 14. {#--a #}
+;
+;199023 old <>{#(A) gAraH --raM#} a sacrificial hall.
+;199023 new <>{#(A) gAraH --raM#} a sacrificial hall.
+;
+; TODO Case 15 
+; <L>23945<pc>0900-c<k1>raMgaH<k2>raMgaH
+202526 old <>{#--pIWaM#} a place for dancing. {#--vI-#}
+202526 new <>{#--pIWaM#} a place for dancing. {#--bI#}
+;
+;202527 old <>{#(vI)jaM#} silver. {#--BUtiH#} {%f.%} 1. the
+;202527 new <>{#(vI)jaM#} silver. {#--BUtiH#} {%f.%} 1. the
+;
+; TODO Case 16 
+; <L>24286<pc>0917-a<k1>retas<k2>retas
+206016 old <>in the last senses.) {@--Comp.@} {#--DA-#}
+206016 new <>in the last senses.) {@--Comp.@} {#--DA#}
+;
+;206017 old <>{%m.%} a father. {#--mArgaH#} the seminal duct
+;206017 new <>{%m.%} a father. {#--mArgaH#} the seminal duct
+;
+; TODO Case 17 
+; <L>30353<pc>1126-a<k1>su<k2>su
+253857 old <>a good action; Pt. 2. 41. {#--keSa-#}
+253857 new <>a good action; Pt. 2. 41. {#--keSa#}
+;
+;253858 old <>{#(sa)raH#} the citron tree. {#--kratuH#} 1. N.
+;253858 new <>{#(sa)raH#} the citron tree. {#--kratuH#} 1. N.
+;
+; from questions2
+; TODO Case 1 
+; <L>505<pc>0029-a<k1>atala<k2>atala
+6992 old <>them. {#--laH#} N. of Śiva. {@--Comp.@} {#--spfS,-#}
+6992 new <>them. {#--laH#} N. of Śiva. {@--Comp.@} {#--spfS#},
+;
+6993 old <>{#sparSa#} {%a.%} [{#na tale spfSyate karmaRi kvip; na#}
+6993 new <>{#-sparSa#} {%a.%} [{#na tale spfSyate karmaRi kvip; na#}
+;
+; TODO Case 2 
+; <L>507<pc>0029-a<k1>atas<k2>atas
+7016 old <>henceforth (of time or place); ({#-paraM, -#}
+7016 new <>henceforth (of time or place); ({#-paraM#}, 
+;
+7017 old <>{#UrDvaM#}), afterwards. {@--4@} Then (corr. of
+7017 new <>{#-UrDvaM#}), afterwards. {@--4@} Then (corr. of
+;
+; TODO Case 3 
+; <L>1321<pc>0061-b<k1>anAdi<k2>anAdi
+14264 old <>{#raRaM;#} also of {#hiraRyagarBa#}. {@--Comp.@} {#--anaMta, -#}
+14264 new <>{#raRaM;#} also of {#hiraRyagarBa#}. {@--Comp.@} {#--anaMta#},
+;
+14265 old <>{#aMta#} {%a.%} without beginning and end;
+14265 new <>{#-aMta#} {%a.%} without beginning and end;
+;
+; TODO Case 4 
+; <L>2161<pc>0098-a<k1>anya<k2>anya
+22367 old <>referring to something else. {#--puzwA,-#}
+22367 new <>referring to something else. {#--puzwA#},
+;
+22368 old <>{#BftA#} ‘reared by another,’ epithet of
+22368 new <>{#-BftA#} ‘reared by another,’ epithet of
+;
+; TODO Case 5 
+; <L>2161<pc>0098-a<k1>anya<k2>anya
+22395 old <>form; {#ºpeRa#} in another form. {#--liMga, ga-#}
+22395 new <>form; {#ºpeRa#} in another form. {#--liMga#},
+;
+22396 old <>{#--ka#} {%a.%} following the gender of another
+22396 new <>{#--ga-ka#} {%a.%} following the gender of another
+;
+; TODO Case 6 
+; <L>2861<pc>0122-c<k1>apramAyuka<k2>apramAyuka
+27887 old {#apramAyuka#}¦ {%a.%} [{#pra-mi-uR Attve yuc,-#}
+27887 new {#apramAyuka#}¦ {%a.%} [{#pra-mi-uR Attve yuc#},
+;
+;27888 old <>{#svArTe kan#} Tv.] Not dying suddenly,
+;27888 new <>{#svArTe kan#} Tv.] Not dying suddenly,
+;
+; TODO Case 7 
+; <L>4034<pc>0160-b<k1>araviMdaM<k2>araviMdaM
+36748 old <>Viṣṇu. {#--dalapraBaM#} copper. {#--nABiH,-#}
+36748 new <>Viṣṇu. {#--dalapraBaM#} copper. {#--nABiH#},
+;
+36749 old <>{#BaH#} N. of Viṣṇu, from whose navel
+36749 new <>{#-BaH#} N. of Viṣṇu, from whose navel
+;
+; TODO Case 8 
+; <L>4315<pc>0174-a<k1>aloka<k2>aloka
+;39705 old <>absence of people; {#rakza sarvAnimAllo~-#}
+;39705 new <>absence of people; {#rakza#}  <lbinfo n="sarvAnimAllo~#kAn"/>
+;
+;39706 old <>{#kAn nAlokaM kartumarhasiM#} Rām. {@--3@}
+;39706 new <>{#sarvAnimAllo~kAn nAlokaM kartumarhasiM#} Rām. {@--3@}
+;
+; TODO Case 9 
+; <L>4708<pc>0185-c<k1>avayAj<k2>avayAj
+42457 old <>particular portion of a sacrifice. {%--m.%} ({#-yAH,-#}
+42457 new <>particular portion of a sacrifice. {%--m.%} ({#-yAH#},
+;
+42458 old <>{#yAjO#}) A kind of priest.
+42458 new <>{#-yAjO#}) A kind of priest.
+;
+; TODO Case 10 
+; <L>4897<pc>0191-c<k1>avastu<k2>avastu
+43874 old <>{#jYAnaM#} attribution of unreality; {#ºtA,-#}
+43874 new <>{#jYAnaM#} attribution of unreality; {#-tA#},
+;
+43875 old <>{#tvaM#} unreality.
+43875 new <>{#-tvaM#} unreality.
+;
+; TODO Case 11 
+; <L>6641<pc>0251-b<k1>Ayam<k2>Ayam
+57637 old <>lengthen out, stretch out; {#vastraM-pARiM-#}
+57637 new <>lengthen out, stretch out; {#vastraM-pARiM-#}
+;
+57638 old <>{#-AyacCate#} Sk.; {#svAMgamAyacCamAnaH#} Ś.
+57638 new <>{#AyacCate#} Sk.; {#svAMgamAyacCamAnaH#} Ś.
+;
+; TODO Case 12 
+; <L>9518<pc>0352-a<k1>eka<k2>eka
+80720 old <>{#--devaH#} the Supreme god. {#--devata, --de-#}
+80720 new <>{#--devaH#} the Supreme god. {#--devata#},
+;
+80721 old <>{#(dE) vatya#} {%a.%} devoted, directed, or
+80721 new <>{#--de(dE) vatya#} {%a.%} devoted, directed, or
+;
+; TODO Case 13 
+; <L>10110<pc>0371-c<k1>kaMwAluH<k2>kaMwAluH
+84872 old {#kaMwAluH#}¦ {%f.%} N. of several plants: {#-#}
+84872 new {#kaMwAluH#}¦ {%f.%} N. of several plants:
+;
+;84873 old <>{#vArtakI, vaMSa, varvura, bfhatI#}.
+;84873 new <>{#vArtakI, vaMSa, varvura, bfhatI#}.
+;
+; TODO Case 14 
+; <L>13362<pc>0495-a<k1>cira<k2>cira
+112316 old <>{%a.%} existing for a long time. {#--kAra,-#}
+112316 new <>{%a.%} existing for a long time. {#--kAra#},
+;
+112317 old <>{#kArika, --kArin, --kriya#} {%a.%} acting slowly,
+112317 new <>{#--kArika, --kArin, --kriya#} {%a.%} acting slowly,
+;
+; TODO Case 15 
+; <L>15561<pc>0574-c<k1>dUra<k2>dUra
+;130012 old <>{#vyavasAyinAM#} Chāṇ. 73; {#na yojanaSataM dUraM vAhyamA-#}
+;130012 new <>{#vyavasAyinAM#} Chāṇ. 73; {#na yojanaSataM dUraM vAhyamA-#}
+;
+130013 old <>{#(nasya tfzRayA#} H. 1. 146, 49. {#--raM#} Dis- 
+130013 new <>{#nasya tfzRayA#} H. 1. 146, 49. {#--raM#} Dis- 
+;
+; TODO Case 16 
+; <L>17260<pc>0644-a<k1>nisfzwa<k2>nisfzwa
+145219 old <>an agent; see S. D, 86, 87. {#ºdUtI-#}
+145219 new <>an agent; see S. D, 86, 87. {#ºdUtI#}
+;
+;145220 old <>a female who, having discovered
+;145220 new <>a female who, having discovered
+;
+; TODO Case 17 
+; <L>21648<pc>0791-c<k1>bahu<k2>bahu
+179222 old <>numerous; as in {#bahvakzara, bahuprakAra-#}
+179222 new <>numerous; as in {#bahvakzara, bahuprakAra#}.
+;
+;179223 old <>{@--3@} Frequented, repeated. {@--4@} Large,
+;179223 new <>{@--3@} Frequented, repeated. {@--4@} Large,
+;
+; TODO Case 18 
+; <L>25545<pc>0963-a<k1>vAsaH<k2>vAsaH
+216343 old <>Clothes, dress. {@--Comp.@} {#--a (A)-#}
+216343 new <>Clothes, dress. {@--Comp.@}
+;
+216344 old <>{#gAraH --raM, --gfhaM, --veSman#} {%n.%} the inner <lbinfo n="a+partments"/>
+216344 new <>{#--a (A)-gAraH --raM, --gfhaM, --veSman#} {%n.%} the inner <lbinfo n="a+partments"/>
+;
+; TODO Case 19 
+; <L>27820<pc>1040-b<k1>SAbara<k2>SAba(va)ra
+234158 old {#SAba(va)ra#}¦  {%a.%} ({#rI#} {%f.%}) [{#Saba-#}
+234158 new {#SAba(va)ra#}¦  {%a.%} ({#rI#} {%f.%})
+;
+234159 old <>{#(va) ra-aR#}] {@1@} Savage, barbarous. {@--2@}
+234159 new <>[{#Saba(va) ra-aR#}] {@1@} Savage, barbarous. {@--2@}
+;
+; TODO Case 20 
+; <L>31208<pc>1162-c<k1>svAhA<k2>svAhA
+261825 old <>{#rjitAni SmaSAnatulyAni gfhARi tAni-#}
+261825 new <>{#rjitAni SmaSAnatulyAni gfhARi tAni#}.
+;
+;261826 old <>{#--patiH, --priyaH#} {%Agni%} or fire. {#--Buj#}
+;261826 new <>{#--patiH, --priyaH#} {%Agni%} or fire. {#--Buj#}
+;
+; TODO Case 21 
+; <L>32172<pc>1196-b<k1>sOrAzwra<k2>sOrAzwra
+267116 old <>Kattywar. Dvārakā is called {#AnartanagarI#} or {#abDinagarI-#}
+267116 new <>Kattywar. Dvārakā is called {#AnartanagarI#} or {#abDinagarI#}.
+;
+267117 old <>The old Dvārakā stood near Madhupura 95 miles
+267117 new <>The old Dvārakā stood near Madhupura 95 miles
+;
+; ---------------- long Devanagari text hard to handle manually
+; insert a space character
+103486 old <>{#garBiRIpriyanavolapamAlaBAresevyopaMkaWavi-#}
+103486 new <>{#garBiRI priyanavolapamAlaBAresevyopaMkaWavi-#}
+;
+122958 old <>{#calatstrIcaraRAruRotpalasKalattulAkowini-#}
+122958 new <>{#calatstrI caraRAruRotpalasKalattulAkowini-#}
+;
+191354 old <>{#dakalamallikAkzapakzavyADUtasPuradurudaMqapuMqarI-#}
+191354 new <>{#dakala mallikAkzapakzavyADUtasPuradurudaMqapuMqarI-#}
+;
+230138 old <>{#puzkareritAMbuvyAtyukzImaBisaraRaglahAmadIvya-#}
+230138 new <>{#puzka reritAMbuvyAtyukzImaBisaraRaglahAmadIvya-#}
+; ---- other miscellany
+173318 old {#prasUna#}¦ {%p. p.%} Produced, born. {#--naM--#}
+173318 new {#prasUna#}¦ {%p. p.%} Produced, born. {#--naM#}.
+;
+3879 old <>See {#AgrayaRa#}. {#--yAna#} {%a.%} [{#agre yAnaM yasya, yA--#}
+3879 new <>See {#AgrayaRa#}. {#--yAna#} {%a.%} [{#agre yAnaM yasya, yA-#}
+;
+37454 old <>{#yA#} N. of a plant {#(javA)#}. {#--baMDuH,--#}
+37454 new <>{#yA#} N. of a plant {#(javA)#}. {#--baMDuH#}, {#--#}
+;
+2918 old <>incomprehensible, inscrutable. {#--DaH --#}
+2918 new <>incomprehensible, inscrutable. {#--DaH#} {#--#}
+;
+3532 old <>medical authority {#(caraka)#}. {#--SaraRaM --#}
+3532 new <>medical authority {#(caraka)#}. {#--SaraRaM#} {#--#}
+;
+4372 old <>who keeps the sacred fire. {#--tiH --#}
+4372 new <>who keeps the sacred fire. {#--tiH#} {#--#}
+;
+9818 old <>rich, happy. {@--Comp.@} {#--Atman, --vftti, --#}
+9818 new <>rich, happy. {@--Comp.@} {#--Atman, --vftti#}, {#--#}
+;
+21868 old <>59, 171; Y. 3. 231. {#--janman, --jAti, --#}
+21868 new <>59, 171; Y. 3. 231. {#--janman, --jAti#}, {#--#}
+;
+22627 old <>mentioned in Bhāṣā P. 19-22. {#--dDaM, --#}
+22627 new <>mentioned in Bhāṣā P. 19-22. {#--dDaM#}, {#--#}
+;
+37452 old <>{#--puzpaM#} a flower of {%arka.%} {#(--zpI), --#}
+37452 new <>{#--puzpaM#} a flower of {%arka.%} {#(--zpI)#}, {#--#}
+;
+88840 old <>class of manes. {#--vAh#} {%m.,%} {#--vAhaH, --#}
+88840 new <>class of manes. {#--vAh#} {%m.,%} {#--vAhaH#}, {#--#}
+;
+134348 old <>considered to be 7: {#--rasAsfNmAMsamedo'-#}
+134348 new <>considered to be 7: 
+;
+134349 old <>{#sTimajjASukrARi DAtavaH,#} or sometimes
+134349 new <>{#--rasAsfNmAMsamedo'sTimajjASukrARi DAtavaH,#} or sometimes
+; remove space at end
+87585 old <>categories of things; (thus defined: {#-- #}
+87585 new <>categories of things; (thus defined: {#--#}
+;
+216374 old <>Nāyikā; S. D. thus defines her: {#-- #}
+216374 new <>Nāyikā; S. D. thus defines her: {#--#}
+;

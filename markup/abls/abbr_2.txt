@@ -1,0 +1,80 @@
+A.:ab:0:Ātmanepada.:1016
+Atm.:ab:1:Ātmanepada.:79
+a.:ab:2:Adjective.:19176
+abl.:ab:3:Ablative.:129
+acc.:ab:4:Accusative.:237
+adv.:ab:5:Adverb.:93
+alg.:ab:6:Algebra.:11
+Arith.:ab:7:Arithmetic.:3
+A. S.:ab:8:Anglo-Saxon.:3
+astr.:ab:9:Astronomy.:57
+astrol.:ab:10:Astrology.:8
+Avyayī.:ab:11:Avyayībhāva.:3
+Bah.:ab:12:Bahuvrīhi.:15
+Caus.:ab:13:Causal.:789
+cf.:ab:14:Compare.:1037
+Com.:ab:15:Commentary.:13
+comp.:ab:16:Compound.:591
+dat.:ab:17:Dative.:106
+Den.:ab:18:Denominative.:305
+desid.:ab:19:Desiderative.:79
+du.:ab:20:Dual.:46
+e. g.:ab:21:Exempli gratia, for example.:250
+Eng.:ab:22:English.:9
+Ety.:ab:23:Etymology.:3
+Etym.:ab:24:Etymology.:0
+ety.:ab:25:Etymology.:95
+etym.:ab:26:Etymology.:1
+f.:ab:27:Feminine.:6147
+fem.:ab:28:Feminine.:3
+fig.:ab:29:Figuentative.:364
+fr.:ab:30:From.:31
+freq.:ab:31:Frequentative.:5
+gen.:ab:32:Genitive.:150
+Germ.:ab:33:German.:14
+Goth.:ab:34:Gothic.:12
+Gr.:ab:35:Greek.:56
+gram.:ab:36:Grammar.:150
+ibid.:ab:37:The same.:72
+i. e.:ab:38:id est, that is.:484
+ind.:ab:39:Indeclinable.:1734
+inf.:ab:40:Infinitive.:48
+instr.:ab:41:Instrumental.:106
+L.:ab:42:Latin.:117
+lit.:ab:43:Literal.:108
+loc.:ab:44:Locative.:205
+m.:ab:45:Masculine.:5096
+mas.:ab:46:Masculine.:6
+Mar.:ab:47:Marāṭhī.:130
+Math.:ab:48:Mathematics.:26
+Medic.:ab:49:Medicine.:6
+n.:ab:50:Neuter.:11573
+N.:ab:51:Name.:4701
+N. B.:ab:52:Name.:18
+Nom.:ab:53:Nominative.:32
+num. a.:ab:54:Numeral adjective.:11
+oft.:ab:55:Often times.:191
+opp.:ab:56:Opposite of.:320
+P.:ab:57:Parasmaipada.:3565
+pass.:ab:58:Passive.:122
+pers.:ab:59:Persian.:12
+phil.:ab:60:Philosophy.:124
+pl.:ab:61:Plural.:394
+pot. p.:ab:62:Potential passive participle.:130
+p. p.:ab:63:Past passive participle.:1551
+Pres.:ab:64:Present tense.:2
+pres. p.:ab:65:Present participle.:7
+pron. a.:ab:66:Pronominal adjective.:21
+q. v.:ab:67:quod vide, which see.:914
+Rhet.:ab:68:Rhetoric.:100
+sing.:ab:69:Singular.:379
+Subst.:ab:70:Substantive.:0
+s. v.:ab:71:sub voce, see under the word.:18
+Tat.:ab:72:Tatpuruṣa.:10
+U.:ab:73:Ubhayapada (Parasmai. and Ātmane.):2428
+Vārt.:ab:74:Vārtika.:42
+Ved.:ab:75:Vedic.:1876
+v. l.:ab:76:Various reading.:121
+Voc.:ab:77:Vocative.:4
+A. D.:ab:78:Anno Domini = CE (Common Era):23
+B. C.:ab:79:Before Christ = BCE (Before Common Era):7

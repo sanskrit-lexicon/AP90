@@ -1,0 +1,1784 @@
+; TODO Case 1: fRAdA-nAdivyavahArARAM -> fRAdAnAdivyavahArARAM
+; <L>118<pc>0005-c<k1>akzaH<k2>akzaH
+1979 old <>gambling. {#--darSakaH, --dfS#} [{#akzARAM fRAdA-#} 
+1979 new <>gambling. {#--darSakaH, --dfS#} [{#akzARAM #} <lbinfo n="fRAdA#nAdivyavahArARAM"/>
+;
+1981 old <>{#nAdivyavahArARAM darSakaH dfS-Rvul, akzAn #} <lbinfo n="paSya#tIti"/>
+1981 new <>{#fRAdAnAdivyavahArARAM darSakaH dfS-Rvul, akzAn #} <lbinfo n="paSya#tIti"/>
+;
+; TODO Case 2: vIpsArTa-kArake -> vIpsArTakArake
+; <L>135<pc>0007-c<k1>akzaraSaH<k2>akzaraSaH
+2318 old {#akzaraSaH#}¦ {%<ab>adv.</ab>%} [{#akzaramakzaramiti vIpsArTa-#} 
+2318 new {#akzaraSaH#}¦ {%<ab>adv.</ab>%} [{#akzaramakzaramiti #} <lbinfo n="vIpsArTa#kArake"/>
+;
+2320 old <>{#kArake Sas#}] {@1.@} Syllable by syllable.
+2320 new <>{#vIpsArTakArake Sas#}] {@1.@} Syllable by syllable.
+;
+; TODO Case 3: sa-mAhAradvaMdva -> samAhAradvaMdva
+; <L>141<pc>0008-a<k1>akzi<k2>akzi
+2391 old <>varieties of the eye-disease. {#--BruvaM#} [{#sa-#} 
+2391 new <>varieties of the eye-disease. {#--BruvaM#} [ <lbinfo n="sa#mAhAradvaMdva"/>
+;
+2393 old <>{#mAhAradvaMdva#}] the eye and the eyebrows
+2393 new <>{#samAhAradvaMdva#}] the eye and the eyebrows
+;
+; TODO Case 4: aKaMqa-kalaH -> aKaMqakalaH
+; <L>168<pc>0008-c<k1>aKaMqa<k2>aKaMqa
+2566 old <>{#aKaMqaM puRyAnAM Palamiva#} <ls>Ś. 2. 10</ls>; {#aKaMqa-#} 
+2566 new <>{#aKaMqaM puRyAnAM Palamiva#} <ls>Ś. 2. 10</ls>;  <lbinfo n="aKaMqa#kalaH"/>
+;
+2568 old <>{#kalaH SaSI#} <ls>Māl. 2. 2</ls> with <lbinfo n="undiminish+ed"/>
+2568 new <>{#aKaMqakalaH SaSI#} <ls>Māl. 2. 2</ls> with <lbinfo n="undiminish+ed"/>
+;
+; TODO Case 5: sA-gnitretA -> sAgnitretA
+; <L>213<pc>0010-c<k1>agniH<k2>agniH
+3031 old <>{#gnirmAtAgnirdakziRaH smftaH . gururAhavanIyastu sA-#} 
+3031 new <>{#gnirmAtAgnirdakziRaH smftaH . gururAhavanIyastu #} <lbinfo n="sA#gnitretA"/>
+;
+3033 old <>{#gnitretA garIyasI ..#} <ls>Ms. 2. 231.</ls> {@--4@}
+3033 new <>{#sAgnitretA garIyasI ..#} <ls>Ms. 2. 231.</ls> {@--4@}
+;
+; TODO Case 6: DizRyolkA-SanividyuttArA -> DizRyolkASanividyuttArA
+; <L>213<pc>0010-c<k1>agniH<k2>agniH
+3172 old <>{#BuktaSuBaPalAnAM patatAM rUpARi yAni tAnyulkAH . DizRyolkA-#} 
+3172 new <>{#BuktaSuBaPalAnAM patatAM rUpARi yAni tAnyulkAH . #} <lbinfo n="DizRyolkA#SanividyuttArA"/>
+;
+3174 old <>{#SanividyuttArA iti paMcaDA BinnAH .. ulkA pakzeRa#}
+3174 new <>{#DizRyolkASanividyuttArA iti paMcaDA BinnAH .. ulkA pakzeRa#}
+;
+; TODO Case 7: ta-pAH -> tapAH
+; <L>213<pc>0010-c<k1>agniH<k2>agniH
+3296 old <>burning like fire; ({#tapatIti tapAH agniriva ta-#} 
+3296 new <>burning like fire; ({#tapatIti tapAH agniriva #} <lbinfo n="ta#pAH"/>
+;
+3298 old <>{#pAH#}) hot as fire. {#--tejas#} {%<ab>a.</ab>%} having
+3298 new <>{#tapAH#}) hot as fire. {#--tejas#} {%<ab>a.</ab>%} having
+;
+; TODO Case 8: sTA-ka -> sTAka
+; <L>213<pc>0010-c<k1>agniH<k2>agniH
+3606 old <>sacrifice. {#--sTa#} {%<ab>a.</ab>%} {#(zWa)#} [{#agnO sTAtumarhati; sTA-#} 
+3606 new <>sacrifice. {#--sTa#} {%<ab>a.</ab>%} {#(zWa)#} [{#agnO sTAtumarhati; #} <lbinfo n="sTA#ka"/>
+;
+3608 old <>{#ka zatvaM]#} placed in, over, or near the
+3608 new <>{#sTAka zatvaM]#} placed in, over, or near the
+;
+; TODO Case 9: mu-drA -> mudrA
+; <L>260<pc>0017-c<k1>aMkuSaH<k2>aMkuSaH
+4435 old <>{#--DArin#} {%<ab>m.</ab>%} a keeper of an elephant. {#--mu-#} 
+4435 new <>{#--DArin#} {%<ab>m.</ab>%} a keeper of an elephant. {#--#} <lbinfo n="mu#drA"/>
+;
+4437 old <>{#drA#} [{#aMkuSAkArA mudrA]#} a mark <lbinfo n="resem+bling"/>
+4437 new <>{#mudrA#} [{#aMkuSAkArA mudrA]#} a mark <lbinfo n="resem+bling"/>
+;
+; TODO Case 10: pA-dyA -> pAdyA
+; <L>304<pc>0021-a<k1>aMguliH<k2>aMguliH --lI --riH --rI
+5152 old <>{#ekaviMSoyaM puruzaH daSa hastyA aMgulayo daSa pA-#} 
+5152 new <>{#ekaviMSoyaM puruzaH daSa hastyA aMgulayo daSa #} <lbinfo n="pA#dyA"/>
+;
+5154 old <>{#dyA AtmEkaviMSaH#} Ait. Br. {@--2@} The thumb,
+5154 new <>{#pAdyA AtmEkaviMSaH#} Ait. Br. {@--2@} The thumb,
+;
+; TODO Case 11: lIlAMcita-vikramezu -> lIlAMcitavikramezu
+; <L>427<pc>0026-a<k1>aMcita<k2>aMcita
+6299 old <><ls>Mv. 7. 8</ls> graced, adorned; {#gatezu lIlAMcita-#} 
+6299 new <><ls>Mv. 7. 8</ls> graced, adorned; {#gatezu #} <lbinfo n="lIlAMcita#vikramezu"/>
+;
+6301 old <>{#vikramezu#} <ls>Ku. 1. 34</ls> sportively <lbinfo n="hand+some"/>
+6301 new <>{#lIlAMcitavikramezu#} <ls>Ku. 1. 34</ls> sportively <lbinfo n="hand+some"/>
+;
+; TODO Case 12: narta-yasi -> nartayasi
+; <L>507<pc>0029-a<k1>atas<k2>atas
+7005 old <>{#vizRurvicakrame#} <ls>Rv. 1. 22. 16</ls>; {#kimu paramato narta-#} 
+7005 new <>{#vizRurvicakrame#} <ls>Rv. 1. 22. 16</ls>; {#kimu paramato #} <lbinfo n="narta#yasi"/>
+;
+7007 old <>{#yasi mAM#} <ls>Bh. 3. 6</ls>; {#ato'nyaTA#}  <lbinfo n="ls:Ms. 5.+ 31."/>
+7007 new <>{#nartayasi mAM#} <ls>Bh. 3. 6</ls>; {#ato'nyaTA#}  <lbinfo n="ls:Ms. 5.+ 31."/>
+;
+; TODO Case 13: jyezWA-tikramaH -> jyezWAtikramaH
+; <L>521<pc>0030-a<k1>atikramaH<k2>atikramaH
+7215 old <>{#gurujanAtikramAt#} <ls>K. 160</ls>; {#SaSino jyezWA-#} 
+7215 new <>{#gurujanAtikramAt#} <ls>K. 160</ls>; {#SaSino #} <lbinfo n="jyezWA#tikramaH"/>
+;
+7217 old <>{#tikramaH#} 56 transgression (passing
+7217 new <>{#jyezWAtikramaH#} 56 transgression (passing
+;
+; TODO Case 14: bf-hatkaTA -> bfhatkaTA
+; <L>577<pc>0031-c<k1>atidvaya<k2>atidvaya
+7623 old <>{#dbayaM yasya vA#}] Surpassing the two ({#bf-#} 
+7623 new <>{#dbayaM yasya vA#}] Surpassing the two ( <lbinfo n="bf#hatkaTA"/>
+;
+7625 old <>{#hatkaTA#} and {#vAsavadattA#}), or having no
+7625 new <>{#bfhatkaTA#} and {#vAsavadattA#}), or having no
+;
+; TODO Case 15: munivratEstvAmatimAtra-karSitAM -> munivratEstvAmatimAtrakarSitAM
+; <L>627<pc>0033-a<k1>atimAtra<k2>atimAtra
+7959 old <>{#ºlohitatalO#} 1. 30; {#munivratEstvAmatimAtra-#} 
+7959 new <>{#ºlohitatalO#} 1. 30;  <lbinfo n="munivratEstvAmatimAtra#karSitAM"/>
+;
+7961 old <>{#karSitAM#} <ls>Ku. 5. 48</ls> {#--traM, --mAtraSaH#} {%<ab>ind.</ab>%}
+7961 new <>{#munivratEstvAmatimAtrakarSitAM#} <ls>Ku. 5. 48</ls> {#--traM, --mAtraSaH#} {%<ab>ind.</ab>%}
+;
+; TODO Case 16: asmiMstamAla-viwapAMDakAre -> asmiMstamAlaviwapAMDakAre
+; <L>664<pc>0034-a<k1>ativah<k2>ativah
+8203 old <>oneself of, elude, avoid; {#asmiMstamAla-#} 
+8203 new <>oneself of, elude, avoid;  <lbinfo n="asmiMstamAla#viwapAMDakAre"/>
+;
+8205 old <>{#viwapAMDakAre praviSya enamativAhayAvaH#}
+8205 new <>{#asmiMstamAlaviwapAMDakAre praviSya enamativAhayAvaH#}
+;
+; TODO Case 17: gomUtragomayakzIradaDisa-rpiHkuSodakAnyekAhaM -> gomUtragomayakzIradaDisarpiHkuSodakAnyekAhaM
+; <L>711<pc>0035-c<k1>atisAMtapanaM<k2>atisAMtapanaM
+8584 old <>austere penance; ({#gomUtragomayakzIradaDisa-#} 
+8584 new <>austere penance; ( <lbinfo n="gomUtragomayakzIradaDisa#rpiHkuSodakAnyekAhaM"/>
+;
+8586 old <>{#rpiHkuSodakAnyekAhaM dvitIyamupavasettatsAMtapanaM;#}
+8586 new <>{#gomUtragomayakzIradaDisarpiHkuSodakAnyekAhaM dvitIyamupavasettatsAMtapanaM;#}
+;
+; TODO Case 18: aM-guliryatra -> aMguliryatra
+; <L>831<pc>0040-b<k1>adas<k2>adas
+9643 old {#adas#}¦ {%<ab>pron. a.</ab>%} [{#na dasyate utkzipyate aM-#} 
+9643 new {#adas#}¦ {%<ab>pron. a.</ab>%} [{#na dasyate utkzipyate #} <lbinfo n="aM#guliryatra"/>
+;
+9645 old <>{#guliryatra idaMtayA nirdDAraRAya purovartini #} <lbinfo n="evAMguli#nirdeSaH"/>
+9645 new <>{#aMguliryatra idaMtayA nirdDAraRAya purovartini #} <lbinfo n="evAMguli#nirdeSaH"/>
+;
+; TODO Case 19: tu-qAgamaSca -> tuqAgamaSca
+; <L>879<pc>0042-c<k1>adyatana<k2>adyatana
+10147 old {#adyatana#}¦ {%<ab>a.</ab>%} ({#nI#} {%<ab>f.</ab>%}) [{#adya BavaH; adya wyu tu-#} 
+10147 new {#adyatana#}¦ {%<ab>a.</ab>%} ({#nI#} {%<ab>f.</ab>%}) [{#adya BavaH; adya wyu #} <lbinfo n="tu#qAgamaSca"/>
+;
+10149 old <>{#qAgamaSca#}] {@1@} Pertaining or referring
+10149 new <>{#tuqAgamaSca#}] {@1@} Pertaining or referring
+;
+; TODO Case 20: prahAravarma-RyaDi -> prahAravarmaRyaDi
+; <L>925<pc>0045-c<k1>aDiH<k2>aDiH
+10767 old <>of ‘ruler’; {#aDi rAme BUH#} {%ibid;%} {#prahAravarma-#} 
+10767 new <>of ‘ruler’; {#aDi rAme BUH#} {%ibid;%}  <lbinfo n="prahAravarma#RyaDi"/>
+;
+10769 old <>{#RyaDi videhA jAtAH#} <ls>Dk. 77</ls> subject to,
+10769 new <>{#prahAravarmaRyaDi videhA jAtAH#} <ls>Dk. 77</ls> subject to,
+;
+; TODO Case 21: vyaDika-raRo -> vyaDikaraRo
+; <L>929<pc>0046-c<k1>aDikaraRaM<k2>aDikaraRaM
+10949 old <>apposition; {#samAnADikaraRo#} or {#vyaDika-#} 
+10949 new <>apposition; {#samAnADikaraRo#} or  <lbinfo n="vyaDika#raRo"/>
+;
+10951 old <>{#raRo bahuvrIhiH; pItAMbaraH, cakrapARiH#} &c. {@--4@}
+10951 new <>{#vyaDikaraRo bahuvrIhiH; pItAMbaraH, cakrapARiH#} &c. {@--4@}
+;
+; TODO Case 22: tatrADi-gamaM -> tatrADigamaM
+; <L>947<pc>0048-a<k1>aDigamaH<k2>aDigamaH --manaM
+11217 old <>{#DanaprAptiH;#} {#sTApayaMti tu yAM vfdDiM sA tatrADi-#} 
+11217 new <>{#DanaprAptiH;#} {#sTApayaMti tu yAM vfdDiM sA #} <lbinfo n="tatrADi#gamaM"/>
+;
+11219 old <>{#gamaM prati#} <ls>Ms. 8. 157.</ls> {@--4@} Acceptance.
+11219 new <>{#tatrADigamaM prati#} <ls>Ms. 8. 157.</ls> {@--4@} Acceptance.
+;
+; TODO Case 23: tvamaDizWAsya-si -> tvamaDizWAsyasi
+; <L>1036<pc>0050-b<k1>aDizWA<k2>aDizWA
+11795 old <>{#tAnaDizWAsyan#} <ls>Bk. 9. 72</ls>; {#tvamaDizWAsya-#} 
+11795 new <>{#tAnaDizWAsyan#} <ls>Bk. 9. 72</ls>;  <lbinfo n="tvamaDizWAsya#si"/>
+;
+11797 old <>{#si dvizaH#} 16. 40; {#sa sadA #} <lbinfo n="PalaSAli#nIM"/>
+11797 new <>{#tvamaDizWAsyasi dvizaH#} 16. 40; {#sa sadA #} <lbinfo n="PalaSAli#nIM"/>
+;
+; TODO Case 24: dIrGamamaratva-maDyaguH -> dIrGamamaratvamaDyaguH
+; <L>1042<pc>0051-a<k1>aDI<k2>aDI
+11924 old <>To meet with, obtain; {#tena dIrGamamaratva-#} 
+11924 new <>To meet with, obtain; {#tena #} <lbinfo n="dIrGamamaratva#maDyaguH"/>
+;
+11926 old <>{#maDyaguH#} <ls>Śi. 14. 31</ls> {%--<ab>Caus.</ab>%} [{#aDyApayati#}]
+11926 new <>{#dIrGamamaratvamaDyaguH#} <ls>Śi. 14. 31</ls> {%--<ab>Caus.</ab>%} [{#aDyApayati#}]
+;
+; TODO Case 25: a-styarTe -> astyarTe
+; <L>1179<pc>0056-c<k1>anaMtargarBin<k2>anaMtargarBin
+13183 old {#anaMtargarBin#}¦ {%<ab>m.</ab>%} [{#aMtargarBo yasya; a-#} 
+13183 new {#anaMtargarBin#}¦ {%<ab>m.</ab>%} [{#aMtargarBo yasya; #} <lbinfo n="a#styarTe"/>
+;
+13185 old <>{#styarTe ini na#}. {#ta#}.] <ab>N.</ab> of Kuśa grass used
+13185 new <>{#astyarTe ini na#}. {#ta#}.] <ab>N.</ab> of Kuśa grass used
+;
+; TODO Case 26: kIrtirdyAmaDiro-hati -> kIrtirdyAmaDirohati
+; <L>1370<pc>0062-c<k1>anAlaMba<k2>anAlaMba
+14599 old <>stay; {#kaTaMkAramanAlaMbA kIrtirdyAmaDiro-#} 
+14599 new <>stay; {#kaTaMkAramanAlaMbA #} <lbinfo n="kIrtirdyAmaDiro#hati"/>
+;
+14601 old <>{#hati#} <ls>Śi. 2. 52.</ls> {#--baH#} Want of support;
+14601 new <>{#kIrtirdyAmaDirohati#} <ls>Śi. 2. 52.</ls> {#--baH#} Want of support;
+;
+; TODO Case 27: sa-rvasvaM -> sarvasvaM
+; <L>1449<pc>0065-a<k1>anirvacanIya<k2>anirvacanIya
+15159 old <>ignorance. {@--2@} The world. {@--Comp.@} {#--sa-#} 
+15159 new <>ignorance. {@--2@} The world. {@--Comp.@} {#--#} <lbinfo n="sa#rvasvaM"/>
+;
+15161 old <>{#rvasvaM#} <ab>N.</ab> of a work by Śrīharṣa,
+15161 new <>{#sarvasvaM#} <ab>N.</ab> of a work by Śrīharṣa,
+;
+; TODO Case 28: BUpatiranvaga-cCat -> BUpatiranvagacCat
+; <L>1539<pc>0068-b<k1>anugam<k2>anugam
+15916 old <>{#smftiranvagacCat#} <ls>R. 2. 2</ls>; {#CAyeva tAM BUpatiranvaga-#} 
+15916 new <>{#smftiranvagacCat#} <ls>R. 2. 2</ls>; {#CAyeva tAM #} <lbinfo n="BUpatiranvaga#cCat"/>
+;
+15918 old <>{#cCat#} 6; <ls>Ms. 12. 115</ls>; <ls>Ki. 5. 2.</ls> {@--2@}
+15918 new <>{#BUpatiranvagacCat#} 6; <ls>Ms. 12. 115</ls>; <ls>Ki. 5. 2.</ls> {@--2@}
+;
+; TODO Case 29: yama-smadanunayaH -> yamasmadanunayaH
+; <L>1663<pc>0072-b<k1>anunaya<k2>anunaya
+16852 old <>{#naH . kiMtu tvadaBiprAyAparijYAnAMtarito'yama-#} 
+16852 new <>{#naH . kiMtu tvadaBiprAyAparijYAnAMtarito'#} <lbinfo n="yama#smadanunayaH"/>
+;
+16854 old <>{#smadanunayaH#} <ls>Mu. 2</ls>; <ls>R. 6. 2</ls>;  <lbinfo n="nizeDavAkyA#laMkArajijYAsAnunaye"/>
+16854 new <>{#yamasmadanunayaH#} <ls>Mu. 2</ls>; <ls>R. 6. 2</ls>;  <lbinfo n="nizeDavAkyA#laMkArajijYAsAnunaye"/>
+;
+; TODO Case 30: vapuranva-lipta -> vapuranvalipta
+; <L>1862<pc>0079-b<k1>anulip<k2>anulip
+18455 old <>bathing); smear, daub, cover over; {#vapuranva-#} 
+18455 new <>bathing); smear, daub, cover over;  <lbinfo n="vapuranva#lipta"/>
+;
+18457 old <>{#lipta na vaDUH#} <ls>Śi. 9. 51</ls>, 9. 15;  <lbinfo n="praBAnulipta#SrIvatsaM"/>
+18457 new <>{#vapuranvalipta na vaDUH#} <ls>Śi. 9. 51</ls>, 9. 15;  <lbinfo n="praBAnulipta#SrIvatsaM"/>
+;
+; TODO Case 31: sOmye-damagra -> sOmyedamagra
+; <L>1884<pc>0080-b<k1>anuvAdaH<k2>anuvAdaH
+18672 old <>It is of 3 kinds:--{#BUtArTaº (sadeva sOmye-#} 
+18672 new <>It is of 3 kinds:--{#BUtArTaº (sadeva #} <lbinfo n="sOmye#damagra"/>
+;
+18674 old <>{#damagra AsIt); stutyarTaº (vAyurvE kzepizWA devatA)#}
+18674 new <>{#sOmyedamagra AsIt); stutyarTaº (vAyurvE kzepizWA devatA)#}
+;
+; TODO Case 32: dozE-rasaMmatAn -> dozErasaMmatAn
+; <L>2070<pc>0087-a<k1>aneqaH<k2>aneqaH
+20192 old <>deaf and dumb; {#ºmUkatAdyESca dyatu dozE-#} 
+20192 new <>deaf and dumb; {#ºmUkatAdyESca dyatu #} <lbinfo n="dozE#rasaMmatAn"/>
+;
+20194 old <>{#rasaMmatAn#} <ls>K. P. 7.</ls> --2. blind. --3. <lbinfo n="dis+honest"/>
+20194 new <>{#dozErasaMmatAn#} <ls>K. P. 7.</ls> --2. blind. --3. <lbinfo n="dis+honest"/>
+;
+; TODO Case 33: ka-nyAMtaHpure -> kanyAMtaHpure
+; <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20774 old <>{#BoktumaMtaHpuraM viSet#} <ls>Ms. 7. 216</ls>, 221, 224; {#ka-#} 
+20774 new <>{#BoktumaMtaHpuraM viSet#} <ls>Ms. 7. 216</ls>, 221, 224;  <lbinfo n="ka#nyAMtaHpure"/>
+;
+20776 old <>{#nyAMtaHpure kaScitpraviSati#} <ls>Pt. 1.</ls> --2. <lbinfo n="in+mates"/>
+20776 new <>{#kanyAMtaHpure kaScitpraviSati#} <ls>Pt. 1.</ls> --2. <lbinfo n="in+mates"/>
+;
+; TODO Case 34: anuprA-saH -> anuprAsaH
+; <L>2136<pc>0095-c<k1>aMtya<k2>aMtya
+21837 old <>{#dviguRAMtyaniGnaH#} <ls>Līlā.</ls> {@--Comp.@} {#--anuprA-#} 
+21837 new <>{#dviguRAMtyaniGnaH#} <ls>Līlā.</ls> {@--Comp.@} {#--#} <lbinfo n="anuprA#saH"/>
+;
+21839 old <>{#saH#} see under {#anuprAsa#}. {#--avasAyin#} {%<ab>m.</ab>%}
+21839 new <>{#anuprAsaH#} see under {#anuprAsa#}. {#--avasAyin#} {%<ab>m.</ab>%}
+;
+; TODO Case 35: pari-kIrtitAH -> parikIrtitAH
+; <L>2147<pc>0096-b<k1>aMDa<k2>aMDa
+21974 old <>{#prakIrtitAH . nfyukkarkawakanyASca divAMDAH pari-#} 
+21974 new <>{#prakIrtitAH . nfyukkarkawakanyASca divAMDAH #} <lbinfo n="pari#kIrtitAH"/>
+;
+21976 old <>{#kIrtitAH ..#} {#--DAH?#} (<ab>pl.</ab>) <ab>N.</ab> of a people
+21976 new <>{#parikIrtitAH ..#} {#--DAH?#} (<ab>pl.</ab>) <ab>N.</ab> of a people
+;
+; TODO Case 36: a-nya -> anya
+; <L>2161<pc>0098-a<k1>anya<k2>anya
+22297 old <>Strange, unusual, extraordinary; {#a-#} 
+22297 new <>Strange, unusual, extraordinary;  <lbinfo n="a#nya"/>
+;
+22299 old <>{#nya eva sa prakAraH#} <ls>K. 168</ls>; {#anyA #} <lbinfo n="jagadDita#mayI"/>
+22299 new <>{#anya eva sa prakAraH#} <ls>K. 168</ls>; {#anyA #} <lbinfo n="jagadDita#mayI"/>
+;
+; TODO Case 37: sakalA-ni -> sakalAni
+; <L>2168<pc>0099-a<k1>anyataH<k2>anyataH
+22487 old <>{#satatanESatamovftamanyataH#} <ls>Ki. 5. 2</ls>; {#ekavastu sakalA-#} 
+22487 new <>{#satatanESatamovftamanyataH#} <ls>Ki. 5. 2</ls>; {#ekavastu #} <lbinfo n="sakalA#ni"/>
+;
+22489 old <>{#ni nimittAnyato hi manasaH pratipattiH#} <ls>Nīti.</ls>
+22489 new <>{#sakalAni nimittAnyato hi manasaH pratipattiH#} <ls>Nīti.</ls>
+;
+; TODO Case 38: apakfzwaScARakyAccaM-draguptaH -> apakfzwaScARakyAccaMdraguptaH
+; <L>2270<pc>0104-a<k1>apakfzwa<k2>apakfzwa
+23550 old <>away, removed; {#apakfzwaScARakyAccaM-#} 
+23550 new <>away, removed;  <lbinfo n="apakfzwaScARakyAccaM#draguptaH"/>
+;
+23552 old <>{#draguptaH#} <ls>Mu. 4</ls> severed, alienated, <lbinfo n="es+tranged"/>
+23552 new <>{#apakfzwaScARakyAccaMdraguptaH#} <ls>Mu. 4</ls> severed, alienated, <lbinfo n="es+tranged"/>
+;
+; TODO Case 39: Si-roBiH -> SiroBiH
+; <L>2529<pc>0112-a<k1>apavfj<k2>apavfj
+25438 old <>separate, cut off; {#BallApavarjitEstezAM Si-#} 
+25438 new <>separate, cut off; {#BallApavarjitEstezAM #} <lbinfo n="Si#roBiH"/>
+;
+25440 old <>{#roBiH#} {#(mahIM tastAra)#} <ls>R. 4. 63</ls>, <ls>Ki.</ls>
+25440 new <>{#SiroBiH#} {#(mahIM tastAra)#} <ls>R. 4. 63</ls>, <ls>Ki.</ls>
+;
+; TODO Case 40: viSvasi-ti -> viSvasiti
+; <L>2615<pc>0114-b<k1>apahastita<k2>apahastita
+26010 old <>given up; {#ºsakalasaKIjanaM tvayi viSvasi-#} 
+26010 new <>given up; {#ºsakalasaKIjanaM tvayi #} <lbinfo n="viSvasi#ti"/>
+;
+26012 old <>{#ti me hfdayaM#} <ls>K. 233</ls>, 202; {#ºbAMDave tvayA#}
+26012 new <>{#viSvasiti me hfdayaM#} <ls>K. 233</ls>, 202; {#ºbAMDave tvayA#}
+;
+; TODO Case 41: amftApiDAna-masi -> amftApiDAnamasi
+; <L>2699<pc>0117-c<k1>apiDAnaM<k2>apiDAnaM, --piDAnaM
+26753 old <>lid, covering (<ab>fig.</ab> also); {#amftApiDAna-#} 
+26753 new <>lid, covering (<ab>fig.</ab> also);  <lbinfo n="amftApiDAna#masi"/>
+;
+26755 old <>{#masi svAhA; nEkajaladacCatrApiDAnaM jagat#}
+26755 new <>{#amftApiDAnamasi svAhA; nEkajaladacCatrApiDAnaM jagat#}
+;
+; TODO Case 42: na-vadyutirapEti -> navadyutirapEti
+; <L>2745<pc>0119-a<k1>ape<k2>ape
+27071 old <>{#hfdayAtpratyAdeSavyalIkamapEtu te#} <ls>Ś. 7. 24</ls>; {#ramyA na-#} 
+27071 new <>{#hfdayAtpratyAdeSavyalIkamapEtu te#} <ls>Ś. 7. 24</ls>; {#ramyA #} <lbinfo n="na#vadyutirapEti"/>
+;
+27073 old <>{#vadyutirapEti na SAdvaleByaH#} <ls>Ki. 5. 37</ls>
+27073 new <>{#navadyutirapEti na SAdvaleByaH#} <ls>Ki. 5. 37</ls>
+;
+; TODO Case 43: suku-mAraM -> sukumAraM
+; <L>2918<pc>0124-a<k1>apsaras<k2>apsaras
+28263 old <>successful; <ab>cf.</ab> {#yA tapoviSezapariSaMkitasya suku-#} 
+28263 new <>successful; <ab>cf.</ab> {#yA tapoviSezapariSaMkitasya #} <lbinfo n="suku#mAraM"/>
+;
+28265 old <>{#mAraM praharaRaM maheMdrasya#} <ls>V. 1.</ls> They are also
+28265 new <>{#sukumAraM praharaRaM maheMdrasya#} <ls>V. 1.</ls> They are also
+;
+; TODO Case 44: etAva-tAmarTAnAmidamaBiDAnaM -> etAvatAmarTAnAmidamaBiDAnaM
+; <L>3110<pc>0130-b<k1>aBiDAnaM<k2>aBiDAnaM
+29737 old <>speaking, naming, denotation; {#etAva-#} 
+29737 new <>speaking, naming, denotation;  <lbinfo n="etAva#tAmarTAnAmidamaBiDAnaM"/>
+;
+29739 old <>{#tAmarTAnAmidamaBiDAnaM#} <ls>Nir.</ls>; {#goSabdasyaM#}
+29739 new <>{#etAvatAmarTAnAmidamaBiDAnaM#} <ls>Nir.</ls>; {#goSabdasyaM#}
+;
+; TODO Case 45: sa-mIhate -> samIhate
+; <L>3224<pc>0134-b<k1>aBimanas<k2>aBimanas
+30657 old <>anxious, longing for; {#BavatoBimanAH sa-#} 
+30657 new <>anxious, longing for; {#BavatoBimanAH #} <lbinfo n="sa#mIhate"/>
+;
+30659 old <>{#mIhate saruzaH kartumupetya mAnanAM#} <ls>Śi. 16. 2</ls>
+30659 new <>{#samIhate saruzaH kartumupetya mAnanAM#} <ls>Śi. 16. 2</ls>
+;
+; TODO Case 46: naBi-yukte -> naBiyukte
+; <L>3264<pc>0136-a<k1>aBiyukta<k2>aBiyukta
+31030 old <><ls>Mu. 1. 13</ls>; <ls>Dk. 55</ls>; {#aSvAvekzaRe'naBi-#} 
+31030 new <><ls>Mu. 1. 13</ls>; <ls>Dk. 55</ls>; {#aSvAvekzaRe'#} <lbinfo n="naBi#yukte"/>
+;
+31032 old <>{#yukte#} <ls>Mu. 3</ls>; {#Bavatu BUMyoBiyuktaH #} <lbinfo n="svaravya#ktimupalapsye"/>
+31032 new <>{#naBiyukte#} <ls>Mu. 3</ls>; {#Bavatu BUMyoBiyuktaH #} <lbinfo n="svaravya#ktimupalapsye"/>
+;
+; TODO Case 47: DA-rABirAtapa -> DArABirAtapa
+; <L>3483<pc>0141-c<k1>aBihata<k2>aBihata
+32442 old <>beaten, smitten, attacked, injured; {#DA-#} 
+32442 new <>beaten, smitten, attacked, injured;  <lbinfo n="DA#rABirAtapa"/>
+;
+32444 old <>{#rABirAtapa ivABihataM sarojaM#} <ls>M. 5. 3</ls>,  <lbinfo n="ls:Amaru.+ 2"/>
+32444 new <>{#DArABirAtapa ivABihataM sarojaM#} <ls>M. 5. 3</ls>,  <lbinfo n="ls:Amaru.+ 2"/>
+;
+; TODO Case 48: prItira-lpena -> prItiralpena
+; <L>4329<pc>0174-b<k1>alpa<k2>alpa
+39795 old <>A little. {@--2@} For a slight reason; {#prItira-#} 
+39795 new <>A little. {@--2@} For a slight reason;  <lbinfo n="prItira#lpena"/>
+;
+39797 old <>{#lpena Bidyate#} <ls>Rām.</ls> {@--3@} Easily, without
+39797 new <>{#prItiralpena Bidyate#} <ls>Rām.</ls> {@--3@} Easily, without
+;
+; TODO Case 49: pUrvAparasamudrAva-gAQaH -> pUrvAparasamudrAvagAQaH
+; <L>4429<pc>0177-b<k1>avagAh<k2>avagAh
+40511 old <>{#toyaniDI vagAhya#} <ls>Ku. 1. 1</ls>; {#pUrvAparasamudrAva-#} 
+40511 new <>{#toyaniDI vagAhya#} <ls>Ku. 1. 1</ls>;  <lbinfo n="pUrvAparasamudrAva#gAQaH"/>
+;
+40513 old <>{#gAQaH#} <ls>Ś. 7</ls>; <ls>Mk. 2</ls>; see {#avagAQa#} also.
+40513 new <>{#pUrvAparasamudrAvagAQaH#} <ls>Ś. 7</ls>; <ls>Mk. 2</ls>; see {#avagAQa#} also.
+;
+; TODO Case 50: puzpa-BArAvanadDaH -> puzpaBArAvanadDaH
+; <L>4619<pc>0183-a<k1>avanadDa<k2>avanadDa
+41868 old <><ls>Ms. 6. 76</ls>; {#hemamAlAvanadDaH (raTaH)#} <ls>Mb.</ls>; {#puzpa-#} 
+41868 new <><ls>Ms. 6. 76</ls>; {#hemamAlAvanadDaH (raTaH)#} <ls>Mb.</ls>;  <lbinfo n="puzpa#BArAvanadDaH"/>
+;
+41870 old <>{#BArAvanadDaH (pAdapaH)#} <ls>Rām.</ls>; <ls>Bṛ. S. 3. 19.</ls>
+41870 new <>{#puzpaBArAvanadDaH (pAdapaH)#} <ls>Rām.</ls>; <ls>Bṛ. S. 3. 19.</ls>
+;
+; TODO Case 51: ujja-yinI -> ujjayinI
+; <L>4634<pc>0183-b<k1>avaMtiH<k2>avaMtiH --tI
+41954 old <><ls>Uṇ. 3. 50</ls>] {@1@} <ab>N.</ab> of a city, the modern {#ujja-#} 
+41954 new <><ls>Uṇ. 3. 50</ls>] {@1@} <ab>N.</ab> of a city, the modern  <lbinfo n="ujja#yinI"/>
+;
+41956 old <>{#yinI,#} one of the seven sacred cities of
+41956 new <>{#ujjayinI,#} one of the seven sacred cities of
+;
+; TODO Case 52: svAtaMtrya-mavalaMbase -> svAtaMtryamavalaMbase
+; <L>4762<pc>0187-b<k1>avalaMb<k2>avalaMb
+42901 old <>{#ASAM#} to cherish hopes; {#kiM svAtaMtrya-#} 
+42901 new <>{#ASAM#} to cherish hopes; {#kiM #} <lbinfo n="svAtaMtrya#mavalaMbase"/>
+;
+42903 old <>{#mavalaMbase#} <ls>Ś. 5</ls> act wantonly, quite
+42903 new <>{#svAtaMtryamavalaMbase#} <ls>Ś. 5</ls> act wantonly, quite
+;
+; TODO Case 53: SaravarzEravasAyamASra-yASaH -> SaravarzEravasAyamASrayASaH
+; <L>4884<pc>0191-a<k1>avasAyaH<k2>avasAyaH
+43777 old <>termination; destruction; {#SaravarzEravasAyamASra-#} 
+43777 new <>termination; destruction;  <lbinfo n="SaravarzEravasAyamASra#yASaH"/>
+;
+43779 old <>{#yASaH#} <ls>Śi. 20. 72.</ls> {@--2@} Remainder. {@--3@}
+43779 new <>{#SaravarzEravasAyamASrayASaH#} <ls>Śi. 20. 72.</ls> {@--2@} Remainder. {@--3@}
+;
+; TODO Case 54: A-tman -> Atman
+; <L>5185<pc>0198-c<k1>avyaya<k2>avyaya
+45679 old <>{#sarvezu yanna vyeti tadavyayam ..#}. {@--Comp.@} {#--A-#} 
+45679 new <>{#sarvezu yanna vyeti tadavyayam ..#}. {@--Comp.@} {#--#} <lbinfo n="A#tman"/>
+;
+45681 old <>{#tman#} of an imperishable or <lbinfo n="eter+nal"/>
+45681 new <>{#Atman#} of an imperishable or <lbinfo n="eter+nal"/>
+;
+; TODO Case 55: ti-zWati -> tizWati
+; <L>5333<pc>0204-c<k1>aSvatTaH<k2>aSvatTaH
+47009 old {#aSvatTaH#}¦ [{#na Sva SciraM SAlmalIvfkzAdivat ti-#} 
+47009 new {#aSvatTaH#}¦ [{#na Sva SciraM SAlmalIvfkzAdivat #} <lbinfo n="ti#zWati"/>
+;
+47011 old <>{#zWati sTA-ka pfº niº#} <ls>Tv.</ls>] {@1@} The holy <lbinfo n="fig+tree"/>
+47011 new <>{#tizWati sTA-ka pfº niº#} <ls>Tv.</ls>] {@1@} The holy <lbinfo n="fig+tree"/>
+;
+; TODO Case 56: ku-mArO -> kumArO
+; <L>5346<pc>0205-b<k1>aSvinI<k2>aSvinI
+47160 old <>the form of a mare. {@--Comp.@} {#--ku-#} 
+47160 new <>the form of a mare. {@--Comp.@} {#--#} <lbinfo n="ku#mArO"/>
+;
+47162 old <>{#mArO, --putrO, --sutO#} the twin sons of
+47162 new <>{#kumArO, --putrO, --sutO#} the twin sons of
+;
+; TODO Case 57: nAyamastI-ti -> nAyamastIti
+; <L>5378<pc>0207-c<k1>as<k2>as
+47635 old <>be lost, disappear, perish, {#nAyamastI-#} 
+47635 new <>be lost, disappear, perish,  <lbinfo n="nAyamastI#ti"/>
+;
+47637 old <>{#ti duHKArtA#} <ls>Nala. 7. 16</ls>; {#asti BoktuM#}
+47637 new <>{#nAyamastIti duHKArtA#} <ls>Nala. 7. 16</ls>; {#asti BoktuM#}
+;
+; TODO Case 58: medaso-sTi -> medasosTi
+; <L>5575<pc>0214-c<k1>asfj<k2>asfj
+49254 old <>{#--rasAdraktaM tato mAMsaM mAMsAnmedaH prajAyate . medaso-#} 
+49254 new <>{#--rasAdraktaM tato mAMsaM mAMsAnmedaH prajAyate . #} <lbinfo n="medaso#sTi"/>
+;
+49256 old <>{#sTi tato majjA majjnaH Sukrasya saMBavaH)#}. {#--daraH#}
+49256 new <>{#medasosTi tato majjA majjnaH Sukrasya saMBavaH)#}. {#--daraH#}
+;
+; TODO Case 59: ma-DukarakulEranubaDyamAnaM -> maDukarakulEranubaDyamAnaM
+; <L>5676<pc>0217-c<k1>aham<k2>aham
+49966 old <>{#praRAmalAlasAnAM#} <ls>K. 14</ls>, 81; {#ahamahamikayA ma-#} 
+49966 new <>{#praRAmalAlasAnAM#} <ls>K. 14</ls>, 81; {#ahamahamikayA #} <lbinfo n="ma#DukarakulEranubaDyamAnaM"/>
+;
+49968 old <>{#DukarakulEranubaDyamAnaM#} 139, <ls>Mv. 6. 54.</ls>
+49968 new <>{#maDukarakulEranubaDyamAnaM#} 139, <ls>Mv. 6. 54.</ls>
+;
+; TODO Case 60: varRAM-tarAkrAMtapayoDarAgrAM -> varRAMtarAkrAMtapayoDarAgrAM
+; <L>5798<pc>0223-c<k1>AkrAMta<k2>AkrAMta
+51237 old <><ls>M. 3. 5.</ls> {@--4@} Obtained, possessed of; {#varRAM-#} 
+51237 new <><ls>M. 3. 5.</ls> {@--4@} Obtained, possessed of;  <lbinfo n="varRAM#tarAkrAMtapayoDarAgrAM"/>
+;
+51239 old <>{#tarAkrAMtapayoDarAgrAM#} <ls>R. 14. 27</ls>; <ls>Ki. 11.</ls>
+51239 new <>{#varRAMtarAkrAMtapayoDarAgrAM#} <ls>R. 14. 27</ls>; <ls>Ki. 11.</ls>
+;
+; TODO Case 61: kimivAvasAdakaramA-tmavatAM -> kimivAvasAdakaramAtmavatAM
+; <L>6124<pc>0235-b<k1>Atmavat<k2>Atmavat
+53907 old <>prudent, wise; {#kimivAvasAdakaramA-#} 
+53907 new <>prudent, wise;  <lbinfo n="kimivAvasAdakaramA#tmavatAM"/>
+;
+53909 old <>{#tmavatAM#} <ls>Ki. 6. 19</ls>; <ls>Bg. 2. 45</ls>, 4. 41;  <lbinfo n="ls:Ms.+ 1. 108"/>
+53909 new <>{#kimivAvasAdakaramAtmavatAM#} <ls>Ki. 6. 19</ls>; <ls>Bg. 2. 45</ls>, 4. 41;  <lbinfo n="ls:Ms.+ 1. 108"/>
+;
+; TODO Case 62: amA-vAsyA -> amAvAsyA
+; <L>6565<pc>0249-a<k1>AmAvAsya<k2>AmAvAsya
+57137 old {#AmAvAsya#}¦ {%<ab>a.</ab>%} ({#syI#} {%<ab>f.</ab>%}) [{#amA-#} 
+57137 new {#AmAvAsya#}¦ {%<ab>a.</ab>%} ({#syI#} {%<ab>f.</ab>%}) [ <lbinfo n="amA#vAsyA"/>
+;
+57139 old <>{#vAsyA aR#}] {@1@} Belonging to the new
+57139 new <>{#amAvAsyA aR#}] {@1@} Belonging to the new
+;
+; TODO Case 63: prastutAkzepi-mirmiTaH -> prastutAkzepimirmiTaH
+; <L>6579<pc>0249-b<k1>AmuKaM<k2>AmuKaM
+57221 old <>{#karvate .. citrErvAkvEH syakAryottyEH prastutAkzepi-#} 
+57221 new <>{#karvate .. citrErvAkvEH syakAryottyEH #} <lbinfo n="prastutAkzepi#mirmiTaH"/>
+;
+57223 old <>{#mirmiTaH . AmuKaM tattu vijYeyaM nAmnA #} <lbinfo n="prastAvanA#pi"/>
+57223 new <>{#prastutAkzepimirmiTaH . AmuKaM tattu vijYeyaM nAmnA #} <lbinfo n="prastAvanA#pi"/>
+;
+; TODO Case 64: Bi-mataH -> BimataH
+; <L>7301<pc>0274-a<k1>ikzvAkuH<k2>ikzvAkuH
+62880 old <>{#manorjajYa ikzvAkurGrARataH sutaH#}); {#ikzvAkuvaMSo'Bi-#} 
+62880 new <>{#manorjajYa ikzvAkurGrARataH sutaH#}); {#ikzvAkuvaMSo'#} <lbinfo n="Bi#mataH"/>
+;
+62882 old <>{#mataH prajAnAM#} <ls>U. 1. 44.</ls> {@--2@} A <lbinfo n="descend+ant"/>
+62882 new <>{#BimataH prajAnAM#} <ls>U. 1. 44.</ls> {@--2@} A <lbinfo n="descend+ant"/>
+;
+; TODO Case 65: e-vopalAH -> evopalAH
+; <L>7309<pc>0274-b<k1>iMgudaH<k2>iMgudaH, --dI, iMgulaH
+62953 old <>{#prasnigDAH kvacidiMgudIPalaBidaH sucyaMta e-#} 
+62953 new <>{#prasnigDAH kvacidiMgudIPalaBidaH sucyaMta #} <lbinfo n="e#vopalAH"/>
+;
+62955 old <>{#vopalAH#} <ls>Ś. 1. 14.</ls> {#--daM#} The nut of the
+62955 new <>{#evopalAH#} <ls>Ś. 1. 14.</ls> {#--daM#} The nut of the
+;
+; TODO Case 66: annapra-dAnamArAmAH -> annapradAnamArAmAH
+; <L>7449<pc>0281-b<k1>izwApUrtaM<k2>izwApUrtaM
+64466 old <>{#vApIkUpataqAgAdidevatAyatanAni ca . annapra-#} 
+64466 new <>{#vApIkUpataqAgAdidevatAyatanAni ca . #} <lbinfo n="annapra#dAnamArAmAH"/>
+;
+64468 old <>{#dAnamArAmAH pUrtamarTyAH pracakzate .. #} <lbinfo n="ekA#gnikarmahavanaM"/>
+64468 new <>{#annapradAnamArAmAH pUrtamarTyAH pracakzate .. #} <lbinfo n="ekA#gnikarmahavanaM"/>
+;
+; TODO Case 67: ta-paso -> tapaso
+; <L>7548<pc>0284-1<k1>uH<k2>uH
+65200 old <>interjection of:-- ({%a%}) calling; {#u meti mAtrA ta-#} 
+65200 new <>interjection of:-- ({%a%}) calling; {#u meti mAtrA #} <lbinfo n="ta#paso"/>
+;
+65202 old <>{#paso nizidDA paScAdumAKyAM sumuKI jagAma#}
+65202 new <>{#tapaso nizidDA paScAdumAKyAM sumuKI jagAma#}
+;
+; TODO Case 68: nyA-yAnucCidya -> nyAyAnucCidya
+; <L>7622<pc>0287-b<k1>ucCid<k2>ucCid
+65817 old <>interfere with, interrupt, stop; {#nyA-#} 
+65817 new <>interfere with, interrupt, stop;  <lbinfo n="nyA#yAnucCidya"/>
+;
+65819 old <>{#yAnucCidya#} <ls>Mb.</ls>; {#tEstErBAvEranucCinnAH#} S.
+65819 new <>{#nyAyAnucCidya#} <ls>Mb.</ls>; {#tEstErBAvEranucCinnAH#} S.
+;
+; TODO Case 69: Dri-yate -> Driyate
+; <L>7706<pc>0289-c<k1>uta<k2>uta
+66378 old <>{#pratyuta dIpakAH#} <ls>Śi. 2. 55</ls>; {#na kevalaM Dri-#} 
+66378 new <>{#pratyuta dIpakAH#} <ls>Śi. 2. 55</ls>; {#na kevalaM #} <lbinfo n="Dri#yate"/>
+;
+66380 old <>{#yate pratyuta paryupAsyamAnastizWati#} <ls>Nāg. 5.</ls>
+66380 new <>{#Driyate pratyuta paryupAsyamAnastizWati#} <ls>Nāg. 5.</ls>
+;
+; TODO Case 70: sEhI-latA -> sEhIlatA
+; <L>7716<pc>0290-a<k1>utkawa<k2>utkawa
+66453 old <>{#--wA#} The plant Laurus Cassia ({#sEhI-#} 
+66453 new <>{#--wA#} The plant Laurus Cassia ( <lbinfo n="sEhI#latA"/>
+;
+66455 old <>{#latA)#}. {#--waM#} The fragrant bark of <lbinfo n="Lau+rus"/>
+66455 new <>{#sEhIlatA)#}. {#--waM#} The fragrant bark of <lbinfo n="Lau+rus"/>
+;
+; TODO Case 71: triBi-rnetrEH -> triBirnetrEH
+; <L>8174<pc>0307-c<k1>uddyota<k2>uddyota
+70363 old <>Light, lustre (<ab>lit.</ab> and <ab>fig.</ab>); {#triBi-#} 
+70363 new <>Light, lustre (<ab>lit.</ab> and <ab>fig.</ab>);  <lbinfo n="triBi#rnetrEH"/>
+;
+70365 old <>{#rnetrEH kftoddyotaM#} <ls>Mb.</ls>; {#kuloddyotakarI#}
+70365 new <>{#triBirnetrEH kftoddyotaM#} <ls>Mb.</ls>; {#kuloddyotakarI#}
+;
+; TODO Case 72: paropa-kAropakaraRaM -> paropakAropakaraRaM
+; <L>8441<pc>0316-a<k1>upakaraRaM<k2>upakaraRaM
+72310 old <>helping instruments, or assistants; {#paropa-#} 
+72310 new <>helping instruments, or assistants;  <lbinfo n="paropa#kAropakaraRaM"/>
+;
+72312 old <>{#kAropakaraRaM SarIraM#} <ls>K. 207</ls>; so {#snAnaº#} <lbinfo n="bath+ing"/>
+72312 new <>{#paropakAropakaraRaM SarIraM#} <ls>K. 207</ls>; so {#snAnaº#} <lbinfo n="bath+ing"/>
+;
+; TODO Case 73: kimidamupa-nyastaM -> kimidamupanyastaM
+; <L>8686<pc>0324-b<k1>upanyas<k2>upanyas
+74209 old <>2. 3 tells or points out; {#kimidamupa-#} 
+74209 new <>2. 3 tells or points out;  <lbinfo n="kimidamupa#nyastaM"/>
+;
+74211 old <>{#nyastaM#} <ls>Ś. 5</ls> what is this that is <lbinfo n="pro+posed"/>
+74211 new <>{#kimidamupanyastaM#} <ls>Ś. 5</ls> what is this that is <lbinfo n="pro+posed"/>
+;
+; TODO Case 74: PalamiSramarGamupa-hara -> PalamiSramarGamupahara
+; <L>9051<pc>0335-b<k1>upahf<k2>upahf
+76790 old <>{#Baktyupahfta#} <ls>Bg. 9. 26</ls>; {#PalamiSramarGamupa-#} 
+76790 new <>{#Baktyupahfta#} <ls>Bg. 9. 26</ls>;  <lbinfo n="PalamiSramarGamupa#hara"/>
+;
+76792 old <>{#hara#} <ls>Ś. 1</ls>; {#tamasyopahara#} <ls>Ś. 7</ls>; so {#baliM,#}
+76792 new <>{#PalamiSramarGamupahara#} <ls>Ś. 1</ls>; {#tamasyopahara#} <ls>Ś. 7</ls>; so {#baliM,#}
+;
+; TODO Case 75: paryaMkasyo-pASraye -> paryaMkasyopASraye
+; <L>9127<pc>0338-a<k1>upASrayaH<k2>upASrayaH
+77394 old <>asylum, support; <ls>Bh. 2. 48</ls>; {#paryaMkasyo-#} 
+77394 new <>asylum, support; <ls>Bh. 2. 48</ls>;  <lbinfo n="paryaMkasyo#pASraye"/>
+;
+77396 old <>{#pASraye#} <ls>K. 186</ls> resting-place. {@--2@} <lbinfo n="Re+ceptacle"/>
+77396 new <>{#paryaMkasyopASraye#} <ls>K. 186</ls> resting-place. {@--2@} <lbinfo n="Re+ceptacle"/>
+;
+; TODO Case 76: Aro-pitaM -> AropitaM
+; <L>9561<pc>0356-b<k1>etAvat<k2>etAvat
+81296 old <>follows; {#etAvatA nanvanumeyaSoBi… Aro-#} 
+81296 new <>follows; {#etAvatA nanvanumeyaSoBi… #} <lbinfo n="Aro#pitaM"/>
+;
+81298 old <>{#pitaM yadgiriSena paScAdaMkaM#} <ls>Ku. 1. 37.</ls>
+81298 new <>{#AropitaM yadgiriSena paScAdaMkaM#} <ls>Ku. 1. 37.</ls>
+;
+; TODO Case 77: utsarga-zWaY -> utsargazWaY
+; <L>9782<pc>0362-a<k1>Otsargika<k2>Otsargika
+82621 old {#Otsargika#}¦ {%<ab>a.</ab>%} ({#kI#} {%<ab>f.</ab>%}) [{#utsarga-#} 
+82621 new {#Otsargika#}¦ {%<ab>a.</ab>%} ({#kI#} {%<ab>f.</ab>%}) [ <lbinfo n="utsarga#zWaY"/>
+;
+82623 old <>{#zWaY#}] {@1@} That which is liable to be
+82623 new <>{#utsargazWaY#}] {@1@} That which is liable to be
+;
+; TODO Case 78: upayoga-WaY -> upayogaWaY
+; <L>9838<pc>0363-b<k1>OpayOgika<k2>OpayOgika
+82949 old {#OpayOgika#}¦ {%<ab>a.</ab>%} ({#kI#} {%<ab>f.</ab>%}) [{#upayoga-#} 
+82949 new {#OpayOgika#}¦ {%<ab>a.</ab>%} ({#kI#} {%<ab>f.</ab>%}) [ <lbinfo n="upayoga#WaY"/>
+;
+82951 old <>{#WaY#}] Relating to the employment
+82951 new <>{#upayogaWaY#}] Relating to the employment
+;
+; TODO Case 79: kArI-pAka -> kArIpAka
+; <L>10044<pc>0369-c<k1>kawu<k2>kawu
+84420 old <>{#sitArjaka#} tree. {#--patrikA#} <ab>N.</ab> of a tree {#kArI-#} 
+84420 new <>{#sitArjaka#} tree. {#--patrikA#} <ab>N.</ab> of a tree  <lbinfo n="kArI#pAka"/>
+;
+84422 old <>{#pAka --pAkin#} {%<ab>a.</ab>%} producing acid <lbinfo n="hu+mors"/>
+84422 new <>{#kArIpAka --pAkin#} {%<ab>a.</ab>%} producing acid <lbinfo n="hu+mors"/>
+;
+; TODO Case 80: kadarTito'-hameBirvAraMvAraM -> kadarTito'hameBirvAraMvAraM
+; <L>10179<pc>0374-b<k1>kad<k2>kad
+85481 old <>tormented, teased; {#AH kadarTito'-#} 
+85481 new <>tormented, teased; {#AH #} <lbinfo n="kadarTito'#hameBirvAraMvAraM"/>
+;
+85483 old <>{#hameBirvAraMvAraM vIrasaMvAdaviGnakAriBiH#} <ls>U. 5.</ls>
+85483 new <>{#kadarTito'hameBirvAraMvAraM vIrasaMvAdaviGnakAriBiH#} <ls>U. 5.</ls>
+;
+; TODO Case 81: piba-si -> pibasi
+; <L>10322<pc>0379-a<k1>kara<k2>kara
+86556 old <>{#--raH#} {@1@} A hand; {#karaM vyADunvatyAH piba-#} 
+86556 new <>{#--raH#} {@1@} A hand; {#karaM vyADunvatyAH #} <lbinfo n="piba#si"/>
+;
+86558 old <>{#si ratisarvasvamaDaraM#} <ls>Ś. 1. 24.</ls> {@--2@} A ray
+86558 new <>{#pibasi ratisarvasvamaDaraM#} <ls>Ś. 1. 24.</ls> {@--2@} A ray
+;
+; TODO Case 82: parinizpattiryad-vyApArAdanaMtaram -> parinizpattiryadvyApArAdanaMtaram
+; <L>10330<pc>0380-a<k1>karaRa<k2>karaRa
+86744 old <>I. 4. 42; or {#kriyAyAH parinizpattiryad-#} 
+86744 new <>I. 4. 42; or {#kriyAyAH #} <lbinfo n="parinizpattiryad#vyApArAdanaMtaram"/>
+;
+86746 old <>{#vyApArAdanaMtaram . vivakzyate yadA yatra karaRaM#}
+86746 new <>{#parinizpattiryadvyApArAdanaMtaram . vivakzyate yadA yatra karaRaM#}
+;
+; TODO Case 83: prAta-rniHsattvaM -> prAtarniHsattvaM
+; <L>10409<pc>0383-a<k1>kartavya<k2>kartavya
+87424 old <>{#kartazyo mahadASrayaH#} <ls>H. 3. 11</ls>; {#mayA prAta-#} 
+87424 new <>{#kartazyo mahadASrayaH#} <ls>H. 3. 11</ls>; {#mayA #} <lbinfo n="prAta#rniHsattvaM"/>
+;
+87426 old <>{#rniHsattvaM vanaM kartavyaM#} <ls>Pt. 1.</ls> {#--vyaM, #} <lbinfo n="kartavya#tA"/>
+87426 new <>{#prAtarniHsattvaM vanaM kartavyaM#} <ls>Pt. 1.</ls> {#--vyaM, #} <lbinfo n="kartavya#tA"/>
+;
+; TODO Case 84: kara-vAlam -> karavAlam
+; <L>10515<pc>0387-c<k1>kalkiH<k2>kalkiH
+88429 old <>avatāra: {#--mlecCanivahaniDane kalayasi kara-#} 
+88429 new <>avatāra: {#--mlecCanivahaniDane kalayasi #} <lbinfo n="kara#vAlam"/>
+;
+88431 old <>{#vAlam DUmaketumiva kimapi karAlam . keSava#}
+88431 new <>{#karavAlam DUmaketumiva kimapi karAlam . keSava#}
+;
+; TODO Case 85: matsaMbaMDA-tkaSmalA -> matsaMbaMDAtkaSmalA
+; <L>10574<pc>0389-c<k1>kaSmala<k2>kaSmala
+88885 old <>disgraceful, ignominious; {#matsaMbaMDA-#} 
+88885 new <>disgraceful, ignominious;  <lbinfo n="matsaMbaMDA#tkaSmalA"/>
+;
+88887 old <>{#tkaSmalA kiMvadaMtI syAccedasminhaMta #} <lbinfo n="DiNmA#maDanyaM"/>
+88887 new <>{#matsaMbaMDAtkaSmalA kiMvadaMtI syAccedasminhaMta #} <lbinfo n="DiNmA#maDanyaM"/>
+;
+; TODO Case 86: A-kfzwa -> Akfzwa
+; <L>10822<pc>0399-a<k1>kAla<k2>kAla
+91033 old <>relation in the family; see {#aSOca#}. {#--A-#} 
+91033 new <>relation in the family; see {#aSOca#}. {#--#} <lbinfo n="A#kfzwa"/>
+;
+91035 old <>{#kfzwa#} {%<ab>a.</ab>%} 1. led to death. --2. produced
+91035 new <>{#Akfzwa#} {%<ab>a.</ab>%} 1. led to death. --2. produced
+;
+; TODO Case 87: puna-rjIvitaH -> punarjIvitaH
+; <L>10822<pc>0399-a<k1>kAla<k2>kAla
+91091 old <>time. --4. fated time, death; {#na puna-#} 
+91091 new <>time. --4. fated time, death; {#na #} <lbinfo n="puna#rjIvitaH"/>
+;
+91093 old <>{#rjIvitaH kaScitkAlaDarmamupAgataH#} <ls>Mb.</ls>;  <lbinfo n="pa#rItAH"/>
+91093 new <>{#punarjIvitaH kaScitkAlaDarmamupAgataH#} <ls>Mb.</ls>;  <lbinfo n="pa#rItAH"/>
+;
+; TODO Case 88: a-kula -> akula
+; <L>11213<pc>0412-a<k1>kulaM<k2>kulaM
+93962 old <>guild or corporation. {@--Comp.@} {#--a-#} 
+93962 new <>guild or corporation. {@--Comp.@} {#--#} <lbinfo n="a#kula"/>
+;
+93964 old <>{#kula#} {%<ab>a.</ab>%} {@1.@} of a mixed character or
+93964 new <>{#akula#} {%<ab>a.</ab>%} {@1.@} of a mixed character or
+;
+; TODO Case 89: rakzedvivaramA-tmanaH -> rakzedvivaramAtmanaH
+; <L>11359<pc>0416-c<k1>kUrmaH<k2>kUrmaH
+95045 old <>A tortoise; {#gUhetkUrma ivAMgAni rakzedvivaramA-#} 
+95045 new <>A tortoise; {#gUhetkUrma ivAMgAni #} <lbinfo n="rakzedvivaramA#tmanaH"/>
+;
+95047 old <>{#tmanaH#} <ls>Ms. 7. 105</ls>; <ls>Bg. 2. 58.</ls> {@--2@}
+95047 new <>{#rakzedvivaramAtmanaH#} <ls>Ms. 7. 105</ls>; <ls>Bg. 2. 58.</ls> {@--2@}
+;
+; TODO Case 90: kiM-karavARyahaM -> kiMkaravARyahaM
+; <L>11373<pc>0417-a<k1>kf<k2>kf
+95130 old <>{#kfta#}) {@1@} To do (in general); {#tAta kiM-#} 
+95130 new <>{#kfta#}) {@1@} To do (in general); {#tAta #} <lbinfo n="kiM#karavARyahaM"/>
+;
+95132 old <>{#karavARyahaM#}. {@--2@} To make;  <lbinfo n="gaRikAmavaro#Damakarot"/>
+95132 new <>{#kiMkaravARyahaM#}. {@--2@} To make;  <lbinfo n="gaRikAmavaro#Damakarot"/>
+;
+; TODO Case 91: yadyatkfta-kaM -> yadyatkftakaM
+; <L>11376<pc>0419-a<k1>kftaka<k2>kftaka
+95483 old <>prepared; (<ab>opp.</ab> {#nEsargika#}); {#yadyatkfta-#} 
+95483 new <>prepared; (<ab>opp.</ab> {#nEsargika#});  <lbinfo n="yadyatkfta#kaM"/>
+;
+95485 old <>{#kaM tattadanityaM#} Nyāya Sūtra. {@--2@} <lbinfo n="Arti+ficial"/>
+95485 new <>{#yadyatkftakaM tattadanityaM#} Nyāya Sūtra. {@--2@} <lbinfo n="Arti+ficial"/>
+;
+; TODO Case 92: nA-dayati -> nAdayati
+; <L>11536<pc>0425-a<k1>kokanadaM<k2>kokanadaM
+96834 old {#kokanadaM#}¦ [{#kokAn cakravAkAn nadati nA-#} 
+96834 new {#kokanadaM#}¦ [{#kokAn cakravAkAn nadati #} <lbinfo n="nA#dayati"/>
+;
+96836 old <>{#dayati nad-ac#}] {@1@} The red lotus;  <lbinfo n="kiMci#tkokanadacCadasya"/>
+96836 new <>{#nAdayati nad-ac#}] {@1@} The red lotus;  <lbinfo n="kiMci#tkokanadacCadasya"/>
+;
+; TODO Case 93: cABUttAvi-va -> cABUttAviva
+; <L>11883<pc>0436-b<k1>kzayin<k2>kzayin
+99454 old <><ls>Bh. 2. 60</ls>; waning, wasting; {#na cABUttAvi-#} 
+99454 new <><ls>Bh. 2. 60</ls>; waning, wasting; {#na #} <lbinfo n="cABUttAvi#va"/>
+;
+99456 old <>{#va kzayI#} <ls>R. 17. 71</ls> <ls>Ms. 9. 314.</ls> {@--2@}
+99456 new <>{#cABUttAviva kzayI#} <ls>R. 17. 71</ls> <ls>Ms. 9. 314.</ls> {@--2@}
+;
+; TODO Case 94: guRA-nuraktA -> guRAnuraktA
+; <L>12260<pc>0448-b<k1>gaRikA<k2>gaRikA
+102201 old <>{#gaRa-WaY#}] {@1@} A harlot, courtezan; {#guRA-#} 
+102201 new <>{#gaRa-WaY#}] {@1@} A harlot, courtezan;  <lbinfo n="guRA#nuraktA"/>
+;
+102203 old <>{#nuraktA gaRikA ca yasya vasaMtaSoBeva #} <lbinfo n="vasaM#tasenA"/>
+102203 new <>{#guRAnuraktA gaRikA ca yasya vasaMtaSoBeva #} <lbinfo n="vasaM#tasenA"/>
+;
+; TODO Case 95: A-kfti -> Akfti
+; <L>12409<pc>0455-c<k1>gava<k2>gava
+103756 old <>outcast. {#--aSvaM#} bulls and horses. {#--A-#} 
+103756 new <>outcast. {#--aSvaM#} bulls and horses. {#--#} <lbinfo n="A#kfti"/>
+;
+103758 old <>{#kfti#} {%<ab>a.</ab>%} cow-shaped. {#--AhnikaM#} the
+103758 new <>{#Akfti#} {%<ab>a.</ab>%} cow-shaped. {#--AhnikaM#} the
+;
+; TODO Case 96: girISapratisaktamA-nasAM -> girISapratisaktamAnasAM
+; <L>12518<pc>0458-c<k1>giri<k2>giri
+104482 old <>epithet of Śiva; {#sutAM girISapratisaktamA-#} 
+104482 new <>epithet of Śiva; {#sutAM #} <lbinfo n="girISapratisaktamA#nasAM"/>
+;
+104484 old <>{#nasAM#} <ls>Ku. 5. 3.</ls> {#--kacCapaH#} a species of
+104484 new <>{#girISapratisaktamAnasAM#} <ls>Ku. 5. 3.</ls> {#--kacCapaH#} a species of
+;
+; TODO Case 97: nici-kzipe -> nicikzipe
+; <L>12616<pc>0463-a<k1>guru<k2>guru
+105424 old <>also); {#tena DUrjagato gurvI sacivezu nici-#} 
+105424 new <>also); {#tena DUrjagato gurvI sacivezu #} <lbinfo n="nici#kzipe"/>
+;
+105426 old <>{#kzipe#} <ls>R. 1. 34</ls>; 3. 35; 12. 102;
+105426 new <>{#nicikzipe#} <ls>R. 1. 34</ls>; 3. 35; 12. 102;
+;
+; TODO Case 98: roca-nA -> rocanA
+; <L>12713<pc>0467-a<k1>go<k2>go
+106591 old <>Śiva. {#--rocaM#} yellow orpiment. {#--roca-#} 
+106591 new <>Śiva. {#--rocaM#} yellow orpiment. {#--#} <lbinfo n="roca#nA"/>
+;
+106593 old <>{#nA#} a bright yellow pigment <lbinfo n="prepar+ed"/>
+106593 new <>{#rocanA#} a bright yellow pigment <lbinfo n="prepar+ed"/>
+;
+; TODO Case 99: samucitezwade-vatAM -> samucitezwadevatAM
+; <L>12776<pc>0471-a<k1>graMTaH<k2>graMTaH
+107110 old <>writer, an author; {#graMTAraMBe samucitezwade-#} 
+107110 new <>writer, an author; {#graMTAraMBe #} <lbinfo n="samucitezwade#vatAM"/>
+;
+107112 old <>{#vatAM graMTakftparAmfSati#} <ls>K. P. 1</ls> {#--kuwI,#}
+107112 new <>{#samucitezwadevatAM graMTakftparAmfSati#} <ls>K. P. 1</ls> {#--kuwI,#}
+;
+; TODO Case 100: prItirA-sItsamarasA -> prItirAsItsamarasA
+; <L>13011<pc>0481-b<k1>cakzuzmat<k2>cakzuzmat
+109277 old <>faculty of sight; {#tadA cakzuzmatAM prItirA-#} 
+109277 new <>faculty of sight; {#tadA cakzuzmatAM #} <lbinfo n="prItirA#sItsamarasA"/>
+;
+109279 old <>{#sItsamarasA dvayoH#} <ls>R. 4. 18</ls>; {#ºtA#} 4. 13.
+109279 new <>{#prItirAsItsamarasA dvayoH#} <ls>R. 4. 18</ls>; {#ºtA#} 4. 13.
+;
+; TODO Case 101: janma-vatAmalaGvIM -> janmavatAmalaGvIM
+; <L>13280<pc>0491-b<k1>ci<k2>ci
+111520 old <>oneself, acquire, gain; {#cicIzatAM janma-#} 
+111520 new <>oneself, acquire, gain; {#cicIzatAM #} <lbinfo n="janma#vatAmalaGvIM"/>
+;
+111522 old <>{#vatAmalaGvIM BUtiM#} <ls>Ki. 3. 11</ls>, 2. 19,  <lbinfo n="ls:Mv.+ 3. 4."/>
+111522 new <>{#janmavatAmalaGvIM BUtiM#} <ls>Ki. 3. 11</ls>, 2. 19,  <lbinfo n="ls:Mv.+ 3. 4."/>
+;
+; TODO Case 102: parEraDyAruhya-mARamAtmAnaM -> parEraDyAruhyamARamAtmAnaM
+; <L>13321<pc>0492-b<k1>cit<k2>cit
+111770 old <>aware or conscious of; {#parEraDyAruhya-#} 
+111770 new <>aware or conscious of;  <lbinfo n="parEraDyAruhya#mARamAtmAnaM"/>
+;
+111772 old <>{#mARamAtmAnaM na cetayate#} <ls>Dk. 154</ls>;  <lbinfo n="kAdaMba#rIrasaBareRa"/>
+111772 new <>{#parEraDyAruhyamARamAtmAnaM na cetayate#} <ls>Dk. 154</ls>;  <lbinfo n="kAdaMba#rIrasaBareRa"/>
+;
+; TODO Case 103: kAM-tA -> kAMtA
+; <L>13334<pc>0493-b<k1>citra<k2>citra
+111968 old <>{#parikalpitasattvayogA#} <ls>Ś. 2. 9</ls>; {#punarapi citrIkftA kAM-#} 
+111968 new <>{#parikalpitasattvayogA#} <ls>Ś. 2. 9</ls>; {#punarapi citrIkftA #} <lbinfo n="kAM#tA"/>
+;
+111970 old <>{#tA#} <ls>Ś. 6. 20</ls>, 13, 21 &c. {@--2@} A <lbinfo n="bril+liant"/>
+111970 new <>{#kAMtA#} <ls>Ś. 6. 20</ls>, 13, 21 &c. {@--2@} A <lbinfo n="bril+liant"/>
+;
+; TODO Case 104: cInAMSuka-miva -> cInAMSukamiva
+; <L>13386<pc>0495-c<k1>cInaH<k2>cInaH
+112473 old <>Chinacloth, silk, silken cloth; {#cInAMSuka-#} 
+112473 new <>Chinacloth, silk, silken cloth;  <lbinfo n="cInAMSuka#miva"/>
+;
+112475 old <>{#miva ketoH prativAtaM nIyma nasya#}  <lbinfo n="ls:Ś. 1.+ 34"/>
+112475 new <>{#cInAMSukamiva ketoH prativAtaM nIyma nasya#}  <lbinfo n="ls:Ś. 1.+ 34"/>
+;
+; TODO Case 105: laBa-tAmidaM -> laBatAmidaM
+; <L>14093<pc>0519-a<k1>jyA<k2>jyA
+117842 old {#jyA#}¦ {@1@} A bow-string; {#viSrAmaM laBa-#} 
+117842 new {#jyA#}¦ {@1@} A bow-string; {#viSrAmaM #} <lbinfo n="laBa#tAmidaM"/>
+;
+117844 old <>{#tAmidaM ca SiTilajyAbaMDamasmadDanuH#}  <lbinfo n="ls:Ś. 2.+ 6"/>
+117844 new <>{#laBatAmidaM ca SiTilajyAbaMDamasmadDanuH#}  <lbinfo n="ls:Ś. 2.+ 6"/>
+;
+; TODO Case 106: a-nilaH -> anilaH
+; <L>14136<pc>0520-1<k1>JaMJA<k2>JaMJA
+118181 old <>drops. {@--5@} Anything lost. {@--Comp@} {#--a-#} 
+118181 new <>drops. {@--5@} Anything lost. {@--Comp@} {#--#} <lbinfo n="a#nilaH"/>
+;
+118183 old <>{#nilaH, --marut, --vAtaH#} wind with rain, a
+118183 new <>{#anilaH, --marut, --vAtaH#} wind with rain, a
+;
+; TODO Case 107: cakrava-rtinO -> cakravartinO
+; <L>14367<pc>0529-a<k1>tanvI<k2>tanvI
+119815 old <><ls>Ś. 1. 20</ls>; {#tava tanvi kucAvetO niyataM cakrava-#} 
+119815 new <><ls>Ś. 1. 20</ls>; {#tava tanvi kucAvetO niyataM #} <lbinfo n="cakrava#rtinO"/>
+;
+119817 old <>{#rtinO#} <ls>Udb.</ls>
+119817 new <>{#cakravartinO#} <ls>Udb.</ls>
+;
+; TODO Case 108: tA-myati -> tAmyati
+; <L>14419<pc>0531-a<k1>tam<k2>tam
+120266 old <>fatigued; {#lalitaSirIzapuzpahananErapi tA-#} 
+120266 new <>fatigued; {#lalitaSirIzapuzpahananErapi #} <lbinfo n="tA#myati"/>
+;
+120268 old <>{#myati yat#} <ls>Māl. 5. 31.</ls> {@3@} To be <lbinfo n="distress+ed"/>
+120268 new <>{#tAmyati yat#} <ls>Māl. 5. 31.</ls> {@3@} To be <lbinfo n="distress+ed"/>
+;
+; TODO Case 109: baBUvu-stimirA -> baBUvustimirA
+; <L>14671<pc>0538-a<k1>timira<k2>timira
+121958 old <>{#vinyasyaMtIM dfSO timire paTi#} <ls>Gīt. 5</ls>; {#baBUvu-#} 
+121958 new <>{#vinyasyaMtIM dfSO timire paTi#} <ls>Gīt. 5</ls>;  <lbinfo n="baBUvu#stimirA"/>
+;
+121960 old <>{#stimirA diSaH#} <ls>Mb.</ls> {#--raH --raM#} {@1@} Darkness;
+121960 new <>{#baBUvustimirA diSaH#} <ls>Mb.</ls> {#--raH --raM#} {@1@} Darkness;
+;
+; TODO Case 110: maDuSrI-stilakaM -> maDuSrIstilakaM
+; <L>14697<pc>0539-a<k1>tilakaH<k2>tilakaH
+122181 old <>sandalwood or unguents &c.; {#muKe maDuSrI-#} 
+122181 new <>sandalwood or unguents &c.; {#muKe #} <lbinfo n="maDuSrI#stilakaM"/>
+;
+122183 old <>{#stilakaM prakASya#} <ls>Ku. 3. 30</ls>;  <lbinfo n="kastUrikA#tilakamAli"/>
+122183 new <>{#maDuSrIstilakaM prakASya#} <ls>Ku. 3. 30</ls>;  <lbinfo n="kastUrikA#tilakamAli"/>
+;
+; TODO Case 111: eka-dA -> ekadA
+; <L>14728<pc>0540-b<k1>tu<k2>tu
+122471 old <>And now, on one's part, and; {#eka-#} 
+122471 new <>And now, on one's part, and;  <lbinfo n="eka#dA"/>
+;
+122473 old <>{#dA tu pratIhArI samupasftyAbravIt#} <ls>K. 8</ls>;
+122473 new <>{#ekadA tu pratIhArI samupasftyAbravIt#} <ls>K. 8</ls>;
+;
+; TODO Case 112: puruhUta-sutaH -> puruhUtasutaH
+; <L>15023<pc>0548-c<k1>tri<k2>tri
+124644 old <>{#DftasatpaTastripaTagAmaBitaH sa tamAruroha puruhUta-#} 
+124644 new <>{#DftasatpaTastripaTagAmaBitaH sa tamAruroha #} <lbinfo n="puruhUta#sutaH"/>
+;
+124646 old <>{#sutaH#} <ls>Ki. 6. 1</ls>; <ls>Amaru. 99.</ls> {#--pad, --#} <lbinfo n="pA#d"/>
+124646 new <>{#puruhUtasutaH#} <ls>Ki. 6. 1</ls>; <ls>Amaru. 99.</ls> {#--pad, --#} <lbinfo n="pA#d"/>
+;
+; TODO Case 113: tA-nakaH -> tAnakaH
+; <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+125782 old <>{#daMqAnIkErvidarBapateH SriyaM#} <ls>M. 5. 2.</ls> {#--Bapa (va) tA-#} 
+125782 new <>{#daMqAnIkErvidarBapateH SriyaM#} <ls>M. 5. 2.</ls> {#--Bapa (va) #} <lbinfo n="tA#nakaH"/>
+;
+125784 old <>{#nakaH#} tetanus, lock-jaw. {#--apUpanyAyaH#}
+125784 new <>{#tAnakaH#} tetanus, lock-jaw. {#--apUpanyAyaH#}
+;
+; TODO Case 114: hfda-yadArikA -> hfdayadArikA
+; <L>15366<pc>0563-b<k1>dAraka<k2>dAraka
+127651 old <>Breaking, tearing, splitting; {#dArikA hfda-#} 
+127651 new <>Breaking, tearing, splitting; {#dArikA #} <lbinfo n="hfda#yadArikA"/>
+;
+127653 old <>{#yadArikA pituH#}. {#--kaH#} {@1@} A boy, a son.
+127653 new <>{#hfdayadArikA pituH#}. {#--kaH#} {@1@} A boy, a son.
+;
+; TODO Case 115: ivABra-SyAmastapAtyaye -> ivABraSyAmastapAtyaye
+; <L>15434<pc>0565-b<k1>divasaH<k2>divasaH
+128127 old <><ab>cf.</ab> <ls>Uṇ. 3. 121</ls>] A day; {#divasa ivABra-#} 
+128127 new <><ab>cf.</ab> <ls>Uṇ. 3. 121</ls>] A day; {#divasa #} <lbinfo n="ivABra#SyAmastapAtyaye"/>
+;
+128129 old <>{#SyAmastapAtyaye jIvalokasya#} <ls>Ś. 3. 12.</ls>
+128129 new <>{#ivABraSyAmastapAtyaye jIvalokasya#} <ls>Ś. 3. 12.</ls>
+;
+; TODO Case 116: sPura-tyezanirmalavivekadIpakaH -> sPuratyezanirmalavivekadIpakaH
+; <L>15469<pc>0567-c<k1>dIpaka<k2>dIpaka
+128601 old <>light, lamp; {#tAvadeva kftinAmapi sPura-#} 
+128601 new <>light, lamp; {#tAvadeva kftinAmapi #} <lbinfo n="sPura#tyezanirmalavivekadIpakaH"/>
+;
+128603 old <>{#tyezanirmalavivekadIpakaH#} <ls>Bh. 1. 57.</ls> {@--2@} A
+128603 new <>{#sPuratyezanirmalavivekadIpakaH#} <ls>Bh. 1. 57.</ls> {@--2@} A
+;
+; TODO Case 117: dfzadimA-zakaH -> dfzadimAzakaH
+; <L>15617<pc>0577-c<k1>dfzad<k2>dfzad
+130639 old <>grinding condiments upon. ({#dfzadimA-#} 
+130639 new <>grinding condiments upon. ( <lbinfo n="dfzadimA#zakaH"/>
+;
+130641 old <>{#zakaH#} a tax raised from mill-stones).
+130641 new <>{#dfzadimAzakaH#} a tax raised from mill-stones).
+;
+; TODO Case 118: saM-gItiH -> saMgItiH
+; <L>15976<pc>0592-b<k1>DarmaH<k2>DarmaH
+134091 old <>justice or virtue. --2. hypocrisy. {#--saM-#} 
+134091 new <>justice or virtue. --2. hypocrisy. {#--#} <lbinfo n="saM#gItiH"/>
+;
+134093 old <>{#gItiH#} 1. discussion about law. --2.
+134093 new <>{#saMgItiH#} 1. discussion about law. --2.
+;
+; TODO Case 119: cA-tmarUpaM -> cAtmarUpaM
+; <L>16056<pc>0597-a<k1>Di<k2>Di
+134820 old <>please, delight; satisfy; {#paSyaMtI cA-#} 
+134820 new <>please, delight; satisfy; {#paSyaMtI #} <lbinfo n="cA#tmarUpaM"/>
+;
+134822 old <>{#tmarUpaM tadapi vilulitasragDareyaM Dinoti#}
+134822 new <>{#cAtmarUpaM tadapi vilulitasragDareyaM Dinoti#}
+;
+; TODO Case 120: kI-rtanIyA -> kIrtanIyA
+; <L>16092<pc>0598-b<k1>Dur<k2>Dur
+135119 old <>front, top, head; {#apAMsulAnAM Duri kI-#} 
+135119 new <>front, top, head; {#apAMsulAnAM Duri #} <lbinfo n="kI#rtanIyA"/>
+;
+135121 old <>{#rtanIyA#} <ls>R. 2. 2</ls>; {#Duri sTitA tvaM #} <lbinfo n="patideva#tAnAM"/>
+135121 new <>{#kIrtanIyA#} <ls>R. 2. 2</ls>; {#Duri sTitA tvaM #} <lbinfo n="patideva#tAnAM"/>
+;
+; TODO Case 121: ma-hizI -> mahizI
+; <L>16116<pc>0599-b<k1>DUmaH<k2>DUmaH
+135338 old <>of curling smoke; <ls>Mu. 1. 9.</ls> {#--ma-#} 
+135338 new <>of curling smoke; <ls>Mu. 1. 9.</ls> {#--#} <lbinfo n="ma#hizI"/>
+;
+135340 old <>{#hizI#} fog, mist. {#--yoniH#} a cloud; <ab>cf.</ab>
+135340 new <>{#mahizI#} fog, mist. {#--yoniH#} a cloud; <ab>cf.</ab>
+;
+; TODO Case 122: DUrtAnAmaBisAra-satvarahfdAM -> DUrtAnAmaBisArasatvarahfdAM
+; <L>16129<pc>0599-c<k1>DUrta<k2>DUrta
+135422 old <>{#cuMbati#} <ls>Amaru. 16</ls>; so {#DUrtAnAmaBisAra-#} 
+135422 new <>{#cuMbati#} <ls>Amaru. 16</ls>; so  <lbinfo n="DUrtAnAmaBisAra#satvarahfdAM"/>
+;
+135424 old <>{#satvarahfdAM#} <ls>Gīt. 11.</ls> {@--4@} The <lbinfo n="thorn+apple"/>
+135424 new <>{#DUrtAnAmaBisArasatvarahfdAM#} <ls>Gīt. 11.</ls> {@--4@} The <lbinfo n="thorn+apple"/>
+;
+; TODO Case 123: mf-tasya -> mftasya
+; <L>16216<pc>0602-b<k1>Druva<k2>Druva
+136054 old <>inevitable; {#jAtasya hi Druvo mftyarDruvaM janma mf-#} 
+136054 new <>inevitable; {#jAtasya hi Druvo mftyarDruvaM janma #} <lbinfo n="mf#tasya"/>
+;
+136056 old <>{#tasya ca#} <ls>Bg. 2. 27</ls>; {#yo DruvARi #} <lbinfo n="paritya#jya"/>
+136056 new <>{#mftasya ca#} <ls>Bg. 2. 27</ls>; {#yo DruvARi #} <lbinfo n="paritya#jya"/>
+;
+; TODO Case 124: nfpate-rnarmasacivaH -> nfpaternarmasacivaH
+; <L>16395<pc>0610-a<k1>narman<k2>narman
+137721 old <>man of rank; {#idaM tvEdaMparyaM yaduta nfpate-#} 
+137721 new <>man of rank; {#idaM tvEdaMparyaM yaduta #} <lbinfo n="nfpate#rnarmasacivaH"/>
+;
+137723 old <>{#rnarmasacivaH sutAdAnAnmitraM Bavatu#}  <lbinfo n="ls:Māl. 2.+ 7"/>
+137723 new <>{#nfpaternarmasacivaH sutAdAnAnmitraM Bavatu#}  <lbinfo n="ls:Māl. 2.+ 7"/>
+;
+; TODO Case 125: nalinIdala-gatajalamatitaralaM -> nalinIdalagatajalamatitaralaM
+; <L>16404<pc>0610-b<k1>nalinI<k2>nalinI
+137799 old <>{#nalinI prarohati#} <ls>Mk. 4. 17</ls>; {#nalinIdala-#} 
+137799 new <>{#nalinI prarohati#} <ls>Mk. 4. 17</ls>;  <lbinfo n="nalinIdala#gatajalamatitaralaM"/>
+;
+137801 old <>{#gatajalamatitaralaM#} <ls>Moha M. 5</ls>;  <lbinfo n="ls:Ku. 4+ 6."/>
+137801 new <>{#nalinIdalagatajalamatitaralaM#} <ls>Moha M. 5</ls>;  <lbinfo n="ls:Ku. 4+ 6."/>
+;
+; TODO Case 126: DIro-dData -> DIrodData
+; <L>16513<pc>0615-b<k1>nAyaka<k2>nAyaka
+138870 old <>main kinds of {#nAyakaH#} {#--DIrodAtta, DIro-#} 
+138870 new <>main kinds of {#nAyakaH#} {#--DIrodAtta, #} <lbinfo n="DIro#dData"/>
+;
+138872 old <>{#dData, DIralalita,#} and {#DIrapraSAMta,#} q. <ab>q. v.</ab> v;
+138872 new <>{#DIrodData, DIralalita,#} and {#DIrapraSAMta,#} q. <ab>q. v.</ab> v;
+;
+; TODO Case 127: upa-pada -> upapada
+; <L>16862<pc>0626-b<k1>nir<k2>nir
+141721 old <><ls>U. 2. 2.</ls> {#--upapatti#} {%<ab>a.</ab>%} unsuitable. {#--upa-#} 
+141721 new <><ls>U. 2. 2.</ls> {#--upapatti#} {%<ab>a.</ab>%} unsuitable. {#--#} <lbinfo n="upa#pada"/>
+;
+141723 old <>{#pada#} {%<ab>a.</ab>%} 1. without any title or <lbinfo n="designa+tion"/>
+141723 new <>{#upapada#} {%<ab>a.</ab>%} 1. without any title or <lbinfo n="designa+tion"/>
+;
+; TODO Case 128: nirJa-riRyaH -> nirJariRyaH
+; <L>16931<pc>0632-b<k1>nirJariRI<k2>nirJariRI, nirJarI
+142606 old <>mountaintorrent; {#sKalanamuKaraBUrisrotaso nirJa-#} 
+142606 new <>mountaintorrent; {#sKalanamuKaraBUrisrotaso #} <lbinfo n="nirJa#riRyaH"/>
+;
+142608 old <>{#riRyaH#} <ls>U. 2. 20</ls>; <ls>Mv. 5. 40.</ls>
+142608 new <>{#nirJariRyaH#} <ls>U. 2. 20</ls>; <ls>Mv. 5. 40.</ls>
+;
+; TODO Case 129: nizpIqiteMdukarakaMdala-jo -> nizpIqiteMdukarakaMdalajo
+; <L>17248<pc>0641-c<k1>nizpIqita<k2>nizpIqita
+144838 old <>together or out; {#nizpIqiteMdukarakaMdala-#} 
+144838 new <>together or out;  <lbinfo n="nizpIqiteMdukarakaMdala#jo"/>
+;
+144840 old <>{#jo nu sekaH#} <ls>U. 3. 11.</ls>
+144840 new <>{#nizpIqiteMdukarakaMdalajo nu sekaH#} <ls>U. 3. 11.</ls>
+;
+; TODO Case 130: parI-hAra -> parIhAra
+; <L>17254<pc>0642-a<k1>nis<k2>nis
+145020 old <>examining or testing accurately. {#--parI-#} 
+145020 new <>examining or testing accurately. {#--#} <lbinfo n="parI#hAra"/>
+;
+145022 old <>{#hAra (nizparIhAra)#} {%<ab>a.</ab>%} 1. not avoiding.
+145022 new <>{#parIhAra (nizparIhAra)#} {%<ab>a.</ab>%} 1. not avoiding.
+;
+; TODO Case 131: Bayamapralayodve-gAdAcaKyurnErftodaDeH -> BayamapralayodvegAdAcaKyurnErftodaDeH
+; <L>17427<pc>0649-b<k1>nErftaH<k2>nErftaH
+146497 old {#nErftaH#}¦ {@1@} A demon; {#Bayamapralayodve-#} 
+146497 new {#nErftaH#}¦ {@1@} A demon;  <lbinfo n="Bayamapralayodve#gAdAcaKyurnErftodaDeH"/>
+;
+146499 old <>{#gAdAcaKyurnErftodaDeH#} <ls>R. 10. 34</ls>; 11.
+146499 new <>{#BayamapralayodvegAdAcaKyurnErftodaDeH#} <ls>R. 10. 34</ls>; 11.
+;
+; TODO Case 132: ba-lavattarAH -> balavattarAH
+; <L>17565<pc>0655-b<k1>pac<k2>pac
+147781 old <><ls>Ms. 3. 118</ls>; {#SUle matsyAnivApakzyan durbalAn ba-#} 
+147781 new <><ls>Ms. 3. 118</ls>; {#SUle matsyAnivApakzyan durbalAn #} <lbinfo n="ba#lavattarAH"/>
+;
+147783 old <>{#lavattarAH#} 7. 20; <ls>Bh. 1. 85.</ls> {@--2@} To
+147783 new <>{#balavattarAH#} 7. 20; <ls>Bh. 1. 85.</ls> {@--2@} To
+;
+; TODO Case 133: padmAtapatre-RaBeje -> padmAtapatreRaBeje
+; <L>17733<pc>0664-b<k1>padma<k2>padma
+149674 old <>wife of Viṣṇu; {#(taM) padmA padmAtapatre-#} 
+149674 new <>wife of Viṣṇu; {#(taM) padmA #} <lbinfo n="padmAtapatre#RaBeje"/>
+;
+149676 old <>{#RaBeje sAmrAjyadIkzitaM#} <ls>R. 4. 5.</ls> {@--2@}
+149676 new <>{#padmAtapatreRaBeje sAmrAjyadIkzitaM#} <ls>R. 4. 5.</ls> {@--2@}
+;
+; TODO Case 134: vismayavaM-ti -> vismayavaMti
+; <L>17790<pc>0668-c<k1>paraspara<k2>paraspara
+150541 old {#paraspara#}¦ {%<ab>a.</ab>%} Mutual; {#parasparAM vismayavaM-#} 
+150541 new {#paraspara#}¦ {%<ab>a.</ab>%} Mutual; {#parasparAM #} <lbinfo n="vismayavaM#ti"/>
+;
+150543 old <>{#ti lakzmImAlokayAMcakrurivAdareRa#} <ls>Bk. 2.</ls>
+150543 new <>{#vismayavaMti lakzmImAlokayAMcakrurivAdareRa#} <ls>Bk. 2.</ls>
+;
+; TODO Case 135: suDAMSukAla-tottaMsastApaM -> suDAMSukAlatottaMsastApaM
+; <L>17854<pc>0670-c<k1>parikaraH<k2>parikaraH
+151010 old <>{#parikarastu saH#} <ls>K. P. 10</ls>; {%<ab>e. g.</ab>%} {#suDAMSukAla-#} 
+151010 new <>{#parikarastu saH#} <ls>K. P. 10</ls>; {%<ab>e. g.</ab>%}  <lbinfo n="suDAMSukAla#tottaMsastApaM"/>
+;
+151012 old <>{#tottaMsastApaM haratu vaH SivaH#}  <lbinfo n="ls:Chandr. 5.+ 59."/>
+151012 new <>{#suDAMSukAlatottaMsastApaM haratu vaH SivaH#}  <lbinfo n="ls:Chandr. 5.+ 59."/>
+;
+; TODO Case 136: parime-yapuraHsarO -> parimeyapuraHsarO
+; <L>18154<pc>0678-c<k1>parimeya<k2>parimeya
+152968 old {#parimeya#}¦ {%<ab>a.</ab>%} {@1@} Few, limited; {#parime-#} 
+152968 new {#parimeya#}¦ {%<ab>a.</ab>%} {@1@} Few, limited;  <lbinfo n="parime#yapuraHsarO"/>
+;
+152970 old <>{#yapuraHsarO#} <ls>R. 1. 37.</ls> {@--2@} Measurable,
+152970 new <>{#parimeyapuraHsarO#} <ls>R. 1. 37.</ls> {@--2@} Measurable,
+;
+; TODO Case 137: bA-wikA -> bAwikA
+; <L>18389<pc>0684-b<k1>parRaM<k2>parRaM
+154396 old <>{#(vasaMta)#}. {#--latA#} the betel-plant. {#--bA-#} 
+154396 new <>{#(vasaMta)#}. {#--latA#} the betel-plant. {#--#} <lbinfo n="bA#wikA"/>
+;
+154398 old <>{#wikA#} pieces of areca-nut mixed with
+154398 new <>{#bAwikA#} pieces of areca-nut mixed with
+;
+; TODO Case 138: pavi-trIBU -> pavitrIBU
+; <L>18525<pc>0688-a<k1>pavitra<k2>pavitra
+155285 old <>({#pavitrIkf#} ‘to purify, sanctify’; {#pavi-#} 
+155285 new <>({#pavitrIkf#} ‘to purify, sanctify’;  <lbinfo n="pavi#trIBU"/>
+;
+155287 old <>{#trIBU#} ‘to become pure or holy’).
+155287 new <>{#pavitrIBU#} ‘to become pure or holy’).
+;
+; TODO Case 139: udveja-yatyaMgulipArzRiBAgAn -> udvejayatyaMgulipArzRiBAgAn
+; <L>18853<pc>0698-b<k1>pArzRiH<k2>pArzRiH
+157703 old <><ls>Uṇ. 4. 52</ls>] {@1@} The heel; {#udveja-#} 
+157703 new <><ls>Uṇ. 4. 52</ls>] {@1@} The heel;  <lbinfo n="udveja#yatyaMgulipArzRiBAgAn"/>
+;
+157705 old <>{#yatyaMgulipArzRiBAgAn#} <ls>Ku. 1. 11</ls>;  <lbinfo n="pA#rzRiprahAra"/>
+157705 new <>{#udvejayatyaMgulipArzRiBAgAn#} <ls>Ku. 1. 11</ls>;  <lbinfo n="pA#rzRiprahAra"/>
+;
+; TODO Case 140: nizaRRahari-RA -> nizaRRahariRA
+; <L>18873<pc>0699-a<k1>pAvana<k2>pAvana
+157858 old <>sanctifying; {#pAdAstAmaBito nizaRRahari-#} 
+157858 new <>sanctifying; {#pAdAstAmaBito #} <lbinfo n="nizaRRahari#RA"/>
+;
+157860 old <>{#RA gOrIguroH pAvanAH#} <ls>Ś. 6. 16</ls>,  <lbinfo n="ls:R. 15.+ 101"/>
+157860 new <>{#nizaRRahariRA gOrIguroH pAvanAH#} <ls>Ś. 6. 16</ls>,  <lbinfo n="ls:R. 15.+ 101"/>
+;
+; TODO Case 141: BavaMtamAyuDa-piSAcI -> BavaMtamAyuDapiSAcI
+; <L>19015<pc>0703-c<k1>piSAcikA<k2>piSAcikA
+158939 old <>{#kiyacciramiyamatinAwayizyati BavaMtamAyuDa-#} 
+158939 new <>{#kiyacciramiyamatinAwayizyati #} <lbinfo n="BavaMtamAyuDa#piSAcI"/>
+;
+158941 old <>{#piSAcI#} <ls>A. R. 4.</ls>)
+158941 new <>{#BavaMtamAyuDapiSAcI#} <ls>A. R. 4.</ls>)
+;
+; TODO Case 142: suta-nizidDacApalaM -> sutanizidDacApalaM
+; <L>19115<pc>0708-b<k1>punar<k2>punar
+159935 old <>‘repeatedly,’ ‘frequently’; {#punaH punaH suta-#} 
+159935 new <>‘repeatedly,’ ‘frequently’; {#punaH punaH #} <lbinfo n="suta#nizidDacApalaM"/>
+;
+159937 old <>{#nizidDacApalaM#} <ls>R. 3. 42</ls>; {#kiMpunaH#} ‘how
+159937 new <>{#sutanizidDacApalaM#} <ls>R. 3. 42</ls>; {#kiMpunaH#} ‘how
+;
+; TODO Case 143: qadyA-na -> qadyAna
+; <L>19120<pc>0709-a<k1>pura<k2>pura
+160061 old <>festival celebrated in a city. {#--qadyA-#} 
+160061 new <>festival celebrated in a city. {#--#} <lbinfo n="qadyA#na"/>
+;
+160063 old <>{#na#} a city-garden, park. {#--okas#} {%<ab>m.</ab>%}
+160063 new <>{#qadyAna#} a city-garden, park. {#--okas#} {%<ab>m.</ab>%}
+;
+; TODO Case 144: paMca-mahABUtAni -> paMcamahABUtAni
+; <L>19529<pc>0725-a<k1>prakftiH<k2>prakftiH
+163676 old <>primary elements of creations ({#paMca-#} 
+163676 new <>primary elements of creations ( <lbinfo n="paMca#mahABUtAni"/>
+;
+163678 old <>{#mahABUtAni#}); {%<ab>i. e.</ab>%} {#pfTvI, ap, tejas,#}
+163678 new <>{#paMcamahABUtAni#}); {%<ab>i. e.</ab>%} {#pfTvI, ap, tejas,#}
+;
+; TODO Case 145: vi-zRukaH -> vizRukaH
+; <L>19801<pc>0733-b<k1>prati<k2>prati
+165937 old <>antidote. ({#--zA#}) a birch tree. {#--vi-#} 
+165937 new <>antidote. ({#--zA#}) a birch tree. {#--#} <lbinfo n="vi#zRukaH"/>
+;
+165939 old <>{#zRukaH#} a Mucukunda tree. {#--vIraH#}
+165939 new <>{#vizRukaH#} a Mucukunda tree. {#--vIraH#}
+;
+; TODO Case 146: pra-tipadyasva -> pratipadyasva
+; <L>19904<pc>0737-c<k1>pratipad<k2>pratipad
+166539 old <>follow (as a way &c.); {#itaH paMTAnaM pra-#} 
+166539 new <>follow (as a way &c.); {#itaH paMTAnaM #} <lbinfo n="pra#tipadyasva"/>
+;
+166541 old <>{#tipadyasva#} <ls>Ś. 4</ls>; {#pratipatsye padavImahaM tava#}
+166541 new <>{#pratipadyasva#} <ls>Ś. 4</ls>; {#pratipatsye padavImahaM tava#}
+;
+; TODO Case 147: dAsya-si -> dAsyasi
+; <L>20038<pc>0741-b<k1>prativeSin<k2>prativeSin
+167434 old <>{#dfzwiM he prativoSini kzaRamihApyasmadgfhe dAsya-#} 
+167434 new <>{#dfzwiM he prativoSini kzaRamihApyasmadgfhe #} <lbinfo n="dAsya#si"/>
+;
+167436 old <>{#si#} <ls>S. D.</ls>; <ls>Mk. 3. 14.</ls>
+167436 new <>{#dAsyasi#} <ls>S. D.</ls>; <ls>Mk. 3. 14.</ls>
+;
+; TODO Case 148: pradakziRA-rcirhaviragnirAdade -> pradakziRArcirhaviragnirAdade
+; <L>20293<pc>0748-a<k1>pradakziRa<k2>pradakziRa
+169079 old <>turned towards the right; {#pradakziRA-#} 
+169079 new <>turned towards the right;  <lbinfo n="pradakziRA#rcirhaviragnirAdade"/>
+;
+169081 old <>{#rcirhaviragnirAdade#} <ls>R. 3. 14.</ls> ({%--<ab>f.</ab>%}) flames
+169081 new <>{#pradakziRArcirhaviragnirAdade#} <ls>R. 3. 14.</ls> ({%--<ab>f.</ab>%}) flames
+;
+; TODO Case 149: apa-cAraM -> apacAraM
+; <L>20816<pc>0762-b<k1>praSam<k2>praSam
+172592 old <>To remove, put an end to; {#taM (apa-#} 
+172592 new <>To remove, put an end to; {#taM (#} <lbinfo n="apa#cAraM"/>
+;
+172594 old <>{#cAraM) anvizya praSamayeH#} <ls>R. 15. 47.</ls>
+172594 new <>{#apacAraM) anvizya praSamayeH#} <ls>R. 15. 47.</ls>
+;
+; TODO Case 150: prAgra-saraH -> prAgrasaraH
+; <L>21060<pc>0770-a<k1>prAgraM<k2>prAgraM
+174400 old <>{#--sara#} {%<ab>a.</ab>%} first, fore most; {#tvamarhatAM prAgra-#} 
+174400 new <>{#--sara#} {%<ab>a.</ab>%} first, fore most; {#tvamarhatAM #} <lbinfo n="prAgra#saraH"/>
+;
+174402 old <>{#saraH smfto'si naH#} <ls>Ś. 5. 15.</ls> {#--hara#} {%<ab>a.</ab>%}
+174402 new <>{#prAgrasaraH smfto'si naH#} <ls>Ś. 5. 15.</ls> {#--hara#} {%<ab>a.</ab>%}
+;
+; TODO Case 151: prAq-vivAkaH -> prAqvivAkaH
+; <L>21078<pc>0771-a<k1>prAC<k2>prAC
+174607 old <>in {#SabdaprAw#}. {@--Comp.@} {#--vivAkaH (prAq-#} 
+174607 new <>in {#SabdaprAw#}. {@--Comp.@} {#--vivAkaH (#} <lbinfo n="prAq#vivAkaH"/>
+;
+174609 old <>{#vivAkaH)#} a judge, the presiding
+174609 new <>{#prAqvivAkaH)#} a judge, the presiding
+;
+; TODO Case 152: saMkalaya-ti -> saMkalayati
+; <L>21372<pc>0780-b<k1>prota<k2>prota
+176787 old <>{#(caMdrokaraRAn) bisamiti karI saMkalaya-#} 
+176787 new <>{#(caMdrokaraRAn) bisamiti karI #} <lbinfo n="saMkalaya#ti"/>
+;
+176789 old <>{#ti#} <ls>K. P. 10.</ls> {@--6@} Set, inlaid;  <lbinfo n="ls:Mv.+ 1. 35."/>
+176789 new <>{#saMkalayati#} <ls>K. P. 10.</ls> {@--6@} Set, inlaid;  <lbinfo n="ls:Mv.+ 1. 35."/>
+;
+; TODO Case 153: BayaM-karaH -> BayaMkaraH
+; <L>21455<pc>0782-1<k1>PawaH<k2>PawaH
+177303 old <><ab>v. l.</ab>); {#vizaM Bavatu mA BUdvA PawAwopo BayaM-#} 
+177303 new <><ab>v. l.</ab>); {#vizaM Bavatu mA BUdvA PawAwopo #} <lbinfo n="BayaM#karaH"/>
+;
+177305 old <>{#karaH#} <ls>Pt. 1. 204.</ls> {@--2@} A tooth. {@--3@} A
+177305 new <>{#BayaMkaraH#} <ls>Pt. 1. 204.</ls> {@--2@} A tooth. {@--3@} A
+;
+; TODO Case 154: aPA-lIt -> aPAlIt
+; <L>21468<pc>0783-a<k1>Pal<k2>Pal
+177402 old {#Pal#}¦ I. 1 <ab>P.</ab> ({#Palati, paPAla, aPA-#} 
+177402 new {#Pal#}¦ I. 1 <ab>P.</ab> ({#Palati, paPAla, #} <lbinfo n="aPA#lIt"/>
+;
+177404 old <>{#lIt, Palizyati, Palita#}) {@1@} To bear fruit,
+177404 new <>{#aPAlIt, Palizyati, Palita#}) {@1@} To bear fruit,
+;
+; TODO Case 155: ya-tprasAdataH -> yatprasAdataH
+; <L>21543<pc>0786-a<k1>badaraH<k2>badaraH
+178045 old <>jujube; {#karabadarasadfSamaKilaM BuvanatalaM ya-#} 
+178045 new <>jujube; {#karabadarasadfSamaKilaM BuvanatalaM #} <lbinfo n="ya#tprasAdataH"/>
+;
+178047 old <>{#tprasAdataH kavayaH . paSyaMti sUkzmamatayaH sA#}
+178047 new <>{#yatprasAdataH kavayaH . paSyaMti sUkzmamatayaH sA#}
+;
+; TODO Case 156: babaMDuraMguli-trARi -> babaMDuraMgulitrARi
+; <L>21554<pc>0786-b<k1>baMD<k2>baMD
+178124 old <>{#praBavAmIti baDyate#} <ls>Pt. 1. 72</ls>; {#babaMDuraMguli-#} 
+178124 new <>{#praBavAmIti baDyate#} <ls>Pt. 1. 72</ls>;  <lbinfo n="babaMDuraMguli#trARi"/>
+;
+178126 old <>{#trARi#} <ls>Bk. 14. 7.</ls> {@--6@} To attract, <lbinfo n="ar+rest"/>
+178126 new <>{#babaMDuraMgulitrARi#} <ls>Bk. 14. 7.</ls> {@--6@} To attract, <lbinfo n="ar+rest"/>
+;
+; TODO Case 157: ma-hadvErataroH -> mahadvErataroH
+; <L>21555<pc>0786-c<k1>badDa<k2>badDa
+178242 old <>striking root firmly; {#badDamUlasya mUlaM hi ma-#} 
+178242 new <>striking root firmly; {#badDamUlasya mUlaM hi #} <lbinfo n="ma#hadvErataroH"/>
+;
+178244 old <>{#hadvErataroH striyaH#} <ls>Śi. 2. 38.</ls> {#--mOna#} {%<ab>a.</ab>%}
+178244 new <>{#mahadvErataroH striyaH#} <ls>Śi. 2. 38.</ls> {#--mOna#} {%<ab>a.</ab>%}
+;
+; TODO Case 158: gA-raH -> gAraH
+; <L>21558<pc>0787-c<k1>baMDana<k2>baMDana
+178364 old <>A bondage. {@--Comp.@} {#--a (A) gA-#} 
+178364 new <>A bondage. {@--Comp.@} {#--a (A) #} <lbinfo n="gA#raH"/>
+;
+178366 old <>{#raH --raM, --AlayaH#} a prison, jail. {#--graMTiH#}
+178366 new <>{#gAraH --raM, --AlayaH#} a prison, jail. {#--graMTiH#}
+;
+; TODO Case 159: Bava-ti -> Bavati
+; <L>22308<pc>0825-a<k1>BekaH<k2>BekaH
+186313 old <>{@1@} A frog; {#paMke nimagne kariRi Beko Bava-#} 
+186313 new <>{@1@} A frog; {#paMke nimagne kariRi Beko #} <lbinfo n="Bava#ti"/>
+;
+186315 old <>{#ti mUrDagaH#}. {@--2@} A timid man. {@--3@} A
+186315 new <>{#Bavati mUrDagaH#}. {@--2@} A timid man. {@--3@} A
+;
+; TODO Case 160: prasra-vaRaM -> prasravaRaM
+; <L>22582<pc>0836-a<k1>madaH<k2>madaH
+188776 old <>elephant in rut. {#--prayogaH, --prasekaH, --prasra-#} 
+188776 new <>elephant in rut. {#--prayogaH, --prasekaH, --#} <lbinfo n="prasra#vaRaM"/>
+;
+188778 old <>{#vaRaM, --srAvaH, --srutiH#} {%<ab>f.</ab>%} the exudation of
+188778 new <>{#prasravaRaM, --srAvaH, --srutiH#} {%<ab>f.</ab>%} the exudation of
+;
+; TODO Case 161: pravi-Sya -> praviSya
+; <L>23042<pc>0862-a<k1>mAruta<k2>mAruta
+194107 old <>everywhere by means of spies); <ab>cf.</ab> {#pravi-#} 
+194107 new <>everywhere by means of spies); <ab>cf.</ab>  <lbinfo n="pravi#Sya"/>
+;
+194109 old <>{#Sya sarvaBUtAni yaTA carati mArutaH . taTA carEH#}
+194109 new <>{#praviSya sarvaBUtAni yaTA carati mArutaH . taTA carEH#}
+;
+; TODO Case 162: sPuradavaDi-mudrAmukulitAH -> sPuradavaDimudrAmukulitAH
+; <L>23275<pc>0870-c<k1>mudrA<k2>mudrA
+196051 old <>(<ab>fig.</ab> also); {#iti prAyo BAvAH sPuradavaDi-#} 
+196051 new <>(<ab>fig.</ab> also); {#iti prAyo BAvAH #} <lbinfo n="sPuradavaDi#mudrAmukulitAH"/>
+;
+196053 old <>{#mudrAmukulitAH#} <ls>Bh. 2. 114.</ls> {@--2@}
+196053 new <>{#sPuradavaDimudrAmukulitAH#} <ls>Bh. 2. 114.</ls> {@--2@}
+;
+; TODO Case 163: sattvavihita-matulaM -> sattvavihitamatulaM
+; <L>23440<pc>0877-b<k1>mfDaM<k2>mfDaM
+197518 old {#mfDaM#}¦ War, battle, fight; {#sattvavihita-#} 
+197518 new {#mfDaM#}¦ War, battle, fight;  <lbinfo n="sattvavihita#matulaM"/>
+;
+197520 old <>{#matulaM Bujayorbalamasya paSyata mfDe'#} <lbinfo n="Dikupya#taH"/>
+197520 new <>{#sattvavihitamatulaM Bujayorbalamasya paSyata mfDe'#} <lbinfo n="Dikupya#taH"/>
+;
+; TODO Case 164: kA-laH -> kAlaH
+; <L>23650<pc>0884-a<k1>yajYaH<k2>yajYaH
+199054 old <>sacrifice or sacrifical offering. {#--kA-#} 
+199054 new <>sacrifice or sacrifical offering. {#--#} <lbinfo n="kA#laH"/>
+;
+199056 old <>{#laH#} the last lunar day of every
+199056 new <>{#kAlaH#} the last lunar day of every
+;
+; TODO Case 165: saM-BAraH -> saMBAraH
+; <L>23650<pc>0884-a<k1>yajYaH<k2>yajYaH
+199111 old <>number of people at a sacrifice. {#--saM-#} 
+199111 new <>number of people at a sacrifice. {#--#} <lbinfo n="saM#BAraH"/>
+;
+199113 old <>{#BAraH#} materials necessary for a <lbinfo n="sacri+fice"/>
+199113 new <>{#saMBAraH#} materials necessary for a <lbinfo n="sacri+fice"/>
+;
+; TODO Case 166: BA-zasi -> BAzasi
+; <L>23674<pc>0885-c<k1>yaTA<k2>yaTA
+199389 old <>more, the less-the less; {#yaTA yaTA BA-#} 
+199389 new <>more, the less-the less; {#yaTA yaTA #} <lbinfo n="BA#zasi"/>
+;
+199391 old <>{#zasi DarmasaMmitaM taTA taTA me tvayi #} <lbinfo n="Baktiru#ttamA"/>
+199391 new <>{#BAzasi DarmasaMmitaM taTA taTA me tvayi #} <lbinfo n="Baktiru#ttamA"/>
+;
+; TODO Case 167: da-yAluH -> dayAluH
+; <L>23726<pc>0890-b<k1>yaSas<k2>yaSas
+200304 old <>the form of fame; {#yaSaHSarIre Bava me da-#} 
+200304 new <>the form of fame; {#yaSaHSarIre Bava me #} <lbinfo n="da#yAluH"/>
+;
+200306 old <>{#yAluH#} <ls>R. 2. 24.</ls> {#--da#} {%<ab>a.</ab>%} ({#yaSoda#}) <lbinfo n="con+ferring"/>
+200306 new <>{#dayAluH#} <ls>R. 2. 24.</ls> {#--da#} {%<ab>a.</ab>%} ({#yaSoda#}) <lbinfo n="con+ferring"/>
+;
+; TODO Case 168: vaDyatAmaBayayAcanAM-jaliH -> vaDyatAmaBayayAcanAMjaliH
+; <L>23743<pc>0891-b<k1>yAcanaM<k2>yAcanaM --nA
+200510 old <>{#yAcanA mAnanASAya; vaDyatAmaBayayAcanAM-#} 
+200510 new <>{#yAcanA mAnanASAya; #} <lbinfo n="vaDyatAmaBayayAcanAM#jaliH"/>
+;
+200512 old <>{#jaliH#} <ls>R. 11. 78.</ls>
+200512 new <>{#vaDyatAmaBayayAcanAMjaliH#} <ls>R. 11. 78.</ls>
+;
+; TODO Case 169: u-dBedaH -> udBedaH
+; <L>23906<pc>0898-c<k1>yOvana<k2>yOvana
+202110 old <>youth, budding youth; <ls>Māl. 3.</ls> {#--u-#} 
+202110 new <>youth, budding youth; <ls>Māl. 3.</ls> {#--#} <lbinfo n="u#dBedaH"/>
+;
+202112 old <>{#dBedaH#} 1. ardour of youthful passions.
+202112 new <>{#udBedaH#} 1. ardour of youthful passions.
+;
+; TODO Case 170: ra-ktaScuMbati -> raktaScuMbati
+; <L>23921<pc>0899-1<k1>rakta<k2>rakta
+202201 old <>affected with love; {#ayamEMdrImuKaM paSya ra-#} 
+202201 new <>affected with love; {#ayamEMdrImuKaM paSya #} <lbinfo n="ra#ktaScuMbati"/>
+;
+202203 old <>{#ktaScuMbati caMdramAH#} <ls>Chandr. 5. 58</ls> (where
+202203 new <>{#raktaScuMbati caMdramAH#} <ls>Chandr. 5. 58</ls> (where
+;
+; TODO Case 171: paMca-ratna -> paMcaratna
+; <L>23986<pc>0903-a<k1>ratnaM<k2>ratnaM
+202987 old <>nine, or fourteen; see the words {#paMca-#} 
+202987 new <>nine, or fourteen; see the words  <lbinfo n="paMca#ratna"/>
+;
+202989 old <>{#ratna, navaratna,#} and {#caturdaSaratna#} <lbinfo n="respective+ly"/>
+202989 new <>{#paMcaratna, navaratna,#} and {#caturdaSaratna#} <lbinfo n="respective+ly"/>
+;
+; TODO Case 172: baDU-dukUlaM -> baDUdukUlaM
+; <L>24389<pc>0919-1<k1>lakzaRaM<k2>lakzaRaM
+206652 old <>characteristic, distinctive mark; {#baDU-#} 
+206652 new <>characteristic, distinctive mark;  <lbinfo n="baDU#dukUlaM"/>
+;
+206654 old <>{#dukUlaM kalahaMsalakzaRaM#} <ls>Ku. 5. 67</ls>;  <lbinfo n="anAraM#Bo"/>
+206654 new <>{#baDUdukUlaM kalahaMsalakzaRaM#} <ls>Ku. 5. 67</ls>;  <lbinfo n="anAraM#Bo"/>
+;
+; TODO Case 173: u-dgamaH -> udgamaH
+; <L>24459<pc>0923-b<k1>latA<k2>latA
+207431 old <>position of the hands in dancing. {#--u-#} 
+207431 new <>position of the hands in dancing. {#--#} <lbinfo n="u#dgamaH"/>
+;
+207433 old <>{#dgamaH#} the upward winding or climbing
+207433 new <>{#udgamaH#} the upward winding or climbing
+;
+; TODO Case 174: tA-mASramalalAmaBUtAM -> tAmASramalalAmaBUtAM
+; <L>24506<pc>0925-b<k1>lalAma<k2>lalAma
+207867 old <>general; ({%<ab>m.</ab>%} also in this sense); {#ahaM tu tA-#} 
+207867 new <>general; ({%<ab>m.</ab>%} also in this sense); {#ahaM tu #} <lbinfo n="tA#mASramalalAmaBUtAM"/>
+;
+207869 old <>{#mASramalalAmaBUtAM SakuMtalAmaDikftya bravImi#}
+207869 new <>{#tAmASramalalAmaBUtAM SakuMtalAmaDikftya bravImi#}
+;
+; TODO Case 175: ISAnasaMda-rSanalAlasAnAM -> ISAnasaMdarSanalAlasAnAM
+; <L>24584<pc>0927-c<k1>lAlasa<k2>lAlasa
+208418 old <>after; {#praRAmalAlasAH#} <ls>K. 14</ls>; {#ISAnasaMda-#} 
+208418 new <>after; {#praRAmalAlasAH#} <ls>K. 14</ls>;  <lbinfo n="ISAnasaMda#rSanalAlasAnAM"/>
+;
+208420 old <>{#rSanalAlasAnAM#} <ls>Ku. 7. 56</ls>, <ls>Śi. 4. 6.</ls> {@--2@}
+208420 new <>{#ISAnasaMdarSanalAlasAnAM#} <ls>Ku. 7. 56</ls>, <ls>Śi. 4. 6.</ls> {@--2@}
+;
+; TODO Case 176: yoDyaM-te -> yoDyaMte
+; <L>24599<pc>0928-a<k1>lAvakaH<k2>lAvakaH
+208504 old <>reaper, gatherer. {@--3@} A quail; {#yoDyaM-#} 
+208504 new <>reaper, gatherer. {@--3@} A quail;  <lbinfo n="yoDyaM#te"/>
+;
+208506 old <>{#te lAvakAH#} <ls>Mk. 4.</ls>
+208506 new <>{#yoDyaMte lAvakAH#} <ls>Mk. 4.</ls>
+;
+; TODO Case 177: le-paH -> lepaH
+; <L>24875<pc>0939-a<k1>vajra<k2>vajra
+210970 old <>epithet of Indra. {#--radaH#} a hog. {#--le-#} 
+210970 new <>epithet of Indra. {#--radaH#} a hog. {#--#} <lbinfo n="le#paH"/>
+;
+210972 old <>{#paH#} a kind of very hard cement;  <lbinfo n="va#jralepaGawiteva"/>
+210972 new <>{#lepaH#} a kind of very hard cement;  <lbinfo n="va#jralepaGawiteva"/>
+;
+; TODO Case 178: va-tsena -> vatsena
+; <L>24929<pc>0940-c<k1>vatsaH<k2>vatsaH
+211305 old <>{#vatsa kftaM kftamativinayena, kimaparAdDaM va-#} 
+211305 new <>{#vatsa kftaM kftamativinayena, kimaparAdDaM #} <lbinfo n="va#tsena"/>
+;
+211307 old <>{#tsena#} <ls>U. 6.</ls> {@--3@} Offspring or children
+211307 new <>{#vatsena#} <ls>U. 6.</ls> {@--3@} Offspring or children
+;
+; TODO Case 179: saM-karaH -> saMkaraH
+; <L>25115<pc>0947-c<k1>varRaH<k2>varRaH
+212932 old <>{#--saMsargaH#} confusion of castes. {#--saM-#} 
+212932 new <>{#--saMsargaH#} confusion of castes. {#--#} <lbinfo n="saM#karaH"/>
+;
+212934 old <>{#karaH#} 1. confusion of castes through
+212934 new <>{#saMkaraH#} 1. confusion of castes through
+;
+; TODO Case 180: pAki-n -> pAkin
+; <L>25173<pc>0950-a<k1>varzaH<k2>varzaH, --rzaM
+213389 old <>({#varzaDarza#} in the same sense). {#--pAki-#} 
+213389 new <>({#varzaDarza#} in the same sense). {#--#} <lbinfo n="pAki#n"/>
+;
+213391 old <>{#n#} {%<ab>m.</ab>%} the hog-plum. {#--pUgaH#} a series
+213391 new <>{#pAkin#} {%<ab>m.</ab>%} the hog-plum. {#--pUgaH#} a series
+;
+; TODO Case 181: sa-KiH -> saKiH
+; <L>25459<pc>0960-b<k1>vAyuH<k2>vAyuH
+215725 old <>{#sama#} {%<ab>a.</ab>%} swift as wind. {#--saKaH, --sa-#} 
+215725 new <>{#sama#} {%<ab>a.</ab>%} swift as wind. {#--saKaH, --#} <lbinfo n="sa#KiH"/>
+;
+215727 old <>{#KiH#} {%<ab>m.</ab>%} fire.
+215727 new <>{#saKiH#} {%<ab>m.</ab>%} fire.
+;
+; TODO Case 182: vArya-DigacCati -> vAryaDigacCati
+; <L>25477<pc>0961-a<k1>vAri<k2>vAri
+215874 old <>Water; {#yaTA Kanan KanitreRa naro vArya-#} 
+215874 new <>Water; {#yaTA Kanan KanitreRa naro #} <lbinfo n="vArya#DigacCati"/>
+;
+215876 old <>{#DigacCati#} <ls>Subhāsh.</ls> {@--2@} A fluid. {@--3@}
+215876 new <>{#vAryaDigacCati#} <ls>Subhāsh.</ls> {@--2@} A fluid. {@--3@}
+;
+; TODO Case 183: vidaDAtya-SuBaM -> vidaDAtyaSuBaM
+; <L>25984<pc>0976-b<k1>viDA<k2>viDA
+219530 old <>{#pariRatiM#} <ls>Māl. 6. 7</ls>; {#prAyaH SuBaM ca vidaDAtya-#} 
+219530 new <>{#pariRatiM#} <ls>Māl. 6. 7</ls>; {#prAyaH SuBaM ca #} <lbinfo n="vidaDAtya#SuBaM"/>
+;
+219532 old <>{#SuBaM ca jaMtoH sarvaMkazA BagavatI #} <lbinfo n="Bavitavya#tEva"/>
+219532 new <>{#vidaDAtyaSuBaM ca jaMtoH sarvaMkazA BagavatI #} <lbinfo n="Bavitavya#tEva"/>
+;
+; TODO Case 184: mfdu-pavanaviDUtAn -> mfdupavanaviDUtAn
+; <L>26003<pc>0977-c<k1>viDU<k2>viDU
+219799 old <>{#vAyurviDUnayati caMpakapuzpareRUn#} Kavirahasya; {#mfdu-#} 
+219799 new <>{#vAyurviDUnayati caMpakapuzpareRUn#} Kavirahasya;  <lbinfo n="mfdu#pavanaviDUtAn"/>
+;
+219801 old <>{#pavanaviDUtAn#} <ls>Rs. 6. 29</ls>; 3. 10;  <lbinfo n="dI#rGAM"/>
+219801 new <>{#mfdupavanaviDUtAn#} <ls>Rs. 6. 29</ls>; 3. 10;  <lbinfo n="dI#rGAM"/>
+;
+; TODO Case 185: SlA-Dya -> SlADya
+; <L>26125<pc>0981-b<k1>viparyayaH<k2>viparyayaH
+220673 old <>inversion; {#Ahito jayaviparyayopi me SlA-#} 
+220673 new <>inversion; {#Ahito jayaviparyayopi me #} <lbinfo n="SlA#Dya"/>
+;
+220675 old <>{#Dya eva paramezWinA tvayA#} <ls>R. 11. 86</ls>;  <lbinfo n="svaSa#rIraSarIriRAvapi"/>
+220675 new <>{#SlADya eva paramezWinA tvayA#} <ls>R. 11. 86</ls>;  <lbinfo n="svaSa#rIraSarIriRAvapi"/>
+;
+; TODO Case 186: kri-yAyAH -> kriyAyAH
+; <L>26233<pc>0985-a<k1>viBAvanaM<k2>viBAvanaM --nA
+221516 old <>their usual causes are absent; {#kri-#} 
+221516 new <>their usual causes are absent;  <lbinfo n="kri#yAyAH"/>
+;
+221518 old <>{#yAyAH pratizeDepi PalavyaktirviBAvanA#} <ls>K.</ls>
+221518 new <>{#kriyAyAH pratizeDepi PalavyaktirviBAvanA#} <ls>K.</ls>
+;
+; TODO Case 187: guruniH-SvasitEH -> guruniHSvasitEH
+; <L>26315<pc>0987-b<k1>viyoginI<k2>viyoginI
+222079 old <>from her lover or husband; {#guruniH-#} 
+222079 new <>from her lover or husband;  <lbinfo n="guruniH#SvasitEH"/>
+;
+222081 old <>{#SvasitEH kapirmanIzI niraREzIdaTa tAM #} <lbinfo n="viyo#ginIti"/>
+222081 new <>{#guruniHSvasitEH kapirmanIzI niraREzIdaTa tAM #} <lbinfo n="viyo#ginIti"/>
+;
+; TODO Case 188: navAMbu-BirBUribilaMbino -> navAMbuBirBUribilaMbino
+; <L>26409<pc>0990-b<k1>vilaMbin<k2>vilaMbin
+222779 old <>down, depending, pendent; {#navAMbu-#} 
+222779 new <>down, depending, pendent;  <lbinfo n="navAMbu#BirBUribilaMbino"/>
+;
+222781 old <>{#BirBUribilaMbino GanAH#} <ls>Ś. 5. 12.</ls>  <lbinfo n="SirIza#ma"/>
+222781 new <>{#navAMbuBirBUribilaMbino GanAH#} <ls>Ś. 5. 12.</ls>  <lbinfo n="SirIza#ma"/>
+;
+; TODO Case 189: priyamatyaMtavilupta-darSanaM -> priyamatyaMtaviluptadarSanaM
+; <L>26440<pc>0991-b<k1>vilup<k2>vilup
+223011 old <>cause to disappear; {#priyamatyaMtavilupta-#} 
+223011 new <>cause to disappear;  <lbinfo n="priyamatyaMtavilupta#darSanaM"/>
+;
+223013 old <>{#darSanaM#} <ls>Ku. 4. 2</ls> ‘for ever lost to view’.
+223013 new <>{#priyamatyaMtaviluptadarSanaM#} <ls>Ku. 4. 2</ls> ‘for ever lost to view’.
+;
+; TODO Case 190: kA-Syapi -> kASyapi
+; <L>26511<pc>0993-c<k1>vivekaH<k2>vivekaH
+223554 old <>judgment, discernment, discretion; {#kA-#} 
+223554 new <>judgment, discernment, discretion;  <lbinfo n="kA#Syapi"/>
+;
+223556 old <>{#Syapi yAtastavApi ca vivekaH#} <ls>Bv. 1. 68</ls>,
+223556 new <>{#kASyapi yAtastavApi ca vivekaH#} <ls>Bv. 1. 68</ls>,
+;
+; TODO Case 191: vi-SvasfjaH -> viSvasfjaH
+; <L>26590<pc>0996-c<k1>viSva<k2>viSva
+224284 old <>{#prAyeRa sAmagryaviDO guRAnAM parANmuKI vi-#} 
+224284 new <>{#prAyeRa sAmagryaviDO guRAnAM parANmuKI #} <lbinfo n="vi#SvasfjaH"/>
+;
+224286 old <>{#SvasfjaH pravfttiH#} <ls>Ku. 3. 28</ls>; 1. 49.
+224286 new <>{#viSvasfjaH pravfttiH#} <ls>Ku. 3. 28</ls>; 1. 49.
+;
+; TODO Case 192: vi-zayAnBoktuM -> vizayAnBoktuM
+; <L>26621<pc>0998-c<k1>vizayaH<k2>vizayaH
+224637 old <>{#yOvane vizayEziRAM#} <ls>R. 1. 8</ls>; {#SabdAdIn vi-#} 
+224637 new <>{#yOvane vizayEziRAM#} <ls>R. 1. 8</ls>; {#SabdAdIn #} <lbinfo n="vi#zayAnBoktuM"/>
+;
+224639 old <>{#zayAnBoktuM#} 10. 25; {#vizayavyAvfttakOtUhalaH#}
+224639 new <>{#vizayAnBoktuM#} 10. 25; {#vizayavyAvfttakOtUhalaH#}
+;
+; TODO Case 193: vf-Rakti -> vfRakti
+; <L>26849<pc>1005-c<k1>vfjina<k2>vfjina
+226300 old <>curled hair. {@--2@} A wicked man; {#vf-#} 
+226300 new <>curled hair. {@--2@} A wicked man;  <lbinfo n="vf#Rakti"/>
+;
+226302 old <>{#Rakti vfjinEH saMgaM#} <ls>K.</ls> <ls>R.</ls> {#--naM#} {@1@}
+226302 new <>{#vfRakti vfjinEH saMgaM#} <ls>K.</ls> <ls>R.</ls> {#--naM#} {@1@}
+;
+; TODO Case 194: sfzwa-vatastadIye -> sfzwavatastadIye
+; <L>26852<pc>1006-b<k1>vftta<k2>vftta
+226422 old <>{#vfttAnupUrve ca na cAtidIrGe jaMGe SuBe sfzwa-#} 
+226422 new <>{#vfttAnupUrve ca na cAtidIrGe jaMGe SuBe #} <lbinfo n="sfzwa#vatastadIye"/>
+;
+226424 old <>{#vatastadIye#} <ls>Ku. 1. 35.</ls> {#--anuvartin#} {%<ab>a.</ab>%}
+226424 new <>{#sfzwavatastadIye#} <ls>Ku. 1. 35.</ls> {#--anuvartin#} {%<ab>a.</ab>%}
+;
+; TODO Case 195: kzata-huMkAraSaMsinaH -> kzatahuMkAraSaMsinaH
+; <L>27505<pc>1027-c<k1>SaMsin<k2>SaMsin
+231275 old <>Indicating, bespeaking; {#mUrDAnaH kzata-#} 
+231275 new <>Indicating, bespeaking; {#mUrDAnaH #} <lbinfo n="kzata#huMkAraSaMsinaH"/>
+;
+231277 old <>{#huMkAraSaMsinaH#} <ls>Ku. 2. 26</ls>;  <lbinfo n="aBimataPala#SaMsI"/>
+231277 new <>{#kzatahuMkAraSaMsinaH#} <ls>Ku. 2. 26</ls>;  <lbinfo n="aBimataPala#SaMsI"/>
+;
+; TODO Case 196: rohiRISa-kawaM -> rohiRISakawaM
+; <L>27509<pc>1027-1<k1>SakawaH<k2>SakawaH --waM
+231331 old <>A cart, carriage, waggon; {#rohiRISa-#} 
+231331 new <>A cart, carriage, waggon;  <lbinfo n="rohiRISa#kawaM"/>
+;
+231333 old <>{#kawaM#} <ls>Pt. 1. 213</ls>, 211, 212; <ls>Y. 3. 42.</ls>
+231333 new <>{#rohiRISakawaM#} <ls>Pt. 1. 213</ls>, 211, 212; <ls>Y. 3. 42.</ls>
+;
+; TODO Case 197: mAtf-kA -> mAtfkA
+; <L>27537<pc>1029-a<k1>SakraH<k2>SakraH
+231667 old <>paradise. {#--BUBavA#} colocynth. {#--mAtf-#} 
+231667 new <>paradise. {#--BUBavA#} colocynth. {#--#} <lbinfo n="mAtf#kA"/>
+;
+231669 old <>{#kA#} a wooden post for supporting
+231669 new <>{#mAtfkA#} a wooden post for supporting
+;
+; TODO Case 198: ha-ritatfRodgamaSaMkayA -> haritatfRodgamaSaMkayA
+; <L>27545<pc>1029-b<k1>SaMkA<k2>SaMkA
+231741 old <>{#vaDUjanamanaHsu SaSAMkaSaMkAM#} <ls>Ki. 5. 42</ls>; {#ha-#} 
+231741 new <>{#vaDUjanamanaHsu SaSAMkaSaMkAM#} <ls>Ki. 5. 42</ls>;  <lbinfo n="ha#ritatfRodgamaSaMkayA"/>
+;
+231743 old <>{#ritatfRodgamaSaMkayA#} 5. 38. {@--7@} An <lbinfo n="ob+jection"/>
+231743 new <>{#haritatfRodgamaSaMkayA#} 5. 38. {@--7@} An <lbinfo n="ob+jection"/>
+;
+; TODO Case 199: payo-Dare -> payoDare
+; <L>28005<pc>1046-c<k1>SiSira<k2>SiSira
+235619 old <>{#kuru yadunaMdanacadanaSiSiratareRa kareRa payo-#} 
+235619 new <>{#kuru yadunaMdanacadanaSiSiratareRa kareRa #} <lbinfo n="payo#Dare"/>
+;
+235621 old <>{#Dare#} <ls>Gīt. 12</ls>; <ls>R. 14. 3</ls>, 16. 49. {#--raH, --raM#}
+235621 new <>{#payoDare#} <ls>Gīt. 12</ls>; <ls>R. 14. 3</ls>, 16. 49. {#--raH, --raM#}
+;
+; TODO Case 200: SIrya-te -> SIryate
+; <L>28199<pc>1054-a<k1>SF<k2>SF
+237275 old <>{#prasaBena tasya te#} <ls>Ki. 14. 13.</ls> {%--Pass.%} ({#SIrya-#} 
+237275 new <>{#prasaBena tasya te#} <ls>Ki. 14. 13.</ls> {%--Pass.%} ( <lbinfo n="SIrya#te"/>
+;
+237277 old <>{#te#}) {@1@} To be shattered. {@--2@} To wither,
+237277 new <>{#SIryate#}) {@1@} To be shattered. {@--2@} To wither,
+;
+; TODO Case 201: paropa-deSapiva -> paropadeSapiva
+; <L>28228<pc>1055-a<k1>SElI<k2>SElI
+237500 old <>{#prAyeRAcAryARAmiyaM SElI yatsvABiprAyamapi paropa-#} 
+237500 new <>{#prAyeRAcAryARAmiyaM SElI yatsvABiprAyamapi #} <lbinfo n="paropa#deSapiva"/>
+;
+237502 old <>{#deSapiva varRayaMti#} <ls>Kull.</ls> on <ls>Ms. 1. 4</ls>;  <lbinfo n="A#cAryARAmiyaM"/>
+237502 new <>{#paropadeSapiva varRayaMti#} <ls>Kull.</ls> on <ls>Ms. 1. 4</ls>;  <lbinfo n="A#cAryARAmiyaM"/>
+;
+; TODO Case 202: zaRmAsi-ka -> zaRmAsika
+; <L>28519<pc>1064-1<k1>zaz<k2>zaz
+239807 old <>six months. {#--mAsika#} {%<ab>a.</ab>%} ({#zaRmAsi-#} 
+239807 new <>six months. {#--mAsika#} {%<ab>a.</ab>%} ( <lbinfo n="zaRmAsi#ka"/>
+;
+239809 old <>{#ka#}) half-yearly, occurring every
+239809 new <>{#zaRmAsika#}) half-yearly, occurring every
+;
+; TODO Case 203: nisarga-saMskAravinati -> nisargasaMskAravinati
+; <L>28742<pc>1072-c<k1>saMskAraH<k2>saMskAraH
+241473 old <>training (as of the mind); {#nisarga-#} 
+241473 new <>training (as of the mind);  <lbinfo n="nisarga#saMskAravinati"/>
+;
+241475 old <>{#saMskAravinati ityasO nfpaRe cakra #} <lbinfo n="yuvarAja#SabdaBAk"/>
+241475 new <>{#nisargasaMskAravinati ityasO nfpaRe cakra #} <lbinfo n="yuvarAja#SabdaBAk"/>
+;
+; TODO Case 204: Bava-ti -> Bavati
+; <L>28867<pc>1077-a<k1>saMkaraH<k2>saMkaraH
+242461 old <>{#laMkftInAM tadvadekASrayasTitO . saMdigDatve ca Bava-#} 
+242461 new <>{#laMkftInAM tadvadekASrayasTitO . saMdigDatve ca #} <lbinfo n="Bava#ti"/>
+;
+242463 old <>{#ti saMkarastriviDaH punaH#} <ls>S. D. 757.</ls> {@--5@}
+242463 new <>{#Bavati saMkarastriviDaH punaH#} <ls>S. D. 757.</ls> {@--5@}
+;
+; TODO Case 205: SatasaMKya-kA -> SatasaMKyakA
+; <L>28903<pc>1078-b<k1>saMKyaka<k2>saMKyaka
+242761 old <>Numbering, amounting to; {#SatasaMKya-#} 
+242761 new <>Numbering, amounting to;  <lbinfo n="SatasaMKya#kA"/>
+;
+242763 old <>{#kA narAH#} &c.
+242763 new <>{#SatasaMKyakA narAH#} &c.
+;
+; TODO Case 206: A-tman -> Atman
+; <L>29045<pc>1082-c<k1>sat<k2>sat
+243785 old <>immemorial custom; <ls>Ms. 2. 18.</ls> {#--A-#} 
+243785 new <>immemorial custom; <ls>Ms. 2. 18.</ls> {#--#} <lbinfo n="A#tman"/>
+;
+243787 old <>{#tman#} {%<ab>a.</ab>%} ({#sadAtman#}) virtuous, good.
+243787 new <>{#Atman#} {%<ab>a.</ab>%} ({#sadAtman#}) virtuous, good.
+;
+; TODO Case 207: ºaDi-kAraH -> ºaDikAraH
+; <L>29197<pc>1089-a<k1>saMDiH<k2>saMDiH
+245177 old <>{#--vigraha#} {%<ab>m.</ab>%} <ab>du.</ab> peace and war. {#ºaDi-#} 
+245177 new <>{#--vigraha#} {%<ab>m.</ab>%} <ab>du.</ab> peace and war.  <lbinfo n="ºaDi#kAraH"/>
+;
+245179 old <>{#kAraH#} the office of the minister for
+245179 new <>{#ºaDikAraH#} the office of the minister for
+;
+; TODO Case 208: sA-Du -> sADu
+; <L>29331<pc>1094-b<k1>samarT<k2>samarT
+246360 old <>{#yatpraTamaM priyAM prati#} <ls>V. 4. 39</ls>; {#mayA na sA-#} 
+246360 new <>{#yatpraTamaM priyAM prati#} <ls>V. 4. 39</ls>; {#mayA na #} <lbinfo n="sA#Du"/>
+;
+246362 old <>{#Du samarTitaM#} <ls>V. 2</ls>; {#anupayuktamiva #} <lbinfo n="A#tmAnaM"/>
+246362 new <>{#sADu samarTitaM#} <ls>V. 2</ls>; {#anupayuktamiva #} <lbinfo n="A#tmAnaM"/>
+;
+; TODO Case 209: sa-mADatte -> samADatte
+; <L>29386<pc>1096-a<k1>samADA<k2>samADA
+246757 old <>{#samADAtuM#} <ls>H. 3. 37</ls>; {#utpannAmApadaM yastu sa-#} 
+246757 new <>{#samADAtuM#} <ls>H. 3. 37</ls>; {#utpannAmApadaM yastu #} <lbinfo n="sa#mADatte"/>
+;
+246759 old <>{#mADatte sa budDimAn#} 4. 7. {@--8@} To think
+246759 new <>{#samADatte sa budDimAn#} 4. 7. {@--8@} To think
+;
+; TODO Case 210: a-nyasaritAM -> anyasaritAM
+; <L>29836<pc>1108-a<k1>sarit<k2>sarit
+249696 old {#sarit#}¦ {%<ab>f.</ab>%} [{#sf-iti#}] {@1@} A river; {#a-#} 
+249696 new {#sarit#}¦ {%<ab>f.</ab>%} [{#sf-iti#}] {@1@} A river;  <lbinfo n="a#nyasaritAM"/>
+;
+249698 old <>{#nyasaritAM SatAni hi samudraRAH #} <lbinfo n="prApayaMtya#bDiM"/>
+249698 new <>{#anyasaritAM SatAni hi samudraRAH #} <lbinfo n="prApayaMtya#bDiM"/>
+;
+; TODO Case 211: prati-BAti -> pratiBAti
+; <L>29903<pc>1110-b<k1>saviSeza<k2>saviSeza
+250224 old <>{#anena DarmaH saviSezamadya me trivargasAraH prati-#} 
+250224 new <>{#anena DarmaH saviSezamadya me trivargasAraH #} <lbinfo n="prati#BAti"/>
+;
+250226 old <>{#BAti BAmini#} <ls>Ku. 5. 38</ls>; <ab>oft.</ab> in
+250226 new <>{#pratiBAti BAmini#} <ls>Ku. 5. 38</ls>; <ab>oft.</ab> in
+;
+; TODO Case 212: sAmagrya-viDO -> sAmagryaviDO
+; <L>30105<pc>1117-a<k1>sAmagryaM<k2>sAmagryaM
+251753 old <>completeness, totality; {#prAyeRa sAmagrya-#} 
+251753 new <>completeness, totality; {#prAyeRa #} <lbinfo n="sAmagrya#viDO"/>
+;
+251755 old <>{#viDO guRAnAM parANmuKI viSvasfjaH pravfttiH#}
+251755 new <>{#sAmagryaviDO guRAnAM parANmuKI viSvasfjaH pravfttiH#}
+;
+; TODO Case 213: su-kftinAM -> sukftinAM
+; <L>30353<pc>1126-a<k1>su<k2>su
+253852 old <>good, righteous; {#saMtaH saMtu nirApadaH su-#} 
+253852 new <>good, righteous; {#saMtaH saMtu nirApadaH #} <lbinfo n="su#kftinAM"/>
+;
+253854 old <>{#kftinAM kIrtiSciraM varDatAM#} <ls>H. 4. 132</ls>;  <lbinfo n="ls:Bg.+ 7. 16."/>
+253854 new <>{#sukftinAM kIrtiSciraM varDatAM#} <ls>H. 4. 132</ls>;  <lbinfo n="ls:Bg.+ 7. 16."/>
+;
+; TODO Case 214: Sru-ti -> Sruti
+; <L>30355<pc>1130-b<k1>suKa<k2>suKa
+254610 old <>{#--vAsaH#} a water-melon. {#--Srava, -Sru-#} 
+254610 new <>{#--vAsaH#} a water-melon. {#--Srava, -#} <lbinfo n="Sru#ti"/>
+;
+254612 old <>{#ti#} {%<ab>a.</ab>%} sweet to the ear, melodious;
+254612 new <>{#Sruti#} {%<ab>a.</ab>%} sweet to the ear, melodious;
+;
+; TODO Case 215: a-gaM -> agaM
+; <L>30463<pc>1135-b<k1>sUpaH<k2>sUpaH
+255627 old <>arrow. {@--6@} Split pease. {@--Comp.@} {#--a-#} 
+255627 new <>arrow. {@--6@} Split pease. {@--Comp.@} {#--#} <lbinfo n="a#gaM"/>
+;
+255629 old <>{#gaM#} asa-fœtida. {#--kAraH#} a cook.
+255629 new <>{#agaM#} asa-fœtida. {#--kAraH#} a cook.
+;
+; TODO Case 216: sOhA-rdaniDiH -> sOhArdaniDiH
+; <L>30704<pc>1142-b<k1>sOhArdaH<k2>sOhArdaH
+257324 old <>friendship; {#(veSmAni) viSrARya sOhA-#} 
+257324 new <>friendship; {#(veSmAni) viSrARya #} <lbinfo n="sOhA#rdaniDiH"/>
+;
+257326 old <>{#rdaniDiH suhfdByaH#} <ls>R. 14. 15</ls>;  <lbinfo n="sOhArdahfdyA#ni"/>
+257326 new <>{#sOhArdaniDiH suhfdByaH#} <ls>R. 14. 15</ls>;  <lbinfo n="sOhArdahfdyA#ni"/>
+;
+; TODO Case 217: SI-ziMkA -> SIziMkA
+; <L>30887<pc>1150-c<k1>sTUla<k2>sTUla
+259129 old <>{#--SAwiH#} a thick or coarse cloth. {#--SI-#} 
+259129 new <>{#--SAwiH#} a thick or coarse cloth. {#--#} <lbinfo n="SI#ziMkA"/>
+;
+259131 old <>{#ziMkA#} a small ant having a large
+259131 new <>{#SIziMkA#} a small ant having a large
+;
+; TODO Case 218: kiM-cit -> kiMcit
+; <L>30918<pc>1151-c<k1>snigDa<k2>snigDa
+259364 old <>{#vijYEH snigDErupakftamapi dvezyatAM yAti kiM-#} 
+259364 new <>{#vijYEH snigDErupakftamapi dvezyatAM yAti #} <lbinfo n="kiM#cit"/>
+;
+259366 old <>{#cit#} <ls>H. 2. 190</ls>; or {#sa sniDo'#} <lbinfo n="kuSa#lAnnivArayati"/>
+259366 new <>{#kiMcit#} <ls>H. 2. 190</ls>; or {#sa sniDo'#} <lbinfo n="kuSa#lAnnivArayati"/>
+;
+; TODO Case 219: savilakzasmi-taM -> savilakzasmitaM
+; <L>31051<pc>1156-a<k1>smita<k2>smita
+260371 old <>{#sasmitaM#} ‘with a smile’; {#savilakzasmi-#} 
+260371 new <>{#sasmitaM#} ‘with a smile’;  <lbinfo n="savilakzasmi#taM"/>
+;
+260373 old <>{#taM#} &c. {@--Comp.@} {#--wwaS#} {%<ab>a.</ab>%} having a
+260373 new <>{#savilakzasmitaM#} &c. {@--Comp.@} {#--wwaS#} {%<ab>a.</ab>%} having a
+;
+; TODO Case 220: srotasAma-smi -> srotasAmasmi
+; <L>31118<pc>1158-a<k1>srotas<k2>srotas
+260847 old <>stream, river (in general); {#srotasAma-#} 
+260847 new <>stream, river (in general);  <lbinfo n="srotasAma#smi"/>
+;
+260849 old <>{#smi jAhnavI#} <ls>Bg. 10. 31.</ls> {@--3@} A wave.
+260849 new <>{#srotasAmasmi jAhnavI#} <ls>Bg. 10. 31.</ls> {@--3@} A wave.
+;
+; TODO Case 221: kzIra-mAdatte -> kzIramAdatte
+; <L>31231<pc>1163-1<k1>haMsaH<k2>haMsaH
+262026 old <>{#kzIramivAMbumaDyAt#} <ls>Pt. 1</ls>; {#haMso hi kzIra-#} 
+262026 new <>{#kzIramivAMbumaDyAt#} <ls>Pt. 1</ls>; {#haMso hi #} <lbinfo n="kzIra#mAdatte"/>
+;
+262028 old <>{#mAdatte tanmiSrA varjayatyapaH#} <ls>Ś. 6. 27</ls>;
+262028 new <>{#kzIramAdatte tanmiSrA varjayatyapaH#} <ls>Ś. 6. 27</ls>;
+;
+; TODO Case 222: garu-qAyate -> garuqAyate
+; <L>31296<pc>1167-a<k1>harmyaM<k2>harmyaM
+262731 old <>building; {#harmyapfzWaM samArUQaH kAko'pi garu-#} 
+262731 new <>building; {#harmyapfzWaM samArUQaH kAko'pi #} <lbinfo n="garu#qAyate"/>
+;
+262733 old <>{#qAyate#} <ls>Subhāsh.</ls>;  <lbinfo n="bAhyodyAnAsTitahara#SiraScaMdrikADOtaharmyA"/>
+262733 new <>{#garuqAyate#} <ls>Subhāsh.</ls>;  <lbinfo n="bAhyodyAnAsTitahara#SiraScaMdrikADOtaharmyA"/>
+;
+; TODO Case 223: pravf-dDo -> pravfdDo
+; <L>31352<pc>1169-b<k1>hA<k2>hA
+263244 old <>decay, decline, wane (<ab>fig.</ab> also); {#pravf-#} 
+263244 new <>decay, decline, wane (<ab>fig.</ab> also);  <lbinfo n="pravf#dDo"/>
+;
+263246 old <>{#dDo hIyate caMdraH samudro'pi taTAviDaH#}  <lbinfo n="ls:R.+ 17. 71"/>
+263246 new <>{#pravfdDo hIyate caMdraH samudro'pi taTAviDaH#}  <lbinfo n="ls:R.+ 17. 71"/>
+;

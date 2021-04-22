@@ -1,0 +1,274 @@
+A.:ab:0:Ātmanepada.
+Atm.:ab:1:Ātmanepada.
+a.:ab:2:Adjective.
+abl.:ab:3:Ablative.
+acc.:ab:4:Accusative.
+adv.:ab:5:Adverb.
+alg.:ab:6:Algebra.
+Arith.:ab:7:Arithmetic.
+A. S.:ab:8:Anglo-Saxon.
+astr.:ab:9:Astronomy.
+astrol.:ab:10:Astrology.
+Avyayī.:ab:11:Avyayībhāva.
+Bah.:ab:12:Bahuvrīhi.
+Caus.:ab:13:Causal.
+cf.:ab:14:Compare.
+Com.:ab:15:Commentary.
+comp.:ab:16:Compound.
+dat.:ab:17:Dative.
+Den.:ab:18:Denominative.
+desid.:ab:19:Desiderative.
+du.:ab:20:Dual.
+e. g.:ab:21:Exempli gratia, for example.
+Eng.:ab:22:English.
+Ety.:ab:23:Etymology.
+Etym.:ab:24:Etymology.
+ety.:ab:25:Etymology.
+etym.:ab:26:Etymology.
+f.:ab:27:Feminine.
+fem.:ab:28:Feminine.
+fig.:ab:29:Figuentative.
+fr.:ab:30:From.
+freq.:ab:31:Frequentative.
+gen.:ab:32:Genitive.
+Germ.:ab:33:German.
+Goth.:ab:34:Gothic.
+Gr.:ab:35:Greek.
+gram.:ab:36:Grammar.
+ibid.:ab:37:The same.
+i. e.:ab:38:id est, that is.
+ind.:ab:39:Indeclinable.
+inf.:ab:40:Infinitive.
+instr.:ab:41:Instrumental.
+L.:ab:42:Latin.
+lit.:ab:43:Literal.
+loc.:ab:44:Locative.
+m.:ab:45:Masculine.
+mas.:ab:46:Masculine.
+Mar.:ab:47:Marāṭhī.
+Math.:ab:48:Mathematics.
+Medic.:ab:49:Medicine.
+n.:ab:50:Neuter.
+N.:ab:51:Name.
+N. B.:ab:52:Name.
+Nom.:ab:53:Nominative.
+num. a.:ab:54:Numeral adjective.
+oft.:ab:55:Often times.
+opp.:ab:56:Opposite of.
+P.:ab:57:Parasmaipada.
+pass.:ab:58:Passive.
+pers.:ab:59:Persian.
+phil.:ab:60:Philosophy.
+pl.:ab:61:Plural.
+pot. p.:ab:62:Potential passive participle.
+p. p.:ab:63:Past passive participle.
+Pres.:ab:64:Present tense.
+pres. p.:ab:65:Present participle.
+pron. a.:ab:66:Pronominal adjective.
+q. v.:ab:67:quod vide, which see.
+Rhet.:ab:68:Rhetoric.
+sing.:ab:69:Singular.
+Subst.:ab:70:Substantive.
+s. v.:ab:71:sub voce, see under the word.
+Tat.:ab:72:Tatpuruṣa.
+U.:ab:73:Ubhayapada (Parasmai. and Ātmane.)
+Vārt.:ab:74:Vārtika.
+Ved.:ab:75:Vedic.
+v. l.:ab:76:Various reading.
+Voc.:ab:77:Vocative.
+A. D.:ab:78:Anno Domini = CE (Common Era)
+B. C.:ab:79:Before Christ = BCE (Before Common Era)
+Ait Br.:ls:0:Aitareya Brāhmaṇa (Bombay).
+Ak.:ls:1:Amarakoṣa.
+A. L.:ls:2:Ānandalaharī.
+Amaru.:ls:3:Amaruśataka.
+Āpast.:ls:4:Āpastamba.
+A. R.:ls:5:Anargharāghava (published in the Kāvyamālā).
+Āry. S.:ls:6:Āryavidyāsudhākara (Bombay).
+Āryā. S.:ls:7:Āryāsaptaśatī (published in the Kāvyamālā).
+Aśvad.:ls:8:Aśvadhāṭī (published in the Subhāṣitaratnākara).
+Āśval.:ls:9:Āśvalāyana's Sūtras.
+Av.:ls:10:Atharva-veda.
+Baudhāy.:ls:11:Baudhāyana.
+Bg.:ls:12:Bhagavadgītā (Bombay).
+Bh.:ls:13:Bhartṛhari's three Śatakas (the figures 1., 2., 3. after Bh. denoting Śṛṅgāraº, Nītiº, and Vairāgyaº).
+Bhav. P.:ls:14:Bhaviṣyottara Purāṇa.
+Bhāg.:ls:15:Bhāgavata (Bombay).
+Bhār. Ch.:ls:16:Bhāratacampū (Bombay).
+Bhāṣā P.:ls:17:Bhāṣāpariccheda.
+Bhāva P.:ls:18:Bhāvaprakāśa.
+Bīj.:ls:19:Bījagaṇita.
+Bk.:ls:20:Bhaṭṭikāvya.
+B. R.:ls:21:Bālarāmāyaṇa (Benares).
+B. and R.:ls:22:Böthlingk and Roth.
+Bṛ. S.:ls:23:Varāhamihira's Bṛhatsaṃhitā.
+Bṛ. Kath.:ls:24:Bṛhatkathā.
+Br. Sūt.:ls:25:Brahmasūtras.
+Bṛ. Up.:ls:26:Bṛhadāraṇyakopaniṣad.
+Bv.:ls:27:Bhāminīvilāsa (Bombay).
+Caṇḍ K.:ls:28:Caṇḍakauśika.
+Cand M.:ls:29:Chandomañjarī.
+Chandr.:ls:30:Candrāloka.
+Chāṇ.:ls:31:Cāṇakyaśataka.
+Chāt.:ls:32:Cātakāṣṭaka (in two parts.)
+Ch. P.:ls:33:Caurapañcāśikā.
+Ch. Up.:ls:34:Chāndogyopaniṣad
+Dāy.:ls:35:Dāyabhāga.
+Dāy. B.:ls:36:Dāyabhāga.
+D. Bhāg.:ls:37:Devībhāgavata.
+Dhan. V.:ls:38:Dhanaṃjayavijaya.
+Dharm.:ls:39:Dharmaviveka.
+Dhūrt.:ls:40:Dhūrtasamāgama.
+Dk.:ls:41:Daśakumāracarita (Bombay).
+D. R.:ls:42:Daśarūpa (Hall's Edition).
+Dṛ. Ś.:ls:43:Dṛṣṭāntaśataka.
+Gaut. S.:ls:44:Gautamasūtra.
+Gaut. Sūt.:ls:45:Gautamasūtra.
+Ghaṭ.:ls:46:Ghaṭakarparakāvya.
+Gīt.:ls:47:Gītagovinda.
+G. L.:ls:48:Gaṅgālaharī.
+G. M.:ls:49:Gaṇaratnamahodadhi of Vardhamāna.
+Golādh.:ls:50:Golādhyāya.
+H.:ls:51:Hitopadeśa (Nirṇaya Sāgara Edition).
+Halāy.:ls:52:Halāyudha.
+Hariv.:ls:53:Harivaṃśa.
+Hch.:ls:54:Harṣacarita.
+H. D.:ls:55:Haṃsadūta.
+Hem.:ls:56:Hemacandra.
+Iśop.:ls:57:Īśopaniṣad.
+J. N. V.:ls:58:Jaiminīyanyāyamālāvistara (Goldstücker's Edition).
+K.:ls:59:Kādambarī (Bombay).
+Kām.:ls:60:Kāmandakinītisāra.
+Kāśi.:ls:61:Kāśikāvṛtti (Benares).
+Karpūr.:ls:62:Karpūramañjarī (published in the Kāvyamālā).
+Kaṭh.:ls:63:Kaṭhopaniṣad.
+Kāṭh.:ls:64:Kātyāyana.
+Kauś.:ls:65:Kauśikasūtra.
+Kaus. Br.:ls:66:Kauṣītaki Brāhmaṇa.
+Kaus. Up.:ls:67:Kauṣītakyupaniṣad.
+Kāv.:ls:68:Kāvyādarśa.
+Kāvyāl.:ls:69:Kāvyālaṃkāra (published in the Kāvyamālā).
+Ken.:ls:70:Kenopaniṣad.
+Ki.:ls:71:Kirātārjunīya.
+Kīr. K.:ls:72:Kīrtikaumudī (Bombay).
+K. P.:ls:73:Kāvyaprakāśa.
+Ks.:ls:74:Kathāsaritsāgara.
+Ku.:ls:75:Kumārasambhava (Bombay).
+Kull.:ls:76:Kullūka.
+Kusum.:ls:77:Kusumāñjali.
+Kuval.:ls:78:Kuvalayānanda.
+Līlā.:ls:79:Līlāvatī.
+M.:ls:80:Mālavikāgnimitra (Bombay).
+Mādh. N.:ls:81:Mādhavanidāna.
+Mahān.:ls:82:Mahānāṭaka.
+Māl.:ls:83:Mālatīmādhava (Bombay).
+Malli.:ls:84:Mallinātha.
+Māṇḍ.:ls:85:Māṇḍūkyopaniṣad.
+Mārk. P.:ls:86:Mārkaṇḍeya Purāṇa.
+Mb.:ls:87:Mahābhārata (Bombay).
+Mbh.:ls:88:Mahābhāṣya (Bombay).
+Me.:ls:89:Meghadūta (Bombay).
+Med.:ls:90:Medinīkośa.
+Mit.:ls:91:Mitākṣarā (Bombay).
+Mīm.:ls:92:Mīmāṃsā.
+Mk.:ls:93:Mṛcchakaṭikā
+Moha M.:ls:94:Mohamudgara.
+Ms.:ls:95:Manusmṛti.
+Mu.:ls:96:Mudrārākṣasa (Bombay),
+Mugdha.:ls:97:Mugdhabodha.
+Muṇḍ.:ls:98:Muṇḍakopaniṣad.
+Mv.:ls:99:Mahāvīracarita (Borooah's Edition),
+N.:ls:100:Naiṣadhacarita.
+Nāg.:ls:101:Nāgānanda.
+Nala.:ls:102:Nalopākhyāna (Bombay).
+Nalod.:ls:103:Nalodaya.
+Nir.:ls:104:Nirukta.
+Nīti.:ls:105:Nītisāra.
+Nītipr.:ls:106:Nītipradīpa.
+P.:ls:107:Pāṇini's Aṣṭādhyāyī.
+Pad. D.:ls:108:Padāṅkadūta.
+P. P.:ls:109:Pārvatīpariṇaya.
+P. R.:ls:110:Prasannarāghava.
+Prab.:ls:111:Prabodhacandrodaya (Bombay).
+Praśna. Up.:ls:112:Praśnopaniṣad.
+Priy. D.:ls:113:Priyadarśikā (Bombay).
+Pt.:ls:114:Pañcatantra (Bombay).
+R.:ls:115:Raghuvaṃśa (Bombay).
+Rāj. P.:ls:116:Rājapraśasti.
+Rāj. T.:ls:117:Rājataraṅgiṇī.
+Rām.:ls:118:Rāmāyaṇa (Bombay).
+Ras. M.:ls:119:Rasamañjarī.
+Ratn.:ls:120:Ratnāvalī (Bombay).
+R. G.:ls:121:Rasagaṅgādhara (published in the Kāvyamālā).
+Rs.:ls:122:Ṛtusaṃhāra (Bombay).
+Rv.:ls:123:Ṛgveda (Max Müller's Edition).
+Ś.:ls:124:Śakuntalā (Bombay).
+Śabdak.:ls:125:Śabdakalpadruma.
+Sān. K.:ls:126:Sāṃkhyakārikā.
+Sāṃkhya K.:ls:127:Sāṃkhyakārikā.
+Sān. S.:ls:128:Sāṃkhyasūtra.
+Sar. K.:ls:129:Sarasvatīkaṇṭhābharaṇa.
+Sarva. S.:ls:130:Sarvadarśanasaṃgraha.
+Sar. S.:ls:131:Sarvadarśanasaṃgraha.
+Śat. Br.:ls:132:Śatapatha Brāhmaṇa.
+Sāy.:ls:133:Sāyaṇa.
+S. B.:ls:134:Śārīrabhāṣya.
+S. D.:ls:135:Sāhityadarpaṇa.
+Śi.:ls:136:Śiśupālavadha.
+Sid. Mukt.:ls:137:Siddhāntamuktāvalī.
+Sid. Muktā.:ls:138:Siddhāntamuktāvalī.
+Sid. Śir.:ls:139:Siddhāntaśiromaṇi.
+Śik.:ls:140:Śikṣā.
+Śiva P.:ls:141:Śiva Purāṇa.
+Sk.:ls:142:Siddhānta-Kaumudī (Bombay).
+Skanda. P.:ls:143:Skanda Purāṇa.
+S. L.:ls:144:Sudhālaharī (published in the Kāvyamālā).
+Śrut.:ls:145:Śrutabodha.
+Ś. Til.:ls:146:Śṛṅgāratilaka.
+Subh.:ls:147:Subhāṣitaratnākara (Bombay).
+Subhāsh.:ls:148:Subhāṣita.
+Subh. Ratn.:ls:149:Subhāṣitaratnabhāṇḍāgāra (Bombay)
+Sūrya S.:ls:150:Sūryasiddhānta.
+Suśr.:ls:151:Suśruta.
+Sv.:ls:152:Sāmaveda.
+Śvet. Up.:ls:153:Śvetāśvataropaniṣad.
+Tait. Up.:ls:154:Taittirīya Upaniṣad.
+Taitt. Up.:ls:155:Taittirīya Upaniṣad.
+Tarka K.:ls:156:Tarkakaumudī (Bombay).
+Trik.:ls:157:Trikāṇḍaśeṣa.
+T. S.:ls:158:Tarkasaṃgraha (Bombay).
+Tv.:ls:159:Tārānātha's Vācaspatyam.
+U.:ls:160:Uttararāmacarita.
+Udb.:ls:161:Udbhaṭa.
+Ud. D.:ls:162:Uddhavadūta.
+Ud. S.:ls:163:Uddhavasaṃdeśa.
+Ujjval.:ls:164:Ujjvaladatta.
+Uṇ.:ls:165:Uṇādisūtras.
+Up.:ls:166:Upaniṣad.
+Upan.:ls:167:Upaniṣad.
+V.:ls:168:Vikramorvaśīyam (Bombay).
+Vāgb.:ls:169:Vāgbhaṭa.
+Vaiś.:ls:170:Vaiśeṣika.
+Vaiś. Sūt.:ls:171:Vaiśeṣikasūtras.
+Vāj.:ls:172:Vājasaneyi Saṃhitā.
+Vāk. P.:ls:173:Vākyapadīya.
+Vall. Subh.:ls:174:Vallabhadeva's Subhāṣitāvali (Bombay)
+Vās.:ls:175:Vāsavadattā (Hall's Edition).
+Vb.:ls:176:Viddhaśālabhañjikā (Bombay).
+Ve.:ls:177:Veṇīsaṃhāra.
+Vedānta P.:ls:178:Vedāntaparibhāṣā.
+Vet.:ls:179:Vetālapañca vimśati.
+Vid.:ls:180:Vidagdhamukhamaṇḍana.
+Vikr.:ls:181:Vikramāṅkadevacarita (Bombay).
+Vīr. M.:ls:182:Vīramitrodaya.
+V. May.:ls:183:Vyavahāramayūkha (Mr. Mandlik's Edition).
+Vop.:ls:184:Vopadeva.
+Bop.:ls:185:Vopadeva.
+V. P.:ls:186:Viṣṇu Purāṇa.
+V. Ratn.:ls:187:Vṛttaratnākara.
+Vṛnd. Ś.:ls:188:Vṛndāvanaśataka.
+V. Sah.:ls:189:Viṣṇusahasranāman.
+Y.:ls:190:Yājñavalkya (Mr. Mandlik's Edition).
+Yoga S.:ls:191:Yogasūtras.
+Yv.:ls:192:Yajurveda.
+Yaj.:ls:193:Yajurveda.

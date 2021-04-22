@@ -1,0 +1,1280 @@
+; TODO Case 1: (reason = {%As%}val. -> Āśval.)
+; [Page11-a+ 48]
+533 old <HI>{%As%}val.… Āśvalāyana's Sūtras.
+533 new <HI>Āśval.… Āśvalāyana's Sūtras.
+;
+; TODO Case 2: (reason = {%S.%} -> Ś.)
+; [Page12-a+ 55]
+660 old <HI>{%S.%}… Śakuntalā (Bombay).
+660 new <HI>Ś.… Śakuntalā (Bombay).
+;
+; TODO Case 3: (reason = {%S.%} Til. -> Ś. Til.)
+; [Page12-b+ 58]
+684 old <HI>{%S.%} Til.… Śṛṅgāratilaka.
+684 new <HI>Ś. Til.… Śṛṅgāratilaka.
+;
+; TODO Case 4: (reason = {%S.%} -> Ś.)
+; <L>456<pc>0027-c<k1>awaviH<k2>awaviH --vI
+6613 old <>{%S.%} 2.
+6613 new <>Ś. 2.
+;
+; TODO Case 5: (reason = {%S.%} -> Ś.)
+; <L>795<pc>0038-c<k1>aTa<k2>aTa
+9303 old <>{%S.%} 5. 27; {#aTa maraRamavaSyameva jaMtoH#}
+9303 new <>Ś. 5. 27; {#aTa maraRamavaSyameva jaMtoH#}
+;
+; TODO Case 6: (reason = {%S.%} -> Ś.)
+; <L>795<pc>0038-c<k1>aTa<k2>aTa
+9358 old <>{%S.%} 1., 1. 16; {#gamizyAmyupahAsyatAM… #} <lbinfo n="a#TavA"/>
+9358 new <>Ś. 1., 1. 16; {#gamizyAmyupahAsyatAM… #} <lbinfo n="a#TavA"/>
+;
+; TODO Case 7: (reason = {%S.%} -> Ś.)
+; <L>918<pc>0044-c<k1>aDas<k2>aDas, aDaH
+10574 old <>{%S.%} 1. 14; rarely with abl. also;
+10574 new <>Ś. 1. 14; rarely with abl. also;
+;
+; TODO Case 8: (reason = {%S.%} -> Ś.)
+; <L>934<pc>0047-b<k1>aDikAraH<k2>aDikAraH
+11041 old <>{%S.%} 5; {#dvIpinastAMbUlADikAro dattaH#} Pt. 1,
+11041 new <>Ś. 5; {#dvIpinastAMbUlADikAro dattaH#} Pt. 1,
+;
+; TODO Case 9: (reason = {%S.%} -> Ś.)
+; <L>956<pc>0048-b<k1>aDijya<k2>aDijya
+11274 old <>{%S.%} 1. 6.
+11274 new <>Ś. 1. 6.
+;
+; TODO Case 10: (reason = {%S.%} -> Ś.)
+; <L>1028<pc>0050-a<k1>aDiSI<k2>aDiSI
+11725 old <>{%S.%} 3; {#aDyaSayizwa gAM#} Bk. 15. 114;
+11725 new <>Ś. 3; {#aDyaSayizwa gAM#} Bk. 15. 114;
+;
+; TODO Case 11: (reason = {%S.%} -> Ś.)
+; <L>1191<pc>0057-b<k1>anapatya<k2>anapatya
+13311 old <>{%S.%} 6; K. 59, 63. {@--2@} Not propitious
+13311 new <>Ś. 6; K. 59, 63. {@--2@} Not propitious
+;
+; TODO Case 12: (reason = {%S.%} -> Ś.)
+; <L>1260<pc>0059-b<k1>anavarata<k2>anavarata
+13781 old <>{%S.%} 2. 4. {#--taM#} {%adv.%} Incessantly, <lbinfo n="con+tinuously"/>
+13781 new <>Ś. 2. 4. {#--taM#} {%adv.%} Incessantly, <lbinfo n="con+tinuously"/>
+;
+; TODO Case 13: (reason = {%As%}val. -> Āśval.)
+; <L>1560<pc>0069-b<k1>anugrah<k2>anugrah
+16122 old <>{#syAt#} {%As%}val. {@--3@} To receive, welcome.
+16122 new <>{#syAt#} Āśval. {@--3@} To receive, welcome.
+;
+; TODO Case 14: (reason = {%S.%} -> Ś.)
+; <L>1648<pc>0072-a<k1>anuDAvanaM<k2>anuDAvanaM
+16723 old <>{%S.%} 2. {@--2@} Close pursuit of an object
+16723 new <>Ś. 2. {@--2@} Close pursuit of an object
+;
+; TODO Case 15: (reason = {%S.%} -> Ś.)
+; <L>1685<pc>0073-a<k1>anupada<k2>anupada
+17019 old <>{%S.%} 3 I shall be close behind you,
+17019 new <>Ś. 3 I shall be close behind you,
+;
+; TODO Case 16: (reason = {%S.%} -> Ś.)
+; <L>1793<pc>0077-a<k1>anuman<k2>anuman
+17884 old <>{%S.%} 3. {@--2@} To ask for, request or beg;
+17884 new <>Ś. 3. {@--2@} To ask for, request or beg;
+;
+; TODO Case 17: (reason = {%S.%} -> Ś.)
+; <L>1830<pc>0078-a<k1>anuyogaH<k2>anuyogaH
+18159 old <>{%S.%} 1; {#nigfhyAnuyoge#} P. VIII. 2. 94;  <lbinfo n="vArtA#ºmaDurAkzarayA"/>
+18159 new <>Ś. 1; {#nigfhyAnuyoge#} P. VIII. 2. 94;  <lbinfo n="vArtA#ºmaDurAkzarayA"/>
+;
+; TODO Case 18: (reason = {%As%}val. -> Āśval.)
+; <L>1857<pc>0079-b<k1>anurUpa<k2>anurUpa
+18433 old <>{#nyo'naMtaraH so'nurUpaH#} {%As%}val.
+18433 new <>{#nyo'naMtaraH so'nurUpaH#} Āśval.
+;
+; TODO Case 19: (reason = {%As%}val. -> Āśval.)
+; <L>2014<pc>0085-a<k1>anustaraRaM<k2>anustaraRaM
+19724 old <>{#pracCAdayet#} {%As%}val. {@--2@} A cow; ({#seyaM gOH stftaM#}
+19724 new <>{#pracCAdayet#} Āśval. {@--2@} A cow; ({#seyaM gOH stftaM#}
+;
+; TODO Case 20: (reason = {%As%}val. -> Āśval.)
+; <L>2046<pc>0086-a<k1>anUbaMDya<k2>anUbaMDya
+19936 old <>{#vaSAmanubaMDyAmAlaBeta#} Śat. Br.; {#anubaMDyayezwvA#} {%As%}val.
+19936 new <>{#vaSAmanubaMDyAmAlaBeta#} Śat. Br.; {#anubaMDyayezwvA#} Āśval.
+;
+; TODO Case 21: (reason = {%S.%} -> Ś.)
+; <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20581 old <>{%S.%} 5. 19 filled with dew; {#ºtoyaM#} (Bah.
+20581 new <>Ś. 5. 19 filled with dew; {#ºtoyaM#} (Bah.
+;
+; TODO Case 22: (reason = {%S.%} -> Ś.)
+; <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20780 old <>{%S.%} 3; K. 58; {#tato rAjA sAMtaHpuraH #} <lbinfo n="sva#gfhamAnIyAByarcitaH"/>
+20780 new <>Ś. 3; K. 58; {#tato rAjA sAMtaHpuraH #} <lbinfo n="sva#gfhamAnIyAByarcitaH"/>
+;
+; TODO Case 23: (reason = {%S.%} -> Ś.)
+; <L>2108<pc>0093-b<k1>aMtareRa<k2>aMtareRa
+21361 old <>{%S.%} 3; {#kriyAMtarAMtarAyamaMtareRa AryaM #} <lbinfo n="drazwu#micCAmi"/>
+21361 new <>Ś. 3; {#kriyAMtarAMtarAyamaMtareRa AryaM #} <lbinfo n="drazwu#micCAmi"/>
+;
+; TODO Case 24: (reason = {%As%}val. -> Āśval.)
+; <L>2124<pc>0095-a<k1>aMtarhita<k2>aMtarhita
+21666 old <>{#Asicya#} {%As%}val.; {#aMtarhite AvAM#} V.
+21666 new <>{#Asicya#} Āśval.; {#aMtarhite AvAM#} V.
+;
+; TODO Case 25: (reason = {%S.%} -> Ś.)
+; <L>2161<pc>0098-a<k1>anya<k2>anya
+22294 old <>{%S.%} 3. {@--3@} Another person, one <lbinfo n="dif+ferent"/>
+22294 new <>Ś. 3. {@--3@} Another person, one <lbinfo n="dif+ferent"/>
+;
+; TODO Case 26: (reason = {%S.%} -> Ś.)
+; <L>2171<pc>0099-b<k1>anyaTA<k2>anyaTA
+22557 old <>{%S.%} 6. 13; ({%b%}) to act otherwise, <lbinfo n="vio+late"/>
+22557 new <>Ś. 6. 13; ({%b%}) to act otherwise, <lbinfo n="vio+late"/>
+;
+; TODO Case 27: (reason = {%S.%} -> Ś.)
+; <L>2171<pc>0099-b<k1>anyaTA<k2>anyaTA
+22575 old <>{%S.%} 3. 19; {#janonyaTA BartfmatIM viSaMkate#}
+22575 new <>Ś. 3. 19; {#janonyaTA BartfmatIM viSaMkate#}
+;
+; TODO Case 28: (reason = {%S.%} -> Ś.)
+; <L>2171<pc>0099-b<k1>anyaTA<k2>anyaTA
+22576 old <>{%S.%} 5. 17 suspects to be otherwise
+22576 new <>Ś. 5. 17 suspects to be otherwise
+;
+; TODO Case 29: (reason = {%As%}val. -> Āśval.)
+; <L>2224<pc>0101-c<k1>anvAraB<k2>anvAraB
+23032 old <>{%As%}val.; {#yadi mAM saMspfSedrAmaH #} <lbinfo n="sakfdanvA#raBeta"/>
+23032 new <>Āśval.; {#yadi mAM saMspfSedrAmaH #} <lbinfo n="sakfdanvA#raBeta"/>
+;
+; TODO Case 30: (reason = {%S.%} -> Ś.)
+; <L>2411<pc>0108-a<k1>apaBraMSaH<k2>apaBraMSaH
+24490 old <>{%S.%} 4 v. l. ending in a (precipitate)
+24490 new <>Ś. 4 v. l. ending in a (precipitate)
+;
+; TODO Case 31: (reason = {%S.%} -> Ś.)
+; <L>2584<pc>0114-a<k1>apasfta<k2>apasfta
+25846 old <>{%S.%} 6. {@--3@} Discharged; {#apasftamiva SastraM#}
+25846 new <>Ś. 6. {@--3@} Discharged; {#apasftamiva SastraM#}
+;
+; TODO Case 32: (reason = {%S.%} -> Ś.)
+; <L>2686<pc>0117-a<k1>api<k2>api
+26609 old <>{%S.%} 1; {#api kriyArTaM sulaBaM samitkuSaM… api#}
+26609 new <>Ś. 1; {#api kriyArTaM sulaBaM samitkuSaM… api#}
+;
+; TODO Case 33: (reason = {%S.%} -> Ś.)
+; <L>2748<pc>0119-b<k1>apeta<k2>apeta
+27123 old <>{%S.%} 7. 32 freed from (mental) <lbinfo n="dark+ness"/>
+27123 new <>Ś. 7. 32 freed from (mental) <lbinfo n="dark+ness"/>
+;
+; TODO Case 34: (reason = {%S.%} -> Ś.)
+; <L>2749<pc>0119-b<k1>apekz<k2>apekz
+27155 old <>{%S.%} 5. 16, Ms. 8. 309; with {#na#} not
+27155 new <>Ś. 5. 16, Ms. 8. 309; with {#na#} not
+;
+; TODO Case 35: (reason = {%S.%} -> Ś.)
+; <L>2828<pc>0121-c<k1>apratiraTa<k2>apratiraTa
+27669 old <>{%S.%} 7, 7. 33. {@--2@} Matchless Mv. 1. 46.
+27669 new <>Ś. 7, 7. 33. {@--2@} Matchless Mv. 1. 46.
+;
+; TODO Case 36: (reason = {%S.%} -> Ś.)
+; <L>2918<pc>0124-a<k1>apsaras<k2>apsaras
+28281 old <>{%S.%} 6. {#--patiH#} lord of the Apsarasas,
+28281 new <>Ś. 6. {#--patiH#} lord of the Apsarasas,
+;
+; TODO Case 37: (reason = {%S.%} -> Ś.)
+; <L>3124<pc>0131-a<k1>aBinaMd<k2>aBinaMd
+29889 old <>{%S.%} 4; {#tApasIBiraBinaMdyamAnA SakuMtalA #} <lbinfo n="ti#zWati"/>
+29889 new <>Ś. 4; {#tApasIBiraBinaMdyamAnA SakuMtalA #} <lbinfo n="ti#zWati"/>
+;
+; TODO Case 38: (reason = {%S.%} -> Ś.)
+; <L>3132<pc>0131-b<k1>aBinava<k2>aBinava
+29956 old <>{%S.%} 3. 8; 5. 1; {#ºkaMWaSoRita#} 6. 26; Me. 
+29956 new <>Ś. 3. 8; 5. 1; {#ºkaMWaSoRita#} 6. 26; Me. 
+;
+; TODO Case 39: (reason = {%S.%} -> Ś.)
+; <L>3241<pc>0135-b<k1>aBimuKa<k2>aBimuKa
+30860 old <>{%S.%} 1; {#sa purABimuKaM pratasTe#} Pt. 3; Me.
+30860 new <>Ś. 1; {#sa purABimuKaM pratasTe#} Pt. 3; Me.
+;
+; TODO Case 40: (reason = {%S.%} -> Ś.)
+; <L>3250<pc>0135-c<k1>aBimarSaH<k2>aBimarSaH, --rSanaM, --marzaH, --rzaRaM
+30916 old <>{%S.%} 5. 20 carnally touched or <lbinfo n="em+braced"/>
+30916 new <>Ś. 5. 20 carnally touched or <lbinfo n="em+braced"/>
+;
+; TODO Case 41: (reason = {%S.%} -> Ś.)
+; <L>3282<pc>0136-c<k1>aBirAma<k2>aBirAma
+31184 old <>{%S.%} 3. 26 {#--maH#} An epithet of Śiva.
+31184 new <>Ś. 3. 26 {#--maH#} An epithet of Śiva.
+;
+; TODO Case 42: (reason = {%S.%} -> Ś.)
+; <L>3292<pc>0137-a<k1>aBirUpa<k2>aBirUpa
+31245 old <>{%S.%} 6. {@--4@} Learned, wise, enlightened;
+31245 new <>Ś. 6. {@--4@} Learned, wise, enlightened;
+;
+; TODO Case 43: (reason = {%S.%} -> Ś.)
+; <L>3550<pc>0143-b<k1>aBUmiH<k2>aBUmiH
+32835 old <>{%S.%} 7; {#sa Kalu #} <lbinfo n="manoraTAnAmapyaBUmirvisarja#nAvasarasatkAraH"/>
+32835 new <>Ś. 7; {#sa Kalu #} <lbinfo n="manoraTAnAmapyaBUmirvisarja#nAvasarasatkAraH"/>
+;
+; TODO Case 44: (reason = {%S.%} Til. -> Ś. Til.)
+; <L>3899<pc>0155-a<k1>aMBas<k2>aMBas
+35547 old <>{%S.%} Til. 17; so {#pAdaº, netraº; ºKaMqaH#} a
+35547 new <>Ś. Til. 17; so {#pAdaº, netraº; ºKaMqaH#} a
+;
+; TODO Case 45: (reason = {%S.%} -> Ś.)
+; <L>3959<pc>0157-c<k1>ayi<k2>ayi
+36098 old <>{%S.%} 7; {#ayi vidyutpramadAnAM tvamapi ca duHKaM#}
+36098 new <>Ś. 7; {#ayi vidyutpramadAnAM tvamapi ca duHKaM#}
+;
+; TODO Case 46: (reason = {%S.%} -> Ś.)
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+37985 old <>{%S.%} 4. 21; that which can be <lbinfo n="perceiv+ed"/>
+37985 new <>Ś. 4. 21; that which can be <lbinfo n="perceiv+ed"/>
+;
+; TODO Case 47: (reason = {%S.%} -> Ś.)
+; <L>4353<pc>0175-c<k1>avakASaH<k2>avakASaH
+40065 old <>{%S.%} 1; {#SokAvegadUzite me manasi viveka eva#}
+40065 new <>Ś. 1; {#SokAvegadUzite me manasi viveka eva#}
+;
+; TODO Case 48: (reason = {%S.%} -> Ś.)
+; <L>4430<pc>0177-c<k1>avagAQa<k2>avagAQa
+40520 old <>{%S.%} 7; {#avagAQaH SokasAgaraM#} Rām.;  <lbinfo n="samu#dramavagAQAni"/>
+40520 new <>Ś. 7; {#avagAQaH SokasAgaraM#} Rām.;  <lbinfo n="samu#dramavagAQAni"/>
+;
+; TODO Case 49: (reason = {%S.%} -> Ś.)
+; <L>4430<pc>0177-c<k1>avagAQa<k2>avagAQa
+40524 old <>{%S.%} 3. 8; {#manyuraBajadavagAQataraH#} Śi. 15. 2.
+40524 new <>Ś. 3. 8; {#manyuraBajadavagAQataraH#} Śi. 15. 2.
+;
+; TODO Case 50: (reason = {%As%}val. -> Āśval.)
+; <L>4464<pc>0178-c<k1>avaGrA<k2>avaGrA
+40769 old <>{%As%}val.; {#avaGrAtaSca mUrDani#} Rām. {%--Caus.%}
+40769 new <>Āśval.; {#avaGrAtaSca mUrDani#} Rām. {%--Caus.%}
+;
+; TODO Case 51: (reason = {%S.%} -> Ś.)
+; <L>4762<pc>0187-b<k1>avalaMb<k2>avalaMb
+42888 old <>{%S.%} 3; Dk. 162; Ve. 4; M. 3; V.
+42888 new <>Ś. 3; Dk. 162; Ve. 4; M. 3; V.
+;
+; TODO Case 52: (reason = {%S.%} -> Ś.)
+; <L>4861<pc>0190-c<k1>avasaraH<k2>avasaraH
+43621 old <>{%S.%} 7; {#ºprAptaM#} suited to the occasion
+43621 new <>Ś. 7; {#ºprAptaM#} suited to the occasion
+;
+; TODO Case 53: (reason = {%S.%} -> Ś.)
+; <L>5235<pc>0200-b<k1>aSaraRa<k2>aSaraRa
+46065 old <>{%S.%} 6; so {#aSaraRya#}. 
+46065 new <>Ś. 6; so {#aSaraRya#}. 
+;
+; TODO Case 54: (reason = {%S.%} -> Ś.)
+; <L>5720<pc>0220-1<k1>A<k2>A
+50460 old <>{%S.%} 5. 25 ever since (her) birth;
+50460 new <>Ś. 5. 25 ever since (her) birth;
+;
+; TODO Case 55: (reason = {%S.%} -> Ś.)
+; <L>5774<pc>0222-c<k1>Akfz<k2>Akfz
+50991 old <>{%S.%} 1; ({#manaH)#} {#SaMBoryataDvamAkrazwumayaskAMtena#}
+50991 new <>Ś. 1; ({#manaH)#} {#SaMBoryataDvamAkrazwumayaskAMtena#}
+;
+; TODO Case 56: (reason = {%As%}val. -> Āśval.)
+; <L>5866<pc>0226-b<k1>AgaMtuka<k2>AgaMtuka
+51789 old <>adventitious; {#ityAgaMtukA vikArAH#} {%As%}val. {@--4@}
+51789 new <>adventitious; {#ityAgaMtukA vikArAH#} Āśval. {@--4@}
+;
+; TODO Case 57: (reason = {%As%}val. -> Āśval.)
+; <L>5885<pc>0227-a<k1>Agur<k2>Agur
+51978 old <>{%As%}val.
+51978 new <>Āśval.
+;
+; TODO Case 58: (reason = {%As%}val. -> Āśval.)
+; <L>5907<pc>0227-c<k1>AgrayaRaH<k2>AgrayaRaH
+52131 old <>{%As%}val.
+52131 new <>Āśval.
+;
+; TODO Case 59: (reason = {%S.%} -> Ś.)
+; <L>6115<pc>0233-c<k1>Atman<k2>Atman
+53740 old <>{%S.%} 7. 35. --4. Cupid, god of love; Ku. 3.
+53740 new <>Ś. 7. 35. --4. Cupid, god of love; Ku. 3.
+;
+; TODO Case 60: (reason = {%S.%} -> Ś.)
+; <L>6401<pc>0245-a<k1>Apanna<k2>Apanna
+56088 old <>{%S.%} 2. 16; Me. 53; H. 4. 106, V. 2.
+56088 new <>Ś. 2. 16; Me. 53; H. 4. 106, V. 2.
+;
+; TODO Case 61: (reason = {%S.%} -> Ś.)
+; <L>6976<pc>0262-a<k1>Avfj<k2>Avfj
+60183 old <>{%S.%} 1; V. 5; Ku. 7. 10; K. 82, 310.
+60183 new <>Ś. 1; V. 5; Ku. 7. 10; K. 82, 310.
+;
+; TODO Case 62: (reason = {%As%}val. -> Āśval.)
+; <L>7078<pc>0266-b<k1>ASrAvaRaM<k2>ASrAvaRaM
+61090 old <>{%As%}val.
+61090 new <>Āśval.
+;
+; TODO Case 63: (reason = {%As%}val. -> Āśval.)
+; <L>7242<pc>0271-c<k1>AhavanIya<k2>AhavanIya
+62379 old <>{#AhavanIyaH#} {%As%}val.; see also {#agnitretA#} under
+62379 new <>{#AhavanIyaH#} Āśval.; see also {#agnitretA#} under
+;
+; TODO Case 64: (reason = {%S.%} -> Ś.)
+; <L>7430<pc>0280-c<k1>iva<k2>iva
+64265 old <>{%S.%} 1. 6; {#liMpatIva tamoMgAni varzatIvAMjanaM#}
+64265 new <>Ś. 1. 6; {#liMpatIva tamoMgAni varzatIvAMjanaM#}
+;
+; TODO Case 65: (reason = {%S.%} -> Ś.)
+; <L>7537<pc>0284-b<k1>Izat<k2>Izat
+65092 old <>{%S.%} 1. 3; {#Izacca kurute sevAM#} Pt. 1. 141.
+65092 new <>Ś. 1. 3; {#Izacca kurute sevAM#} Pt. 1. 141.
+;
+; TODO Case 66: (reason = {%S.%} -> Ś.)
+; <L>7582<pc>0286-b<k1>uccEH<k2>uccEH
+65535 old <>{%S.%} 4. 16; {#kiMpunaryastaToccEH#} Me. 17; Ratn.
+65535 new <>Ś. 4. 16; {#kiMpunaryastaToccEH#} Me. 17; Ratn.
+;
+; TODO Case 67: (reason = {%S.%} -> Ś.)
+; <L>7755<pc>0291-b<k1>utkarza<k2>utkarza
+66708 old <>{%S.%} 2. 5. {@--5@} Self conceit, boasting.
+66708 new <>Ś. 2. 5. {@--5@} Self conceit, boasting.
+;
+; TODO Case 68: (reason = {%As%}val. -> Āśval.)
+; <L>7922<pc>0298-a<k1>utpavanaM<k2>utpavanaM
+68187 old <>{#prAgutpunAti sakfnmaMtreRa dvistUzRIM#} {%As%}val.
+68187 new <>{#prAgutpunAti sakfnmaMtreRa dvistUzRIM#} Āśval.
+;
+; TODO Case 69: (reason = {%S.%} -> Ś.)
+; <L>7956<pc>0299-a<k1>utsah<k2>utsah
+68451 old <>{%S.%} 5; Mu. 4. 14; Śi. 14. 83; Bk. 3.
+68451 new <>Ś. 5; Mu. 4. 14; Śi. 14. 83; Bk. 3.
+;
+; TODO Case 70: (reason = {%S.%} -> Ś.)
+; <L>8157<pc>0307-b<k1>uddiS<k2>uddiS
+70226 old <>{%S.%} 5. {@--3@} To refer or allude to, have
+70226 new <>Ś. 5. {@--3@} To refer or allude to, have
+;
+; TODO Case 71: (reason = {%S.%} -> Ś.)
+; <L>8157<pc>0307-b<k1>uddiS<k2>uddiS
+70228 old <>{%S.%} 6, see {#uddiSya#} below. {@--4@} To mean, <lbinfo n="in+tend"/>
+70228 new <>Ś. 6, see {#uddiSya#} below. {@--4@} To mean, <lbinfo n="in+tend"/>
+;
+; TODO Case 72: (reason = {%S.%} -> Ś.)
+; <L>8357<pc>0313-b<k1>unnidra<k2>unnidra
+71663 old <>{%S.%} 6. 4; Mu. 4. 2; Māl. 3. {@--2@} <lbinfo n="Ex+panded"/>
+71663 new <>Ś. 6. 4; Mu. 4. 2; Māl. 3. {@--2@} <lbinfo n="Ex+panded"/>
+;
+; TODO Case 73: (reason = {%As%}val. -> Āśval.)
+; <L>8565<pc>0320-c<k1>upatap<k2>upatap
+73307 old <>{#AhitAgniScedupatapet#} {%As%}val. {@--3@} To afflict,
+73307 new <>{#AhitAgniScedupatapet#} Āśval. {@--3@} To afflict,
+;
+; TODO Case 74: (reason = {%As%}val. -> Āśval.)
+; <L>8657<pc>0323-b<k1>upaniDA<k2>upaniDA
+73953 old <>{#karRayorupaniDAya#} {#(muKaM)#} {%As%}val.; {#vahati samIre#}
+73953 new <>{#karRayorupaniDAya#} {#(muKaM)#} Āśval.; {#vahati samIre#}
+;
+; TODO Case 75: (reason = {%S.%} -> Ś.)
+; <L>8688<pc>0324-c<k1>upanyAsaH<k2>upanyAsaH
+74228 old <>{%S.%} 5; Māl. 1, 3, 8. ({%b%}) Preface, <lbinfo n="in+troduction"/>
+74228 new <>Ś. 5; Māl. 1, 3, 8. ({%b%}) Preface, <lbinfo n="in+troduction"/>
+;
+; TODO Case 76: (reason = {%S.%} -> Ś.)
+; <L>8831<pc>0330-a<k1>upalaMBaH<k2>upalaMBaH
+75406 old <>{%S.%} 7. {@--2@} Direct perception or <lbinfo n="re+cognition"/>
+75406 new <>Ś. 7. {@--2@} Direct perception or <lbinfo n="re+cognition"/>
+;
+; TODO Case 77: (reason = {%S.%} -> Ś.)
+; <L>9594<pc>0357-b<k1>evaM<k2>evaM
+81533 old <>{%S.%} 1. 12. {#--nAman#} {%a.%} so called, <lbinfo n="bear+ing"/>
+81533 new <>Ś. 1. 12. {#--nAman#} {%a.%} so called, <lbinfo n="bear+ing"/>
+;
+; TODO Case 78: (reason = {%S.%} -> Ś.)
+; <L>10822<pc>0399-a<k1>kAla<k2>kAla
+91024 old <>{%S.%} 4. {#ºprekzin#} Pt. 3. 172. {#ºvizaH#} an
+91024 new <>Ś. 4. {#ºprekzin#} Pt. 3. 172. {#ºvizaH#} an
+;
+; TODO Case 79: (reason = {%S.%} -> Ś.)
+; <L>10938<pc>0404-b<k1>kila<k2>kila
+92109 old <>{%S.%} 1. 18. {@--2@} As they say, as is <lbinfo n="report+ed"/>
+92109 new <>Ś. 1. 18. {@--2@} As they say, as is <lbinfo n="report+ed"/>
+;
+; TODO Case 80: (reason = {%S.%} -> Ś.)
+; <L>11102<pc>0409-a<k1>kutas<k2>kutas
+93175 old <>{%S.%} 2. 5. {@--3@} Why, wherefore, from
+93175 new <>Ś. 2. 5. {@--3@} Why, wherefore, from
+;
+; TODO Case 81: (reason = {%S.%} -> Ś.)
+; <L>11102<pc>0409-a<k1>kutas<k2>kutas
+93177 old <>{%S.%} 5. {@--4@} How, in what manner;
+93177 new <>Ś. 5. {@--4@} How, in what manner;
+;
+; TODO Case 82: (reason = {%S.%} -> Ś.)
+; <L>11149<pc>0410-a<k1>kubja<k2>kubja
+93507 old <>{%S.%} 2.
+93507 new <>Ś. 2.
+;
+; TODO Case 83: (reason = {%S.%} -> Ś.)
+; <L>11165<pc>0410-c<k1>kumudvat<k2>kumudvat
+93629 old <>{%S.%} 4. 2; 3. 17; {#kumudvatI BAnumatIva BAvaM#} {#(na#}
+93629 new <>Ś. 4. 2; 3. 17; {#kumudvatI BAnumatIva BAvaM#} {#(na#}
+;
+; TODO Case 84: (reason = {%S.%} -> Ś.)
+; <L>11375<pc>0418-a<k1>kfta<k2>kfta
+95412 old <>{%S.%} 6. {#--nirRejanaH#} a penitent {#--niScaya#}
+95412 new <>Ś. 6. {#--nirRejanaH#} a penitent {#--niScaya#}
+;
+; TODO Case 85: (reason = {%S.%} -> Ś.)
+; <L>11545<pc>0425-b<k1>kowaraH<k2>kowaraH, --raM
+96892 old <>{%S.%} 1. 14; {#kowaramakAlavfzwyA #} <lbinfo n="prabalapuro#vAtayA"/>
+96892 new <>Ś. 1. 14; {#kowaramakAlavfzwyA #} <lbinfo n="prabalapuro#vAtayA"/>
+;
+; TODO Case 86: (reason = {%S.%} -> Ś.)
+; <L>11568<pc>0426-a<k1>komala<k2>komala
+97051 old <>{%S.%} 6. 12; {#komalaviwapAnukAriRO bAhU#} 1.
+97051 new <>Ś. 6. 12; {#komalaviwapAnukAriRO bAhU#} 1.
+;
+; TODO Case 87: (reason = {%S.%} -> Ś.)
+; <L>11693<pc>0430-a<k1>kramaH<k2>kramaH
+97983 old <>{%S.%} 7. 30; Ms. 7. 24, 9. 85, 2. 173, 3.
+97983 new <>Ś. 7. 30; Ms. 7. 24, 9. 85, 2. 173, 3.
+;
+; TODO Case 88: (reason = {%S.%} -> Ś.)
+; <L>11813<pc>0434-a<k1>kzaRaH<k2>kzaRaH, --RaM
+98893 old <>{%S.%} 2 ‘my leisure is at your disposal’
+98893 new <>Ś. 2 ‘my leisure is at your disposal’
+;
+; TODO Case 89: (reason = {%S.%} -> Ś.)
+; <L>11894<pc>0437-a<k1>kzip<k2>kzip
+99567 old <>{%S.%} 7. 24; Y. 1. 230; Bg. 16. 19.
+99567 new <>Ś. 7. 24; Y. 1. 230; Bg. 16. 19.
+;
+; TODO Case 90: (reason = {%S.%} -> Ś.)
+; <L>12252<pc>0447-b<k1>gaR<k2>gaR
+102003 old <>{%S.%} 6. 11. {@--2@} To calculate, compute;
+102003 new <>Ś. 6. 11. {@--2@} To calculate, compute;
+;
+; TODO Case 91: (reason = {%S.%} -> Ś.)
+; <L>12252<pc>0447-b<k1>gaR<k2>gaR
+102029 old <>{%S.%} 7. 1, 4. 18. --WITH {#aDi#} {@1@} to
+102029 new <>Ś. 7. 1, 4. 18. --WITH {#aDi#} {@1@} to
+;
+; TODO Case 92: (reason = {%S.%} -> Ś.)
+; <L>12269<pc>0448-c<k1>gaMqaH<k2>gaMqaH
+102263 old <>{%S.%} 6. 17; Śi 12. 54. {@--2@} An <lbinfo n="ele+phant"/>
+102263 new <>Ś. 6. 17; Śi 12. 54. {@--2@} An <lbinfo n="ele+phant"/>
+;
+; TODO Case 93: (reason = {%S.%} -> Ś.)
+; <L>12318<pc>0451-b<k1>gata<k2>gata
+102822 old <>{%S.%} 4: {#vayamapi BavatyO saKIgataM kimapi#}
+102822 new <>Ś. 4: {#vayamapi BavatyO saKIgataM kimapi#}
+;
+; TODO Case 94: (reason = {%S.%} -> Ś.)
+; <L>12318<pc>0451-b<k1>gata<k2>gata
+102829 old <>{%S.%} 7. 7; Śi. 1. 2, 7. 4. {@--2@} Gait, manner
+102829 new <>Ś. 7. 7; Śi. 1. 2, 7. 4. {@--2@} Gait, manner
+;
+; TODO Case 95: (reason = {%S.%} -> Ś.)
+; <L>12333<pc>0452-b<k1>gamanIya<k2>gamanIya
+103035 old <>{%S.%} 1. {@--2@} Intelligible, easy to be <lbinfo n="com+prehended"/>
+103035 new <>Ś. 1. {@--2@} Intelligible, easy to be <lbinfo n="com+prehended"/>
+;
+; TODO Case 96: (reason = {%S.%} -> Ś.)
+; <L>12509<pc>0458-b<k1>gAh<k2>gAh
+104369 old <>{%S.%} 2. 6; {#gAhitAse'Ta puRyasya #} <lbinfo n="gaMgAmUrti#miva"/>
+104369 new <>Ś. 2. 6; {#gAhitAse'Ta puRyasya #} <lbinfo n="gaMgAmUrti#miva"/>
+;
+; TODO Case 97: (reason = {%S.%} Til. -> Ś. Til.)
+; <L>12510<pc>0458-b<k1>gAQa<k2>gAQa
+104403 old <>{%S.%} Til. 12; Amaru. 72; so also
+104403 new <>Ś. Til. 12; Amaru. 72; so also
+;
+; TODO Case 98: (reason = {%S.%} -> Ś.)
+; <L>12616<pc>0463-a<k1>guru<k2>guru
+105532 old <>{%S.%} 5. {#--vartin, --vAsin#} {%m.%} a student
+105532 new <>Ś. 5. {#--vartin, --vAsin#} {%m.%} a student
+;
+; TODO Case 99: (reason = {%S.%} -> Ś.)
+; <L>12713<pc>0467-a<k1>go<k2>go
+106388 old <>{%S.%} 6. 4; see {#ºsKalita#} below;  <lbinfo n="madgotrAM#kaM"/>
+106388 new <>Ś. 6. 4; see {#ºsKalita#} below;  <lbinfo n="madgotrAM#kaM"/>
+;
+; TODO Case 100: (reason = {%S.%} -> Ś.)
+; <L>12778<pc>0471-b<k1>graMTiH<k2>graMTiH
+107146 old <>{%S.%} 6. {#--parRaH, --rRaM#} 1. N. of a fragrant
+107146 new <>Ś. 6. {#--parRaH, --rRaM#} 1. N. of a fragrant
+;
+; TODO Case 101: (reason = {%S.%} -> Ś.)
+; <L>13309<pc>0492-b<k1>cikkaRa<k2>cikkaRa
+111723 old <>{%S.%} 2. {#--RaH#} The betel-nut tree. {#--RA#}
+111723 new <>Ś. 2. {#--RaH#} The betel-nut tree. {#--RA#}
+;
+; TODO Case 102: (reason = {%S.%} -> Ś.)
+; <L>13506<pc>0498-b<k1>cezw<k2>cezw
+113126 old <>{%S.%} 6. 27. {@--2@} To make effort, <lbinfo n="en+deavour"/>
+113126 new <>Ś. 6. 27. {@--2@} To make effort, <lbinfo n="en+deavour"/>
+;
+; TODO Case 103: (reason = {%S.%} -> Ś.)
+; <L>13540<pc>0499-b<k1>cyu<k2>cyu
+113324 old <>{%S.%} 2. 8. {@--2@} To come out of, flow or
+113324 new <>Ś. 2. 8. {@--2@} To come out of, flow or
+;
+; TODO Case 104: (reason = {%S.%} -> Ś.)
+; <L>13574<pc>0500-b<k1>CaMdas<k2>CaMdas
+113594 old <>{%S.%} 4; {#gAyatrI CaMdasAmahaM#} Bg. 10. 35; 13.
+113594 new <>Ś. 4; {#gAyatrI CaMdasAmahaM#} Bg. 10. 35; 13.
+;
+; TODO Case 105: (reason = {%S.%} -> Ś.)
+; <L>13609<pc>0501-a<k1>CAyA<k2>CAyA
+113840 old <>{%S.%} 4. 11. {#--dvitIya#} {%a.%} ‘accompanied
+113840 new <>Ś. 4. 11. {#--dvitIya#} {%a.%} ‘accompanied
+;
+; TODO Case 106: (reason = {%S.%} -> Ś.)
+; <L>13722<pc>0505-a<k1>janaH<k2>janaH
+114696 old <>{%S.%} 5. 10. {#--AcAraH#} 1. a popular usage
+114696 new <>Ś. 5. 10. {#--AcAraH#} 1. a popular usage
+;
+; TODO Case 107: (reason = {%S.%} -> Ś.)
+; <L>13866<pc>0510-c<k1>jAta<k2>jAta
+115977 old <>{%S.%} 5. 22. {@--5@} A child, a young one.
+115977 new <>Ś. 5. 22. {@--5@} A child, a young one.
+;
+; TODO Case 108: (reason = {%S.%} -> Ś.)
+; <L>13981<pc>0515-b<k1>jIva<k2>jIva
+117007 old <>{%S.%} 3. 12; or {#AlokamarkAdiva jIvalokaH#}
+117007 new <>Ś. 3. 12; or {#AlokamarkAdiva jIvalokaH#}
+;
+; TODO Case 109: (reason = {%S.%} -> Ś.)
+; <L>14017<pc>0516-c<k1>jozaH<k2>jozaH
+117287 old <>{%S.%} 5; Bv. 2. 17.
+117287 new <>Ś. 5; Bv. 2. 17.
+;
+; TODO Case 110: (reason = {%S.%} -> Ś.)
+; <L>14328<pc>0526-b<k1>tatas<k2>tatas
+119239 old <>{%S.%} 3. 1; Māl. 2. 10; Ms. 6. 7; 12.
+119239 new <>Ś. 3. 1; Māl. 2. 10; Ms. 6. 7; 12.
+;
+; TODO Case 111: (reason = {%S.%} -> Ś.)
+; <L>14339<pc>0527-b<k1>taTya<k2>taTya
+119439 old <>{%S.%} 1. {#--TyaM#} Truth, reality; {#sA #} <lbinfo n="ta#TyamevABihitA"/>
+119439 new <>Ś. 1. {#--TyaM#} Truth, reality; {#sA #} <lbinfo n="ta#TyamevABihitA"/>
+;
+; TODO Case 112: (reason = {%S.%} -> Ś.)
+; <L>14633<pc>0537-a<k1>tAvat<k2>tAvat
+121711 old <>{%S.%} 2; R. 7. 32. {@--3@} Just, now;
+121711 new <>Ś. 2; R. 7. 32. {@--3@} Just, now;
+;
+; TODO Case 113: (reason = {%S.%} -> Ś.)
+; <L>14936<pc>0546-a<k1>tejas<k2>tejas
+123825 old <>{%S.%} 7. 15. {@--10@} One possessed of heroic
+123825 new <>Ś. 7. 15. {@--10@} One possessed of heroic
+;
+; TODO Case 114: (reason = {%S.%} -> Ś.)
+; <L>15378<pc>0563-c<k1>dAruRa<k2>dAruRa
+127732 old <>{%S.%} 6. 28. {@--4@} Heavy, violent, intense, 
+127732 new <>Ś. 6. 28. {@--4@} Heavy, violent, intense, 
+;
+; TODO Case 115: (reason = {%S.%} -> Ś.)
+; <L>15489<pc>0569-a<k1>duHKa<k2>duHKa
+128835 old <>{%S.%} 7. 13; Bg. 12. 5; Ku. 4. 13;
+128835 new <>Ś. 7. 13; Bg. 12. 5; Ku. 4. 13;
+;
+; TODO Case 116: (reason = {%S.%} -> Ś.)
+; <L>15536<pc>0573-a<k1>dozaH<k2>dozaH
+129642 old <>{%S.%} 3 ‘will not find fault or take <lbinfo n="ex+ception"/>
+129642 new <>Ś. 3 ‘will not find fault or take <lbinfo n="ex+ception"/>
+;
+; TODO Case 117: (reason = {%S.%} -> Ś.)
+; <L>15536<pc>0573-a<k1>dozaH<k2>dozaH
+129654 old <>{%S.%} 3; {#adAtA vaMSadozeRa #} <lbinfo n="karmadozAddaridra#tA"/>
+129654 new <>Ś. 3; {#adAtA vaMSadozeRa #} <lbinfo n="karmadozAddaridra#tA"/>
+;
+; TODO Case 118: (reason = {%S.%} -> Ś.)
+; <L>15743<pc>0583-a<k1>dOzyaMtiH<k2>dOzyaM(zmaM)tiH
+131805 old <>{%S.%} 4. 19.
+131805 new <>Ś. 4. 19.
+;
+; TODO Case 119: (reason = {%S.%} -> Ś.)
+; <L>16000<pc>0594-c<k1>DA<k2>DA
+134277 old <>{%S.%} 4. 3. {@--5@} To seize, take hold of
+134277 new <>Ś. 4. 3. {@--5@} To seize, take hold of
+;
+; TODO Case 120: (reason = {%S.%} Til. -> Ś. Til.)
+; <L>16000<pc>0594-c<k1>DA<k2>DA
+134317 old <>{%S.%} Til. 17 v. l. {#praBAvapihitA#} V. 4. 2;
+134317 new <>Ś. Til. 17 v. l. {#praBAvapihitA#} V. 4. 2;
+;
+; TODO Case 121: (reason = {%S.%} -> Ś.)
+; <L>16069<pc>0597-b<k1>DizRya<k2>DizRya
+134898 old <>{%S.%} 4. 7. {@--2@} N. of Śukra, preceptor
+134898 new <>Ś. 4. 7. {@--2@} N. of Śukra, preceptor
+;
+; TODO Case 122: (reason = {%S.%} -> Ś.)
+; <L>16140<pc>0600-a<k1>Df<k2>Df
+135518 old <>{%S.%} 1; {#tasmE-tasya vA DanaM DArayati#}
+135518 new <>Ś. 1; {#tasmE-tasya vA DanaM DArayati#}
+;
+; TODO Case 123: (reason = {%S.%} -> Ś.)
+; <L>16248<pc>0604-a<k1>na<k2>na
+136380 old <>{%S.%} 6. 17. Sometimes {#na#} may not be
+136380 new <>Ś. 6. 17. Sometimes {#na#} may not be
+;
+; TODO Case 124: (reason = {%S.%} -> Ś.)
+; <L>16502<pc>0614-c<k1>nAma<k2>nAma
+138731 old <>{%S.%} 5. 8; Bh. 1. 16; {#evaM nAmAstu#} ‘be it
+138731 new <>Ś. 5. 8; Bh. 1. 16; {#evaM nAmAstu#} ‘be it
+;
+; TODO Case 125: (reason = {%S.%} -> Ś.)
+; <L>16590<pc>0617-c<k1>nikAma<k2>nikAma
+139370 old <>{%S.%} 6. 16. {@--2@} Desirous of. {#--maH, --maM#} Wish,
+139370 new <>Ś. 6. 16. {@--2@} Desirous of. {#--maH, --maM#} Wish,
+;
+; TODO Case 126: (reason = {%S.%} -> Ś.)
+; <L>16769<pc>0622-c<k1>nipAtaH<k2>nipAtaH
+140619 old <>{%S.%} 1. 10. {@--5@} Dying, death; Ms.
+140619 new <>Ś. 1. 10. {@--5@} Dying, death; Ms.
+;
+; TODO Case 127: (reason = {%S.%} -> Ś.)
+; <L>16812<pc>0624-b<k1>nimittaM<k2>nimittaM
+140969 old <>{%S.%} 3. {#nimittaM, nimittena, ninittAn#}
+140969 new <>Ś. 3. {#nimittaM, nimittena, ninittAn#}
+;
+; TODO Case 128: (reason = {%S.%} -> Ś.)
+; <L>16847<pc>0625-c<k1>niyuj<k2>niyuj
+141275 old <>{%S.%} 1; Ku. 3. 13; R. 5. 29. {@--2@} To
+141275 new <>Ś. 1; Ku. 3. 13; R. 5. 29. {@--2@} To
+;
+; TODO Case 129: (reason = {%S.%} -> Ś.)
+; <L>16876<pc>0631-a<k1>nirAkaraRaM<k2>nirAkaraRaM
+142248 old <>{%S.%} 6. {@--2@} Banishing. {@--3@} Obstruction,
+142248 new <>Ś. 6. {@--2@} Banishing. {@--3@} Obstruction,
+;
+; TODO Case 130: (reason = {%S.%} -> Ś.)
+; <L>17038<pc>0635-b<k1>nirvARa<k2>nirvARa
+143314 old <>{%S.%} 3; M. 3. 1; Śi. 4. 23; V. 3.
+143314 new <>Ś. 3; M. 3. 1; Śi. 4. 23; V. 3.
+;
+; TODO Case 131: (reason = {%S.%} -> Ś.)
+; <L>17083<pc>0637-a<k1>nivas<k2>nivas
+143669 old <>{%S.%} 1. 26; {#nivasizyasi mayyeva#} Bg. 12.
+143669 new <>Ś. 1. 26; {#nivasizyasi mayyeva#} Bg. 12.
+;
+; TODO Case 132: (reason = {%S.%} -> Ś.)
+; <L>17175<pc>0640-a<k1>nizic<k2>nizic
+144351 old <>{%S.%} 4. 13; Ku. 2. 57. {@--2@} To <lbinfo n="impreg+nate"/>
+144351 new <>Ś. 4. 13; Ku. 2. 57. {@--2@} To <lbinfo n="impreg+nate"/>
+;
+; TODO Case 133: (reason = {%S.%} -> Ś.)
+; <L>17185<pc>0640-a<k1>nizev<k2>nizev
+144420 old <>{%S.%} 5. 5; Ku. 1. 5. {@--3@} To enjoy
+144420 new <>Ś. 5. 5; Ku. 1. 5. {@--3@} To enjoy
+;
+; TODO Case 134: (reason = {%S.%} -> Ś.)
+; <L>17720<pc>0663-a<k1>padaM<k2>padaM
+149553 old <>{%S.%} 3. 8; V. 4. 6. --2. a line or <lbinfo n="ar+rangement"/>
+149553 new <>Ś. 3. 8; V. 4. 6. --2. a line or <lbinfo n="ar+rangement"/>
+;
+; TODO Case 135: (reason = {%S.%} -> Ś.)
+; <L>17765<pc>0665-c<k1>para<k2>para
+149954 old <>{%S.%} 2; Ki. 5. 18; {#parato'pi paraH#} Ku.
+149954 new <>Ś. 2; Ki. 5. 18; {#parato'pi paraH#} Ku.
+;
+; TODO Case 136: (reason = {%S.%} -> Ś.)
+; <L>17926<pc>0672-b<k1>parigrahaH<k2>parigrahaH
+151455 old <>{%S.%} 1. 22. {@--8@} A wife, queen;  <lbinfo n="prayatapa#rigrahadvitIyaH"/>
+151455 new <>Ś. 1. 22. {@--8@} A wife, queen;  <lbinfo n="prayatapa#rigrahadvitIyaH"/>
+;
+; TODO Case 137: (reason = {%S.%} -> Ś.)
+; <L>18315<pc>0682-b<k1>parisamApta<k2>parisamApta
+153901 old <>{%S.%} 5. 8.
+153901 new <>Ś. 5. 8.
+;
+; TODO Case 138: (reason = {%S.%} -> Ś.)
+; <L>18536<pc>0688-c<k1>paScAt<k2>paScAt
+155398 old <>{%S.%} 1. 34; 3. 8. {@--3@} After (in time or
+155398 new <>Ś. 1. 34; 3. 8. {@--3@} After (in time or
+;
+; TODO Case 139: (reason = {%S.%} -> Ś.)
+; <L>19018<pc>0704-a<k1>piSunayati<k2>piSunayati
+158981 old <>{%S.%} 7. 7.
+158981 new <>Ś. 7. 7.
+;
+; TODO Case 140: (reason = {%S.%} -> Ś.)
+; <L>19129<pc>0709-b<k1>puras<k2>puras
+160202 old <>{%S.%} 4. 1. {@--2.@} a follower, attendant;
+160202 new <>Ś. 4. 1. {@--2.@} a follower, attendant;
+;
+; TODO Case 141: (reason = {%S.%} -> Ś.)
+; <L>19343<pc>0720-b<k1>pelava<k2>pelava
+162432 old <>{%S.%} 3. 22.
+162432 new <>Ś. 3. 22.
+;
+; TODO Case 142: (reason = {%S.%} -> Ś.)
+; <L>19503<pc>0723-c<k1>prakAma<k2>prakAma
+163344 old <>{%S.%} 4. 21; R. 6. 44; Mk. 5. 25. {@--2@}
+163344 new <>Ś. 4. 21; R. 6. 44; Mk. 5. 25. {@--2@}
+;
+; TODO Case 143: (reason = {%S.%} -> Ś.)
+; <L>19801<pc>0733-b<k1>prati<k2>prati
+165829 old <>{%S.%} 1 ‘let care be taken of each
+165829 new <>Ś. 1 ‘let care be taken of each
+;
+; TODO Case 144: (reason = {%S.%} -> Ś.)
+; <L>19835<pc>0736-b<k1>pratigfhIta<k2>pratigfhIta
+166173 old <>{%S.%} 2; {#pratigfhItaM brAhmaRavacanaM#} V. 2. {@--2@}
+166173 new <>Ś. 2; {#pratigfhItaM brAhmaRavacanaM#} V. 2. {@--2@}
+;
+; TODO Case 145: (reason = {%S.%} -> Ś.)
+; <L>19905<pc>0738-b<k1>pratipattiH<k2>pratipattiH
+166630 old <>{%S.%} 4. 16; 7. 1; R. 14. 22; 15. 12.
+166630 new <>Ś. 4. 16; 7. 1; R. 14. 22; 15. 12.
+;
+; TODO Case 146: (reason = {%S.%} -> Ś.)
+; <L>19939<pc>0739-a<k1>pratibaMD<k2>pratibaMD
+166840 old <>{%S.%} 6. 
+166840 new <>Ś. 6. 
+;
+; TODO Case 147: (reason = {%S.%} -> Ś.)
+; <L>19957<pc>0739-c<k1>pratiboDaH<k2>pratiboDaH
+166960 old <>{%S.%} 6.
+166960 new <>Ś. 6.
+;
+; TODO Case 148: (reason = {%S.%} -> Ś.)
+; <L>20107<pc>0743-a<k1>pratihan<k2>pratihan
+167842 old <>{%S.%} 1. 13; Me. 20; Ku. 2. 48; V.
+167842 new <>Ś. 1. 13; Me. 20; Ku. 2. 48; V.
+;
+; TODO Case 149: (reason = {%S.%} -> Ś.)
+; <L>20174<pc>0745-a<k1>pratyakzIkf<k2>pratyakzIkf
+168288 old <>{%S.%} 6; {#taddevaH patrArUQaM pratyakzIkarotu#} {%ibid.%}
+168288 new <>Ś. 6; {#taddevaH patrArUQaM pratyakzIkarotu#} {%ibid.%}
+;
+; TODO Case 150: (reason = {%S.%} -> Ś.)
+; <L>20220<pc>0746-a<k1>pratyAdiS<k2>pratyAdiS
+168578 old <>{%S.%} 6. 5. ({%b%}) To repulse;  <lbinfo n="pratyAdide#SEnamaBAzamARA"/>
+168578 new <>Ś. 6. 5. ({%b%}) To repulse;  <lbinfo n="pratyAdide#SEnamaBAzamARA"/>
+;
+; TODO Case 151: (reason = {%S.%} -> Ś.)
+; <L>20896<pc>0765-b<k1>prasavaH<k2>prasavaH
+173242 old <>{%S.%} 5. 9; Māl. 9. 27, 31; U. 2. 20.
+173242 new <>Ś. 5. 9; Māl. 9. 27, 31; U. 2. 20.
+;
+; TODO Case 152: (reason = {%S.%} -> Ś.)
+; <L>20909<pc>0765-c<k1>prasf<k2>prasf
+173348 old <>{%S.%} 4; {#prasarati manaH kAryAraMBe#} Pt. 3.
+173348 new <>Ś. 4; {#prasarati manaH kAryAraMBe#} Pt. 3.
+;
+; TODO Case 153: (reason = {%S.%} -> Ś.)
+; <L>20959<pc>0767-b<k1>prasnigDa<k2>prasnigDa
+173736 old <>{%S.%} 1. 14.
+173736 new <>Ś. 1. 14.
+;
+; TODO Case 154: (reason = {%S.%} -> Ś.)
+; <L>21044<pc>0769-b<k1>prAk<k2>prAk
+174260 old <>{%S.%} 5. 21. {@--2@} At first, already;  <lbinfo n="pramanya#vaH"/>
+174260 new <>Ś. 5. 21. {@--2@} At first, already;  <lbinfo n="pramanya#vaH"/>
+;
+; TODO Case 155: (reason = {%S.%} -> Ś.)
+; <L>21212<pc>0775-c<k1>prArT<k2>prArT
+175619 old <>{%S.%} 2. {@--2@} To demand in marriage.
+175619 new <>Ś. 2. {@--2@} To demand in marriage.
+;
+; TODO Case 156: (reason = {%S.%} -> Ś.)
+; <L>21212<pc>0775-c<k1>prArT<k2>prArT
+175622 old <>{%S.%} 3; {#svargatiM prArTayaMte#} Bg. 9. 20;
+175622 new <>Ś. 3; {#svargatiM prArTayaMte#} Bg. 9. 20;
+;
+; TODO Case 157: (reason = {%S.%} -> Ś.)
+; <L>21554<pc>0786-b<k1>baMD<k2>baMD
+178138 old <>{%S.%} 2. 6; {#tasyAMjaliM baMDumato babaMDa#} R. 16.
+178138 new <>Ś. 2. 6; {#tasyAMjaliM baMDumato babaMDa#} R. 16.
+;
+; TODO Case 158: (reason = {%S.%} -> Ś.)
+; <L>21607<pc>0790-a<k1>balavat<k2>balavat
+178890 old <>{%S.%} 1. 2; {#SItArti balavadupeyuzeva nIrEH#} Śi.
+178890 new <>Ś. 1. 2; {#SItArti balavadupeyuzeva nIrEH#} Śi.
+;
+; TODO Case 159: (reason = {%S.%} -> Ś.)
+; <L>21726<pc>0795-c<k1>bAhuH<k2>bAhuH
+180087 old <>{%S.%} 5. 30. {#--kuMWa, --kubja#} {%a.%} crippled
+180087 new <>Ś. 5. 30. {#--kuMWa, --kubja#} {%a.%} crippled
+;
+; TODO Case 160: (reason = {%S.%} -> Ś.)
+; <L>21982<pc>0809-b<k1>BarataH<k2>BarataH
+182888 old <>{%S.%} 7. 33. {@--2@} N. of a brother of
+182888 new <>Ś. 7. 33. {@--2@} N. of a brother of
+;
+; TODO Case 161: (reason = {%S.%} -> Ś.)
+; <L>22249<pc>0821-b<k1>BUta<k2>BUta
+185626 old <>{%S.%} 1. 1. {#--baliH#} {#= BUtayajYa#} q. v. {#--brahman#}
+185626 new <>Ś. 1. 1. {#--baliH#} {#= BUtayajYa#} q. v. {#--brahman#}
+;
+; TODO Case 162: (reason = {%S.%} -> Ś.)
+; <L>22266<pc>0823-b<k1>BUri<k2>BUri
+185933 old <>{%S.%} 5. 12. {@--2@} Frequently, often,
+185933 new <>Ś. 5. 12. {@--2@} Frequently, often,
+;
+; TODO Case 163: (reason = {%S.%} -> Ś.)
+; <L>22275<pc>0823-c<k1>Bf<k2>Bf
+186033 old <>{%S.%} 7. 21. {@--7@} To confer, bestow, give,
+186033 new <>Ś. 7. 21. {@--7@} To confer, bestow, give,
+;
+; TODO Case 164: (reason = {%S.%} -> Ś.)
+; <L>22583<pc>0836-c<k1>madana<k2>madana
+188825 old <>{%S.%} 3. 10. {#--AyuDaM#} 1. pudendum
+188825 new <>Ś. 3. 10. {#--AyuDaM#} 1. pudendum
+;
+; TODO Case 165: (reason = {%S.%} -> Ś.)
+; <L>22629<pc>0840-a<k1>man<k2>man
+189542 old <>{%S.%} 7. 1; {#anyaTA mab#} to think <lbinfo n="other+wise"/>
+189542 new <>Ś. 7. 1; {#anyaTA mab#} to think <lbinfo n="other+wise"/>
+;
+; TODO Case 166: (reason = {%S.%} -> Ś.)
+; <L>22629<pc>0840-a<k1>man<k2>man
+189545 old <>{%S.%} 1. 2; {#asADu man#} to disapprove;
+189545 new <>Ś. 1. 2; {#asADu man#} to disapprove;
+;
+; TODO Case 167: (reason = {%S.%} -> Ś.)
+; <L>22635<pc>0840-c<k1>manas<k2>manas
+189766 old <>{%S.%} 1 18; Ku. 3. 39; R. 3. 32. ({#--raH#})
+189766 new <>Ś. 1 18; Ku. 3. 39; R. 3. 32. ({#--raH#})
+;
+; TODO Case 168: (reason = {%S.%} -> Ś.)
+; <L>22656<pc>0842-c<k1>maMtr<k2>maMtr
+189984 old <>{%S.%} 6; {#halA saMgItaSAlAparisare'#} <lbinfo n="valokitA#dvitIyA"/>
+189984 new <>Ś. 6; {#halA saMgItaSAlAparisare'#} <lbinfo n="valokitA#dvitIyA"/>
+;
+; TODO Case 169: (reason = {%S.%} -> Ś.)
+; <L>22905<pc>0857-a<k1>mAMgalya<k2>mAMgalya
+192949 old <>{%S.%} 4. 4. {#--lyaM#} {@1@} Auspiciousness, <lbinfo n="pros+perity"/>
+192949 new <>Ś. 4. 4. {#--lyaM#} {@1@} Auspiciousness, <lbinfo n="pros+perity"/>
+;
+; TODO Case 170: (reason = {%S.%} -> Ś.)
+; <L>23017<pc>0861-a<k1>mAyA<k2>mAyA
+193877 old <>{%S.%} 6. 9. {@--3@} (Hence) An unreal or
+193877 new <>Ś. 6. 9. {@--3@} (Hence) An unreal or
+;
+; TODO Case 171: (reason = {%S.%} -> Ś.)
+; <L>23218<pc>0867-c<k1>mukulaH<k2>mukulaH --laM
+195408 old <>{%S.%} 7. 17. {@--3@} The body. {@--4@} The soul
+195408 new <>Ś. 7. 17. {@--3@} The body. {@--4@} The soul
+;
+; TODO Case 172: (reason = {%S.%} -> Ś.)
+; <L>23239<pc>0869-b<k1>mugDa<k2>mugDa
+195760 old <>{%S.%} 1. 25; U. 6. 35; R. 9. 34. {@--7@} (Hence)
+195760 new <>Ś. 1. 25; U. 6. 35; R. 9. 34. {@--7@} (Hence)
+;
+; TODO Case 173: (reason = {%S.%} -> Ś.)
+; <L>23367<pc>0874-b<k1>mUlaM<k2>mUlaM
+196837 old <>{%S.%} 1. {@--5@} Basis, foundation, source,
+196837 new <>Ś. 1. {@--5@} Basis, foundation, source,
+;
+; TODO Case 174: (reason = {%S.%} -> Ś.)
+; <L>23590<pc>0881-c<k1>mOrvI<k2>mOrvI
+198542 old <>{%S.%} 1. 13; {#mOrvI Danuzi cAtatA#} R. 1.
+198542 new <>Ś. 1. 13; {#mOrvI Danuzi cAtatA#} R. 1.
+;
+; TODO Case 175: (reason = {%S.%} -> Ś.)
+; <L>23705<pc>0889-c<k1>yayAtiH<k2>yayAtiH
+200109 old <>{%S.%} 4. 6. [He married Devayānī,
+200109 new <>Ś. 4. 6. [He married Devayānī,
+;
+; TODO Case 176: (reason = {%S.%} -> Ś.)
+; <L>23810<pc>0893-b<k1>yAvat<k2>yAvat
+200961 old <>{%S.%} 1; {#yAvadimAM CAyAmASritya #} <lbinfo n="pratipAla#yAmi"/>
+200961 new <>Ś. 1; {#yAvadimAM CAyAmASritya #} <lbinfo n="pratipAla#yAmi"/>
+;
+; TODO Case 177: (reason = {%S.%} -> Ś.)
+; <L>23859<pc>0896-a<k1>yUTaM<k2>yUTaM
+201520 old <>{%S.%} 5. 5. {@--Comp.@} {#--nATaH, --paH, --patiH#}
+201520 new <>Ś. 5. 5. {@--Comp.@} {#--nATaH, --paH, --patiH#}
+;
+; TODO Case 178: (reason = {%S.%} -> Ś.)
+; <L>23950<pc>0901-a<k1>rac<k2>rac
+202572 old <>{%S.%} 3. 15. {@--4@} To place in or upon, 
+202572 new <>Ś. 3. 15. {@--4@} To place in or upon, 
+;
+; TODO Case 179: (reason = {%S.%} -> Ś.)
+; <L>23961<pc>0901-c<k1>rajas<k2>rajas
+202663 old <>{%S.%} 4. 10; Me. 33, 65. {@--3@} A mote
+202663 new <>Ś. 4. 10; Me. 33, 65. {@--3@} A mote
+;
+; TODO Case 180: (reason = {%S.%} -> Ś.)
+; <L>23996<pc>0904-a<k1>raTyaH<k2>raTyaH
+203152 old <>{%S.%} 1. 8. {@--2@} A part of a chariot.
+203152 new <>Ś. 1. 8. {@--2@} A part of a chariot.
+;
+; TODO Case 181: (reason = {%S.%} -> Ś.)
+; <L>24029<pc>0905-b<k1>ramya<k2>ramya
+203428 old <>{%S.%} 4. 11. {#--puzpaH#} the Śālmalī tree.
+203428 new <>Ś. 4. 11. {#--puzpaH#} the Śālmalī tree.
+;
+; TODO Case 182: (reason = {%S.%} -> Ś.)
+; <L>24045<pc>0905-c<k1>rasaH<k2>rasaH
+203600 old <>{%S.%} 7. 20. ({#--kaH#}) borax. {#--aMtaraM#} 1. a
+203600 new <>Ś. 7. 20. ({#--kaH#}) borax. {#--aMtaraM#} 1. a
+;
+; TODO Case 183: (reason = {%S.%} -> Ś.)
+; <L>24156<pc>0912-c<k1>rikTaM<k2>rikTaM
+205007 old <>{%S.%} 6. {@--2@} Property in general, wealth,
+205007 new <>Ś. 6. {@--2@} Property in general, wealth,
+;
+; TODO Case 184: (reason = {%S.%} -> Ś.)
+; <L>24260<pc>0916-a<k1>rUpaM<k2>rUpaM
+205820 old <>{%S.%} 2. 9. {#--kAraH, --kft#} {%m.%} a sculptor.
+205820 new <>Ś. 2. 9. {#--kAraH, --kft#} {%m.%} a sculptor.
+;
+; TODO Case 185: (reason = {%S.%} -> Ś.)
+; <L>24358<pc>0919-a<k1>rohiRI<k2>rohiRI
+206453 old <>{%S.%} 7. 22. {@--4@} N. of wife of <lbinfo n="Vasude+va"/>
+206453 new <>Ś. 7. 22. {@--4@} N. of wife of <lbinfo n="Vasude+va"/>
+;
+; TODO Case 186: (reason = {%S.%} -> Ś.)
+; <L>24506<pc>0925-b<k1>lalAma<k2>lalAma
+207870 old <>{%S.%} 2; Śi. 4. 28. {@--2@} Anything the
+207870 new <>Ś. 2; Śi. 4. 28. {@--2@} Anything the
+;
+; TODO Case 187: (reason = {%S.%} -> Ś.)
+; <L>24602<pc>0928-b<k1>lAvaRyaM<k2>lAvaRyaM
+208527 old <>{%S.%} 6. 13; 7. 18; ({#lAvaRya#} is thus <lbinfo n="de+fined"/>
+208527 new <>Ś. 6. 13; 7. 18; ({#lAvaRya#} is thus <lbinfo n="de+fined"/>
+;
+; TODO Case 188: (reason = {%S.%} -> Ś.)
+; <L>24697<pc>0931-c<k1>lulita<k2>lulita
+209289 old <>{%S.%} 3. 13. {@--6@} Fatigued, <lbinfo n="droop+ing"/>
+209289 new <>Ś. 3. 13. {@--6@} Fatigued, <lbinfo n="droop+ing"/>
+;
+; TODO Case 189: (reason = {%S.%} -> Ś.)
+; <L>24745<pc>0933-a<k1>lokaH<k2>lokaH
+209813 old <>{%S.%} 5. --2. course of events. {#--vyayahAra#}
+209813 new <>Ś. 5. --2. course of events. {#--vyayahAra#}
+;
+; TODO Case 190: (reason = {%S.%} -> Ś.)
+; <L>24935<pc>0941-a<k1>vatsalayati<k2>vatsalayati
+211376 old <>{%S.%} 7.
+211376 new <>Ś. 7.
+;
+; TODO Case 191: (reason = {%S.%} -> Ś.)
+; <L>25269<pc>0952-c<k1>vas<k2>vas
+214024 old <>{%S.%} 7. 21, Śi. 9. 75; R. 12. 8;
+214024 new <>Ś. 7. 21, Śi. 9. 75; R. 12. 8;
+;
+; TODO Case 192: (reason = {%S.%} -> Ś.)
+; <L>25272<pc>0953-a<k1>vasanaM<k2>vasanaM
+214065 old <>{%S.%} 7. 21; {#utsaMge vA malinavasane sOmya#}
+214065 new <>Ś. 7. 21; {#utsaMge vA malinavasane sOmya#}
+;
+; TODO Case 193: (reason = {%S.%} -> Ś.)
+; <L>25305<pc>0954-b<k1>vah<k2>vah
+214374 old <>{%S.%} 7. 6; R. 11. 10. {@--3@} To fetch,
+214374 new <>Ś. 7. 6; R. 11. 10. {@--3@} To fetch,
+;
+; TODO Case 194: (reason = {%S.%} -> Ś.)
+; <L>25305<pc>0954-b<k1>vah<k2>vah
+214382 old <>{%S.%} 7. 17; Me. 17. {@--5@} To carry off;
+214382 new <>Ś. 7. 17; Me. 17. {@--5@} To carry off;
+;
+; TODO Case 195: (reason = {%S.%} -> Ś.)
+; <L>25648<pc>0966-a<k1>vikAraH<k2>vikAraH
+217081 old <>{%S.%} 5. 18. {@--5@} A feeling, an emotion;
+217081 new <>Ś. 5. 18. {@--5@} A feeling, an emotion;
+;
+; TODO Case 196: (reason = {%S.%} -> Ś.)
+; <L>25684<pc>0967-b<k1>viklava<k2>viklava
+217380 old <>{%S.%} 2. {@--7@} Faltering; {#prasTAnAviklava #} <lbinfo n="gate#ravalaMbanArTaM"/>
+217380 new <>Ś. 2. {@--7@} Faltering; {#prasTAnAviklava #} <lbinfo n="gate#ravalaMbanArTaM"/>
+;
+; TODO Case 197: (reason = {%S.%} -> Ś.)
+; <L>25716<pc>0968-a<k1>vigam<k2>vigam
+217565 old <>{%S.%} 6. 4.
+217565 new <>Ś. 6. 4.
+;
+; TODO Case 198: (reason = {%S.%} -> Ś.)
+; <L>25797<pc>0970-c<k1>vicCittiH<k2>vicCittiH
+218156 old <>{%S.%} 7. 5; Śi. 16. 84. {@--6@} Limit,
+218156 new <>Ś. 7. 5; Śi. 16. 84. {@--6@} Limit,
+;
+; TODO Case 199: (reason = {%S.%} -> Ś.)
+; <L>26018<pc>0978-b<k1>vinata<k2>vinata
+219902 old <>{%S.%} 3. 10. {@--3@} Sunk down, depressed.
+219902 new <>Ś. 3. 10. {@--3@} Sunk down, depressed.
+;
+; TODO Case 200: (reason = {%S.%} -> Ś.)
+; <L>26146<pc>0982-b<k1>viprakf<k2>viprakf
+220861 old <>{%S.%} 4.
+220861 new <>Ś. 4.
+;
+; TODO Case 201: (reason = {%S.%} -> Ś.)
+; <L>26148<pc>0982-b<k1>viprakfta<k2>viprakfta
+220877 old <>{%S.%} 6. 31.
+220877 new <>Ś. 6. 31.
+;
+; TODO Case 202: (reason = {%S.%} -> Ś.)
+; <L>26211<pc>0984-b<k1>viBavaH<k2>viBavaH
+221322 old <>{%S.%} 5. 8; R. 8. 69. {@--2@} Might,
+221322 new <>Ś. 5. 8; R. 8. 69. {@--2@} Might,
+;
+; TODO Case 203: (reason = {%S.%} -> Ś.)
+; <L>26259<pc>0986-a<k1>viman<k2>viman
+221695 old <>{%S.%} 5 20; {#strIBirvimAnitAnAM kApuruzARAM#}
+221695 new <>Ś. 5 20; {#strIBirvimAnitAnAM kApuruzARAM#}
+;
+; TODO Case 204: (reason = {%S.%} -> Ś.)
+; <L>26453<pc>0991-c<k1>vilokita<k2>vilokita
+223097 old <>{%S.%} 2. 3.
+223097 new <>Ś. 2. 3.
+;
+; TODO Case 205: (reason = {%S.%} -> Ś.)
+; <L>26523<pc>0994-b<k1>viSada<k2>viSada
+223671 old <>{%S.%} 4. 21, V. 3. {#--daH#} The white
+223671 new <>Ś. 4. 21, V. 3. {#--daH#} The white
+;
+; TODO Case 206: (reason = {%S.%} -> Ś.)
+; <L>26534<pc>0994-c<k1>viSAKA<k2>viSAKA
+223737 old <>{%S.%} 3.
+223737 new <>Ś. 3.
+;
+; TODO Case 207: (reason = {%S.%} -> Ś.)
+; <L>26588<pc>0996-c<k1>viSlezaH<k2>viSlezaH
+224193 old <>{%S.%} 4. 5; {#caraRAraviMdaviSleza#} R. 13. 23.
+224193 new <>Ś. 4. 5; {#caraRAraviMdaviSleza#} R. 13. 23.
+;
+; TODO Case 208: (reason = {%S.%} -> Ś.)
+; <L>26621<pc>0998-c<k1>vizayaH<k2>vizayaH
+224633 old <>{%S.%} 1. 1. {@--2@} A worldly object or <lbinfo n="con+cern"/>
+224633 new <>Ś. 1. 1. {@--2@} A worldly object or <lbinfo n="con+cern"/>
+;
+; TODO Case 209: (reason = {%S.%} -> Ś.)
+; <L>26621<pc>0998-c<k1>vizayaH<k2>vizayaH
+224646 old <>{%S.%} 1. 31; Śi. 9. 40. {@--6@} Scope,
+224646 new <>Ś. 1. 31; Śi. 9. 40. {@--6@} Scope,
+;
+; TODO Case 210: (reason = {%S.%} -> Ś.)
+; <L>26624<pc>0999-b<k1>vizayin<k2>vizayin
+224710 old <>{%S.%} 5. {%--n.%} {@1@} An organ of sense. {@--2@}
+224710 new <>Ś. 5. {%--n.%} {@1@} An organ of sense. {@--2@}
+;
+; TODO Case 211: (reason = {%S.%} -> Ś.)
+; <L>26790<pc>1003-c<k1>vIj<k2>vIj
+225815 old <>{%S.%} 3.
+225815 new <>Ś. 3.
+;
+; TODO Case 212: (reason = {%S.%} -> Ś.)
+; <L>26851<pc>1006-a<k1>vft<k2>vft
+226329 old <>{%S.%} 1. {@--2@} To be in any <lbinfo n="particu+lar"/>
+226329 new <>Ś. 1. {@--2@} To be in any <lbinfo n="particu+lar"/>
+;
+; TODO Case 213: (reason = {%S.%} -> Ś.)
+; <L>26854<pc>1006-c<k1>vfttiH<k2>vfttiH
+226467 old <>{%S.%} 2, 11. {@--6@} Conduct, behaviour,
+226467 new <>Ś. 2, 11. {@--6@} Conduct, behaviour,
+;
+; TODO Case 214: (reason = {%S.%} -> Ś.)
+; <L>26963<pc>1011-b<k1>vepaTuH<k2>vepaTuH
+227499 old <>{%S.%} 1. 30, 24; Śi. 9. 22; 73; R. 19.
+227499 new <>Ś. 1. 30, 24; Śi. 9. 22; 73; R. 19.
+;
+; TODO Case 215: (reason = {%S.%} -> Ś.)
+; <L>27097<pc>1014-b<k1>vEmanasyaM<k2>vEmanasyaM
+228264 old <>{%S.%} 6. {@--2@} Sickness.
+228264 new <>Ś. 6. {@--2@} Sickness.
+;
+; TODO Case 216: (reason = {%S.%} -> Ś.)
+; <L>27287<pc>1019-c<k1>vyavaso<k2>vyavaso
+229567 old <>{%S.%} 4. 8. {@--3@} To exert strenuously,
+229567 new <>Ś. 4. 8. {@--3@} To exert strenuously,
+;
+; TODO Case 217: (reason = {%S.%} -> Ś.)
+; <L>27287<pc>1019-c<k1>vyavaso<k2>vyavaso
+229570 old <>{%S.%} 5. 19. {@--5@} To accept, undertake;
+229570 new <>Ś. 5. 19. {@--5@} To accept, undertake;
+;
+; TODO Case 218: (reason = {%S.%} -> Ś.)
+; <L>27392<pc>1023-c<k1>vyAyatatvaM<k2>vyAyatatvaM
+230443 old <>{%S.%} 2. 4.
+230443 new <>Ś. 2. 4.
+;
+; TODO Case 219: (reason = {%S.%} -> Ś.)
+; <L>27616<pc>1033-b<k1>SabdAyate<k2>SabdAyate
+232565 old <>{%S.%} 4; Mu. 1; {#Bavatu SabdAyizye tAvat#}
+232565 new <>Ś. 4; Mu. 1; {#Bavatu SabdAyizye tAvat#}
+;
+; TODO Case 220: (reason = {%S.%} -> Ś.)
+; <L>27627<pc>1034-a<k1>SamI<k2>SamI
+232700 old <>{%S.%} 4. 3; Ms. 8. 247; {#DruvaM sa #} <lbinfo n="nIlotpala#patraDArayA"/>
+232700 new <>Ś. 4. 3; Ms. 8. 247; {#DruvaM sa #} <lbinfo n="nIlotpala#patraDArayA"/>
+;
+; TODO Case 221: (reason = {%S.%} -> Ś.)
+; <L>27890<pc>1042-a<k1>SAva<k2>SAva
+234595 old <>{%S.%} 2. 18; {#mfgarAjaSAvaH#} R. 6. 3, 18.
+234595 new <>Ś. 2. 18; {#mfgarAjaSAvaH#} R. 6. 3, 18.
+;
+; TODO Case 222: (reason = {%S.%} -> Ś.)
+; <L>27898<pc>1042-b<k1>SAs<k2>SAs
+234641 old <>{%S.%} 1. 25; Bk. 3. 53. {@--3@} To order,
+234641 new <>Ś. 1. 25; Bk. 3. 53. {@--3@} To order,
+;
+; TODO Case 223: (reason = {%S.%} -> Ś.)
+; <L>27923<pc>1043-b<k1>Sikzita<k2>Sikzita
+234882 old <>{%S.%} 5. 22. {@--3@} Trained, disciplined.
+234882 new <>Ś. 5. 22. {@--3@} Trained, disciplined.
+;
+; TODO Case 224: (reason = {%S.%} -> Ś.)
+; <L>27934<pc>1044-a<k1>SiKA<k2>SiKA
+234994 old <>{%S.%} 1. 4; Bv. 1. 2. {@--6@} The end of
+234994 new <>Ś. 1. 4; Bv. 1. 2. {@--6@} The end of
+;
+; TODO Case 225: (reason = {%S.%} -> Ś.)
+; <L>27955<pc>1044-c<k1>SiTila<k2>SiTila
+235145 old <>{%S.%} 2. 6. {@--2@} Severed, fallen from the
+235145 new <>Ś. 2. 6. {@--2@} Severed, fallen from the
+;
+; TODO Case 226: (reason = {%S.%} -> Ś.)
+; <L>28028<pc>1047-c<k1>SIta<k2>SIta
+235835 old <>{%S.%} 3. 2. {@--2@} Dull, sluggish, apathetic,
+235835 new <>Ś. 3. 2. {@--2@} Dull, sluggish, apathetic,
+;
+; TODO Case 227: (reason = {%S.%} -> Ś.)
+; <L>28153<pc>1052-b<k1>SUnya<k2>SUnya
+236922 old <>{%S.%} 4. --2. open-hearted, unsuspecting.
+236922 new <>Ś. 4. --2. open-hearted, unsuspecting.
+;
+; TODO Case 228: (reason = {%S.%} -> Ś.)
+; <L>28331<pc>1058-a<k1>SyAmAkaH<k2>SyAmAkaH
+238175 old <>{%S.%} 4. 13 (also {#SyAmaka#}).
+238175 new <>Ś. 4. 13 (also {#SyAmaka#}).
+;
+; TODO Case 229: (reason = {%S.%} -> Ś.)
+; <L>28486<pc>1063-c<k1>SvAsaH<k2>SvAsaH
+239431 old <>{%S.%} 1. 30; Ku. 2. 42. {@--2@} A sigh,
+239431 new <>Ś. 1. 30; Ku. 2. 42. {@--2@} A sigh,
+;
+; TODO Case 230: (reason = {%S.%} -> Ś.)
+; <L>28627<pc>1069-a<k1>saMvah<k2>saMvah
+240600 old <>{%S.%} 3. 21. {@--2@} To assemble, collect.
+240600 new <>Ś. 3. 21. {@--2@} To assemble, collect.
+;
+; TODO Case 231: (reason = {%S.%} -> Ś.)
+; <L>28658<pc>1070-a<k1>saMvf<k2>saMvf
+240807 old <>{%S.%} 3. 25; R. 1. 20; 7. 30. {@--2@} To
+240807 new <>Ś. 3. 25; R. 1. 20; 7. 30. {@--2@} To
+;
+; TODO Case 232: (reason = {%S.%} -> Ś.)
+; <L>28700<pc>1071-b<k1>saMSrita<k2>saMSrita
+241138 old <>{%S.%} 4. 12. {#--taH#} A dependent, follower,
+241138 new <>Ś. 4. 12. {#--taH#} A dependent, follower,
+;
+; TODO Case 233: (reason = {%S.%} -> Ś.)
+; <L>28707<pc>1071-c<k1>saMSlezaH<k2>saMSlezaH
+241179 old <>{%S.%} 5. 28. {@--2@} Union, connection,
+241179 new <>Ś. 5. 28. {@--2@} Union, connection,
+;
+; TODO Case 234: (reason = {%S.%} -> Ś.)
+; <L>28771<pc>1074-b<k1>saMspfzwa<k2>saMspfzwa
+241773 old <>{%S.%} 4. 5. {@--2@} Mixed, mingled.
+241773 new <>Ś. 4. 5. {@--2@} Mixed, mingled.
+;
+; TODO Case 235: (reason = {%S.%} -> Ś.)
+; <L>28822<pc>1075-c<k1>sakta<k2>sakta
+242150 old <>{%S.%} 2. 15.
+242150 new <>Ś. 2. 15.
+;
+; TODO Case 236: (reason = {%S.%} -> Ś.)
+; <L>29045<pc>1082-c<k1>sat<k2>sat
+243750 old <>{%S.%} 5. 17. {@--4@} Noble, worthy, high;
+243750 new <>Ś. 5. 17. {@--4@} Noble, worthy, high;
+;
+; TODO Case 237: (reason = {%S.%} -> Ś.)
+; <L>29168<pc>1087-c<k1>saMdiS<k2>saMdiS
+244864 old <>{%S.%} 4; Śi. 9. 56, 61. {@--3@} To send as a
+244864 new <>Ś. 4; Śi. 9. 56, 61. {@--3@} To send as a
+;
+; TODO Case 238: (reason = {%S.%} -> Ś.)
+; <L>29197<pc>1089-a<k1>saMDiH<k2>saMDiH
+245174 old <>{%S.%} 2. {#--baMDanaM#} a ligament, tendon,
+245174 new <>Ś. 2. {#--baMDanaM#} a ligament, tendon,
+;
+; TODO Case 239: (reason = {%S.%} -> Ś.)
+; <L>29287<pc>1092-c<k1>saBAj<k2>saBAj
+245937 old <>{%S.%} 5. {@--2@} To honour, worship, <lbinfo n="re+spect"/>
+245937 new <>Ś. 5. {@--2@} To honour, worship, <lbinfo n="re+spect"/>
+;
+; TODO Case 240: (reason = {%S.%} -> Ś.)
+; <L>29394<pc>1097-a<k1>samAnI<k2>samAnI
+246899 old <>{%S.%} 5. 15. {@--2@} To fetch, bring; R. 12.
+246899 new <>Ś. 5. 15. {@--2@} To fetch, bring; R. 12.
+;
+; TODO Case 241: (reason = {%S.%} -> Ś.)
+; <L>29474<pc>1099-a<k1>samitiH<k2>samitiH
+247420 old <>{%S.%} 2. 15; Ki. 3. 15; Śi. 16. 13.
+247420 new <>Ś. 2. 15; Ki. 3. 15; Śi. 16. 13.
+;
+; TODO Case 242: (reason = {%S.%} -> Ś.)
+; <L>29481<pc>1099-a<k1>samidvat<k2>samidvat
+247452 old <>{%S.%} 4. 7.
+247452 new <>Ś. 4. 7.
+;
+; TODO Case 243: (reason = {%S.%} -> Ś.)
+; <L>29547<pc>1100-b<k1>samudAcAraH<k2>samudAcAraH
+247808 old <>{%S.%} 5. {@--3@} Purpose, intention, design.
+247808 new <>Ś. 5. {@--3@} Purpose, intention, design.
+;
+; TODO Case 244: (reason = {%S.%} -> Ś.)
+; <L>29636<pc>1102-c<k1>saMpIq<k2>saMpIq
+248398 old <>{%S.%} 7. 11; Ch. P. 3. {@--3@} To <lbinfo n="com+pute"/>
+248398 new <>Ś. 7. 11; Ch. P. 3. {@--3@} To <lbinfo n="com+pute"/>
+;
+; TODO Case 245: (reason = {%S.%} -> Ś.)
+; <L>29936<pc>1111-a<k1>sah<k2>sah
+250416 old <>{%S.%} 3. {@--5@} To conquer, defeat, oppose,
+250416 new <>Ś. 3. {@--5@} To conquer, defeat, oppose,
+;
+; TODO Case 246: (reason = {%S.%} -> Ś.)
+; <L>29940<pc>1111-b<k1>sahizRu<k2>sahizRu
+250445 old <>{%S.%} 2. 4. {@--2@} Patient, resigned, <lbinfo n="for+bearing"/>
+250445 new <>Ś. 2. 4. {@--2@} Patient, resigned, <lbinfo n="for+bearing"/>
+;
+; TODO Case 247: (reason = {%S.%} -> Ś.)
+; <L>30034<pc>1114-c<k1>sAdfSyaM<k2>sAdfSyaM
+251180 old <>{%S.%} 7; {#tavAkzisAdfSyamiva prayuMjate#} Ku.
+251180 new <>Ś. 7; {#tavAkzisAdfSyamiva prayuMjate#} Ku.
+;
+; TODO Case 248: (reason = {%S.%} -> Ś.)
+; <L>30054<pc>1115-c<k1>sADu<k2>sADu
+251445 old <>{%S.%} 1; {#sADu re piMgala vAnara sADu#} M. 4.
+251445 new <>Ś. 1; {#sADu re piMgala vAnara sADu#} M. 4.
+;
+; TODO Case 249: (reason = {%S.%} -> Ś.)
+; <L>30099<pc>1117-a<k1>sAbADa<k2>sAbADa
+251728 old <>{%S.%} 3. 9.
+251728 new <>Ś. 3. 9.
+;
+; TODO Case 250: (reason = {%S.%} -> Ś.)
+; <L>30525<pc>1137-a<k1>secanaM<k2>secanaM
+256061 old <>{%S.%} 1. {@--2@} Effusion, aspersion. {@--3@}
+256061 new <>Ś. 1. {@--2@} Effusion, aspersion. {@--3@}
+;
+; TODO Case 251: (reason = {%S.%} -> Ś.)
+; <L>30714<pc>1142-c<k1>skaMDaH<k2>skaMDaH
+257404 old <>{%S.%} 1. 33; R. 4. 57, Me. 53. {@--4@}
+257404 new <>Ś. 1. 33; R. 4. 57, Me. 53. {@--4@}
+;
+; TODO Case 252: (reason = {%S.%} -> Ś.)
+; <L>30879<pc>1150-a<k1>sTira<k2>sTira
+258967 old <>{%S.%} 5. 2; {#sa sTARuH #} <lbinfo n="sTiraBaktiyogasula#Bo"/>
+258967 new <>Ś. 5. 2; {#sa sTARuH #} <lbinfo n="sTiraBaktiyogasula#Bo"/>
+;
+; TODO Case 253: (reason = {%S.%} -> Ś.)
+; <L>31056<pc>1156-b<k1>smfta<k2>smfta
+260435 old <>{%S.%} 6. 29. {@--4@} Enjoined by a Smṛti
+260435 new <>Ś. 6. 29. {@--4@} Enjoined by a Smṛti
+;
+; TODO Case 254: (reason = {%S.%} -> Ś.)
+; <L>31057<pc>1156-b<k1>smftiH<k2>smftiH
+260466 old <>{%S.%} 7. 32. {#--viBramaH#} confusion of
+260466 new <>Ś. 7. 32. {#--viBramaH#} confusion of
+;
+; TODO Case 255: (reason = {%S.%} -> Ś.)
+; [Page1186-a+ 50]
+265960 old <>{%S.%} 7. 24.
+265960 new <>Ś. 7. 24.
+;
+; TODO Case 256: (reason = {%S.%} -> Ś.)
+; [Page1187-a+ 48]
+266069 old <>{%S.%} 1. 1.
+266069 new <>Ś. 1. 1.
+;

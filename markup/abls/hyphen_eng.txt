@@ -1,0 +1,3264 @@
+; TODO Case 1: impreca-tions -> imprecations (spell = False)
+; <L>42<pc>0003-a<k1>akaraRiH<k2>akaraRiH
+1282 old <>non-accomplishment, mostly used in impreca- 
+1282 new <>non-accomplishment, mostly used in <lbinfo n="impreca+tions"/>
+;
+1284 old <>tions; {#tasyAkaraRirevAstu#} <ls>Sk.</ls> may he
+1284 new <>imprecations; {#tasyAkaraRirevAstu#} <ls>Sk.</ls> may he
+;
+; TODO Case 2: Unin-fluenced -> Uninfluenced (spell = False)
+; <L>63<pc>0003-c<k1>akAma<k2>akAma
+1444 old <>4. 364; so {#nAkAmo dAtumarhati#}. {@--3@} Unin- 
+1444 new <>4. 364; so {#nAkAmo dAtumarhati#}. {@--3@} <lbinfo n="Unin+fluenced"/>
+;
+1446 old <>fluenced by, not subject to, love;  <lbinfo n="BayA#dakAmApi"/>
+1446 new <>Uninfluenced by, not subject to, love;  <lbinfo n="BayA#dakAmApi"/>
+;
+; TODO Case 3: Ter-minalia -> Terminalia (spell = False)
+; <L>118<pc>0005-c<k1>akzaH<k2>akzaH
+1917 old <>called {#karza#}. {@--9@} <ab>N.</ab> of the plant Ter- 
+1917 new <>called {#karza#}. {@--9@} <ab>N.</ab> of the plant <lbinfo n="Ter+minalia"/>
+;
+1919 old <>minalia Belerica ({#biBItaka#}) the
+1919 new <>Terminalia Belerica ({#biBItaka#}) the
+;
+; TODO Case 4: beati-tude -> beatitude (spell = False)
+; <L>133<pc>0007-b<k1>akzara<k2>akzara
+2253 old <>Water. {@--7@} The sky. {@--8@} Final beati- 
+2253 new <>Water. {@--7@} The sky. {@--8@} Final <lbinfo n="beati+tude"/>
+;
+2255 old <>tude, emancipation from further
+2255 new <>beatitude, emancipation from further
+;
+; TODO Case 5: recep-tacle -> receptacle (spell = True)
+; <L>156<pc>0008-b<k1>akzetra<k2>akzetra
+2481 old <>pupil, unworthy recipient or recep- 
+2481 new <>pupil, unworthy recipient or <lbinfo n="recep+tacle"/>
+;
+2483 old <>tacle (of any thing). {@--Comp.@} {#--vid#} {%<ab>a.</ab>%}
+2483 new <>receptacle (of any thing). {@--Comp.@} {#--vid#} {%<ab>a.</ab>%}
+;
+; TODO Case 6: sacri-ficial -> sacrificial (spell = True)
+; <L>213<pc>0010-c<k1>agniH<k2>agniH
+3234 old <>the sun; <ab>cf.</ab> <ls>Ś. 2. 7. 3.</ls> the sacri- 
+3234 new <>the sun; <ab>cf.</ab> <ls>Ś. 2. 7. 3.</ls> the <lbinfo n="sacri+ficial"/>
+;
+3236 old <>ficial stick {#araRi#} which, when
+3236 new <>sacrificial stick {#araRi#} which, when
+;
+; TODO Case 7: excel-lence -> excellence (spell = True)
+; <L>224<pc>0014-b<k1>agra<k2>agra
+3749 old <>{#prAsAdAgrEH#} <ls>Rām.</ls> {@--4@} Superiority, excel- 
+3749 new <>{#prAsAdAgrEH#} <ls>Rām.</ls> {@--4@} Superiority, <lbinfo n="excel+lence"/>
+;
+3751 old <>lence {#(utkarza);#} {#agrAdagraM rohati#} Tāṇḍya.
+3751 new <>excellence {#(utkarza);#} {#agrAdagraM rohati#} Tāṇḍya.
+;
+; TODO Case 8: fore-telling -> foretelling (spell = True)
+; <L>271<pc>0018-a<k1>aMgaM<k2>aMgaM
+4706 old <>knowledge. 2. the science of fore- 
+4706 new <>knowledge. 2. the science of <lbinfo n="fore+telling"/>
+;
+4708 old <>telling good or evil by the <lbinfo n="move+ments"/>
+4708 new <>foretelling good or evil by the <lbinfo n="move+ments"/>
+;
+; TODO Case 9: liba-tions -> libations (spell = True)
+; <L>541<pc>0030-c<k1>atigrAhya<k2>atigrAhya
+7373 old <>to be controlled. {#--hyaH#} <ab>N.</ab> of three liba- 
+7373 new <>to be controlled. {#--hyaH#} <ab>N.</ab> of three <lbinfo n="liba+tions"/>
+;
+7375 old <>tions made at the Jyotiṣṭoma
+7375 new <>libations made at the Jyotiṣṭoma
+;
+; TODO Case 10: preci-pitateness -> precipitateness (spell = False)
+; <L>642<pc>0033-b<k1>atiraBasaH<k2>atiraBasaH
+8045 old {#atiraBasaH#}¦ Great speed, preci- 
+8045 new {#atiraBasaH#}¦ Great speed, <lbinfo n="preci+pitateness"/>
+;
+8047 old <>pitateness, head-long speed, <lbinfo n="rash+ness"/>
+8047 new <>precipitateness, head-long speed, <lbinfo n="rash+ness"/>
+;
+; TODO Case 11: consi-dered -> considered (spell = True)
+; <L>802<pc>0039-b<k1>aTarvan<k2>aTarvan
+9409 old <>another wife called Citti; he is also consi- 
+9409 new <>another wife called Citti; he is also <lbinfo n="consi+dered"/>
+;
+9411 old <>dered identical with Aṅgiras and father
+9411 new <>considered identical with Aṅgiras and father
+;
+; TODO Case 12: Ham-sa -> Hamsa (spell = False)
+; <L>886<pc>0043-a<k1>adriH<k2>adriH
+10219 old <>conflagration. 2. the ‘Sun-born’, Ham- 
+10219 new <>conflagration. 2. the ‘Sun-born’, <lbinfo n="Ham+sa"/>
+;
+10221 old <>sa or Swan. 3. form. 4. the Supreme
+10221 new <>Hamsa or Swan. 3. form. 4. the Supreme
+;
+; TODO Case 13: Śakun-talā -> Śakuntalā (spell = False)
+; <L>939<pc>0047-c<k1>aDikftya<k2>aDikftya
+11144 old <>{#bravImi#} <ls>Ś. 2</ls> I refer to, speak of, Śakun- 
+11144 new <>{#bravImi#} <ls>Ś. 2</ls> I refer to, speak of, <lbinfo n="Śakun+talā"/>
+;
+11146 old <>talā; 3. 4; <ls>R. 11. 62.</ls> See  <lbinfo n="aDi#kf"/>
+11146 new <>Śakuntalā; 3. 4; <ls>R. 11. 62.</ls> See  <lbinfo n="aDi#kf"/>
+;
+; TODO Case 14: be-fore -> before (spell = True)
+; <L>1014<pc>0049-c<k1>aDivAsaH<k2>aDivAsaH
+11635 old <>demand, sitting without food be- 
+11635 new <>demand, sitting without food <lbinfo n="be+fore"/>
+;
+11637 old <>fore a person's house till he ceases
+11637 new <>before a person's house till he ceases
+;
+; TODO Case 15: guid-ing -> guiding (spell = True)
+; <L>1038<pc>0050-c<k1>aDizWAtf<k2>aDizWAtf
+11858 old <>watching over, presiding over, guid- 
+11858 new <>watching over, presiding over, <lbinfo n="guid+ing"/>
+;
+11860 old <>ing, governing; tutelary, guardian;
+11860 new <>guiding, governing; tutelary, guardian;
+;
+; TODO Case 16: intend-ed -> intended (spell = True)
+; <L>1125<pc>0054-b<k1>aDvara<k2>aDvara
+12670 old <>sacrifices. {#--ga#} [{#aDvaraM gacCati#}] intend- 
+12670 new <>sacrifices. {#--ga#} [{#aDvaraM gacCati#}] <lbinfo n="intend+ed"/>
+;
+12672 old <>ed for a sacrifice. {#--dIkzaRIyA#} [{#za#}. {#ta#}.]
+12672 new <>intended for a sacrifice. {#--dIkzaRIyA#} [{#za#}. {#ta#}.]
+;
+; TODO Case 17: un-divided -> undivided (spell = True)
+; <L>1134<pc>0054-c<k1>anaMSa<k2>anaMSa
+12746 old <>and Nārada. {@--2@} Without parts, un- 
+12746 new <>and Nārada. {@--2@} Without parts, <lbinfo n="un+divided"/>
+;
+12748 old <>divided, portionless; an epithet
+12748 new <>undivided, portionless; an epithet
+;
+; TODO Case 18: un-hurt -> unhurt (spell = True)
+; <L>1146<pc>0055-a<k1>anaGa<k2>anaGa
+12827 old <>from danger, calamity &c.; safe, un- 
+12827 new <>from danger, calamity &c.; safe, <lbinfo n="un+hurt"/>
+;
+12829 old <>hurt; {#yAstvAmanaGamadrAkzma#} <ls>Dk. 108</ls>;  <lbinfo n="ka#ccinmfgIRAmanaGA"/>
+12829 new <>unhurt; {#yAstvAmanaGamadrAkzma#} <ls>Dk. 108</ls>;  <lbinfo n="ka#ccinmfgIRAmanaGA"/>
+;
+; TODO Case 19: su-preme -> supreme (spell = True)
+; <L>1153<pc>0055-b<k1>anaMjana<k2>anaMjana
+12899 old <>{@1@} The sky, atmosphere. {@--2@} The su- 
+12899 new <>{@1@} The sky, atmosphere. {@--2@} The <lbinfo n="su+preme"/>
+;
+12901 old <>preme spirit ({#parabrahma#}), Viṣṇu or
+12901 new <>supreme spirit ({#parabrahma#}), Viṣṇu or
+;
+; TODO Case 20: exclu-sively -> exclusively (spell = True)
+; <L>1182<pc>0057-a<k1>ananya<k2>ananya
+13247 old <>or belonging to any one else, exclu- 
+13247 new <>or belonging to any one else, <lbinfo n="exclu+sively"/>
+;
+13249 old <>sively applicable; <ls>V. 1. 1</ls>; <ls>Mv. 1. 25.</ls>
+13249 new <>exclusively applicable; <ls>V. 1. 1</ls>; <ls>Mv. 1. 25.</ls>
+;
+; TODO Case 21: ir-reproachable -> irreproachable (spell = True)
+; <L>1250<pc>0059-a<k1>anavadya<k2>anavadya
+13724 old <>Faultless, blameless, unobjectionable, ir- 
+13724 new <>Faultless, blameless, unobjectionable, <lbinfo n="ir+reproachable"/>
+;
+13726 old <>reproachable; <ls>Bh. 2. 21</ls>; <ls>R. 7. 70.</ls>
+13726 new <>irreproachable; <ls>Bh. 2. 21</ls>; <ls>R. 7. 70.</ls>
+;
+; TODO Case 22: conse-quently -> consequently (spell = True)
+; <L>1286<pc>0060-a<k1>anasUya<k2>anasUya --yaka
+13969 old <>and all actions of men being conse- 
+13969 new <>and all actions of men being <lbinfo n="conse+quently"/>
+;
+13971 old <>quently stopped, the gods, sages &c.
+13971 new <>consequently stopped, the gods, sages &c.
+;
+; TODO Case 23: un-checked -> unchecked (spell = True)
+; <L>1354<pc>0062-a<k1>anAyata<k2>anAyata
+14454 old {#anAyata#}¦ {%<ab>a.</ab>%} {@1@} Unrestrained, un- 
+14454 new {#anAyata#}¦ {%<ab>a.</ab>%} {@1@} Unrestrained, <lbinfo n="un+checked"/>
+;
+14456 old <>checked. {@--2@} Not propped or <lbinfo n="support+ed"/>
+14456 new <>unchecked. {@--2@} Not propped or <lbinfo n="support+ed"/>
+;
+; TODO Case 24: second-ary -> secondary (spell = True)
+; <L>1762<pc>0075-b<k1>anubaMDaH<k2>anubaMDaH
+17565 old <>{@--6@} An adjunct of a thing, a second- 
+17565 new <>{@--6@} An adjunct of a thing, a <lbinfo n="second+ary"/>
+;
+17567 old <>ary member ({#muKyAnuyAyi, apraDAnaM#}); a
+17567 new <>secondary member ({#muKyAnuyAyi, apraDAnaM#}); a
+;
+; TODO Case 25: en-joying -> enjoying (spell = True)
+; <L>1944<pc>0082-c<k1>anuSayaH<k2>anuSayaH
+19192 old <>the soul enter other bodies after en- 
+19192 new <>the soul enter other bodies after <lbinfo n="en+joying"/>
+;
+19194 old <>joying temporary freedom from
+19194 new <>enjoying temporary freedom from
+;
+; TODO Case 26: establish-ed -> established (spell = True)
+; <L>2002<pc>0084-c<k1>anusAraH<k2>anusAraH
+19656 old <><ls>Ms. 8. 152.</ls> {@--4@} Received or establish- 
+19656 new <><ls>Ms. 8. 152.</ls> {@--4@} Received or <lbinfo n="establish+ed"/>
+;
+19658 old <>ed authority, especially of codes of
+19658 new <>established authority, especially of codes of
+;
+; TODO Case 27: inter-vening -> intervening (spell = True)
+; <L>2100<pc>0091-c<k1>aMtara<k2>aMtara
+21246 old <>{#cit#} <ls>Pt. 1. 221.</ls> --2. interposed, inter- 
+21246 new <>{#cit#} <ls>Pt. 1. 221.</ls> --2. interposed, <lbinfo n="inter+vening"/>
+;
+21248 old <>vening, separate. --3. seated in the
+21248 new <>intervening, separate. --3. seated in the
+;
+; TODO Case 28: in-tervention -> intervention (spell = True)
+; <L>2111<pc>0093-c<k1>aMtarayaH<k2>aMtarayaH --rAyaH
+21442 old <>{#laya, vikzepa, kazAya#} and {#rasAsvAda#}. {@--3@} An in- 
+21442 new <>{#laya, vikzepa, kazAya#} and {#rasAsvAda#}. {@--3@} An <lbinfo n="in+tervention"/>
+;
+21444 old <>tervention, a covering, screen;  <lbinfo n="dAhapre#mRA"/>
+21444 new <>intervention, a covering, screen;  <lbinfo n="dAhapre#mRA"/>
+;
+; TODO Case 29: in-to -> into (spell = True)
+; <L>2118<pc>0094-b<k1>aMtargata<k2>aMtargata
+21571 old {#aMtargata#}¦ {%<ab>p. p.</ab>%} {#--gAmin#} {%<ab>a.</ab>%} {@1@} Gone in- 
+21571 new {#aMtargata#}¦ {%<ab>p. p.</ab>%} {#--gAmin#} {%<ab>a.</ab>%} {@1@} Gone <lbinfo n="in+to"/>
+;
+21573 old <>to or between, crept into (as a bad
+21573 new <>into or between, crept into (as a bad
+;
+; TODO Case 30: techni-cal -> technical (spell = True)
+; <L>2128<pc>0095-a<k1>aMtarBAvanA<k2>aMtarBAvanA
+21706 old <>meditation or anxiety. {@--3@} A techni- 
+21706 new <>meditation or anxiety. {@--3@} A <lbinfo n="techni+cal"/>
+;
+21708 old <>cal term in arithmetic, rectification
+21708 new <>technical term in arithmetic, rectification
+;
+; TODO Case 31: con-sidered -> considered (spell = True)
+; <L>2161<pc>0098-a<k1>anya<k2>anya
+22414 old <>one's own. [In Rhetoric she is con- 
+22414 new <>one's own. [In Rhetoric she is <lbinfo n="con+sidered"/>
+;
+22416 old <>sidered as one of three chief female
+22416 new <>considered as one of three chief female
+;
+; TODO Case 32: preci-pitate -> precipitate (spell = True)
+; <L>2332<pc>0105-c<k1>apawI<k2>apawI
+23959 old <>stage-direction and denoting preci- 
+23959 new <>stage-direction and denoting <lbinfo n="preci+pitate"/>
+;
+23961 old <>pitate entrance on the stage which
+23961 new <>precipitate entrance on the stage which
+;
+; TODO Case 33: con-duct -> conduct (spell = True)
+; <L>2384<pc>0107-b<k1>apanayaH<k2>apanayaH
+24348 old <>2. 94 <ab>Com.</ab> {@--2@} A bad policy or con- 
+24348 new <>2. 94 <ab>Com.</ab> {@--2@} A bad policy or <lbinfo n="con+duct"/>
+;
+24350 old <>duct. {@--3@} Injury, offence ({#apakAra#}); {#tataH#}
+24350 new <>conduct. {@--3@} Injury, offence ({#apakAra#}); {#tataH#}
+;
+; TODO Case 34: wash-ing -> washing (spell = True)
+; <L>2500<pc>0111-a<k1>apalyUlanaM<k2>apalyUlanaM
+25204 old {#apalyUlanaM#}¦ Not cleansing or wash- 
+25204 new {#apalyUlanaM#}¦ Not cleansing or <lbinfo n="wash+ing"/>
+;
+25206 old <>ing; {#yadidaM snAnavastraM vihitamapalyUlanaM kftaM #} <lbinfo n="Ba#vati"/>
+25206 new <>washing; {#yadidaM snAnavastraM vihitamapalyUlanaM kftaM #} <lbinfo n="Ba#vati"/>
+;
+; TODO Case 35: op-posite -> opposite (spell = True)
+; <L>2563<pc>0113-a<k1>apazWu<k2>apazWu
+25678 old <>VIII. 3. 98] {@1@} Contrary, op- 
+25678 new <>VIII. 3. 98] {@1@} Contrary, <lbinfo n="op+posite"/>
+;
+25680 old <>posite. {@--2@} Unfavourable, adverse,
+25680 new <>opposite. {@--2@} Unfavourable, adverse,
+;
+; TODO Case 36: ex-pectation -> expectation (spell = True)
+; <L>2686<pc>0117-a<k1>api<k2>api
+26612 old <>{#kuSAgrabudDe kuSalI guruste#} <ls>R. 5. 4.</ls> {@--7@} Hope, ex- 
+26612 new <>{#kuSAgrabudDe kuSalI guruste#} <ls>R. 5. 4.</ls> {@--7@} Hope, <lbinfo n="ex+pectation"/>
+;
+26614 old <>pectation (usually with the potential
+26614 new <>expectation (usually with the potential
+;
+; TODO Case 37: un-der -> under (spell = True)
+; <L>2726<pc>0118-b<k1>apuzwa<k2>apuzwa
+26918 old <>meaning); as in the instance given un- 
+26918 new <>meaning); as in the instance given <lbinfo n="un+der"/>
+;
+26920 old <>der <ls>S. D. 576</ls> {#vilokya vitate vyomni#}
+26920 new <>under <ls>S. D. 576</ls> {#vilokya vitate vyomni#}
+;
+; TODO Case 38: un-derstanding -> understanding (spell = True)
+; <L>2819<pc>0121-b<k1>apratipattiH<k2>apratipattiH
+27615 old <>omission, disregard. {@--3@} Want of un- 
+27615 new <>omission, disregard. {@--3@} Want of <lbinfo n="un+derstanding"/>
+;
+27617 old <>derstanding. {@--4@} Absence of <lbinfo n="deter+mination"/>
+27617 new <>understanding. {@--4@} Absence of <lbinfo n="deter+mination"/>
+;
+; TODO Case 39: ex-traordinary -> extraordinary (spell = True)
+; <L>2897<pc>0123-b<k1>aprAkfta<k2>aprAkfta
+28108 old <>Not original. {@--3@} Not ordinary, ex- 
+28108 new <>Not original. {@--3@} Not ordinary, <lbinfo n="ex+traordinary"/>
+;
+28110 old <>traordinary; {#ºAkftInAM#} <ls>K. 174</ls>,  <lbinfo n="ls:Mv.+ 1. 3."/>
+28110 new <>extraordinary; {#ºAkftInAM#} <ls>K. 174</ls>,  <lbinfo n="ls:Mv.+ 1. 3."/>
+;
+; TODO Case 40: token-ring -> tokenring (spell = False)
+; <L>3081<pc>0129-b<k1>aBijYAnaM<k2>aBijYAnaM
+29507 old <>a recognition-ornament, a token- 
+29507 new <>a recognition-ornament, a <lbinfo n="token+ring"/>
+;
+29509 old <>ring <ls>Ś. 4.</ls> {#--patraM#} a certificate, letter of
+29509 new <>tokenring <ls>Ś. 4.</ls> {#--patraM#} a certificate, letter of
+;
+; TODO Case 41: (some-times -> (sometimes (spell = True)
+; <L>3103<pc>0130-a<k1>aBidruh<k2>aBidruh
+29665 old <><ls>Mu. 1</ls>, 2; {#krUramaBidruhyati#} <ls>Sk.</ls> (some- 
+29665 new <><ls>Mu. 1</ls>, 2; {#krUramaBidruhyati#} <ls>Sk.</ls> <lbinfo n="(some+times"/>
+;
+29667 old <>times with <ab>dat.</ab> also); {#mayA punareBya#}
+29667 new <>(sometimes with <ab>dat.</ab> also); {#mayA punareBya#}
+;
+; TODO Case 42: cele-brate -> celebrate (spell = True)
+; <L>3124<pc>0131-a<k1>aBinaMd<k2>aBinaMd
+29882 old <>{#AtmaviqaMbanAmaBinaMdaMti#} <ls>K. 108</ls>; <ls>Dk. 75.</ls> ({%b%}) To cele- 
+29882 new <>{#AtmaviqaMbanAmaBinaMdaMti#} <ls>K. 108</ls>; <ls>Dk. 75.</ls> ({%b%}) To <lbinfo n="cele+brate"/>
+;
+29884 old <>brate (with rejoicings &c.);  <lbinfo n="mahotsa#vena"/>
+29884 new <>celebrate (with rejoicings &c.);  <lbinfo n="mahotsa#vena"/>
+;
+; TODO Case 43: Sur-passing -> Surpassing (spell = True)
+; <L>3213<pc>0134-a<k1>aBiBAvin<k2>aBiBAvin, --BAva(vu)ka
+30577 old <>fear which conquered grief. {@--2@} Sur- 
+30577 new <>fear which conquered grief. {@--2@} <lbinfo n="Sur+passing"/>
+;
+30579 old <>passing, excelling; {#sarvatejoBiBAvinA#}
+30579 new <>Surpassing, excelling; {#sarvatejoBiBAvinA#}
+;
+; TODO Case 44: indict-ment -> indictment (spell = True)
+; <L>3269<pc>0136-b<k1>aBiyogaH<k2>aBiyogaH
+31098 old <>A charge, accusation, plaint, indict- 
+31098 new <>A charge, accusation, plaint, <lbinfo n="indict+ment"/>
+;
+31100 old <>ment; {#aBiyogamanistIrya nEnaM #} <lbinfo n="pratyaBi#yojayet"/>
+31100 new <>indictment; {#aBiyogamanistIrya nEnaM #} <lbinfo n="pratyaBi#yojayet"/>
+;
+; TODO Case 45: sprin-kling -> sprinkling (spell = True)
+; <L>3727<pc>0148-a<k1>aBraM<k2>aBraM
+34012 old <>a castle in the air. {#--pruz (w)#} {%<ab>f.</ab>%} sprin- 
+34012 new <>a castle in the air. {#--pruz (w)#} {%<ab>f.</ab>%} <lbinfo n="sprin+kling"/>
+;
+34014 old <>kling of clouds, rain. {#--mAMsI#} <ab>N.</ab>
+34014 new <>sprinkling of clouds, rain. {#--mAMsI#} <ab>N.</ab>
+;
+; TODO Case 46: nec-tar -> nectar (spell = True)
+; <L>3852<pc>0152-a<k1>amfta<k2>amfta
+35065 old <>{#(guqUcI)#}. {#--vAka#} {%<ab>a.</ab>%} producing nec- 
+35065 new <>{#(guqUcI)#}. {#--vAka#} {%<ab>a.</ab>%} producing <lbinfo n="nec+tar"/>
+;
+35067 old <>tar-like sweet words. {#--saMyAvaM#} a sort
+35067 new <>nectar-like sweet words. {#--saMyAvaM#} a sort
+;
+; TODO Case 47: cur-rent -> current (spell = True)
+; <L>3894<pc>0154-b<k1>aMbu<k2>aMbu
+35499 old <><ab>N.</ab> of a plant. {#--saraRaM#} flow or cur- 
+35499 new <><ab>N.</ab> of a plant. {#--saraRaM#} flow or <lbinfo n="cur+rent"/>
+;
+35501 old <>rent of water. {#--sarpiRI#} a leech ( <lbinfo n="aM#buni"/>
+35501 new <>current of water. {#--sarpiRI#} a leech ( <lbinfo n="aM#buni"/>
+;
+; TODO Case 48: sor-rel -> sorrel (spell = True)
+; <L>3906<pc>0155-b<k1>amla<k2>amla
+35638 old <>{#--vAwikA#} a sort of betel. {#--vastUkaH#} a sor- 
+35638 new <>{#--vAwikA#} a sort of betel. {#--vastUkaH#} a <lbinfo n="sor+rel"/>
+;
+35640 old <>rel {#(cukraM)#}. {#--vfkzaH#} the tamarind tree.
+35640 new <>sorrel {#(cukraM)#}. {#--vfkzaH#} the tamarind tree.
+;
+; TODO Case 49: obe-dience -> obedience (spell = True)
+; <L>4024<pc>0160-a<k1>aramati<k2>aramati
+36681 old <>Splendour. {@--2@} Readiness to serve, obe- 
+36681 new <>Splendour. {@--2@} Readiness to serve, <lbinfo n="obe+dience"/>
+;
+36683 old <>dience, devotion to God; hence
+36683 new <>obedience, devotion to God; hence
+;
+; TODO Case 50: administra-tion -> administration (spell = True)
+; <L>4056<pc>0161-a<k1>ari<k2>ari
+36915 old <>directed against enemies; administra- 
+36915 new <>directed against enemies; <lbinfo n="administra+tion"/>
+;
+36917 old <>tion of foreign affairs. {#--tra#} {%<ab>a.</ab>%} <lbinfo n="protect+ing"/>
+36917 new <>administration of foreign affairs. {#--tra#} {%<ab>a.</ab>%} <lbinfo n="protect+ing"/>
+;
+; TODO Case 51: Viṣ-ṇu -> Viṣṇu (spell = False)
+; <L>4179<pc>0168-c<k1>arDa<k2>arDa
+38573 old <>Vasudevas and the nine enemies of Viṣ- 
+38573 new <>Vasudevas and the nine enemies of <lbinfo n="Viṣ+ṇu"/>
+;
+38575 old <>ṇu. {#--caMdra#} {%<ab>a.</ab>%} crescent-shaped. ({#--draH#})
+38575 new <>Viṣṇu. {#--caMdra#} {%<ab>a.</ab>%} crescent-shaped. ({#--draH#})
+;
+; TODO Case 52: fi-gure -> figure (spell = True)
+; <L>4179<pc>0168-c<k1>arDa<k2>arDa
+38632 old <><ls>Śi. 19. 72.</ls> The <ls>Sar. K.</ls> describes it as a fi- 
+38632 new <><ls>Śi. 19. 72.</ls> The <ls>Sar. K.</ls> describes it as a <lbinfo n="fi+gure"/>
+;
+38634 old <>gure of speech thus: {#--AhurarDaBramaM nAma#}
+38634 new <>figure of speech thus: {#--AhurarDaBramaM nAma#}
+;
+; TODO Case 53: respect-ability -> respectability (spell = True)
+; <L>4245<pc>0172-a<k1>alaMGanIyatA<k2>alaMGanIyatA
+39227 old <><ls>Śi. 2. 48.</ls> {@--2@} Inviolability; respect- 
+39227 new <><ls>Śi. 2. 48.</ls> {@--2@} Inviolability; <lbinfo n="respect+ability"/>
+;
+39229 old <>ability. {@--3@} Authoritative or <lbinfo n="abso+lute"/>
+39229 new <>respectability. {@--3@} Authoritative or <lbinfo n="abso+lute"/>
+;
+; TODO Case 54: separa-tion -> separation (spell = True)
+; <L>4450<pc>0178-a<k1>avagrahaH<k2>avagrahaH
+40667 old <>mark or interval of such a separa- 
+40667 new <>mark or interval of such a <lbinfo n="separa+tion"/>
+;
+40669 old <>tion; {#samAse'vagraho TasvasamakAlaH#}. {@--3@} The
+40669 new <>separation; {#samAse'vagraho TasvasamakAlaH#}. {@--3@} The
+;
+; TODO Case 55: irradiat-ed -> irradiated (spell = True)
+; <L>4527<pc>0180-a<k1>avatapta<k2>avatapta
+41164 old {#avatapta#}¦ {%<ab>p. p.</ab>%} Heated, irradiat- 
+41164 new {#avatapta#}¦ {%<ab>p. p.</ab>%} Heated, <lbinfo n="irradiat+ed"/>
+;
+41166 old <>ed; {#avataptenakulasTitaM#} an ichneumon's
+41166 new <>irradiated; {#avataptenakulasTitaM#} an ichneumon's
+;
+; TODO Case 56: re-pulse -> repulse (spell = True)
+; <L>4586<pc>0182-a<k1>avaDIr<k2>avaDIr
+41631 old <><ls>Amaru. 83</ls>; to despise, repudiate, re- 
+41631 new <><ls>Amaru. 83</ls>; to despise, repudiate, <lbinfo n="re+pulse"/>
+;
+41633 old <>pulse; {#tatkimavaDIrayati mAmAryaputraH#} <ls>M. 5.</ls>
+41633 new <>repulse; {#tatkimavaDIrayati mAmAryaputraH#} <ls>M. 5.</ls>
+;
+; TODO Case 57: down-hearted -> downhearted (spell = True)
+; <L>4852<pc>0190-a<k1>avasad<k2>avasad
+43539 old <>to sink; to dispirit, render down- 
+43539 new <>to sink; to dispirit, render <lbinfo n="down+hearted"/>
+;
+43541 old <>hearted, to ruin; {#kuwuMbakaM #} <lbinfo n="cAvasA#ditaM"/>
+43541 new <>downhearted, to ruin; {#kuwuMbakaM #} <lbinfo n="cAvasA#ditaM"/>
+;
+; TODO Case 58: inex-perienced -> inexperienced (spell = True)
+; <L>5060<pc>0195-b<k1>avipakva<k2>avipakva
+44863 old <>immature, undigested.; {#ºbudDi#} inex- 
+44863 new <>immature, undigested.; {#ºbudDi#} <lbinfo n="inex+perienced"/>
+;
+44865 old <>perienced, of undeveloped <lbinfo n="under+standing"/>
+44865 new <>inexperienced, of undeveloped <lbinfo n="under+standing"/>
+;
+; TODO Case 59: ex-communicated -> excommunicated (spell = True)
+; <L>5194<pc>0199-a<k1>avyavahArya<k2>avyavahArya
+45754 old <>with people of the same caste, ex- 
+45754 new <>with people of the same caste, <lbinfo n="ex+communicated"/>
+;
+45756 old <>communicated. {@--2@} Not to be made
+45756 new <>excommunicated. {@--2@} Not to be made
+;
+; TODO Case 60: com-plete -> complete (spell = True)
+; <L>5275<pc>0201-b<k1>aSeza<k2>aSeza
+46313 old <>remainder, whole, all, entire, com- 
+46313 new <>remainder, whole, all, entire, <lbinfo n="com+plete"/>
+;
+46315 old <>plete, perfect; {#aSezaSemuzImozaM #} <lbinfo n="mAza#maSnAmi"/>
+46315 new <>complete, perfect; {#aSezaSemuzImozaM #} <lbinfo n="mAza#maSnAmi"/>
+;
+; TODO Case 61: Phāl-guna -> Phālguna (spell = False)
+; <L>5280<pc>0201-c<k1>aSoka<k2>aSoka
+46381 old <>the 15th day of the month of Phāl- 
+46381 new <>the 15th day of the month of <lbinfo n="Phāl+guna"/>
+;
+46383 old <>guna. {#--maMjarI#} <ab>N.</ab> of a metre. {#--rohiRI#}
+46383 new <>Phālguna. {#--maMjarI#} <ab>N.</ab> of a metre. {#--rohiRI#}
+;
+; TODO Case 62: ma-nual -> manual (spell = True)
+; <L>5327<pc>0203-b<k1>aSvaH<k2>aSvaH
+46939 old <>{#--SAvaH#} a colt, a foal. {#--SAstraM#} a ma- 
+46939 new <>{#--SAvaH#} a colt, a foal. {#--SAstraM#} a <lbinfo n="ma+nual"/>
+;
+46941 old <>nual or text-book of veterinary <lbinfo n="sci+ence"/>
+46941 new <>manual or text-book of veterinary <lbinfo n="sci+ence"/>
+;
+; TODO Case 63: fea-tures -> features (spell = True)
+; <L>5335<pc>0205-a<k1>aSvatTAman<k2>aSvatTAman
+47076 old <>Droṇa clearly brings out the chief fea- 
+47076 new <>Droṇa clearly brings out the chief <lbinfo n="fea+tures"/>
+;
+47078 old <>tures of his character; see <ls>Ve. 3</ls>rd act.
+47078 new <>features of his character; see <ls>Ve. 3</ls>rd act.
+;
+; TODO Case 64: pre-ceptor -> preceptor (spell = True)
+; <L>5370<pc>0207-b<k1>azwAvakraH<k2>azwAvakraH
+47559 old <>[Kahoḍa married a daughter of his pre- 
+47559 new <>[Kahoḍa married a daughter of his <lbinfo n="pre+ceptor"/>
+;
+47561 old <>ceptor Uddālaka, but he was so <lbinfo n="devot+ed"/>
+47561 new <>preceptor Uddālaka, but he was so <lbinfo n="devot+ed"/>
+;
+; TODO Case 65: fabric-ation -> fabrication (spell = True)
+; <L>5432<pc>0210-a<k1>asat<k2>asat
+48144 old <>one which never took place. --2. fabric- 
+48144 new <>one which never took place. --2. <lbinfo n="fabric+ation"/>
+;
+48146 old <>ation of falsehood. {#--KyAtiH#} {%<ab>f.</ab>%} wrong
+48146 new <>fabrication of falsehood. {#--KyAtiH#} {%<ab>f.</ab>%} wrong
+;
+; TODO Case 66: per-fidious -> perfidious (spell = True)
+; <L>5440<pc>0210-b<k1>asatya<k2>asatya
+48218 old <>not true to one's promise, false, per- 
+48218 new <>not true to one's promise, false, <lbinfo n="per+fidious"/>
+;
+48220 old <>fidious, treacherous; {#ºDe jane saKI padaM#}
+48220 new <>perfidious, treacherous; {#ºDe jane saKI padaM#}
+;
+; TODO Case 67: Un-hurt -> Unhurt (spell = True)
+; <L>5589<pc>0215-a<k1>asKalita<k2>asKalita
+49338 old <>unyielding, firm, permanent. {@--2@} Un- 
+49338 new <>unyielding, firm, permanent. {@--2@} <lbinfo n="Un+hurt"/>
+;
+49340 old <>hurt, sound and safe; {#ºBrAtfSataH#} <ls>Ve.</ls>
+49340 new <>Unhurt, sound and safe; {#ºBrAtfSataH#} <ls>Ve.</ls>
+;
+; TODO Case 68: cause-less -> causeless (spell = False)
+; <L>5707<pc>0219-b<k1>ahetuka<k2>ahe(hE)tuka
+50322 old {#ahe(hE)tuka#}¦ {%<ab>a.</ab>%} Groundless, cause- 
+50322 new {#ahe(hE)tuka#}¦ {%<ab>a.</ab>%} Groundless, <lbinfo n="cause+less"/>
+;
+50324 old <>less, without any motive;  <lbinfo n="ls:Bg. 18.+ 22."/>
+50324 new <>causeless, without any motive;  <lbinfo n="ls:Bg. 18.+ 22."/>
+;
+; TODO Case 69: conceal-ing -> concealing (spell = True)
+; <L>5712<pc>0219-c<k1>ahnavAyya<k2>ahnavAyya
+50389 old {#ahnavAyya#}¦ {%<ab>a.</ab>%} <ab>Ved.</ab> {@1@} Not conceal- 
+50389 new {#ahnavAyya#}¦ {%<ab>a.</ab>%} <ab>Ved.</ab> {@1@} Not <lbinfo n="conceal+ing"/>
+;
+50391 old <>ing. {@--2@} Not to be denied or set
+50391 new <>concealing. {@--2@} Not to be denied or set
+;
+; TODO Case 70: fi-gure -> figure (spell = True)
+; <L>5827<pc>0224-c<k1>AkzepaH<k2>AkzepaH
+51468 old <>Sustaining, as a sound. {@--13@} (In <ab>Rhet.</ab>) A fi- 
+51468 new <>Sustaining, as a sound. {@--13@} (In <ab>Rhet.</ab>) A <lbinfo n="fi+gure"/>
+;
+51470 old <>gure of speech (<ab>cf.</ab> Greek paralipsis)
+51470 new <>figure of speech (<ab>cf.</ab> Greek paralipsis)
+;
+; TODO Case 71: Dhṛtarāṣ-ṭra -> Dhṛtarāṣṭra (spell = False)
+; <L>6163<pc>0237-b<k1>Aditya<k2>Aditya
+54336 old <>{#--ketuH#} 1. <ab>N.</ab> of a son of Dhṛtarāṣ- 
+54336 new <>{#--ketuH#} 1. <ab>N.</ab> of a son of <lbinfo n="Dhṛtarāṣ+ṭra"/>
+;
+54338 old <>ṭra. --2. the charioteer of the sun.
+54338 new <>Dhṛtarāṣṭra. --2. the charioteer of the sun.
+;
+; TODO Case 72: sorrow-ful -> sorrowful (spell = True)
+; <L>6259<pc>0240-b<k1>ADyAnaM<k2>ADyAnaM
+55049 old <>Remembering with regret, pensive or sorrow- 
+55049 new <>Remembering with regret, pensive or <lbinfo n="sorrow+ful"/>
+;
+55051 old <>ful recollection. {@--3@} Meditating or
+55051 new <>sorrowful recollection. {@--3@} Meditating or
+;
+; TODO Case 73: Im-mortality -> Immortality (spell = True)
+; <L>6269<pc>0240-c<k1>AnaMtyaM<k2>AnaMtyaM
+55124 old <>P. 2. {@--2@} Boundlessness. {@--3@} Im- 
+55124 new <>P. 2. {@--2@} Boundlessness. {@--3@} <lbinfo n="Im+mortality"/>
+;
+55126 old <>mortality, eternity; <ls>Ms. 3. 266</ls>;
+55126 new <>Immortality, eternity; <ls>Ms. 3. 266</ls>;
+;
+; TODO Case 74: exer-tions -> exertions (spell = True)
+; <L>6658<pc>0251-c<k1>AyAsin<k2>AyAsin
+57778 old <>Exhausted, fatigued. {@--2@} Making exer- 
+57778 new <>Exhausted, fatigued. {@--2@} Making <lbinfo n="exer+tions"/>
+;
+57780 old <>tions, striving; {#manastu #} <lbinfo n="tadBAvadarSanA#yAsi"/>
+57780 new <>exertions, striving; {#manastu #} <lbinfo n="tadBAvadarSanA#yAsi"/>
+;
+; TODO Case 75: Airat-deśa -> Airatdeśa (spell = False)
+; <L>6692<pc>0253-a<k1>ArawwaH<k2>ArawwaH
+58076 old <>their country Hairat or Airat- 
+58076 new <>their country Hairat or <lbinfo n="Airat+deśa"/>
+;
+58078 old <>deśa); the inhabitants of this <lbinfo n="coun+try"/>
+58078 new <>Airatdeśa); the inhabitants of this <lbinfo n="coun+try"/>
+;
+; TODO Case 76: gene-ral -> general (spell = True)
+; <L>6801<pc>0256-b<k1>ArDa<k2>ArDa
+58869 old <>to the six non-conjugational or gene- 
+58869 new <>to the six non-conjugational or <lbinfo n="gene+ral"/>
+;
+58871 old <>ral tenses (<ab>opp.</ab> {#sArvaDAtuka#}); <ab>cf.</ab> P. III.
+58871 new <>general tenses (<ab>opp.</ab> {#sArvaDAtuka#}); <ab>cf.</ab> P. III.
+;
+; TODO Case 77: Gadā-dhara -> Gadādhara (spell = False)
+; <L>7021<pc>0263-b<k1>ASaMkA<k2>ASaMkA
+60517 old <>uncertainty; {#ityASaMkAyAmAha#} Gadā- 
+60517 new <>uncertainty; {#ityASaMkAyAmAha#} <lbinfo n="Gadā+dhara"/>
+;
+60519 old <>dhara. {@--3@} Distrust, suspicion;  <lbinfo n="ºa#nvita"/>
+60519 new <>Gadādhara. {@--3@} Distrust, suspicion;  <lbinfo n="ºa#nvita"/>
+;
+; TODO Case 78: disap-pointed -> disappointed (spell = True)
+; <L>7031<pc>0263-c<k1>ASA<k2>ASA
+60592 old <>a son of heaven. {#--viBinna#} {%<ab>a.</ab>%} disap- 
+60592 new <>a son of heaven. {#--viBinna#} {%<ab>a.</ab>%} <lbinfo n="disap+pointed"/>
+;
+60594 old <>pointed in expectation. {#--hIna#} {%<ab>a.</ab>%} <lbinfo n="de+spairing"/>
+60594 new <>disappointed in expectation. {#--hIna#} {%<ab>a.</ab>%} <lbinfo n="de+spairing"/>
+;
+; TODO Case 79: contradic-tion -> contradiction (spell = True)
+; <L>7111<pc>0267-a<k1>As<k2>As, AH
+61320 old <>{#SItaM#} <ls>K. P. 10.</ls> ({%d%}) Angry contradic- 
+61320 new <>{#SItaM#} <ls>K. P. 10.</ls> ({%d%}) Angry <lbinfo n="contradic+tion"/>
+;
+61322 old <>tion {#(apAkaraRa);#} {#AH ka eza mayi #} <lbinfo n="sTi#te"/>
+61322 new <>contradiction {#(apAkaraRa);#} {#AH ka eza mayi #} <lbinfo n="sTi#te"/>
+;
+; TODO Case 80: at-tached -> attached (spell = True)
+; <L>7121<pc>0267-c<k1>AsaMj<k2>AsaMj
+61456 old <>({#sajyate#}) To adhere, stick, be at- 
+61456 new <>({#sajyate#}) To adhere, stick, be <lbinfo n="at+tached"/>
+;
+61458 old <>tached; {#yadi nezwAtmanaH pIqA mAsaji #} <lbinfo n="Ba#vatA"/>
+61458 new <>attached; {#yadi nezwAtmanaH pIqA mAsaji #} <lbinfo n="Ba#vatA"/>
+;
+; TODO Case 81: ap-proach -> approach (spell = True)
+; <L>7128<pc>0268-a<k1>Asad<k2>Asad
+61528 old <>watch or lie in wait for. {@--3@} To ap- 
+61528 new <>watch or lie in wait for. {@--3@} To <lbinfo n="ap+proach"/>
+;
+61530 old <>proach, reach, to go to or towards
+61530 new <>approach, reach, to go to or towards
+;
+; TODO Case 82: moon-light -> moonlight (spell = True)
+; <L>7365<pc>0276-c<k1>iMduH<k2>iMduH
+63462 old <>of the moon. {@--2@} The time of moon- 
+63462 new <>of the moon. {@--2@} The time of <lbinfo n="moon+light"/>
+;
+63464 old <>light, night. {@--Comp.@} {#--kamalaM#} the
+63464 new <>moonlight, night. {@--Comp.@} {#--kamalaM#} the
+;
+; TODO Case 83: enumera-tion -> enumeration (spell = True)
+; <L>7532<pc>0284-a<k1>ISvara<k2>ISvara
+65065 old <>the Supreme god; for a full enumera- 
+65065 new <>the Supreme god; for a full <lbinfo n="enumera+tion"/>
+;
+65067 old <>tion, see <ls>Bg. 10. 19</ls>-42. {#--sadman#}
+65067 new <>enumeration, see <ls>Bg. 10. 19</ls>-42. {#--sadman#}
+;
+; TODO Case 84: Excre-ment -> Excrement (spell = True)
+; <L>7597<pc>0286-c<k1>uccAraH<k2>uccAraH
+65656 old <>declaration; {#varRaº, kAmaº#}. {@--2@} Excre- 
+65656 new <>declaration; {#varRaº, kAmaº#}. {@--2@} <lbinfo n="Excre+ment"/>
+;
+65658 old <>ment, dung, fæces; {#mAturuccAra eva saH#}
+65658 new <>Excrement, dung, fæces; {#mAturuccAra eva saH#}
+;
+; TODO Case 85: un-even -> uneven (spell = True)
+; <L>7801<pc>0292-b<k1>utKAta<k2>utKAta
+67013 old <>{#anutKAtastimita#} not stopped by un- 
+67013 new <>{#anutKAtastimita#} not stopped by <lbinfo n="un+even"/>
+;
+67015 old <>even ground; <ls>Ś. 7. 33.</ls> {@--Comp.@}
+67015 new <>uneven ground; <ls>Ś. 7. 33.</ls> {@--Comp.@}
+;
+; TODO Case 86: Cap-ital -> Capital (spell = True)
+; <L>7822<pc>0293-a<k1>uttama<k2>uttama
+67226 old <>{#maDyamaH paMcavijYeyaH sahasraM tveza cottamaH ..#}. Cap- 
+67226 new <>{#maDyamaH paMcavijYeyaH sahasraM tveza cottamaH ..#}. <lbinfo n="Cap+ital"/>
+;
+67228 old <>ital punishment, banishment, <lbinfo n="con+fiscation"/>
+67228 new <>Capital punishment, banishment, <lbinfo n="con+fiscation"/>
+;
+; TODO Case 87: pro-duced -> produced (spell = True)
+; <L>7888<pc>0296-c<k1>utpat<k2>utpat
+67927 old <>{#kaMdukaH#} <ls>Bh. 2. 85.</ls> {@--3@} To rise, be pro- 
+67927 new <>{#kaMdukaH#} <ls>Bh. 2. 85.</ls> {@--3@} To rise, be <lbinfo n="pro+duced"/>
+;
+67929 old <>duced or originated;  <lbinfo n="nizpezotpatitA#nalaM"/>
+67929 new <>produced or originated;  <lbinfo n="nizpezotpatitA#nalaM"/>
+;
+; TODO Case 88: uneasi-ness -> uneasiness (spell = True)
+; <L>7992<pc>0300-b<k1>utsvapnAyate<k2>utsvapnAyate
+68752 old <>one's sleep, dream through uneasi- 
+68752 new <>one's sleep, dream through <lbinfo n="uneasi+ness"/>
+;
+68754 old <>ness; {#sItotsvapnAyate#} <ls>U. 1</ls>; {#sAMprataM #} <lbinfo n="mAla#vikAmutsvapnAyate"/>
+68754 new <>uneasiness; {#sItotsvapnAyate#} <ls>U. 1</ls>; {#sAMprataM #} <lbinfo n="mAla#vikAmutsvapnAyate"/>
+;
+; TODO Case 89: in-strument -> instrument (spell = True)
+; <L>8052<pc>0303-a<k1>udAtta<k2>udAtta
+69327 old <>donation. {@--3@} A kind of musical in- 
+69327 new <>donation. {@--3@} A kind of musical <lbinfo n="in+strument"/>
+;
+69329 old <>strument, a large drum. {@--4@} A variety
+69329 new <>instrument, a large drum. {@--4@} A variety
+;
+; TODO Case 90: gra-dual -> gradual (spell = True)
+; <L>8074<pc>0304-b<k1>udaya<k2>udaya
+69599 old <>{#udayagirerivEka eva#} <ls>Māl. 2. 10.</ls> {#--kramaH#} gra- 
+69599 new <>{#udayagirerivEka eva#} <ls>Māl. 2. 10.</ls> {#--kramaH#} <lbinfo n="gra+dual"/>
+;
+69601 old <>dual rise; {#nAqInAM#} <ls>Māl. 5. 2</ls> by <lbinfo n="gra+dually"/>
+69601 new <>gradual rise; {#nAqInAM#} <ls>Māl. 5. 2</ls> by <lbinfo n="gra+dually"/>
+;
+; TODO Case 91: (speak-ing -> (speaking (spell = True)
+; <L>8119<pc>0306-a<k1>udgrah<k2>udgrah
+69971 old <>To break off, discontinue (speak- 
+69971 new <>To break off, discontinue <lbinfo n="(speak+ing"/>
+;
+69973 old <>ing). {%--<ab>Caus.</ab>%} {@1@} To cause to take up,
+69973 new <>(speaking). {%--<ab>Caus.</ab>%} {@1@} To cause to take up,
+;
+; TODO Case 92: sav-ing -> saving (spell = True)
+; <L>8202<pc>0308-c<k1>udDAraH<k2>udDAraH
+70588 old <>{@--2@} Deliverance, redemption, sav- 
+70588 new <>{@--2@} Deliverance, redemption, <lbinfo n="sav+ing"/>
+;
+70590 old <>ing, rescuing, extrication. {@--3@} <lbinfo n="Rais+ing"/>
+70590 new <>saving, rescuing, extrication. {@--3@} <lbinfo n="Rais+ing"/>
+;
+; TODO Case 93: Wander-ing -> Wandering (spell = True)
+; <L>8243<pc>0310-a<k1>udBrAMta<k2>udBrAMta
+70896 old <>waved (as a sword). {@--4@} Wander- 
+70896 new <>waved (as a sword). {@--4@} <lbinfo n="Wander+ing"/>
+;
+70898 old <>ing upwards. {#--taM#} {@1@} Flourishing a
+70898 new <>Wandering upwards. {#--taM#} {@1@} Flourishing a
+;
+; TODO Case 94: pre-ponderance -> preponderance (spell = True)
+; <L>8316<pc>0312-a<k1>udvarta<k2>udvarta
+71383 old <>remainder, surplus. {@--2@} Excess, pre- 
+71383 new <>remainder, surplus. {@--2@} Excess, <lbinfo n="pre+ponderance"/>
+;
+71385 old <>ponderance. {@--3@} Rubbing or <lbinfo n="smear+ing"/>
+71385 new <>preponderance. {@--3@} Rubbing or <lbinfo n="smear+ing"/>
+;
+; TODO Case 95: Lead-ing -> Leading (spell = True)
+; <L>8360<pc>0313-b<k1>unnayana<k2>unnayana
+71696 old <>of which a fluid is taken. {@--4@} Lead- 
+71696 new <>of which a fluid is taken. {@--4@} <lbinfo n="Lead+ing"/>
+;
+71698 old <>ing away, extracting. {@--5@} Making
+71698 new <>Leading away, extracting. {@--5@} Making
+;
+; TODO Case 96: in-feriority -> inferiority (spell = True)
+; <L>8420<pc>0315-b<k1>upa<k2>upa
+72156 old <>({%a%}) with <ab>acc.</ab> when it means in- 
+72156 new <>({%a%}) with <ab>acc.</ab> when it means <lbinfo n="in+feriority"/>
+;
+72158 old <>feriority (<ls>P. I. 4. 87</ls>); {#upa hariM surAH#} Sk
+72158 new <>inferiority (<ls>P. I. 4. 87</ls>); {#upa hariM surAH#} Sk
+;
+; TODO Case 97: obli-gation -> obligation (spell = True)
+; <L>8449<pc>0316-b<k1>upakfta<k2>upakfta
+72382 old <>served &c. {#--taM#} Aid, favour, obli- 
+72382 new <>served &c. {#--taM#} Aid, favour, <lbinfo n="obli+gation"/>
+;
+72384 old <>gation; {#gatA nASaM tArA #} <lbinfo n="upakftamasA#DAviva"/>
+72384 new <>obligation; {#gatA nASaM tArA #} <lbinfo n="upakftamasA#DAviva"/>
+;
+; TODO Case 98: par-ticular -> particular (spell = True)
+; <L>8596<pc>0321-b<k1>upadeSaH<k2>upadeSaH
+73522 old <>{%anubandhas%} which show what par- 
+73522 new <>{%anubandhas%} which show what <lbinfo n="par+ticular"/>
+;
+73524 old <>ticular grammatical rules are to be
+73524 new <>particular grammatical rules are to be
+;
+; TODO Case 99: deceas-ed -> deceased (spell = True)
+; <L>8970<pc>0332-c<k1>upasaMpanna<k2>upasaMpanna
+76176 old <>immolated; <ls>Ms. 5. 81.</ls> {@--7@} Dead, deceas- 
+76176 new <>immolated; <ls>Ms. 5. 81.</ls> {@--7@} Dead, <lbinfo n="deceas+ed"/>
+;
+76178 old <>ed. {@--8@} Cooked, dressed (as food).
+76178 new <>deceased. {@--8@} Cooked, dressed (as food).
+;
+; TODO Case 100: di-vert -> divert (spell = True)
+; <L>9270<pc>0342-b<k1>ullas<k2>ullas
+78413 old <>grace; <ls>Ve. 1. 12</ls>; <ls>U. 4.</ls> {@--3@} To di- 
+78413 new <>grace; <ls>Ve. 1. 12</ls>; <ls>U. 4.</ls> {@--3@} To <lbinfo n="di+vert"/>
+;
+78415 old <>vert, delight. {@--4@} To shake, move
+78415 new <>divert, delight. {@--4@} To shake, move
+;
+; TODO Case 101: Re-collection -> Recollection (spell = True)
+; <L>9512<pc>0351-c<k1>F<k2>F
+80385 old <>gods; also of the demons. {@--2@} Re- 
+80385 new <>gods; also of the demons. {@--2@} <lbinfo n="Re+collection"/>
+;
+80387 old <>collection. {@--3@} Motion, going. {%--<ab>n.</ab>%}
+80387 new <>Recollection. {@--3@} Motion, going. {%--<ab>n.</ab>%}
+;
+; TODO Case 102: con-veyance -> conveyance (spell = True)
+; <L>9518<pc>0352-a<k1>eka<k2>eka
+80748 old <>79). {#--DurA#} a particular load or con- 
+80748 new <>79). {#--DurA#} a particular load or <lbinfo n="con+veyance"/>
+;
+80750 old <>veyance. {#--nakzatraM#} a lunar mansion
+80750 new <>conveyance. {#--nakzatraM#} a lunar mansion
+;
+; TODO Case 103: produc-ing -> producing (spell = True)
+; <L>9855<pc>0363-c<k1>Opasargika<k2>Opasargika
+83038 old <>of the humours of the body, produc- 
+83038 new <>of the humours of the body, <lbinfo n="produc+ing"/>
+;
+83040 old <>ing cold sweats &c. ({#vAtAdisannipAta#}).
+83040 new <>producing cold sweats &c. ({#vAtAdisannipAta#}).
+;
+; TODO Case 104: Vai-śeshika -> Vaiśeshika (spell = False)
+; <L>9888<pc>0364-b<k1>OlUkyaH<k2>OlUkyaH
+83220 old <>Kaṇāda, the propounder of the Vai- 
+83220 new <>Kaṇāda, the propounder of the <lbinfo n="Vai+śeshika"/>
+;
+83222 old <>śeshika philosophy; (see  <lbinfo n="OlUkya#darSana"/>
+83222 new <>Vaiśeshika philosophy; (see  <lbinfo n="OlUkya#darSana"/>
+;
+; TODO Case 105: mea-sure -> measure (spell = True)
+; <L>9917<pc>0365-1<k1>kaMsaH<k2>kaMsaH --saM
+83402 old <>white copper. {@--3@} A particular mea- 
+83402 new <>white copper. {@--3@} A particular <lbinfo n="mea+sure"/>
+;
+83404 old <>sure known as {#AQaka,#} <ab>q. v.</ab> {#--saH#}
+83404 new <>measure known as {#AQaka,#} <ab>q. v.</ab> {#--saH#}
+;
+; TODO Case 106: ar-mour -> armour (spell = True)
+; <L>10006<pc>0368-b<k1>kaMcukita<k2>kaMcukita
+84118 old {#kaMcukita#}¦ {%<ab>a.</ab>%} {@1@} Furnished with ar- 
+84118 new {#kaMcukita#}¦ {%<ab>a.</ab>%} {@1@} Furnished with <lbinfo n="ar+mour"/>
+;
+84120 old <>mour, mailed. {@--2@} Having a garment;
+84120 new <>armour, mailed. {@--2@} Having a garment;
+;
+; TODO Case 107: re-fined -> refined (spell = True)
+; <L>10068<pc>0370-b<k1>kaWora<k2>kaWora
+84578 old <><ls>Māl. 1. 2.</ls> {@--5@} (Fig.) Matured, re- 
+84578 new <><ls>Māl. 1. 2.</ls> {@--5@} (Fig.) Matured, <lbinfo n="re+fined"/>
+;
+84580 old <>fined: {#kalAkalApAlocanakaWAremAtiBiH#}
+84580 new <>refined: {#kalAkalApAlocanakaWAremAtiBiH#}
+;
+; TODO Case 108: Ṛg-veda -> Ṛgveda (spell = False)
+; <L>10142<pc>0372-c<k1>kaRva<k2>kaRva
+85121 old <>author of several hymns of the Ṛg- 
+85121 new <>author of several hymns of the <lbinfo n="Ṛg+veda"/>
+;
+85123 old <>veda. {@--2@} (<ab>Ved.</ab>) A peculiar class of
+85123 new <>Ṛgveda. {@--2@} (<ab>Ved.</ab>) A peculiar class of
+;
+; TODO Case 109: mix-ed -> mixed (spell = True)
+; <L>10342<pc>0380-b<k1>karaMBaH<k2>karaMBaH(baH)
+86825 old {#karaMBaH(baH)#}¦ {@1@} Flour or meal mix- 
+86825 new {#karaMBaH(baH)#}¦ {@1@} Flour or meal <lbinfo n="mix+ed"/>
+;
+86827 old <>ed with curds. {@--2@} Mud;  <lbinfo n="karaMBavAlukAtA#pAn"/>
+86827 new <>mixed with curds. {@--2@} Mud;  <lbinfo n="karaMBavAlukAtA#pAn"/>
+;
+; TODO Case 110: ad-verbs -> adverbs (spell = True)
+; <L>10433<pc>0383-c<k1>karman<k2>karman
+87700 old <>certain prepositions, particles, or ad- 
+87700 new <>certain prepositions, particles, or <lbinfo n="ad+verbs"/>
+;
+87702 old <>verbs when they are not connected
+87702 new <>adverbs when they are not connected
+;
+; TODO Case 111: quar-rel -> quarrel (spell = True)
+; <L>10500<pc>0387-a<k1>kaliH<k2>kaliH
+88285 old {#kaliH#}¦ [{#kal-ini#}] {@1@} Strife, quar- 
+88285 new {#kaliH#}¦ [{#kal-ini#}] {@1@} Strife, <lbinfo n="quar+rel"/>
+;
+88287 old <>rel, dissension, contention;  <lbinfo n="ls:Śi. 7.+ 55"/>
+88287 new <>quarrel, dissension, contention;  <lbinfo n="ls:Śi. 7.+ 55"/>
+;
+; TODO Case 112: es-pecially -> especially (spell = True)
+; <L>10741<pc>0395-c<k1>kAyaH<k2>kAyaH, --yaM
+90242 old <>hand just below the fingers, es- 
+90242 new <>hand just below the fingers, <lbinfo n="es+pecially"/>
+;
+90244 old <>pecially the little finger, or the last
+90244 new <>especially the little finger, or the last
+;
+; TODO Case 113: petition-er -> petitioner (spell = True)
+; <L>10791<pc>0397-c<k1>kArpawaH<k2>kArpawaH
+90686 old {#kArpawaH#}¦ [{#karpawa-aR#}] {@1@} A petition- 
+90686 new {#kArpawaH#}¦ [{#karpawa-aR#}] {@1@} A <lbinfo n="petition+er"/>
+;
+90688 old <>er, a suitor, a candidate. {@--2@} A rag.
+90688 new <>petitioner, a suitor, a candidate. {@--2@} A rag.
+;
+; TODO Case 114: Pas-sionate -> Passionate (spell = True)
+; <L>11136<pc>0409-c<k1>kopana<k2>kopana
+93407 old {#kopana#}¦ {%<ab>a.</ab>%} [{#kup-tAcCIlye yuc#}] {@1@} Pas- 
+93407 new {#kopana#}¦ {%<ab>a.</ab>%} [{#kup-tAcCIlye yuc#}] {@1@} <lbinfo n="Pas+sionate"/>
+;
+93409 old <>sionate, irascible, angry. {@--2@} Causing
+93409 new <>Passionate, irascible, angry. {@--2@} Causing
+;
+; TODO Case 115: Pāṇ-ḍavas -> Pāṇḍavas (spell = False)
+; <L>11168<pc>0411-a<k1>kuMBaH<k2>kuMBaH
+93706 old <>preceptor of the Kauravas and Pāṇ- 
+93706 new <>preceptor of the Kauravas and <lbinfo n="Pāṇ+ḍavas"/>
+;
+93708 old <>ḍavas. --3. an epithet of Vasiṣṭha.
+93708 new <>Pāṇḍavas. --3. an epithet of Vasiṣṭha.
+;
+; TODO Case 116: fa-mily -> family (spell = True)
+; <L>11213<pc>0412-a<k1>kulaM<k2>kulaM
+94020 old <>deity; the guardian deity of a fa- 
+94020 new <>deity; the guardian deity of a <lbinfo n="fa+mily"/>
+;
+94022 old <>mily; <ls>Ku. 7. 27.</ls> {#--Dana#} {%<ab>a.</ab>%} one whose
+94022 new <>family; <ls>Ku. 7. 27.</ls> {#--Dana#} {%<ab>a.</ab>%} one whose
+;
+; TODO Case 117: family-respectability -> familyrespectability (spell = False)
+; <L>11213<pc>0412-a<k1>kulaM<k2>kulaM
+94078 old <>of noble birth. {#--saMKyA#} 1. family- 
+94078 new <>of noble birth. {#--saMKyA#} 1. <lbinfo n="family+respectability"/>
+;
+94080 old <>respectability. --2. inclusion among
+94080 new <>familyrespectability. --2. inclusion among
+;
+; TODO Case 118: de-ceive -> deceive (spell = True)
+; <L>11309<pc>0415-a<k1>kuh<k2>kuh
+94663 old <>surprise, astonish. {@--2@} To cheat, de- 
+94663 new <>surprise, astonish. {@--2@} To cheat, <lbinfo n="de+ceive"/>
+;
+94665 old <>ceive.
+94665 new <>deceive.
+;
+; TODO Case 119: ambi-guity -> ambiguity (spell = True)
+; <L>11328<pc>0415-c<k1>kUwa<k2>kUwa
+94814 old <>on the top of a house. {#--arTaH#} ambi- 
+94814 new <>on the top of a house. {#--arTaH#} <lbinfo n="ambi+guity"/>
+;
+94816 old <>guity of meaning. {#ºBAzitA#} a tale,
+94816 new <>ambiguity of meaning. {#ºBAzitA#} a tale,
+;
+; TODO Case 120: re-solute -> resolute (spell = True)
+; <L>11375<pc>0418-a<k1>kfta<k2>kfta
+95424 old <><ls>Ms. 1. 97</ls>, 7. 30. --2. a man of re- 
+95424 new <><ls>Ms. 1. 97</ls>, 7. 30. --2. a man of <lbinfo n="re+solute"/>
+;
+95426 old <>solute character. --3. informed of
+95426 new <>resolute character. --3. informed of
+;
+; TODO Case 121: seduc-ed -> seduced (spell = True)
+; <L>11382<pc>0419-b<k1>kftya<k2>kftya
+95552 old <>practicable. {@--3@} Who may be seduc- 
+95552 new <>practicable. {@--3@} Who may be <lbinfo n="seduc+ed"/>
+;
+95554 old <>ed from allegiance, treacherous;
+95554 new <>seduced from allegiance, treacherous;
+;
+; TODO Case 122: surpri-sing -> surprising (spell = True)
+; <L>11443<pc>0421-b<k1>kfzRa<k2>kfzRa
+96016 old <>performed many other feats of surpri- 
+96016 new <>performed many other feats of <lbinfo n="surpri+sing"/>
+;
+96018 old <>sing strength. The chief companions
+96018 new <>surprising strength. The chief companions
+;
+; TODO Case 123: lexi-con -> lexicon (spell = True)
+; <L>11583<pc>0426-b<k1>koSaH<k2>koSaH, --SaM (zaH, --zaM)
+97151 old <>unwrought. {@--12@} A dictionary, lexi- 
+97151 new <>unwrought. {@--12@} A dictionary, <lbinfo n="lexi+con"/>
+;
+97153 old <>con, vocabulary. {@--13@} A closed
+97153 new <>lexicon, vocabulary. {@--13@} A closed
+;
+; TODO Case 124: sacri-fice -> sacrifice (spell = True)
+; <L>11682<pc>0429-b<k1>kratuH<k2>kratuH
+97857 old <>sacrifice.) {#--patiH#} the performer of a sacri- 
+97857 new <>sacrifice.) {#--patiH#} the performer of a <lbinfo n="sacri+fice"/>
+;
+97859 old <>fice. {#--paSuH#} a sacrificial horse. {#--puruzaH#}
+97859 new <>sacrifice. {#--paSuH#} a sacrificial horse. {#--puruzaH#}
+;
+; TODO Case 125: cowar-dice -> cowardice (spell = True)
+; <L>11793<pc>0433-b<k1>klEbyaM<k2>klEbyaM(vyaM)
+98761 old <>1. {@--2@} Unmanliness; timidity, cowar- 
+98761 new <>1. {@--2@} Unmanliness; timidity, <lbinfo n="cowar+dice"/>
+;
+98763 old <>dice; {#klEvyaM mA sma gamaH pArTa#} <ls>Bg. 2. 3.</ls> {@--3@}
+98763 new <>cowardice; {#klEvyaM mA sma gamaH pArTa#} <ls>Bg. 2. 3.</ls> {@--3@}
+;
+; TODO Case 126: di-minution -> diminution (spell = True)
+; <L>11820<pc>0434-b<k1>kzatiH<k2>kzatiH
+98986 old <><ls>S. D. 37.</ls> {@--4@} Decline, decay, di- 
+98986 new <><ls>S. D. 37.</ls> {@--4@} Decline, decay, <lbinfo n="di+minution"/>
+;
+98988 old <>minution; {#pratApakzatiSItalAH#}  <lbinfo n="ls:Ku. 2.+ 24"/>
+98988 new <>diminution; {#pratApakzatiSItalAH#}  <lbinfo n="ls:Ku. 2.+ 24"/>
+;
+; TODO Case 127: mov-ing -> moving (spell = True)
+; <L>12011<pc>0440-1<k1>KaH<k2>KaH
+100407 old <>{#--ga#} {%<ab>a.</ab>%} [{#Ke AkASe gacCati gam-qa#}] mov- 
+100407 new <>{#--ga#} {%<ab>a.</ab>%} [{#Ke AkASe gacCati gam-qa#}] <lbinfo n="mov+ing"/>
+;
+100409 old <>ing in the air. ({#--gaH#}) 1. a bird;
+100409 new <>moving in the air. ({#--gaH#}) 1. a bird;
+;
+; TODO Case 128: swords-man -> swordsman (spell = True)
+; <L>12052<pc>0441-c<k1>KaqgaH<k2>KaqgaH
+100673 old <>{#--koSaH#} a scabbard. {#--DaraH#} a swords- 
+100673 new <>{#--koSaH#} a scabbard. {#--DaraH#} a <lbinfo n="swords+man"/>
+;
+100675 old <>man. {#--DenuH, --DenukA#} 1. a small
+100675 new <>swordsman. {#--DenuH, --DenukA#} 1. a small
+;
+; TODO Case 129: com-pound -> compound (spell = True)
+; <L>12140<pc>0444-a<k1>KasUciH<k2>KasUciH
+101244 old <>of reproach (at the end of a com- 
+101244 new <>of reproach (at the end of a <lbinfo n="com+pound"/>
+;
+101246 old <>pound); {#vEyAkaraRaKasUciH#} ‘a bad <lbinfo n="gram+marian"/>
+101246 new <>compound); {#vEyAkaraRaKasUciH#} ‘a bad <lbinfo n="gram+marian"/>
+;
+; TODO Case 130: ani-mals -> animals (spell = True)
+; <L>12253<pc>0447-c<k1>gaRaH<k2>gaRaH
+102069 old <>disciples, of a body of men or ani- 
+102069 new <>disciples, of a body of men or <lbinfo n="ani+mals"/>
+;
+102071 old <>mals. {#--annaM#} a mess, food prepared
+102071 new <>animals. {#--annaM#} a mess, food prepared
+;
+; TODO Case 131: im-mediately -> immediately (spell = True)
+; <L>12391<pc>0455-a<k1>galaH<k2>galaH
+103606 old <>of study is commenced, but im- 
+103606 new <>of study is commenced, but <lbinfo n="im+mediately"/>
+;
+103608 old <>mediately preceding a day on
+103608 new <>immediately preceding a day on
+;
+; TODO Case 132: nose-gay -> nosegay (spell = False)
+; <L>12541<pc>0459-c<k1>guMjaH<k2>guMjaH
+104699 old <>blossoms, bunch of flowers, a nose- 
+104699 new <>blossoms, bunch of flowers, a <lbinfo n="nose+gay"/>
+;
+104701 old <>gay; <ab>cf.</ab> {#gucCa#}. {@--Comp.@} {#--kft#} a large
+104701 new <>nosegay; <ab>cf.</ab> {#gucCa#}. {@--Comp.@} {#--kft#} a large
+;
+; TODO Case 133: proper-ties -> properties (spell = True)
+; <L>12559<pc>0460-b<k1>guRaH<k2>guRaH
+104849 old <>nature, any one of the three proper- 
+104849 new <>nature, any one of the three <lbinfo n="proper+ties"/>
+;
+104851 old <>ties belonging to all created things;
+104851 new <>properties belonging to all created things;
+;
+; TODO Case 134: Mo-lasses -> Molasses (spell = True)
+; <L>12732<pc>0469-c<k1>golakaH<k2>golakaH
+106799 old <>conjunction of six or more planets. {@--6@} Mo- 
+106799 new <>conjunction of six or more planets. {@--6@} <lbinfo n="Mo+lasses"/>
+;
+106801 old <>lasses. {@--7@} Gum myrrh. {#--kaM#} The
+106801 new <>Molasses. {@--7@} Gum myrrh. {#--kaM#} The
+;
+; TODO Case 135: be-come -> become (spell = True)
+; <L>12790<pc>0471-c<k1>grah<k2>grah
+107310 old <>take, deliver over to. {@--5@} To be- 
+107310 new <>take, deliver over to. {@--5@} To <lbinfo n="be+come"/>
+;
+107312 old <>come familiar with. --WITH {#anusaM#}
+107312 new <>become familiar with. --WITH {#anusaM#}
+;
+; TODO Case 136: Seiz-ing -> Seizing (spell = True)
+; <L>12803<pc>0473-a<k1>grAha<k2>grAha
+107510 old {#grAha#}¦ {%<ab>a.</ab>%} ({#hI#} {%<ab>f.</ab>%}) [{#grah BAve GaY#}] Seiz- 
+107510 new {#grAha#}¦ {%<ab>a.</ab>%} ({#hI#} {%<ab>f.</ab>%}) [{#grah BAve GaY#}] <lbinfo n="Seiz+ing"/>
+;
+107512 old <>ing, clutching; taking, holding, <lbinfo n="re+ceiving"/>
+107512 new <>Seizing, clutching; taking, holding, <lbinfo n="re+ceiving"/>
+;
+; TODO Case 137: miser-able -> miserable (spell = True)
+; <L>12814<pc>0473-c<k1>grAmawikA<k2>grAmawikA
+107648 old {#grAmawikA#}¦ A wretched or miser- 
+107648 new {#grAmawikA#}¦ A wretched or <lbinfo n="miser+able"/>
+;
+107650 old <>able village;  <lbinfo n="katipayagrAmawikAparyawana#durvidagDa"/>
+107650 new <>miserable village;  <lbinfo n="katipayagrAmawikAparyawana#durvidagDa"/>
+;
+; TODO Case 138: copula-tion -> copulation (spell = True)
+; <L>12821<pc>0474-a<k1>grAmya<k2>grAmya
+107714 old <>{#--suKaM#} sexual intercourse, copula- 
+107714 new <>{#--suKaM#} sexual intercourse, <lbinfo n="copula+tion"/>
+;
+107716 old <>tion.
+107716 new <>copulation.
+;
+; TODO Case 139: atmos-phere -> atmosphere (spell = True)
+; <L>12876<pc>0476-b<k1>Gana<k2>Gana
+108190 old <>date-tree. {#--ASrayaH#} the atmos- 
+108190 new <>date-tree. {#--ASrayaH#} the <lbinfo n="atmos+phere"/>
+;
+108192 old <>phere, firmament. {#--uttamaH#} the face.
+108192 new <>atmosphere, firmament. {#--uttamaH#} the face.
+;
+; TODO Case 140: intoxi-cation -> intoxication (spell = True)
+; <L>12880<pc>0476-c<k1>GanAGana<k2>GanAGana
+108256 old <>vicious elephant, or one in rut or intoxi- 
+108256 new <>vicious elephant, or one in rut or <lbinfo n="intoxi+cation"/>
+;
+108258 old <>cation. {@--3@} A thick or raining cloud.
+108258 new <>intoxication. {@--3@} A thick or raining cloud.
+;
+; TODO Case 141: wheel-carriage -> wheelcarriage (spell = False)
+; <L>12995<pc>0480-b<k1>cakraM<k2>cakraM
+109130 old <>the discus and club. {#--yAnaM#} a wheel- 
+109130 new <>the discus and club. {#--yAnaM#} a <lbinfo n="wheel+carriage"/>
+;
+109132 old <>carriage. {#--radaH#} a hog. {#--vartin#} {%<ab>m.</ab>%} 1.
+109132 new <>wheelcarriage. {#--radaH#} a hog. {#--vartin#} {%<ab>m.</ab>%} 1.
+;
+; TODO Case 142: clash-ing -> clashing (spell = True)
+; <L>13034<pc>0482-a<k1>cawacawA<k2>cawacawA
+109436 old {#cawacawA#}¦ The sound of the clash- 
+109436 new {#cawacawA#}¦ The sound of the <lbinfo n="clash+ing"/>
+;
+109438 old <>ing of weapons, cracking of fire &c.
+109438 new <>clashing of weapons, cracking of fire &c.
+;
+; TODO Case 143: ac-complished -> accomplished (spell = True)
+; <L>13131<pc>0486-c<k1>carita<k2>carita
+110434 old <>{@--Comp.@} {#--arTa#} {%<ab>a.</ab>%} 1. that has ac- 
+110434 new <>{@--Comp.@} {#--arTa#} {%<ab>a.</ab>%} 1. that has <lbinfo n="ac+complished"/>
+;
+110436 old <>complished its end or desired object,
+110436 new <>accomplished its end or desired object,
+;
+; TODO Case 144: redoubt-able -> redoubtable (spell = True)
+; <L>13202<pc>0489-a<k1>cARUraH<k2>cARUraH
+110970 old <>Mathurā, Kaṃsa sent this redoubt- 
+110970 new <>Mathurā, Kaṃsa sent this <lbinfo n="redoubt+able"/>
+;
+110972 old <>able wrestler to fight with him;
+110972 new <>redoubtable wrestler to fight with him;
+;
+; TODO Case 145: Think-ing -> Thinking (spell = True)
+; <L>13327<pc>0493-a<k1>cittiH<k2>cittiH
+111897 old {#cittiH#}¦ {%<ab>f.</ab>%} [{#cit BAve ktin#}] {@1@} Think- 
+111897 new {#cittiH#}¦ {%<ab>f.</ab>%} [{#cit BAve ktin#}] {@1@} <lbinfo n="Think+ing"/>
+;
+111899 old <>ing, thought, reflection. {@--2@} <lbinfo n="Under+standing"/>
+111899 new <>Thinking, thought, reflection. {@--2@} <lbinfo n="Under+standing"/>
+;
+; TODO Case 146: con-tract -> contract (spell = True)
+; <L>13467<pc>0497-b<k1>cUR<k2>cUR
+112912 old {#cUR#}¦ 10 <ab>P.</ab> ({#cURayati#}) {@1@} To con- 
+112912 new {#cUR#}¦ 10 <ab>P.</ab> ({#cURayati#}) {@1@} To <lbinfo n="con+tract"/>
+;
+112914 old <>tract. {@--2@} To close, shrink.
+112914 new <>contract. {@--2@} To close, shrink.
+;
+; TODO Case 147: sha-dow -> shadow (spell = True)
+; <L>13609<pc>0501-a<k1>CAyA<k2>CAyA
+113796 old {#CAyA#}¦ [{#Co-Ra#} <ls>Uṇ. 4. 109</ls>] {@1@} Shade, sha- 
+113796 new {#CAyA#}¦ [{#Co-Ra#} <ls>Uṇ. 4. 109</ls>] {@1@} Shade, <lbinfo n="sha+dow"/>
+;
+113798 old <>dow (changed at the end of <ab>Tat.</ab> <ab>comp.</ab>
+113798 new <>shadow (changed at the end of <ab>Tat.</ab> <ab>comp.</ab>
+;
+; TODO Case 148: defi-ciency -> deficiency (spell = True)
+; <L>13630<pc>0502-a<k1>CedaH<k2>CedaH
+114005 old <>cleft. {@--7@} Deprivation, want, defi- 
+114005 new <>cleft. {@--7@} Deprivation, want, <lbinfo n="defi+ciency"/>
+;
+114007 old <>ciency. {@--8@} Failure; {#saMtaticCeda#} <ls>Ś. 6.</ls>
+114007 new <>deficiency. {@--8@} Failure; {#saMtaticCeda#} <ls>Ś. 6.</ls>
+;
+; TODO Case 149: Duryo-dhana -> Duryodhana (spell = False)
+; <L>13780<pc>0507-b<k1>jayadraTaH<k2>jayadraTaH
+115202 old <>district and brother-in-law of Duryo- 
+115202 new <>district and brother-in-law of <lbinfo n="Duryo+dhana"/>
+;
+115204 old <>dhana, having married Duḥśalā,
+115204 new <>Duryodhana, having married Duḥśalā,
+;
+; TODO Case 150: say-ing -> saying (spell = True)
+; <L>13819<pc>0509-c<k1>jalpanaM<k2>jalpanaM
+115694 old {#jalpanaM#}¦ {%<ab>a.</ab>%} [{#jalp-lyuw#}] Speaking, say- 
+115694 new {#jalpanaM#}¦ {%<ab>a.</ab>%} [{#jalp-lyuw#}] Speaking, <lbinfo n="say+ing"/>
+;
+115696 old <>ing, talking &c. {#--naM#} {@1@} Saying,
+115696 new <>saying, talking &c. {#--naM#} {@1@} Saying,
+;
+; TODO Case 151: vigi-lant -> vigilant (spell = True)
+; <L>13852<pc>0510-b<k1>jAgaritf<k2>jAgaritf
+115873 old <>{#kastava#} <ls>R. 10. 24.</ls> {@--2@} Watchful, vigi- 
+115873 new <>{#kastava#} <ls>R. 10. 24.</ls> {@--2@} Watchful, <lbinfo n="vigi+lant"/>
+;
+115875 old <>lant; {#varRASramAvekzaRajAgarUkaH#}  <lbinfo n="ls:R. 14.+ 85"/>
+115875 new <>vigilant; {#varRASramAvekzaRajAgarUkaH#}  <lbinfo n="ls:R. 14.+ 85"/>
+;
+; TODO Case 152: Cus-tomary -> Customary (spell = True)
+; <L>13895<pc>0512-a<k1>jAmi<k2>jAmi
+116243 old {#jAmi#}¦ {%<ab>a.</ab>%} [{#jam-in niº vfdDiH#}] {@1@} Cus- 
+116243 new {#jAmi#}¦ {%<ab>a.</ab>%} [{#jam-in niº vfdDiH#}] {@1@} <lbinfo n="Cus+tomary"/>
+;
+116245 old <>tomary, usual. {@--2@} Peculiar, or <lbinfo n="be+longing"/>
+116245 new <>Customary, usual. {@--2@} Peculiar, or <lbinfo n="be+longing"/>
+;
+; TODO Case 153: Slop-ing -> Sloping (spell = True)
+; <L>13965<pc>0514-b<k1>jihma<k2>jihma
+116785 old <>{#sanvat AlopaSca#} <ls>Uṇ. 1. 138</ls>] {@1@} Slop- 
+116785 new <>{#sanvat AlopaSca#} <ls>Uṇ. 1. 138</ls>] {@1@} <lbinfo n="Slop+ing"/>
+;
+116787 old <>ing, athwart, oblique. {@--2@} Crooked,
+116787 new <>Sloping, athwart, oblique. {@--2@} Crooked,
+;
+; TODO Case 154: acknow-ledge -> acknowledge (spell = True)
+; <L>14069<pc>0518-a<k1>jYA<k2>jYA
+117620 old <>({#sarpi zaH = sarpizA#}). {@--9@} <ab>Ved.</ab> To acknow- 
+117620 new <>({#sarpi zaH = sarpizA#}). {@--9@} <ab>Ved.</ab> To <lbinfo n="acknow+ledge"/>
+;
+117622 old <>ledge, approve, allow. {@--10@} To <lbinfo n="recog+nise"/>
+117622 new <>acknowledge, approve, allow. {@--10@} To <lbinfo n="recog+nise"/>
+;
+; TODO Case 155: murmur-ing -> murmuring (spell = True)
+; <L>14132<pc>0520-1<k1>JaMkAraH<k2>JaMkAraH, JaMkftaM
+118157 old {#JaMkAraH, JaMkftaM#}¦ A low murmur- 
+118157 new {#JaMkAraH, JaMkftaM#}¦ A low <lbinfo n="murmur+ing"/>
+;
+118159 old <>ing sound, as the buzzing of bees;
+118159 new <>murmuring sound, as the buzzing of bees;
+;
+; TODO Case 156: pe-nance -> penance (spell = True)
+; <L>14397<pc>0530-b<k1>tapas<k2>tapas
+120106 old <>country. {#--kara#} {%<ab>a.</ab>%} undergoing pe- 
+120106 new <>country. {#--kara#} {%<ab>a.</ab>%} undergoing <lbinfo n="pe+nance"/>
+;
+120108 old <>nance; also {#tapaskara#}. {#--kleSaH#} the pain
+120108 new <>penance; also {#tapaskara#}. {#--kleSaH#} the pain
+;
+; TODO Case 157: Affect-ed -> Affected (spell = True)
+; <L>14583<pc>0535-a<k1>tAmasa<k2>tAmasa
+121268 old <><ls>Māl. 9. 52</ls>; <ls>U. 5. 12.</ls> {@--2@} Affect- 
+121268 new <><ls>Māl. 9. 52</ls>; <ls>U. 5. 12.</ls> {@--2@} <lbinfo n="Affect+ed"/>
+;
+121270 old <>ed by or relating to {#tamas#} or the
+121270 new <>Affected by or relating to {#tamas#} or the
+;
+; TODO Case 158: em-phasize -> emphasize (spell = True)
+; <L>14633<pc>0537-a<k1>tAvat<k2>tAvat
+121712 old <>{#gacCa tAvat#}. {@--4@} Indeed, (to em- 
+121712 new <>{#gacCa tAvat#}. {@--4@} Indeed, (to <lbinfo n="em+phasize"/>
+;
+121714 old <>phasize an expression); {#tvameva #} <lbinfo n="tAva#tpraTamo"/>
+121714 new <>emphasize an expression); {#tvameva #} <lbinfo n="tAva#tpraTamo"/>
+;
+; TODO Case 159: des-pised -> despised (spell = True)
+; <L>14682<pc>0538-b<k1>tiraskfta<k2>tiraskfta
+122037 old {#tiraskfta#}¦ {%<ab>p. p.</ab>%} {@1@} Disregarded, des- 
+122037 new {#tiraskfta#}¦ {%<ab>p. p.</ab>%} {@1@} Disregarded, <lbinfo n="des+pised"/>
+;
+122039 old <>pised. {@--2@} Abused, condemned. {@--3@}
+122039 new <>despised. {@--2@} Abused, condemned. {@--3@}
+;
+; TODO Case 160: strengthen-ing -> strengthening (spell = True)
+; <L>14936<pc>0546-a<k1>tejas<k2>tejas
+123845 old <><ls>Ś. 4. 2.</ls> {@--26@} The heating and strengthen- 
+123845 new <><ls>Ś. 4. 2.</ls> {@--26@} The heating and <lbinfo n="strengthen+ing"/>
+;
+123847 old <>ing faculty of the human frame
+123847 new <>strengthening faculty of the human frame
+;
+; TODO Case 161: mo-dern -> modern (spell = True)
+; <L>14965<pc>0546-c<k1>tElaMgaH<k2>tElaMgaH
+124015 old {#tElaMgaH#}¦ <ab>N.</ab> of a country, the mo- 
+124015 new {#tElaMgaH#}¦ <ab>N.</ab> of a country, the <lbinfo n="mo+dern"/>
+;
+124017 old <>dern Telangaṇa or Carnatic. {#--gAH#}
+124017 new <>modern Telangaṇa or Carnatic. {#--gAH#}
+;
+; TODO Case 162: in-jure -> injure (spell = True)
+; <L>15111<pc>0553-b<k1>Turv<k2>Turv
+125350 old {#Turv#}¦ 1 <ab>P.</ab> ({#Tu-TUrvati#}) To hurt, in- 
+125350 new {#Turv#}¦ 1 <ab>P.</ab> ({#Tu-TUrvati#}) To hurt, <lbinfo n="in+jure"/>
+;
+125352 old <>jure.
+125352 new <>injure.
+;
+; TODO Case 163: Sa-vage -> Savage (spell = True)
+; <L>15285<pc>0560-b<k1>dasra<k2>dasra
+126977 old {#dasra#}¦ {%<ab>a.</ab>%} [{#dasyati pAMsUn das-rak#}] Sa- 
+126977 new {#dasra#}¦ {%<ab>a.</ab>%} [{#dasyati pAMsUn das-rak#}] <lbinfo n="Sa+vage"/>
+;
+126979 old <>vage, fierce, destructive. {#--srO#} ({%<ab>m.</ab>%}
+126979 new <>Savage, fierce, destructive. {#--srO#} ({%<ab>m.</ab>%}
+;
+; TODO Case 164: Va-sishṭha -> Vasishṭha (spell = False)
+; <L>15428<pc>0565-a<k1>dilIpaH<k2>dilIpaH
+128056 old <>this he went to his family priest Va- 
+128056 new <>this he went to his family priest <lbinfo n="Va+sishṭha"/>
+;
+128058 old <>sishṭha who told him and his wife to
+128058 new <>Vasishṭha who told him and his wife to
+;
+; TODO Case 165: ille-gal -> illegal (spell = True)
+; <L>15513<pc>0569-b<k1>dur<k2>dur
+129033 old <>approach. {#--AgamaH#} improper or ille- 
+129033 new <>approach. {#--AgamaH#} improper or <lbinfo n="ille+gal"/>
+;
+129035 old <>gal acquisition. {#--AgrahaH#} foolish <lbinfo n="ob+stinacy"/>
+129035 new <>illegal acquisition. {#--AgrahaH#} foolish <lbinfo n="ob+stinacy"/>
+;
+; TODO Case 166: in-solent -> insolent (spell = True)
+; <L>15513<pc>0569-b<k1>dur<k2>dur
+129207 old <><ls>Śi. 12. 22.</ls> --2. intractable, proud, in- 
+129207 new <><ls>Śi. 12. 22.</ls> --2. intractable, proud, <lbinfo n="in+solent"/>
+;
+129209 old <>solent; {#durdAMtAnAM damanaviDayaH #} <lbinfo n="kzatriyezvA#yataMte"/>
+129209 new <>insolent; {#durdAMtAnAM damanaviDayaH #} <lbinfo n="kzatriyezvA#yataMte"/>
+;
+; TODO Case 167: Even-ing -> Evening (spell = True)
+; <L>15536<pc>0573-a<k1>dozaH<k2>dozaH
+129666 old <>{@--10@} A calf. {@--11@} Refutation. {@--12@} Even- 
+129666 new <>{@--10@} A calf. {@--11@} Refutation. {@--12@} <lbinfo n="Even+ing"/>
+;
+129668 old <>ing, dusk; <ab>cf.</ab> {#dozA#}. {@--Comp.@} {#--Akara#}
+129668 new <>Evening, dusk; <ab>cf.</ab> {#dozA#}. {@--Comp.@} {#--Akara#}
+;
+; TODO Case 168: Ma-hābhārata -> Mahābhārata (spell = False)
+; <L>15543<pc>0573-b<k1>duzyaMtaH<k2>duzyaMtaH
+129742 old <>Duṣyanta and Śakuntalā given in the Ma- 
+129742 new <>Duṣyanta and Śakuntalā given in the <lbinfo n="Ma+hābhārata"/>
+;
+129744 old <>hābhārata; the story told by <lbinfo n="Kālidā+sa"/>
+129744 new <>Mahābhārata; the story told by <lbinfo n="Kālidā+sa"/>
+;
+; TODO Case 169: Dis-tance -> Distance (spell = True)
+; <L>15561<pc>0574-c<k1>dUra<k2>dUra
+130013 old <>{#vAhyamAnasya tfzRayA#} <ls>H. 1. 146</ls>, 49. {#--raM#} Dis- 
+130013 new <>{#vAhyamAnasya tfzRayA#} <ls>H. 1. 146</ls>, 49. {#--raM#} <lbinfo n="Dis+tance"/>
+;
+130015 old <>tance, remoteness. [{%<ab>N. B.</ab>%} Some
+130015 new <>Distance, remoteness. [{%<ab>N. B.</ab>%} Some
+;
+; TODO Case 170: vi-sion -> vision (spell = True)
+; <L>15600<pc>0576-c<k1>darSana<k2>darSana
+130432 old <>court); <ls>Ms. 8. 158</ls>, 160. {@--12@} A vi- 
+130432 new <>court); <ls>Ms. 8. 158</ls>, 160. {@--12@} A <lbinfo n="vi+sion"/>
+;
+130434 old <>sion, dream. {@--13@} Discernment, <lbinfo n="under+standing"/>
+130434 new <>vision, dream. {@--13@} Discernment, <lbinfo n="under+standing"/>
+;
+; TODO Case 171: con-sidered -> considered (spell = True)
+; <L>15613<pc>0577-b<k1>dfzwa<k2>dfzwa
+130574 old <>{#--doza#} {%<ab>a.</ab>%} 1. found fault with, con- 
+130574 new <>{#--doza#} {%<ab>a.</ab>%} 1. found fault with, <lbinfo n="con+sidered"/>
+;
+130576 old <>sidered to be faulty; <ls>Ś. 2.</ls> --2. <lbinfo n="vi+cious"/>
+130576 new <>considered to be faulty; <ls>Ś. 2.</ls> --2. <lbinfo n="vi+cious"/>
+;
+; TODO Case 172: (usu-ally -> (usually (spell = True)
+; <L>15768<pc>0583-c<k1>dyUtaH<k2>dyUtaH, --taM
+131973 old <>of the bright half of Kārtika (usu- 
+131973 new <>of the bright half of Kārtika <lbinfo n="(usu+ally"/>
+;
+131975 old <>ally spent in gambling). {#--vIjaM#}
+131975 new <>(usually spent in gambling). {#--vIjaM#}
+;
+; TODO Case 173: re-ligious -> religious (spell = True)
+; <L>15835<pc>0585-c<k1>drohaH<k2>drohaH
+132449 old <>Rebellion. {@--Comp.@} {#--awaH#} 1. a re- 
+132449 new <>Rebellion. {@--Comp.@} {#--awaH#} 1. a <lbinfo n="re+ligious"/>
+;
+132451 old <>ligious impostor, hypocrite, <lbinfo n="impost+or"/>
+132451 new <>religious impostor, hypocrite, <lbinfo n="impost+or"/>
+;
+; TODO Case 174: wonder-ful -> wonderful (spell = True)
+; <L>15846<pc>0586-a<k1>droRaH<k2>droRaH
+132528 old <>four successive days, achieving wonder- 
+132528 new <>four successive days, achieving <lbinfo n="wonder+ful"/>
+;
+132530 old <>ful exploits and killing thousands of
+132530 new <>wonderful exploits and killing thousands of
+;
+; TODO Case 175: Brāh-maṇa -> Brāhmaṇa (spell = False)
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132870 old <>a man who pretends to be a Brāh- 
+132870 new <>a man who pretends to be a <lbinfo n="Brāh+maṇa"/>
+;
+132872 old <>maṇa. --2. one who is ‘twice-born’
+132872 new <>Brāhmaṇa. --2. one who is ‘twice-born’
+;
+; TODO Case 176: consist-ing -> consisting (spell = True)
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132927 old <>twelve-fold. {#ºsahasra#} {%<ab>a.</ab>%} consist- 
+132927 new <>twelve-fold. {#ºsahasra#} {%<ab>a.</ab>%} <lbinfo n="consist+ing"/>
+;
+132929 old <>ing of 12000. {#--daSI (dvAdaSI)#} the
+132929 new <>consisting of 12000. {#--daSI (dvAdaSI)#} the
+;
+; TODO Case 177: En-mity -> Enmity (spell = True)
+; <L>15887<pc>0589-a<k1>dvezaH<k2>dvezaH
+133136 old <>27; so {#annadvezaH, BaktadvezaH#} &c. {@--2@} En- 
+133136 new <>27; so {#annadvezaH, BaktadvezaH#} &c. {@--2@} <lbinfo n="En+mity"/>
+;
+133138 old <>mity, hostility, malignity;  <lbinfo n="ls:Ms. 8.+ 225."/>
+133138 new <>Enmity, hostility, malignity;  <lbinfo n="ls:Ms. 8.+ 225."/>
+;
+; TODO Case 178: Sagitta-rius -> Sagittarius (spell = True)
+; <L>15944<pc>0591-a<k1>Danus<k2>Danus
+133567 old <>of a circle. {@--4@} The sign Sagitta- 
+133567 new <>of a circle. {@--4@} The sign <lbinfo n="Sagitta+rius"/>
+;
+133569 old <>rius of the zodiac. {@--5@} A desert; <ab>cf.</ab>
+133569 new <>Sagittarius of the zodiac. {@--5@} A desert; <ab>cf.</ab>
+;
+; TODO Case 179: Belong-ing -> Belonging (spell = True)
+; <L>16044<pc>0596-c<k1>DArma<k2>DArma
+134740 old {#DArma#}¦ {%<ab>a.</ab>%} [{#DarmasyedaM aR#}] Belong- 
+134740 new {#DArma#}¦ {%<ab>a.</ab>%} [{#DarmasyedaM aR#}] <lbinfo n="Belong+ing"/>
+;
+134742 old <>ing to justice or {%Dharma%} <ab>q. v.</ab>
+134742 new <>Belonging to justice or {%Dharma%} <ab>q. v.</ab>
+;
+; TODO Case 180: destroy-ing -> destroying (spell = True)
+; <L>16144<pc>0600-c<k1>DftiH<k2>DftiH
+135628 old <>A sacrifice. {@--Comp.@} {#--muz#} {%<ab>a.</ab>%} destroy- 
+135628 new <>A sacrifice. {@--Comp.@} {#--muz#} {%<ab>a.</ab>%} <lbinfo n="destroy+ing"/>
+;
+135630 old <>ing all composure, discomposing.
+135630 new <>destroying all composure, discomposing.
+;
+; TODO Case 181: hypo-crite -> hypocrite (spell = True)
+; <L>16277<pc>0605-b<k1>nagna<k2>nagna
+136676 old <>mendicant ({#kzapaRaka#}). {@--3@} A hypo- 
+136676 new <>mendicant ({#kzapaRaka#}). {@--3@} A <lbinfo n="hypo+crite"/>
+;
+136678 old <>crite. {@--4@} A bard accompanying an
+136678 new <>hypocrite. {@--4@} A bard accompanying an
+;
+; TODO Case 182: Viṣ-ṇu -> Viṣṇu (spell = False)
+; <L>16369<pc>0609-a<k1>naraH<k2>naraH
+137494 old <>road. {#--uttamaH#} 1. an epithet of Viṣ- 
+137494 new <>road. {#--uttamaH#} 1. an epithet of <lbinfo n="Viṣ+ṇu"/>
+;
+137496 old <>ṇu. --2. of Buddha. {#--fzaBaH#} ‘the
+137496 new <>Viṣṇu. --2. of Buddha. {#--fzaBaH#} ‘the
+;
+; TODO Case 183: de-prived -> deprived (spell = True)
+; <L>16423<pc>0611-b<k1>nazwa<k2>nazwa
+138008 old <>the day of new moon. {#--iMdriya#} {%<ab>a.</ab>%} de- 
+138008 new <>the day of new moon. {#--iMdriya#} {%<ab>a.</ab>%} <lbinfo n="de+prived"/>
+;
+138010 old <>prived of senses. {#--cetana, --cezwa, --saMjYa#}
+138010 new <>deprived of senses. {#--cetana, --cezwa, --saMjYa#}
+;
+; TODO Case 184: non-per-ception -> non-perception (spell = False)
+; <L>16543<pc>0616-b<k1>nASaH<k2>nASaH
+139099 old <>{@--8@} Want of apprehension, non-per- 
+139099 new <>{@--8@} Want of apprehension, <lbinfo n="non-per+ception"/>
+;
+139101 old <>ception ({#anupalaMBa#}).
+139101 new <>non-perception ({#anupalaMBa#}).
+;
+; TODO Case 185: habita-tion -> habitation (spell = True)
+; <L>16596<pc>0617-c<k1>nikAyaH<k2>nikAyaH
+139430 old <>like duties. {@--3@} A house, habita- 
+139430 new <>like duties. {@--3@} A house, <lbinfo n="habita+tion"/>
+;
+139432 old <>tion, dwelling-place; {#kASInikAyaH#}
+139432 new <>habitation, dwelling-place; {#kASInikAyaH#}
+;
+; TODO Case 186: of-fended -> offended (spell = True)
+; <L>16610<pc>0618-a<k1>nikfta<k2>nikfta
+139513 old <>down, humiliated. {@--2@} Insulted, of- 
+139513 new <>down, humiliated. {@--2@} Insulted, <lbinfo n="of+fended"/>
+;
+139515 old <>fended; <ls>U. 6. 14.</ls> {@--3@} Deceived,
+139515 new <>offended; <ls>U. 6. 14.</ls> {@--3@} Deceived,
+;
+; TODO Case 187: defini-tion -> definition (spell = True)
+; <L>16837<pc>0625-b<k1>niyamaH<k2>niyamaH
+141209 old <>the rains &c. {@--17@} Defining, defini- 
+141209 new <>the rains &c. {@--17@} Defining, <lbinfo n="defini+tion"/>
+;
+141211 old <>tion. {@--18@} Keeping down, lowering
+141211 new <>definition. {@--18@} Keeping down, lowering
+;
+; TODO Case 188: wake-ful -> wakeful (spell = True)
+; <L>16862<pc>0626-b<k1>nir<k2>nir
+141837 old <>banishing. {#--nidra#} {%<ab>a.</ab>%} sleepless, wake- 
+141837 new <>banishing. {#--nidra#} {%<ab>a.</ab>%} sleepless, <lbinfo n="wake+ful"/>
+;
+141839 old <>ful. {#--nimitta#} {%<ab>a.</ab>%} causeless. {#--nimeza#}
+141839 new <>wakeful. {#--nimitta#} {%<ab>a.</ab>%} causeless. {#--nimeza#}
+;
+; TODO Case 189: ‘indiscrimina-tely -> ‘indiscriminately (spell = True)
+; <L>16863<pc>0629-b<k1>muwaH<k2>muwaH
+142069 old <>difference’, ‘equally’, ‘indiscrimina- 
+142069 new <>difference’, ‘equally’, <lbinfo n="‘indiscrimina+tely"/>
+;
+142071 old <>tely’; {#svagfhanirviSezamatra sTIyatAM#} <ls>H. 1</ls>;
+142071 new <>‘indiscriminately’; {#svagfhanirviSezamatra sTIyatAM#} <ls>H. 1</ls>;
+;
+; TODO Case 190: Opposi-tion -> Opposition (spell = True)
+; <L>16880<pc>0631-a<k1>nirAkftiH<k2>nirAkftiH
+142276 old <>impediment, interruption. {@--4@} Opposi- 
+142276 new <>impediment, interruption. {@--4@} <lbinfo n="Opposi+tion"/>
+;
+142278 old <>tion.
+142278 new <>Opposition.
+;
+; TODO Case 191: search-ing -> searching (spell = True)
+; <L>16900<pc>0631-c<k1>nirUpaRaM<k2>nirUpaRaM --RA
+142431 old <>Sight, seeing. {@--3@} Looking for, search- 
+142431 new <>Sight, seeing. {@--3@} Looking for, <lbinfo n="search+ing"/>
+;
+142433 old <>ing. {@--4@} Ascertaining, investigation;
+142433 new <>searching. {@--4@} Ascertaining, investigation;
+;
+; TODO Case 192: de-mand -> demand (spell = True)
+; <L>16976<pc>0633-b<k1>nirbaMDaH<k2>nirbaMDaH
+142867 old <><ls>Ku. 5. 66.</ls> {@--2@} Importunity, a pressing de- 
+142867 new <><ls>Ku. 5. 66.</ls> {@--2@} Importunity, a pressing <lbinfo n="de+mand"/>
+;
+142869 old <>mand or request, urgency;  <lbinfo n="nirbaMDa#pfzwaH"/>
+142869 new <>demand or request, urgency;  <lbinfo n="nirbaMDa#pfzwaH"/>
+;
+; TODO Case 193: ob-lations -> oblations (spell = True)
+; <L>17040<pc>0635-b<k1>nirvApaRaM<k2>nirvApaRaM
+143337 old <>Offering, giving. ({%b%}) Offering ob- 
+143337 new <>Offering, giving. ({%b%}) Offering <lbinfo n="ob+lations"/>
+;
+143339 old <>lations (especially funeral). {@--6@}
+143339 new <>oblations (especially funeral). {@--6@}
+;
+; TODO Case 194: extract-ing -> extracting (spell = True)
+; <L>17211<pc>0640-c<k1>nizkarzaRaM<k2>nizkarzaRaM
+144592 old {#nizkarzaRaM#}¦ {@1@} Drawing out, extract- 
+144592 new {#nizkarzaRaM#}¦ {@1@} Drawing out, <lbinfo n="extract+ing"/>
+;
+144594 old <>ing, pulling off; <ls>R. 12. 97.</ls> {@--2@} <lbinfo n="De+ducting"/>
+144594 new <>extracting, pulling off; <ls>R. 12. 97.</ls> {@--2@} <lbinfo n="De+ducting"/>
+;
+; TODO Case 195: spot-less -> spotless (spell = True)
+; <L>17254<pc>0642-a<k1>nis<k2>nis
+144906 old <>{#--kalmaza (nizkalaMka)#} {%<ab>a.</ab>%} stainless, spot- 
+144906 new <>{#--kalmaza (nizkalaMka)#} {%<ab>a.</ab>%} stainless, <lbinfo n="spot+less"/>
+;
+144908 old <>less. {#--kazAya#} ({#nizkazAya#} &c.) {%<ab>a.</ab>%} free
+144908 new <>spotless. {#--kazAya#} ({#nizkazAya#} &c.) {%<ab>a.</ab>%} free
+;
+; TODO Case 196: cause-less -> causeless (spell = False)
+; <L>17254<pc>0642-a<k1>nis<k2>nis
+145077 old <>influenced by any motive. --2. cause- 
+145077 new <>influenced by any motive. --2. <lbinfo n="cause+less"/>
+;
+145079 old <>less, groundless. --3. useless. --4.
+145079 new <>causeless, groundless. --3. useless. --4.
+;
+; TODO Case 197: com-pact -> compact (spell = True)
+; <L>17254<pc>0642-a<k1>nis<k2>nis
+145135 old <>{%<ab>a.</ab>%} having no joints perceptible, com- 
+145135 new <>{%<ab>a.</ab>%} having no joints perceptible, <lbinfo n="com+pact"/>
+;
+145137 old <>pact, firm, close. {#--sapatna (niHsapatna)#}
+145137 new <>compact, firm, close. {#--sapatna (niHsapatna)#}
+;
+; TODO Case 198: ‘natural-ly -> ‘naturally (spell = True)
+; <L>17259<pc>0643-c<k1>nisargaH<k2>nisargaH
+145202 old <>{#nisargataH, nisargeRa#} ‘by nature’, or ‘natural- 
+145202 new <>{#nisargataH, nisargeRa#} ‘by nature’, or <lbinfo n="‘natural+ly"/>
+;
+145204 old <>ly’. {@--7@} Exchange, barter. {@--Comp.@}
+145204 new <>‘naturally’. {@--7@} Exchange, barter. {@--Comp.@}
+;
+; TODO Case 199: pru-dent -> prudent (spell = True)
+; <L>17296<pc>0645-a<k1>nItiH<k2>nItiH
+145503 old <>policits, a statesman, politician. --2 pru- 
+145503 new <>policits, a statesman, politician. --2 <lbinfo n="pru+dent"/>
+;
+145505 old <>dent, wise. {#--GozaH#} <ab>N.</ab> of the car of
+145505 new <>prudent, wise. {#--GozaH#} <ab>N.</ab> of the car of
+;
+; TODO Case 200: percep-tible -> perceptible (spell = True)
+; <L>17364<pc>0648-a<k1>netraM<k2>netraM
+146152 old <>within the range of sight, percep- 
+146152 new <>within the range of sight, <lbinfo n="percep+tible"/>
+;
+146154 old <>tible, visible. {#--CadaH#} the eyelid.
+146154 new <>perceptible, visible. {#--CadaH#} the eyelid.
+;
+; TODO Case 201: ma-xim -> maxim (spell = True)
+; <L>17497<pc>0651-c<k1>kAkadaMtagavezaRanyAyaH<k2>kAkadaMtagavezaRanyAyaH<h>8
+147033 old {#kAkadaMtagavezaRanyAyaH#}^8.¦ The ma- 
+147033 new {#kAkadaMtagavezaRanyAyaH#}^8.¦ The <lbinfo n="ma+xim"/>
+;
+147035 old <>xim of searching after a crow's
+147035 new <>maxim of searching after a crow's
+;
+; TODO Case 202: per-formed -> performed (spell = True)
+; <L>17538<pc>0653-1<k1>pakzaH<k2>pakzaH
+147556 old <>a fortnight. --2. a rite to be per- 
+147556 new <>a fortnight. --2. a rite to be <lbinfo n="per+formed"/>
+;
+147558 old <>formed every fortnight.
+147558 new <>performed every fortnight.
+;
+; TODO Case 203: fort-night -> fortnight (spell = True)
+; <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+148117 old <>the fifteenth day of a lunar fort- 
+148117 new <>the fifteenth day of a lunar <lbinfo n="fort+night"/>
+;
+148119 old <>night. {#--dIrGaM#} the five long parts of
+148119 new <>fortnight. {#--dIrGaM#} the five long parts of
+;
+; TODO Case 204: re-ceipts -> receipts (spell = True)
+; <L>17609<pc>0658-b<k1>paMjikA<k2>paMjikA
+148391 old <>journal, a book in which accounts of re- 
+148391 new <>journal, a book in which accounts of <lbinfo n="re+ceipts"/>
+;
+148393 old <>ceipts and expenditure are entered.
+148393 new <>receipts and expenditure are entered.
+;
+; TODO Case 205: for-feit -> forfeit (spell = True)
+; <L>17662<pc>0660-b<k1>pat<k2>pat
+148839 old <>a moral sense), lose one's caste, for- 
+148839 new <>a moral sense), lose one's caste, <lbinfo n="for+feit"/>
+;
+148841 old <>feit one's rank or position, fall off:
+148841 new <>forfeit one's rank or position, fall off:
+;
+; TODO Case 206: draw-ing -> drawing (spell = True)
+; <L>17700<pc>0662-a<k1>patraM<k2>patraM
+149203 old <>an oar. {#--BaMgaH --BAMgiH --gI#} {%<ab>f.</ab>%} draw- 
+149203 new <>an oar. {#--BaMgaH --BAMgiH --gI#} {%<ab>f.</ab>%} <lbinfo n="draw+ing"/>
+;
+149205 old <>ing lines or figures of painting
+149205 new <>drawing lines or figures of painting
+;
+; TODO Case 207: devot-ed -> devoted (spell = True)
+; <L>17765<pc>0665-c<k1>para<k2>para
+149966 old <>engrossed in, intent on, solely devot- 
+149966 new <>engrossed in, intent on, solely <lbinfo n="devot+ed"/>
+;
+149968 old <>ed to, wholly engaged or occupied
+149968 new <>devoted to, wholly engaged or occupied
+;
+; TODO Case 208: ripen-ed -> ripened (spell = True)
+; <L>17984<pc>0674-b<k1>pariRata<k2>pariRata
+151894 old <><ls>K. 35</ls>, 62, 63. {@--3@} Ripe, matured, ripen- 
+151894 new <><ls>K. 35</ls>, 62, 63. {@--3@} Ripe, matured, <lbinfo n="ripen+ed"/>
+;
+151896 old <>ed, fully developed or formed; {#Sa#}
+151896 new <>ripened, fully developed or formed; {#Sa#}
+;
+; TODO Case 209: com-pared -> compared (spell = True)
+; <L>17988<pc>0674-c<k1>pariRAmaH<k2>pari(rI)RAmaH
+151960 old <>transferred to that with which it is com- 
+151960 new <>transferred to that with which it is <lbinfo n="com+pared"/>
+;
+151962 old <>pared. (The Candrāloka thus <lbinfo n="de+fines"/>
+151962 new <>compared. (The Candrāloka thus <lbinfo n="de+fines"/>
+;
+; TODO Case 210: Contrac-tion -> Contraction (spell = True)
+; <L>18246<pc>0680-c<k1>parivfttiH<k2>parivfttiH
+153491 old <>or dwelling in a place. {@--7@} Contrac- 
+153491 new <>or dwelling in a place. {@--7@} <lbinfo n="Contrac+tion"/>
+;
+153493 old <>tion of the prepuce. {@--8@} (In <ab>Rhet.</ab>)
+153493 new <>Contraction of the prepuce. {@--8@} (In <ab>Rhet.</ab>)
+;
+; TODO Case 211: investi-gator -> investigator (spell = True)
+; <L>18355<pc>0683-b<k1>parIkzakaH<k2>parIkzakaH
+154160 old {#parIkzakaH#}¦ An examiner, investi- 
+154160 new {#parIkzakaH#}¦ An examiner, <lbinfo n="investi+gator"/>
+;
+154162 old <>gator, a judge.
+154162 new <>investigator, a judge.
+;
+; TODO Case 212: moun-taineer -> mountaineer (spell = True)
+; <L>18468<pc>0686-b<k1>parvataH<k2>parvataH
+154890 old <>v. {#--ASrayin#} {%<ab>m.</ab>,%} {#--ASrayaH#} a moun- 
+154890 new <>v. {#--ASrayin#} {%<ab>m.</ab>,%} {#--ASrayaH#} a <lbinfo n="moun+taineer"/>
+;
+154892 old <>taineer. {#--kAkaH#} a raven. {#--jA#} a
+154892 new <>mountaineer. {#--kAkaH#} a raven. {#--jA#} a
+;
+; TODO Case 213: Puri-fication -> Purification (spell = True)
+; <L>18519<pc>0687-c<k1>pavaH<k2>pavaH
+155216 old {#pavaH#}¦ [{#pU-BAve-ap#}] {@1@} Wind. {@--2@} Puri- 
+155216 new {#pavaH#}¦ [{#pU-BAve-ap#}] {@1@} Wind. {@--2@} <lbinfo n="Puri+fication"/>
+;
+155218 old <>fication. {@--3@} A marsh. {@--4@} <lbinfo n="Winnow+ing"/>
+155218 new <>Purification. {@--3@} A marsh. {@--4@} <lbinfo n="Winnow+ing"/>
+;
+; TODO Case 214: flatu-lence -> flatulence (spell = True)
+; <L>18556<pc>0689-c<k1>pAka<k2>pAka
+155635 old <>heat. ({#jaM#}) 1. black salt. --2. flatu- 
+155635 new <>heat. ({#jaM#}) 1. black salt. --2. <lbinfo n="flatu+lence"/>
+;
+155637 old <>lence. {#--pAtraM, --BAMqaM#} a cooking-utensil.
+155637 new <>flatulence. {#--pAtraM, --BAMqaM#} a cooking-utensil.
+;
+; TODO Case 215: rea-son -> reason (spell = True)
+; <L>18629<pc>0691-c<k1>pAMqu<k2>pAMqu
+156121 old <>because he was born pale ({#pAMqu#}) by rea- 
+156121 new <>because he was born pale ({#pAMqu#}) by <lbinfo n="rea+son"/>
+;
+156123 old <>son of his mother having become quite
+156123 new <>reason of his mother having become quite
+;
+; TODO Case 216: vir-tuous -> virtuous (spell = True)
+; <L>18902<pc>0700-a<k1>piMgala<k2>piMgala
+158086 old <>remarkable for her piety and vir- 
+158086 new <>remarkable for her piety and <lbinfo n="vir+tuous"/>
+;
+158088 old <>tuous life; (the Bhāgavata <lbinfo n="men+tions"/>
+158088 new <>virtuous life; (the Bhāgavata <lbinfo n="men+tions"/>
+;
+; TODO Case 217: parti-cularly -> particularly (spell = True)
+; <L>18968<pc>0702-a<k1>pitf<k2>pitf
+158619 old <>half of Bhādrapada which is parti- 
+158619 new <>half of Bhādrapada which is <lbinfo n="parti+cularly"/>
+;
+158621 old <>cularly appointed for the <lbinfo n="celebra+tion"/>
+158621 new <>particularly appointed for the <lbinfo n="celebra+tion"/>
+;
+; TODO Case 218: en-joyment -> enjoyment (spell = True)
+; <L>18997<pc>0703-b<k1>pippalaH<k2>pippalaH
+158847 old <>the holy fig-tree. {@--3@} Sensual en- 
+158847 new <>the holy fig-tree. {@--3@} Sensual <lbinfo n="en+joyment"/>
+;
+158849 old <>joyment. {@--4@} Water.
+158849 new <>enjoyment. {@--4@} Water.
+;
+; TODO Case 219: despic-able -> despicable (spell = True)
+; <L>19157<pc>0711-b<k1>puruzaH<k2>puruzaH
+160537 old <>vilest of men, a very low or despic- 
+160537 new <>vilest of men, a very low or <lbinfo n="despic+able"/>
+;
+160539 old <>able man. {#--aDikAraH#} 1. a manly
+160539 new <>despicable man. {#--aDikAraH#} 1. a manly
+;
+; TODO Case 220: flow-ers -> flowers (spell = True)
+; <L>19199<pc>0713-b<k1>puzpaM<k2>puzpaM
+160967 old <>liquor. {#--ApIqaH#} a chaplet of flow- 
+160967 new <>liquor. {#--ApIqaH#} a chaplet of <lbinfo n="flow+ers"/>
+;
+160969 old <>ers. {#--AyuDaH, -izuH#} the god of love.
+160969 new <>flowers. {#--AyuDaH, -izuH#} the god of love.
+;
+; TODO Case 221: gen-erally -> generally (spell = True)
+; <L>19371<pc>0720-c<k1>pEtra<k2>pEtra
+162571 old <>Relating to a father or ancestors gen- 
+162571 new <>Relating to a father or ancestors <lbinfo n="gen+erally"/>
+;
+162573 old <>erally, paternal, ancestral. {@--2@} <lbinfo n="Sa+cred"/>
+162573 new <>generally, paternal, ancestral. {@--2@} <lbinfo n="Sa+cred"/>
+;
+; TODO Case 222: con-sciousness -> consciousness (spell = True)
+; <L>19529<pc>0725-a<k1>prakftiH<k2>prakftiH
+163618 old <>to one's senses’, ‘regain one's con- 
+163618 new <>to one's senses’, ‘regain one's <lbinfo n="con+sciousness"/>
+;
+163620 old <>sciousness’. {@--2@} Natural disposition,
+163620 new <>consciousness’. {@--2@} Natural disposition,
+;
+; TODO Case 223: draw-ing -> drawing (spell = True)
+; <L>19534<pc>0725-c<k1>prakarzaRa<k2>prakarzaRa
+163744 old <>troubling. {#--RaM#} {@1@} The act of draw- 
+163744 new <>troubling. {#--RaM#} {@1@} The act of <lbinfo n="draw+ing"/>
+;
+163746 old <>ing away; attracting. {@--2@} Ploughing.
+163746 new <>drawing away; attracting. {@--2@} Ploughing.
+;
+; TODO Case 224: god-dess -> goddess (spell = True)
+; <L>19723<pc>0730-c<k1>prajYA<k2>prajYA
+164978 old <>learned woman. {@--5@} <ab>N.</ab> of the god- 
+164978 new <>learned woman. {@--5@} <ab>N.</ab> of the <lbinfo n="god+dess"/>
+;
+164980 old <>dess Sarasvatī. {@--Comp.@} {#--cakzus#}
+164980 new <>goddess Sarasvatī. {@--Comp.@} {#--cakzus#}
+;
+; TODO Case 225: re-pelled -> repelled (spell = True)
+; <L>19776<pc>0732-c<k1>praRutta<k2>praRutta
+165427 old {#praRutta#}¦ {%<ab>p. p.</ab>%} {@1@} Driven away, re- 
+165427 new {#praRutta#}¦ {%<ab>p. p.</ab>%} {@1@} Driven away, <lbinfo n="re+pelled"/>
+;
+165429 old <>pelled. {@--2@} Scared away.
+165429 new <>repelled. {@--2@} Scared away.
+;
+; TODO Case 226: ele-phant -> elephant (spell = True)
+; <L>19801<pc>0733-b<k1>prati<k2>prati
+165763 old <><ls>Ku. 3. 56.</ls> {#--gajaH#} a hostile ele- 
+165763 new <><ls>Ku. 3. 56.</ls> {#--gajaH#} a hostile <lbinfo n="ele+phant"/>
+;
+165765 old <>phant {#--gAtraM#} {%<ab>ind.</ab>%} in very limb.
+165765 new <>elephant {#--gAtraM#} {%<ab>ind.</ab>%} in very limb.
+;
+; TODO Case 227: en-velop -> envelop (spell = True)
+; <L>19853<pc>0736-c<k1>praticCad<k2>praticCad
+166268 old {#praticCad#}¦ 10 <ab>U.</ab> {@1@} To cover, en- 
+166268 new {#praticCad#}¦ 10 <ab>U.</ab> {@1@} To cover, <lbinfo n="en+velop"/>
+;
+166270 old <>velop, clothe. {@--2@} To hide, conceal.
+166270 new <>envelop, clothe. {@--2@} To hide, conceal.
+;
+; TODO Case 228: re-spectfully -> respectfully (spell = True)
+; <L>19921<pc>0738-c<k1>pratipUj<k2>pratipUj
+166747 old <>return. {@--2@} To honour, salute re- 
+166747 new <>return. {@--2@} To honour, salute <lbinfo n="re+spectfully"/>
+;
+166749 old <>spectfully, esteem. {@--3@} To commend,
+166749 new <>respectfully, esteem. {@--3@} To commend,
+;
+; TODO Case 229: concep-tion -> conception (spell = True)
+; <L>19964<pc>0739-c<k1>pratiBA<k2>pratiBA
+167004 old <><ls>Vikr. 1. 18</ls>, 23. {@--4@} Genius, bright concep- 
+167004 new <><ls>Vikr. 1. 18</ls>, 23. {@--4@} Genius, bright <lbinfo n="concep+tion"/>
+;
+167006 old <>tion, vivid imagination; ({#prajYA #} <lbinfo n="navana#vonmezaSAlinI"/>
+167006 new <>conception, vivid imagination; ({#prajYA #} <lbinfo n="navana#vonmezaSAlinI"/>
+;
+; TODO Case 230: in-spect -> inspect (spell = True)
+; <L>20207<pc>0745-c<k1>pratyavekz<k2>pratyavekz
+168512 old {#pratyavekz#}¦ 1 <ab>A.</ab> {@1@} To look into, in- 
+168512 new {#pratyavekz#}¦ 1 <ab>A.</ab> {@1@} To look into, <lbinfo n="in+spect"/>
+;
+168514 old <>spect, examine; {#pratyavekzitAH pramadavana#}
+168514 new <>inspect, examine; {#pratyavekzitAH pramadavana#}
+;
+; TODO Case 231: evinc-ing -> evincing (spell = True)
+; <L>20279<pc>0747-b<k1>praTanaM<k2>praTanaM
+168935 old <>Throwing, projecting. {@--4@} Showing, evinc- 
+168935 new <>Throwing, projecting. {@--4@} Showing, <lbinfo n="evinc+ing"/>
+;
+168937 old <>ing, displaying. {@--5@} A place where
+168937 new <>evincing, displaying. {@--5@} A place where
+;
+; TODO Case 232: circum-stances -> circumstances (spell = True)
+; <L>20281<pc>0747-c<k1>praTama<k2>praTama
+168997 old <>{#--vfttAMtaH#} antecedents, former circum- 
+168997 new <>{#--vfttAMtaH#} antecedents, former <lbinfo n="circum+stances"/>
+;
+168999 old <>stances. {#--vEyAkaraRaH#} 1. the most <lbinfo n="dis+tinguished"/>
+168999 new <>circumstances. {#--vEyAkaraRaH#} 1. the most <lbinfo n="dis+tinguished"/>
+;
+; TODO Case 233: a-wakening -> awakening (spell = True)
+; <L>20464<pc>0752-b<k1>praboDaH<k2>praboDaH
+170164 old {#praboDaH#}¦ {@1@} Awaking(<ab>fig.</ab> also), a- 
+170164 new {#praboDaH#}¦ {@1@} Awaking(<ab>fig.</ab> also), <lbinfo n="a+wakening"/>
+;
+170166 old <>wakening; regaining one's <lbinfo n="conscious+ness"/>
+170166 new <>awakening; regaining one's <lbinfo n="conscious+ness"/>
+;
+; TODO Case 234: cheer-ful -> cheerful (spell = True)
+; <L>20514<pc>0754-a<k1>pramaRas<k2>pramaRa(na)s
+170550 old {#pramaRa(na)s#}¦ {%<ab>a.</ab>%} {@1@} Happy, cheer- 
+170550 new {#pramaRa(na)s#}¦ {%<ab>a.</ab>%} {@1@} Happy, <lbinfo n="cheer+ful"/>
+;
+170552 old <>ful, delighted. {@--2@} Good-natured.
+170552 new <>cheerful, delighted. {@--2@} Good-natured.
+;
+; TODO Case 235: in-tense -> intense (spell = True)
+; <L>20909<pc>0765-c<k1>prasf<k2>prasf
+173352 old <><ls>V. 3. 22.</ls> {@--9@} To grow strong or in- 
+173352 new <><ls>V. 3. 22.</ls> {@--9@} To grow strong or <lbinfo n="in+tense"/>
+;
+173354 old <>tense; {#prasftataraM saKyaM#} <ls>Dk.</ls> {@--10@} To
+173354 new <>intense; {#prasftataraM saKyaM#} <ls>Dk.</ls> {@--10@} To
+;
+; TODO Case 236: manifest-ed -> manifested (spell = True)
+; <L>21068<pc>0770-b<k1>prAc<k2>prAc, prAMc
+174472 old <>life. {#--kevala#} {%<ab>a.</ab>%} ({#prAkkevala#}) manifest- 
+174472 new <>life. {#--kevala#} {%<ab>a.</ab>%} ({#prAkkevala#}) <lbinfo n="manifest+ed"/>
+;
+174474 old <>ed from the first in a <lbinfo n="dis+tinct"/>
+174474 new <>manifested from the first in a <lbinfo n="dis+tinct"/>
+;
+; TODO Case 237: dis-played -> displayed (spell = True)
+; <L>21147<pc>0773-b<k1>prAdurBUta<k2>prAdurBUta
+175142 old <>visible or manifest, manifested, dis- 
+175142 new <>visible or manifest, manifested, <lbinfo n="dis+played"/>
+;
+175144 old <>played.
+175144 new <>displayed.
+;
+; TODO Case 238: pearl-orna-ment -> pearl-ornament (spell = False)
+; <L>21219<pc>0775-c<k1>prAlaMba<k2>prAlaMba
+175684 old <><ls>Ve. 2. 28.</ls> {#--baH#} {@1@} A kind of pearl-orna- 
+175684 new <><ls>Ve. 2. 28.</ls> {#--baH#} {@1@} A kind of <lbinfo n="pearl-orna+ment"/>
+;
+175686 old <>ment. {@--2@} A female breast. {#--baM#} A
+175686 new <>pearl-ornament. {@--2@} A female breast. {#--baM#} A
+;
+; TODO Case 239: affec-tion -> affection (spell = True)
+; <L>21299<pc>0778-b<k1>prItimat<k2>prItimat
+176299 old {#prItimat#}¦ {%<ab>a.</ab>%} {@1@} Full of love or affec- 
+176299 new {#prItimat#}¦ {%<ab>a.</ab>%} {@1@} Full of love or <lbinfo n="affec+tion"/>
+;
+176301 old <>tion, loving, fond, affectionate. {@--2@}
+176301 new <>affection, loving, fond, affectionate. {@--2@}
+;
+; TODO Case 240: sa-crifice -> sacrifice (spell = True)
+; <L>21306<pc>0778-c<k1>preta<k2>preta
+176370 old <>{%<ab>f.</ab>%} a cemetery. {#--meGaH#} a funeral sa- 
+176370 new <>{%<ab>f.</ab>%} a cemetery. {#--meGaH#} a funeral <lbinfo n="sa+crifice"/>
+;
+176372 old <>crifice. {#--rAkzasI#} the holy basil
+176372 new <>sacrifice. {#--rAkzasI#} the holy basil
+;
+; TODO Case 241: Reflec-tion -> Reflection (spell = True)
+; <L>21317<pc>0779-a<k1>prekzA<k2>prekzA
+176450 old <>Intellect, understanding. {@--7@} Reflec- 
+176450 new <>Intellect, understanding. {@--7@} <lbinfo n="Reflec+tion"/>
+;
+176452 old <>tion, consideration, deliberation. {@--8@}
+176452 new <>Reflection, consideration, deliberation. {@--8@}
+;
+; TODO Case 242: epi-thet -> epithet (spell = True)
+; <L>21416<pc>0781-b<k1>plakzaH<k2>plakzaH
+177042 old <>{@--Comp.@} {#--jAtA, --samudravAcakA#} an epi- 
+177042 new <>{@--Comp.@} {#--jAtA, --samudravAcakA#} an <lbinfo n="epi+thet"/>
+;
+177044 old <>thet of the river Sarasvatī. {#--tIrTa,#}
+177044 new <>epithet of the river Sarasvatī. {#--tIrTa,#}
+;
+; TODO Case 243: Ex-panded -> Expanded (spell = True)
+; <L>21514<pc>0785-b<k1>Pulla<k2>Pulla
+177861 old <>Flowering, blossomed; <ls>R. 9. 63.</ls> {@--3@} Ex- 
+177861 new <>Flowering, blossomed; <ls>R. 9. 63.</ls> {@--3@} <lbinfo n="Ex+panded"/>
+;
+177863 old <>panded, dilated, wide opened (as
+177863 new <>Expanded, dilated, wide opened (as
+;
+; TODO Case 244: abandon-ed -> abandoned (spell = True)
+; <L>21561<pc>0788-a<k1>baMDuH<k2>baMDuH
+178427 old <><ls>Gīt. 2</ls>; <ls>R. 11. 24.</ls> {#--dagDaH#} an abandon- 
+178427 new <><ls>Gīt. 2</ls>; <ls>R. 11. 24.</ls> {#--dagDaH#} an <lbinfo n="abandon+ed"/>
+;
+178429 old <>ed wretch {#(hataka)#}. {#--dattaM#} a kind of
+178429 new <>abandoned wretch {#(hataka)#}. {#--dattaM#} a kind of
+;
+; TODO Case 245: Har-shavardhana -> Harshavardhana (spell = False)
+; <L>21674<pc>0793-b<k1>bARaH<k2>bARaH
+179583 old <>who lived at the court of king Har- 
+179583 new <>who lived at the court of king <lbinfo n="Har+shavardhana"/>
+;
+179585 old <>shavardhana and flourished in the
+179585 new <>Harshavardhana and flourished in the
+;
+; TODO Case 246: Pain-ed -> Pained (spell = True)
+; <L>21684<pc>0794-a<k1>bADita<k2>bADita
+179721 old <>Harassed, oppressed, annoyed. {@--2@} Pain- 
+179721 new <>Harassed, oppressed, annoyed. {@--2@} <lbinfo n="Pain+ed"/>
+;
+179723 old <>ed, troubled, afflicted. {@--3@} Opposed,
+179723 new <>Pained, troubled, afflicted. {@--3@} Opposed,
+;
+; TODO Case 247: ear-ly -> early (spell = True)
+; <L>21698<pc>0794-b<k1>bAla<k2>bAla
+179866 old <>{#--caritaM#} 1. juvenile sports. --2. ear- 
+179866 new <>{#--caritaM#} 1. juvenile sports. --2. <lbinfo n="ear+ly"/>
+;
+179868 old <>ly life or actions; <ls>U. 6.</ls> {#--caryaH#} <ab>N.</ab>
+179868 new <>early life or actions; <ls>U. 6.</ls> {#--caryaH#} <ab>N.</ab>
+;
+; TODO Case 248: large-bellied -> largebellied (spell = False)
+; <L>21836<pc>0799-c<k1>bfhat<k2>bfhat
+180999 old <>bulky, gigantic. {#--kukzi#} {%<ab>a.</ab>%} large- 
+180999 new <>bulky, gigantic. {#--kukzi#} {%<ab>a.</ab>%} <lbinfo n="large+bellied"/>
+;
+181001 old <>bellied. {#--ketuH#} an epithet of Agni.
+181001 new <>largebellied. {#--ketuH#} an epithet of Agni.
+;
+; TODO Case 249: in-heritance -> inheritance (spell = True)
+; <L>21860<pc>0801-a<k1>brahman<k2>brahman
+181461 old <>sacred knowledge received as an in- 
+181461 new <>sacred knowledge received as an <lbinfo n="in+heritance"/>
+;
+181463 old <>heritance. --3. the earthly possession
+181463 new <>inheritance. --3. the earthly possession
+;
+; TODO Case 250: pur-sue -> pursue (spell = True)
+; <L>21930<pc>0807-a<k1>Baj<k2>Baj
+182430 old <>To divide. {@--2@} To put to flight, pur- 
+182430 new <>To divide. {@--2@} To put to flight, <lbinfo n="pur+sue"/>
+;
+182432 old <>sue. {@--3@} To cook, dress. --II. 10 <ab>U.</ab>
+182432 new <>pursue. {@--3@} To cook, dress. --II. 10 <ab>U.</ab>
+;
+; TODO Case 251: Threat-ening -> Threatening (spell = True)
+; <L>22001<pc>0809-c<k1>BartsanaM<k2>BartsanaM, BartsanA
+183031 old {#BartsanaM, BartsanA#}¦ [{#Barts-lyuw#}] {@1@} Threat- 
+183031 new {#BartsanaM, BartsanA#}¦ [{#Barts-lyuw#}] {@1@} <lbinfo n="Threat+ening"/>
+;
+183033 old <>ening, reviling. {@--2@} A threat, <lbinfo n="men+ace"/>
+183033 new <>Threatening, reviling. {@--2@} A threat, <lbinfo n="men+ace"/>
+;
+; TODO Case 252: fu-ture -> future (spell = True)
+; <L>22032<pc>0810-c<k1>Bavizyat<k2>Bavizyat
+183267 old <>to be, become or come to pass, fu- 
+183267 new <>to be, become or come to pass, <lbinfo n="fu+ture"/>
+;
+183269 old <>ture. {%--<ab>n.</ab>%} The future time. {@--Comp.@}
+183269 new <>future. {%--<ab>n.</ab>%} The future time. {@--Comp.@}
+;
+; TODO Case 253: ap-petite -> appetite (spell = True)
+; <L>22046<pc>0811-a<k1>Basman<k2>Basman
+183352 old <>work). {@--Comp.@} {#--agniH#} morbid ap- 
+183352 new <>work). {@--Comp.@} {#--agniH#} morbid <lbinfo n="ap+petite"/>
+;
+183354 old <>petite from rapid digestion of food.
+183354 new <>appetite from rapid digestion of food.
+;
+; TODO Case 254: quanti-ty -> quantity (spell = True)
+; <L>22108<pc>0813-a<k1>BAraH<k2>BAraH
+183819 old <>trouble. {@--5@} A mass, large quanti- 
+183819 new <>trouble. {@--5@} A mass, large <lbinfo n="quanti+ty"/>
+;
+183821 old <>ty; {#kucaº, jawAº#}. {@--6@} A particular
+183821 new <>quantity; {#kucaº, jawAº#}. {@--6@} A particular
+;
+; TODO Case 255: beg-ging -> begging (spell = True)
+; <L>22169<pc>0816-b<k1>BikzA<k2>BikzA
+184516 old <>{#(RaM)#} {#= BikzAwana#} <ab>q. v.</ab> {#--arTin#} {%<ab>a.</ab>%} beg- 
+184516 new <>{#(RaM)#} {#= BikzAwana#} <ab>q. v.</ab> {#--arTin#} {%<ab>a.</ab>%} <lbinfo n="beg+ging"/>
+;
+184518 old <>ging for alms or charity. ({%--<ab>m.</ab>%}) a
+184518 new <>begging for alms or charity. ({%--<ab>m.</ab>%}) a
+;
+; TODO Case 256: (phy-sicians -> (physicians (spell = True)
+; <L>22193<pc>0817-c<k1>Bizaj<k2>Bizaj
+184796 old <>{%--<ab>m.</ab> dual.%} The two Aśvins (phy- 
+184796 new <>{%--<ab>m.</ab> dual.%} The two Aśvins <lbinfo n="(phy+sicians"/>
+;
+184798 old <>sicians of gods). {@--Comp.@} {#--jitaM#} a
+184798 new <>(physicians of gods). {@--Comp.@} {#--jitaM#} a
+;
+; TODO Case 257: wo-man -> woman (spell = True)
+; <L>22209<pc>0818-b<k1>BIru<k2>BIru
+184949 old <>sugarcane. {#--ru#} {%<ab>n.</ab>%} Silver. {%--<ab>f.</ab>%} {@1@} A timid wo- 
+184949 new <>sugarcane. {#--ru#} {%<ab>n.</ab>%} Silver. {%--<ab>f.</ab>%} {@1@} A timid <lbinfo n="wo+man"/>
+;
+184951 old <>man. {@--2@} A goat. {@--3@} A shadow. {@--4@} A
+184951 new <>woman. {@--2@} A goat. {@--3@} A shadow. {@--4@} A
+;
+; TODO Case 258: sover-eign -> sovereign (spell = True)
+; <L>22246<pc>0820-c<k1>BUH<k2>BUH
+185490 old <>{#=BUmaMqalaM#} <ab>q. v.</ab> {#--vallaBaH#} a king, sover- 
+185490 new <>{#=BUmaMqalaM#} <ab>q. v.</ab> {#--vallaBaH#} a king, <lbinfo n="sover+eign"/>
+;
+185492 old <>eign. {#--vfttaM#} the equator. {#--SakraH#} <lbinfo n="‘In+dra"/>
+185492 new <>sovereign. {#--vfttaM#} the equator. {#--SakraH#} <lbinfo n="‘In+dra"/>
+;
+; TODO Case 259: Capi-tal -> Capital (spell = True)
+; <L>22279<pc>0824-a<k1>BftiH<k2>BftiH
+186077 old <>hire. {@--7@} Service for hire. {@--8@} Capi- 
+186077 new <>hire. {@--7@} Service for hire. {@--8@} <lbinfo n="Capi+tal"/>
+;
+186079 old <>tal, principal. {@--9@} Wages, hire.
+186079 new <>Capital, principal. {@--9@} Wages, hire.
+;
+; TODO Case 260: conciliat-ed -> conciliated (spell = False)
+; <L>22288<pc>0824-b<k1>BfguH<k2>BfguH
+186155 old <>have destroyed him, had he not conciliat- 
+186155 new <>have destroyed him, had he not <lbinfo n="conciliat+ed"/>
+;
+186157 old <>ed him by mild words. (According to <lbinfo n="ano+ther"/>
+186157 new <>conciliated him by mild words. (According to <lbinfo n="ano+ther"/>
+;
+; TODO Case 261: pos-sessions -> possessions (spell = True)
+; <L>22344<pc>0826-c<k1>Bogya<k2>Bogya
+186670 old <>enjoyment. {@--2@} Wealth, property, pos- 
+186670 new <>enjoyment. {@--2@} Wealth, property, <lbinfo n="pos+sessions"/>
+;
+186672 old <>sessions. {@--3@} Corn, grain. {#--gyA#} A
+186672 new <>possessions. {@--3@} Corn, grain. {#--gyA#} A
+;
+; TODO Case 262: experienc-ed -> experienced (spell = True)
+; <L>22351<pc>0827-a<k1>Bojya<k2>Bojya
+186742 old <>possessed. {@--3@} To be suffered or experienc- 
+186742 new <>possessed. {@--3@} To be suffered or <lbinfo n="experienc+ed"/>
+;
+186744 old <>ed. {@--4@} To be enjoyed carnally.
+186744 new <>experienced. {@--4@} To be enjoyed carnally.
+;
+; TODO Case 263: Unsteadi-ness -> Unsteadiness (spell = True)
+; <L>22413<pc>0829-a<k1>BrAMtiH<k2>BrAMtiH
+187204 old <>uncertainty, suspense. {@--7@} Unsteadi- 
+187204 new <>uncertainty, suspense. {@--7@} <lbinfo n="Unsteadi+ness"/>
+;
+187206 old <>ness. {@--Comp.@} {#--kara#} {%<ab>a.</ab>%} confounding,
+187206 new <>Unsteadiness. {@--Comp.@} {#--kara#} {%<ab>a.</ab>%} confounding,
+;
+; TODO Case 264: cheer-ful -> cheerful (spell = True)
+; <L>22463<pc>0830-b<k1>maKa<k2>maKa
+187513 old <>oblations. {@--2@} Lively, active, cheer- 
+187513 new <>oblations. {@--2@} Lively, active, <lbinfo n="cheer+ful"/>
+;
+187515 old <>ful. {#--KaH#} A sacrificial rite;  <lbinfo n="akiM#canatvaM"/>
+187515 new <>cheerful. {#--KaH#} A sacrificial rite;  <lbinfo n="akiM#canatvaM"/>
+;
+; TODO Case 265: benedic-tory -> benedictory (spell = False)
+; <L>22481<pc>0831-a<k1>maMgala<k2>maMgala
+187717 old <>festival. {#--SabdaH#} greeting, a benedic- 
+187717 new <>festival. {#--SabdaH#} greeting, a <lbinfo n="benedic+tory"/>
+;
+187719 old <>tory expression. {#--sUtraM#} see  <lbinfo n="maMgalaprati#sara"/>
+187719 new <>benedictory expression. {#--sUtraM#} see  <lbinfo n="maMgalaprati#sara"/>
+;
+; TODO Case 266: mis-take -> mistake (spell = True)
+; <L>22561<pc>0834-c<k1>matiH<k2>matiH
+188447 old <>mind; <ls>Ś. 6. 9.</ls> --2. an error, a mis- 
+188447 new <>mind; <ls>Ś. 6. 9.</ls> --2. an error, a <lbinfo n="mis+take"/>
+;
+188449 old <>take, misapprehension. {#--viBramaH, #} <lbinfo n="vi#BraMSaH"/>
+188449 new <>mistake, misapprehension. {#--viBramaH, #} <lbinfo n="vi#BraMSaH"/>
+;
+; TODO Case 267: pas-ion -> pasion (spell = False)
+; <L>22582<pc>0836-a<k1>madaH<k2>madaH
+188718 old <>intoxication, dead drunk, drunk with pas- 
+188718 new <>intoxication, dead drunk, drunk with <lbinfo n="pas+ion"/>
+;
+188720 old <>ion; {#aDaramiva madAMDA pAtumezA pravfttA#}
+188720 new <>pasion; {#aDaramiva madAMDA pAtumezA pravfttA#}
+;
+; TODO Case 268: wag-tail -> wagtail (spell = True)
+; <L>22591<pc>0837-a<k1>madirA<k2>madirA
+188909 old <><ls>Me. 78</ls>; <ls>Śi. 11. 49.</ls> {@--2@} A kind of wag- 
+188909 new <><ls>Me. 78</ls>; <ls>Śi. 11. 49.</ls> {@--2@} A kind of <lbinfo n="wag+tail"/>
+;
+188911 old <>tail. {@--3@} <ab>N.</ab> of Durgā. {@--Comp.@}  <lbinfo n="--u#tkawa"/>
+188911 new <>wagtail. {@--3@} <ab>N.</ab> of Durgā. {@--Comp.@}  <lbinfo n="--u#tkawa"/>
+;
+; TODO Case 269: mid-dling -> middling (spell = True)
+; <L>22618<pc>0839-a<k1>maDya<k2>maDya
+189368 old <>mediate, intervening. --3. mid- 
+189368 new <>mediate, intervening. --3. <lbinfo n="mid+dling"/>
+;
+189370 old <>dling. {@--4@} mediating, acting as <lbinfo n="um+pire"/>
+189370 new <>middling. {@--4@} mediating, acting as <lbinfo n="um+pire"/>
+;
+; TODO Case 270: Subhā-ṣ -> Subhāṣ (spell = False)
+; <L>22629<pc>0840-a<k1>man<k2>man
+189507 old <>{#SaSaMkire jalaniDeH paMkaM pare menire#} Subhā- 
+189507 new <>{#SaSaMkire jalaniDeH paMkaM pare menire#} <lbinfo n="Subhā+ṣ"/>
+;
+189509 old <>ṣ: {#vatsa manye kumAreRAnena #} <lbinfo n="jfMBakAstramAmaM#tritaM"/>
+189509 new <>Subhāṣ: {#vatsa manye kumAreRAnena #} <lbinfo n="jfMBakAstramAmaM#tritaM"/>
+;
+; TODO Case 271: con-sidered -> considered (spell = True)
+; <L>22631<pc>0840-b<k1>maMtavya<k2>maMtavya
+189569 old {#maMtavya#}¦ {%<ab>a.</ab>%} {@1@} To be thought, con- 
+189569 new {#maMtavya#}¦ {%<ab>a.</ab>%} {@1@} To be thought, <lbinfo n="con+sidered"/>
+;
+189571 old <>sidered, or regarded. {@--2@} Imaginable
+189571 new <>considered, or regarded. {@--2@} Imaginable
+;
+; TODO Case 272: churning-stick -> churningstick (spell = False)
+; <L>22670<pc>0843-c<k1>maMTAnaH<k2>maMTAnaH
+190223 old {#maMTAnaH#}¦ [{#maMT-Anac#}] {@1@} A churning- 
+190223 new {#maMTAnaH#}¦ [{#maMT-Anac#}] {@1@} A <lbinfo n="churning+stick"/>
+;
+190225 old <>stick. {@--2@} An epithet of Śiva.
+190225 new <>churningstick. {@--2@} An epithet of Śiva.
+;
+; TODO Case 273: hav-ing -> having (spell = True)
+; <L>22674<pc>0844-a<k1>maMda<k2>maMda
+190289 old <>{#maMdAtmAnajiGfkzayA#} <ls>Malli.</ls> {#--Adara#} {%<ab>a.</ab>%} 1. hav- 
+190289 new <>{#maMdAtmAnajiGfkzayA#} <ls>Malli.</ls> {#--Adara#} {%<ab>a.</ab>%} 1. <lbinfo n="hav+ing"/>
+;
+190291 old <>ing little respect for, disregarding,
+190291 new <>having little respect for, disregarding,
+;
+; TODO Case 274: mean-ness -> meanness (spell = True)
+; <L>22702<pc>0845-a<k1>manyuH<k2>manyuH
+190515 old <>Wretched or miserable state, mean- 
+190515 new <>Wretched or miserable state, <lbinfo n="mean+ness"/>
+;
+190517 old <>ness. {@--4@} A sacrifice. {@--5@} Spirit,
+190517 new <>meanness. {@--4@} A sacrifice. {@--5@} Spirit,
+;
+; TODO Case 275: il-lusion -> illusion (spell = True)
+; <L>23017<pc>0861-a<k1>mAyA<k2>mAyA
+193887 old <>Vedānta <ab>phil.</ab>) Unreality, the il- 
+193887 new <>Vedānta <ab>phil.</ab>) Unreality, the <lbinfo n="il+lusion"/>
+;
+193889 old <>lusion by virtue of which one <lbinfo n="con+siders"/>
+193889 new <>illusion by virtue of which one <lbinfo n="con+siders"/>
+;
+; TODO Case 276: epi-demic -> epidemic (spell = True)
+; <L>23034<pc>0861-c<k1>mArI<k2>mArI
+194036 old {#mArI#}¦ 1 Plague, pestilence, an epi- 
+194036 new {#mArI#}¦ 1 Plague, pestilence, an <lbinfo n="epi+demic"/>
+;
+194038 old <>demic. {@--2@} Pestilence personified
+194038 new <>epidemic. {@--2@} Pestilence personified
+;
+; TODO Case 277: moun-tain -> mountain (spell = True)
+; <L>23090<pc>0863-c<k1>mAlyavat<k2>mAlyavat
+194486 old <>{%--<ab>m.</ab>%} 1 <ab>N.</ab> of a mountain or moun- 
+194486 new <>{%--<ab>m.</ab>%} 1 <ab>N.</ab> of a mountain or <lbinfo n="moun+tain"/>
+;
+194488 old <>tain range; <ls>U. 1. 33</ls>; <ls>R. 13. 26.</ls> {@--2@}
+194488 new <>mountain range; <ls>U. 1. 33</ls>; <ls>R. 13. 26.</ls> {@--2@}
+;
+; TODO Case 278: in-flections -> inflections (spell = True)
+; <L>23102<pc>0864-a<k1>mAs<k2>mAs
+194568 old <>has no forms for the first five in- 
+194568 new <>has no forms for the first five <lbinfo n="in+flections"/>
+;
+194570 old <>flections, and is optionally <lbinfo n="substitu+ted"/>
+194570 new <>inflections, and is optionally <lbinfo n="substitu+ted"/>
+;
+; TODO Case 279: schol-ars -> scholars (spell = True)
+; <L>23181<pc>0866-b<k1>miSra<k2>miSra
+195120 old <>the names of great men and schol- 
+195120 new <>the names of great men and <lbinfo n="schol+ars"/>
+;
+195122 old <>ars; {#AryamiSrAH pramARaM#} <ls>M. 1</ls>;  <lbinfo n="vasizWa#miSraH"/>
+195122 new <>scholars; {#AryamiSrAH pramARaM#} <ls>M. 1</ls>;  <lbinfo n="vasizWa#miSraH"/>
+;
+; TODO Case 280: mouth-ful -> mouthful (spell = True)
+; <L>23227<pc>0868-b<k1>muKaM<k2>muKaM
+195610 old <>--2. a mouthful of water, a mouth- 
+195610 new <>--2. a mouthful of water, a <lbinfo n="mouth+ful"/>
+;
+195612 old <>ful in general. {#--prasAdaH#} a pleased
+195612 new <>mouthful in general. {#--prasAdaH#} a pleased
+;
+; TODO Case 281: mis-take -> mistake (spell = True)
+; <L>23560<pc>0881-a<k1>mohana<k2>mohana
+198383 old <>sensation. {@--4@} Infatuation, delusion, mis- 
+198383 new <>sensation. {@--4@} Infatuation, delusion, <lbinfo n="mis+take"/>
+;
+198385 old <>take. {@--5@} A seduction, temptation.
+198385 new <>mistake. {@--5@} A seduction, temptation.
+;
+; TODO Case 282: quar-ter -> quarter (spell = True)
+; <L>23666<pc>0885-a<k1>yatas<k2>yatas
+199258 old <>from what, from which place or quar- 
+199258 new <>from what, from which place or <lbinfo n="quar+ter"/>
+;
+199260 old <>ter; {#yatastvayA jYAnamaSezamAptaM#} <ls>R. 5. 4</ls>
+199260 new <>quarter; {#yatastvayA jYAnamaSezamAptaM#} <ls>R. 5. 4</ls>
+;
+; TODO Case 283: sa-erificial -> saerificial (spell = False)
+; <L>23762<pc>0891-c<k1>yAjYiya<k2>yAjYiya
+200605 old <>a sacrifice. {#--yaH#} One skilled in sa- 
+200605 new <>a sacrifice. {#--yaH#} One skilled in <lbinfo n="sa+erificial"/>
+;
+200607 old <>erificial rites.
+200607 new <>saerificial rites.
+;
+; TODO Case 284: en-tertainment -> entertainment (spell = True)
+; <L>23769<pc>0892-a<k1>yAtrA<k2>yAtrA
+200675 old <>general. {@--14@} A kind of dramatic en- 
+200675 new <>general. {@--14@} A kind of dramatic <lbinfo n="en+tertainment"/>
+;
+200677 old <>tertainment. {@--Comp.@} {#--utsavaH#} a
+200677 new <>entertainment. {@--Comp.@} {#--utsavaH#} a
+;
+; TODO Case 285: vehi-cle -> vehicle (spell = True)
+; <L>23781<pc>0892-b<k1>yAnaM<k2>yAnaM
+200755 old <>procession, train. {@--5@} A conveyance, vehi- 
+200755 new <>procession, train. {@--5@} A conveyance, <lbinfo n="vehi+cle"/>
+;
+200757 old <>cle, carriage, chariot; {#yAnaM sasmAra #} <lbinfo n="kO#beraM"/>
+200757 new <>vehicle, carriage, chariot; {#yAnaM sasmAra #} <lbinfo n="kO#beraM"/>
+;
+; TODO Case 286: success-ful -> successful (spell = True)
+; <L>23835<pc>0895-a<k1>yuMjAna<k2>yuMjAna
+201323 old <>Proper, fit. {@--3@} Prosperous, success- 
+201323 new <>Proper, fit. {@--3@} Prosperous, <lbinfo n="success+ful"/>
+;
+201325 old <>ful. {#--naH#} {@1@} A driver, charioteer. {@--2@}
+201325 new <>successful. {#--naH#} {@1@} A driver, charioteer. {@--2@}
+;
+; TODO Case 287: guard-ing -> guarding (spell = True)
+; <L>23937<pc>0900-b<k1>rakzitf<k2>rakzitf, rakzin
+202429 old {#rakzitf, rakzin#}¦ {%<ab>a.</ab>%} Protecting, guard- 
+202429 new {#rakzitf, rakzin#}¦ {%<ab>a.</ab>%} Protecting, <lbinfo n="guard+ing"/>
+;
+202431 old <>ing, ruling &c.; <ls>N. 1. 1.</ls> {%--<ab>m.</ab>%} {@1@} A
+202431 new <>guarding, ruling &c.; <ls>N. 1. 1.</ls> {%--<ab>m.</ab>%} {@1@} A
+;
+; TODO Case 288: night-fall -> nightfall (spell = True)
+; <L>23959<pc>0901-b<k1>rajaniH<k2>rajaniH --nI
+202647 old <>{#--patiH, --ramaRaH#} the moon. {#--muKaM#} night- 
+202647 new <>{#--patiH, --ramaRaH#} the moon. {#--muKaM#} <lbinfo n="night+fall"/>
+;
+202649 old <>fall, evening.
+202649 new <>nightfall, evening.
+;
+; TODO Case 289: vehe-mence -> vehemence (spell = True)
+; <L>24014<pc>0904-b<k1>raBas<k2>raBas
+203273 old {#raBas#}¦ {%<ab>n.</ab>%} {@1@} Violence, zeal, vehe- 
+203273 new {#raBas#}¦ {%<ab>n.</ab>%} {@1@} Violence, zeal, <lbinfo n="vehe+mence"/>
+;
+203275 old <>mence. {@--2@} Rashness, precipitation.
+203275 new <>vehemence. {@--2@} Rashness, precipitation.
+;
+; TODO Case 290: mix-ed -> mixed (spell = True)
+; <L>24052<pc>0906-c<k1>rasAlaH<k2>rasAlaH
+203757 old <>{#--lA#} {@1@} The tongue. {@--2@} Curds mix- 
+203757 new <>{#--lA#} {@1@} The tongue. {@--2@} Curds <lbinfo n="mix+ed"/>
+;
+203759 old <>ed, with sugar and spices. {@--3@} <lbinfo n="Dūr+vā"/>
+203759 new <>mixed, with sugar and spices. {@--3@} <lbinfo n="Dūr+vā"/>
+;
+; TODO Case 291: sor-row -> sorrow (spell = True)
+; <L>24072<pc>0907-c<k1>rAgaH<k2>rAgaH
+203969 old <>{#rAgaparivAhiRI gItiH#} <ls>Ś. 5.</ls> {@--11@} Regret, sor- 
+203969 new <>{#rAgaparivAhiRI gItiH#} <ls>Ś. 5.</ls> {@--11@} Regret, <lbinfo n="sor+row"/>
+;
+203971 old <>row. {@--12@} Greediness, envy. {@--13@} The
+203971 new <>sorrow. {@--12@} Greediness, envy. {@--13@} The
+;
+; TODO Case 292: king-killer -> kingkiller (spell = False)
+; <L>24086<pc>0908-b<k1>rAjan<k2>rAjan
+204170 old <>{#--Ga#} {%<ab>a.</ab>%} sharp, hot. ({#--GaH#}) a king- 
+204170 new <>{#--Ga#} {%<ab>a.</ab>%} sharp, hot. ({#--GaH#}) a <lbinfo n="king+killer"/>
+;
+204172 old <>killer, regicide. {#--cihvaM#} insignia of
+204172 new <>kingkiller, regicide. {#--cihvaM#} insignia of
+;
+; TODO Case 293: un-disputed -> undisputed (spell = True)
+; <L>24086<pc>0908-b<k1>rAjan<k2>rAjan
+204286 old <>coronation as a mark of his un- 
+204286 new <>coronation as a mark of his <lbinfo n="un+disputed"/>
+;
+204288 old <>disputed sovereignty; {#rAjA vE #} <lbinfo n="rA#jasUyenezwvAM"/>
+204288 new <>undisputed sovereignty; {#rAjA vE #} <lbinfo n="rA#jasUyenezwvAM"/>
+;
+; TODO Case 294: cor-responding -> corresponding (spell = True)
+; <L>24261<pc>0916-b<k1>rUpaka<k2>rUpaka
+205855 old <>(In <ab>Rhet.</ab>) A figure of speech cor- 
+205855 new <>(In <ab>Rhet.</ab>) A figure of speech <lbinfo n="cor+responding"/>
+;
+205857 old <>responding to the English {%metaphor,%}
+205857 new <>corresponding to the English {%metaphor,%}
+;
+; TODO Case 295: visi-ble -> visible (spell = True)
+; <L>24745<pc>0933-a<k1>lokaH<k2>lokaH
+209703 old <>10th Act.). ({#--kO#}) the visi- 
+209703 new <>10th Act.). ({#--kO#}) the <lbinfo n="visi+ble"/>
+;
+209705 old <>ble and the invisible world.
+209705 new <>visible and the invisible world.
+;
+; TODO Case 296: instru-ment -> instrument (spell = True)
+; <L>24789<pc>0935-b<k1>lozwaH<k2>lozwaH, --zwaM
+210134 old <>{@--Comp.@} {#--GnaH, --BedanaH --naM#} an instru- 
+210134 new <>{@--Comp.@} {#--GnaH, --BedanaH --naM#} an <lbinfo n="instru+ment"/>
+;
+210136 old <>ment for breaking clods, a
+210136 new <>instrument for breaking clods, a
+;
+; TODO Case 297: epi-thet -> epithet (spell = True)
+; <L>24795<pc>0935-c<k1>lohita<k2>lohita
+210204 old <>the (Indian) cuckoo. --4. an epi- 
+210204 new <>the (Indian) cuckoo. --4. an <lbinfo n="epi+thet"/>
+;
+210206 old <>thet of Viṣṇu. ({#--kzaM#}) 1. the <lbinfo n="arm+pit"/>
+210206 new <>epithet of Viṣṇu. ({#--kzaM#}) 1. the <lbinfo n="arm+pit"/>
+;
+; TODO Case 298: unmarri-ed -> unmarried (spell = True)
+; <L>24917<pc>0940-b<k1>vaMWa<k2>vaMWa
+211225 old <>{@--3@} Crippled. {#--WaH#} {@1@} An unmarri- 
+211225 new <>{@--3@} Crippled. {#--WaH#} {@1@} An <lbinfo n="unmarri+ed"/>
+;
+211227 old <>ed man, a bachelor. {@--2@} A servant.
+211227 new <>unmarried man, a bachelor. {@--2@} A servant.
+;
+; TODO Case 299: affec-tion -> affection (spell = True)
+; <L>24935<pc>0941-a<k1>vatsalayati<k2>vatsalayati
+211373 old <>yearn, cause to feel yearning affec- 
+211373 new <>yearn, cause to feel yearning <lbinfo n="affec+tion"/>
+;
+211375 old <>tion for; {#nUnamanapatyatA mAM vatsalayati#}
+211375 new <>affection for; {#nUnamanapatyatA mAM vatsalayati#}
+;
+; TODO Case 300: wood-flowers -> woodflowers (spell = False)
+; <L>24968<pc>0942-b<k1>vanaM<k2>vanaM
+211727 old <>wild-jasmine. {#--mAlA#} a garland of wood- 
+211727 new <>wild-jasmine. {#--mAlA#} a garland of <lbinfo n="wood+flowers"/>
+;
+211729 old <>flowers, such as was usually worn
+211729 new <>woodflowers, such as was usually worn
+;
+; TODO Case 301: Belong-ing -> Belonging (spell = True)
+; <L>25003<pc>0943-c<k1>vanya<k2>vanya
+211969 old {#vanya#}¦ {%<ab>a.</ab>%} [{#vane-BavaH yat#}] {@1@} Belong- 
+211969 new {#vanya#}¦ {%<ab>a.</ab>%} [{#vane-BavaH yat#}] {@1@} <lbinfo n="Belong+ing"/>
+;
+211971 old <>ing to, growing or produced in,
+211971 new <>Belonging to, growing or produced in,
+;
+; TODO Case 302: be-tween -> between (spell = True)
+; <L>25042<pc>0945-a<k1>vara<k2>vara
+212276 old <><ls>Ku. 2. 32</ls>; (for the distinction be- 
+212276 new <><ls>Ku. 2. 32</ls>; (for the distinction <lbinfo n="be+tween"/>
+;
+212278 old <>tween {#vara#} and {#ASis#} see {#ASis#}). {@--4@}
+212278 new <>between {#vara#} and {#ASis#} see {#ASis#}). {@--4@}
+;
+; TODO Case 303: myro-balan -> myrobalan (spell = False)
+; <L>25057<pc>0946-a<k1>varA<k2>varA
+212478 old {#varA#}¦ 1 The three kinds of myro- 
+212478 new {#varA#}¦ 1 The three kinds of <lbinfo n="myro+balan"/>
+;
+212480 old <>balan. {@--2@} A kind of perfume. {@--3@}
+212480 new <>myrobalan. {@--2@} A kind of perfume. {@--3@}
+;
+; TODO Case 304: superior-ity -> superiority (spell = True)
+; <L>25069<pc>0946-b<k1>variman<k2>variman
+212558 old {#variman#}¦ {%<ab>m.</ab>%} {@1@} Excellence, superior- 
+212558 new {#variman#}¦ {%<ab>m.</ab>%} {@1@} Excellence, <lbinfo n="superior+ity"/>
+;
+212560 old <>ity, pre-eminence. {@--2@} <ab>Ved.</ab> <lbinfo n="Cir+cuit"/>
+212560 new <>superiority, pre-eminence. {@--2@} <ab>Ved.</ab> <lbinfo n="Cir+cuit"/>
+;
+; TODO Case 305: finger-nails -> fingernails (spell = True)
+; <L>25093<pc>0947-a<k1>varkarAwaH<k2>varkarAwaH
+212717 old <>{@--2@} The marks of a lover's finger- 
+212717 new <>{@--2@} The marks of a lover's <lbinfo n="finger+nails"/>
+;
+212719 old <>nails on the bosom of a woman. {@--3@}
+212719 new <>fingernails on the bosom of a woman. {@--3@}
+;
+; TODO Case 306: stu-dent -> student (spell = True)
+; <L>25123<pc>0948-b<k1>varRin<k2>varRin
+213006 old <>wearing the marks of, a religious stu- 
+213006 new <>wearing the marks of, a religious <lbinfo n="stu+dent"/>
+;
+213008 old <>dent; {#sa varRiliMgI viditaH samAyayO #} <lbinfo n="yuDi#zWiraM"/>
+213008 new <>student; {#sa varRiliMgI viditaH samAyayO #} <lbinfo n="yuDi#zWiraM"/>
+;
+; TODO Case 307: brace-let -> bracelet (spell = True)
+; <L>25199<pc>0950-c<k1>valayaH<k2>valayaH --yaM
+213560 old {#valayaH --yaM#}¦ [{#val-ayan#}] {@1@} A brace- 
+213560 new {#valayaH --yaM#}¦ [{#val-ayan#}] {@1@} A <lbinfo n="brace+let"/>
+;
+213562 old <>let, armlet;  <lbinfo n="vihitaviSadabisakisalayava#layA"/>
+213562 new <>bracelet, armlet;  <lbinfo n="vihitaviSadabisakisalayava#layA"/>
+;
+; TODO Case 308: gar-ment -> garment (spell = True)
+; <L>25297<pc>0954-a<k1>vastraM<k2>vastraM
+214322 old <>{#--graMTiH#} the knot of the lower gar- 
+214322 new <>{#--graMTiH#} the knot of the lower <lbinfo n="gar+ment"/>
+;
+214324 old <>ment (which fastens it near the
+214324 new <>garment (which fastens it near the
+;
+; TODO Case 309: Flatu-lent -> Flatulent (spell = True)
+; <L>25396<pc>0958-b<k1>vAtala<k2>vAtala
+215261 old <>{#lA-ka#}] {@1@} Stormy, windy. {@--2@} Flatu- 
+215261 new <>{#lA-ka#}] {@1@} Stormy, windy. {@--2@} <lbinfo n="Flatu+lent"/>
+;
+215263 old <>lent. {#--laH#} {@1@} Wind. {@--2@} The <lbinfo n="chick+pea"/>
+215263 new <>Flatulent. {#--laH#} {@1@} Wind. {@--2@} The <lbinfo n="chick+pea"/>
+;
+; TODO Case 310: ex-planation -> explanation (spell = True)
+; <L>25410<pc>0958-c<k1>vAdaH<k2>vAdaH
+215345 old <>{@--6@} A reply. {@--7@} An exposition, ex- 
+215345 new <>{@--6@} A reply. {@--7@} An exposition, <lbinfo n="ex+planation"/>
+;
+215347 old <>planation. {@--8@} A demonstrated <lbinfo n="con+clusion"/>
+215347 new <>explanation. {@--8@} A demonstrated <lbinfo n="con+clusion"/>
+;
+; TODO Case 311: cross-tempered -> crosstempered (spell = False)
+; <L>25443<pc>0959-c<k1>vAma<k2>vAma
+215580 old <>a perverse or crooked nature; cross- 
+215580 new <>a perverse or crooked nature; <lbinfo n="cross+tempered"/>
+;
+215582 old <>tempered: {#tadehi vAmaSIlAM mAlatIM #} <lbinfo n="nirBa#rtsayAmaH"/>
+215582 new <>crosstempered: {#tadehi vAmaSIlAM mAlatIM #} <lbinfo n="nirBa#rtsayAmaH"/>
+;
+; TODO Case 312: par-ticularly -> particularly (spell = True)
+; <L>25455<pc>0960-a<k1>vAyanaM<k2>vAyanaM, --vAyanakaM
+215660 old <>sweetmeats made to a deity, par- 
+215660 new <>sweetmeats made to a deity, <lbinfo n="par+ticularly"/>
+;
+215662 old <>ticularly to a Brāhmaṇa, on festive
+215662 new <>particularly to a Brāhmaṇa, on festive
+;
+; TODO Case 313: Obstruct-ing -> Obstructing (spell = True)
+; <L>25462<pc>0960-c<k1>vAraka<k2>vAraka
+215789 old {#vAraka#}¦ {%<ab>a.</ab>%} [{#vf-Ric Rvul#}] Obstruct- 
+215789 new {#vAraka#}¦ {%<ab>a.</ab>%} [{#vf-Ric Rvul#}] <lbinfo n="Obstruct+ing"/>
+;
+215791 old <>ing, opposing. {#--kaH#} {@1@} A kind of
+215791 new <>Obstructing, opposing. {#--kaH#} {@1@} A kind of
+;
+; TODO Case 314: Bhā-ratavarṣa -> Bhāratavarṣa (spell = False)
+; <L>25482<pc>0961-b<k1>vAruRa<k2>vAruRa
+215941 old <>one of the nine divisions of Bhā- 
+215941 new <>one of the nine divisions of <lbinfo n="Bhā+ratavarṣa"/>
+;
+215943 old <>ratavarṣa. {#--RaM#} Water.
+215943 new <>Bhāratavarṣa. {#--RaM#} Water.
+;
+; TODO Case 315: medi-cinal -> medicinal (spell = True)
+; <L>25508<pc>0962-a<k1>vArzika<k2>vArzika
+216104 old <>{#vArzikamannaM#} <ls>Y. 1. 124.</ls> {#--kaM#} <ab>N.</ab> of a medi- 
+216104 new <>{#vArzikamannaM#} <ls>Y. 1. 124.</ls> {#--kaM#} <ab>N.</ab> of a <lbinfo n="medi+cinal"/>
+;
+216106 old <>cinal plant.
+216106 new <>medicinal plant.
+;
+; TODO Case 316: part-ners -> partners (spell = True)
+; <L>25526<pc>0962-b<k1>vAlmIkaH<k2>vAlmIkaH,
+216215 old <>if they were ready to become his part- 
+216215 new <>if they were ready to become his <lbinfo n="part+ners"/>
+;
+216217 old <>ners in the innumerable iniquities that
+216217 new <>partners in the innumerable iniquities that
+;
+; TODO Case 317: cele-brated -> celebrated (spell = True)
+; <L>25562<pc>0963-c<k1>vAsukiH<k2>vAsukiH, vAsukeyaH
+216524 old {#vAsukiH, vAsukeyaH#}¦ <ab>N.</ab> of a cele- 
+216524 new {#vAsukiH, vAsukeyaH#}¦ <ab>N.</ab> of a <lbinfo n="cele+brated"/>
+;
+216526 old <>brated serpent, king of snakes
+216526 new <>celebrated serpent, king of snakes
+;
+; TODO Case 318: muti-late -> mutilate (spell = True)
+; <L>25623<pc>0965-b<k1>vikalIkf<k2>vikalIkf
+216926 old {#vikalIkf#}¦ 8 <ab>U.</ab> {@1@} To maim, muti- 
+216926 new {#vikalIkf#}¦ 8 <ab>U.</ab> {@1@} To maim, <lbinfo n="muti+late"/>
+;
+216928 old <>late. {@--2@} To impair, harm. injure. {@--3@}
+216928 new <>mutilate. {@--2@} To impair, harm. injure. {@--3@}
+;
+; TODO Case 319: sin-less -> sinless (spell = True)
+; <L>25717<pc>0968-a<k1>vigata<k2>vigata
+217576 old <>discharge has ceased). {#--kalmaza#} {%<ab>a.</ab>%} sin- 
+217576 new <>discharge has ceased). {#--kalmaza#} {%<ab>a.</ab>%} <lbinfo n="sin+less"/>
+;
+217578 old <>less, pure. {#--BI#} {%<ab>a.</ab>%} fearless, intrepid.
+217578 new <>sinless, pure. {#--BI#} {%<ab>a.</ab>%} fearless, intrepid.
+;
+; TODO Case 320: ac-quired -> acquired (spell = True)
+; <L>25912<pc>0973-c<k1>vitta<k2>vitta
+218931 old <>Found, discovered. {@--2@} Gained, ac- 
+218931 new <>Found, discovered. {@--2@} Gained, <lbinfo n="ac+quired"/>
+;
+218933 old <>quired. {@--3@} Examined, investigated.
+218933 new <>acquired. {@--3@} Examined, investigated.
+;
+; TODO Case 321: schol-ar -> scholar (spell = True)
+; <L>25927<pc>0974-b<k1>vidaTaH<k2>vidaTaH
+219074 old {#vidaTaH#}¦ 1 A learned man, schol- 
+219074 new {#vidaTaH#}¦ 1 A learned man, <lbinfo n="schol+ar"/>
+;
+219076 old <>ar. {@--2@} An ascetic, a sage. {@--3@} <ab>Ved.</ab>
+219076 new <>scholar. {@--2@} An ascetic, a sage. {@--3@} <ab>Ved.</ab>
+;
+; TODO Case 322: injunc-tion -> injunction (spell = True)
+; <L>25988<pc>0976-c<k1>viDAnaM<k2>viDAnaM
+219596 old <>sacred rule or precept, sacred injunc- 
+219596 new <>sacred rule or precept, sacred <lbinfo n="injunc+tion"/>
+;
+219598 old <>tion; <ls>Ms. 9. 148</ls>; <ls>Bg. 16. 24</ls>, 17.
+219598 new <>injunction; <ls>Ms. 9. 148</ls>; <ls>Bg. 16. 24</ls>, 17.
+;
+; TODO Case 323: de-stitute -> destitute (spell = True)
+; <L>26166<pc>0982-c<k1>viprayukta<k2>viprayukta
+220982 old <>released from. {@--4@} Deprived or de- 
+220982 new <>released from. {@--4@} Deprived or <lbinfo n="de+stitute"/>
+;
+220984 old <>stitute of, without (in <ab>comp.</ab>).
+220984 new <>destitute of, without (in <ab>comp.</ab>).
+;
+; TODO Case 324: per-plexed -> perplexed (spell = True)
+; <L>26256<pc>0985-c<k1>vimad<k2>vimad
+221676 old {#vimad#}¦ 4 <ab>P.</ab> {@1@} To become per- 
+221676 new {#vimad#}¦ 4 <ab>P.</ab> {@1@} To become <lbinfo n="per+plexed"/>
+;
+221678 old <>plexed or confused. {@--2@} To be <lbinfo n="in+toxicated"/>
+221678 new <>perplexed or confused. {@--2@} To be <lbinfo n="in+toxicated"/>
+;
+; TODO Case 325: (re-ferring -> (referring (spell = True)
+; <L>26337<pc>0988-a<k1>virala<k2>virala
+222237 old <><ls>K.</ls>; <ls>Pt. 1. 29.</ls> {@--5@} Few, little (re- 
+222237 new <><ls>K.</ls>; <ls>Pt. 1. 29.</ls> {@--5@} Few, little <lbinfo n="(re+ferring"/>
+;
+222239 old <>ferring to number or quantity);  <lbinfo n="ta#ttvaM"/>
+222239 new <>(referring to number or quantity);  <lbinfo n="ta#ttvaM"/>
+;
+; TODO Case 326: Dig-ging -> Digging (spell = True)
+; <L>26426<pc>0991-a<k1>vileKanaM<k2>vileKanaM
+222927 old <>making a mark or furrow. {@--2@} Dig- 
+222927 new <>making a mark or furrow. {@--2@} <lbinfo n="Dig+ging"/>
+;
+222929 old <>ging. {@--4@} Uprooting. {@--5@} Dividing,
+222929 new <>Digging. {@--4@} Uprooting. {@--5@} Dividing,
+;
+; TODO Case 327: im-perfection -> imperfection (spell = True)
+; <L>26556<pc>0995-c<k1>viSudDa<k2>viSudDa
+223988 old <>{@--2@} Pure, free from vice, sin, or im- 
+223988 new <>{@--2@} Pure, free from vice, sin, or <lbinfo n="im+perfection"/>
+;
+223990 old <>perfection. {@--3@} Spotless, stainless.
+223990 new <>imperfection. {@--3@} Spotless, stainless.
+;
+; TODO Case 328: be-stow -> bestow (spell = True)
+; <L>26568<pc>0996-a<k1>viSraR<k2>viSraR
+224068 old {#viSraR#}¦ 10 <ab>U.</ab> To give away, be- 
+224068 new {#viSraR#}¦ 10 <ab>U.</ab> To give away, <lbinfo n="be+stow"/>
+;
+224070 old <>stow; {#niHSezaviSrARitakoSajAtaM#} <ls>R. 5. 1</ls>;
+224070 new <>bestow; {#niHSezaviSrARitakoSajAtaM#} <ls>R. 5. 1</ls>;
+;
+; TODO Case 329: Śūrpaṇa-khā -> Śūrpaṇakhā (spell = False)
+; <L>26581<pc>0996-b<k1>viSravas<k2>viSravas
+224151 old <>Kumbhakarṇa, Bibhīṣaṇa and Śūrpaṇa- 
+224151 new <>Kumbhakarṇa, Bibhīṣaṇa and <lbinfo n="Śūrpaṇa+khā"/>
+;
+224153 old <>khā by his wife Kaikasī, and of
+224153 new <>Śūrpaṇakhā by his wife Kaikasī, and of
+;
+; TODO Case 330: dif-ficulty -> difficulty (spell = True)
+; <L>26618<pc>0998-b<k1>vizama<k2>vizama
+224573 old <>difficult or dangerous position, dif- 
+224573 new <>difficult or dangerous position, <lbinfo n="dif+ficulty"/>
+;
+224575 old <>ficulty, misfortune; {#suptaM pramattaM #} <lbinfo n="vizama#sTitaM"/>
+224575 new <>difficulty, misfortune; {#suptaM pramattaM #} <lbinfo n="vizama#sTitaM"/>
+;
+; TODO Case 331: Spread-ing -> Spreading (spell = True)
+; <L>26689<pc>1000-c<k1>visaraH<k2>visaraH
+225112 old {#visaraH#}¦ 1 Going forth. {@--2@} Spread- 
+225112 new {#visaraH#}¦ 1 Going forth. {@--2@} <lbinfo n="Spread+ing"/>
+;
+225114 old <>ing, extending. {@--3@} Crowd, <lbinfo n="multi+tude"/>
+225114 new <>Spreading, extending. {@--3@} Crowd, <lbinfo n="multi+tude"/>
+;
+; TODO Case 332: produc-ing -> producing (spell = True)
+; <L>26725<pc>1002-a<k1>vismayaMgama<k2>vismayaMgama
+225413 old {#vismayaMgama#}¦ {%<ab>a.</ab>%} Astonishing, produc- 
+225413 new {#vismayaMgama#}¦ {%<ab>a.</ab>%} Astonishing, <lbinfo n="produc+ing"/>
+;
+225415 old <>ing wonder.
+225415 new <>producing wonder.
+;
+; TODO Case 333: un-dergo -> undergo (spell = True)
+; <L>26780<pc>1003-b<k1>vI<k2>vI
+225753 old <><ls>Ś. 4. 12</ls>; so {#vItaBaya, vItakroDa#}. {@--2@} To un- 
+225753 new <><ls>Ś. 4. 12</ls>; so {#vItaBaya, vItakroDa#}. {@--2@} To <lbinfo n="un+dergo"/>
+;
+225755 old <>dergo a change; {#sadfSaM trizu liMgezu#}
+225755 new <>undergo a change; {#sadfSaM trizu liMgezu#}
+;
+; TODO Case 334: en-velope -> envelope (spell = True)
+; <L>26994<pc>1012-a<k1>vezwanaM<k2>vezwanaM
+227686 old <>{#caMdanAnAM samarpitaM#} <ls>R. 4. 48.</ls> {@--3@} An en- 
+227686 new <>{#caMdanAnAM samarpitaM#} <ls>R. 4. 48.</ls> {@--3@} An <lbinfo n="en+velope"/>
+;
+227688 old <>velope, a wrapper, cover, covering,
+227688 new <>envelope, a wrapper, cover, covering,
+;
+; TODO Case 335: schol-ar -> scholar (spell = True)
+; <L>27070<pc>1013-c<k1>vEdya<k2>vEdya
+228116 old <>{#astyasya aR#}] {@1@} A learned man, schol- 
+228116 new <>{#astyasya aR#}] {@1@} A learned man, <lbinfo n="schol+ar"/>
+;
+228118 old <>ar, doctor. {@--2@} A medical man, <lbinfo n="phy+sician"/>
+228118 new <>scholar, doctor. {@--2@} A medical man, <lbinfo n="phy+sician"/>
+;
+; TODO Case 336: spend-ing -> spending (spell = True)
+; <L>27270<pc>1019-a<k1>vyaya<k2>vyaya
+229426 old <>Expenditure, expense, outlay, spend- 
+229426 new <>Expenditure, expense, outlay, <lbinfo n="spend+ing"/>
+;
+229428 old <>ing, applying to use (<ab>opp.</ab> {#Aya#});
+229428 new <>spending, applying to use (<ab>opp.</ab> {#Aya#});
+;
+; TODO Case 337: de-cision -> decision (spell = True)
+; <L>27293<pc>1020-a<k1>vyavasTAnaM<k2>vyavasTAnaM, vyavasTitiH
+229646 old <>decision. {@--2@} A rule, statute, de- 
+229646 new <>decision. {@--2@} A rule, statute, <lbinfo n="de+cision"/>
+;
+229648 old <>cision. {@--3@} Steadiness, constancy
+229648 new <>decision. {@--3@} Steadiness, constancy
+;
+; TODO Case 338: Compre-hended -> Comprehended (spell = True)
+; <L>27368<pc>1022-c<k1>vyApta<k2>vyApta
+230254 old <>Obtained, possessed. {@--7@} Compre- 
+230254 new <>Obtained, possessed. {@--7@} <lbinfo n="Compre+hended"/>
+;
+230256 old <>hended, included. {@--8@} Invariably
+230256 new <>Comprehended, included. {@--8@} Invariably
+;
+; TODO Case 339: break-ing -> breaking (spell = True)
+; <L>27456<pc>1025-b<k1>vyUhaH<k2>vyUhaH
+230893 old <>rear of an army. {#--BaMgaH, --BedaH#} break- 
+230893 new <>rear of an army. {#--BaMgaH, --BedaH#} <lbinfo n="break+ing"/>
+;
+230895 old <>ing an array.
+230895 new <>breaking an array.
+;
+; TODO Case 340: sa-cred -> sacred (spell = True)
+; <L>27472<pc>1026-a<k1>vrataH<k2>vrataH --taM
+231039 old <>of the three classes) with the sa- 
+231039 new <>of the three classes) with the <lbinfo n="sa+cred"/>
+;
+231041 old <>cred thread. {#--upavAsaH#} a fast for a
+231041 new <>sacred thread. {#--upavAsaH#} a fast for a
+;
+; TODO Case 341: blunder-ing -> blundering (spell = True)
+; <L>27516<pc>1027-1<k1>SakAraH<k2>SakAraH
+231394 old <>his high connection, his blunder- 
+231394 new <>his high connection, his <lbinfo n="blunder+ing"/>
+;
+231396 old <>ing and ludicrous folly, but withal
+231396 new <>blundering and ludicrous folly, but withal
+;
+; TODO Case 342: spike-cared -> spikecared (spell = False)
+; <L>27551<pc>1029-c<k1>SaMkuH<k2>SaMkuH
+231811 old <>god of love. {@--Comp.@} {#--karRa#} {%<ab>a.</ab>%} spike- 
+231811 new <>god of love. {@--Comp.@} {#--karRa#} {%<ab>a.</ab>%} <lbinfo n="spike+cared"/>
+;
+231813 old <>cared. ({#--rRaH#}) an ass. {#--jIvA#} (in
+231813 new <>spikecared. ({#--rRaH#}) an ass. {#--jIvA#} (in
+;
+; TODO Case 343: autho-rity -> authority (spell = True)
+; <L>27614<pc>1032-c<k1>SabdaH<k2>SabdaH
+232451 old <>as in {#Sabdapati#} <ab>q. v.</ab> {@--8@} Verbal autho- 
+232451 new <>as in {#Sabdapati#} <ab>q. v.</ab> {@--8@} Verbal <lbinfo n="autho+rity"/>
+;
+232453 old <>rity (regarded by the Naiyāyikas
+232453 new <>authority (regarded by the Naiyāyikas
+;
+; TODO Case 344: frag-ment -> fragment (spell = True)
+; <L>27676<pc>1036-a<k1>SarkarA<k2>SarkarA
+233146 old <>fragments, sand. {@--5@} A piece, frag- 
+233146 new <>fragments, sand. {@--5@} A piece, <lbinfo n="frag+ment"/>
+;
+233148 old <>ment. {@--6@} A potsherd. {@--7@} Any hard
+233148 new <>fragment. {@--6@} A potsherd. {@--7@} Any hard
+;
+; TODO Case 345: ani-mal -> animal (spell = True)
+; <L>27735<pc>1037-c<k1>SasanaM<k2>SasanaM
+233548 old <>killing. {@--2@} Immolation (of an ani- 
+233548 new <>killing. {@--2@} Immolation (of an <lbinfo n="ani+mal"/>
+;
+233550 old <>mal at sacrifice).
+233550 new <>animal at sacrifice).
+;
+; TODO Case 346: Re-lating -> Relating (spell = True)
+; <L>27767<pc>1038-c<k1>SAkta<k2>SAkta
+233783 old <>{#aR#}.] {@1@} Relating to power. {@--2@} Re- 
+233783 new <>{#aR#}.] {@1@} Relating to power. {@--2@} <lbinfo n="Re+lating"/>
+;
+233785 old <>lating to Śakti or the female <lbinfo n="personi+fication"/>
+233785 new <>Relating to Śakti or the female <lbinfo n="personi+fication"/>
+;
+; TODO Case 347: veter-nary -> veternary (spell = False)
+; <L>27872<pc>1041-c<k1>SAliH<k2>SAliH
+234497 old <>{#--hotraH#} 1. <ab>N.</ab> of a writer on veter- 
+234497 new <>{#--hotraH#} 1. <ab>N.</ab> of a writer on <lbinfo n="veter+nary"/>
+;
+234499 old <>nary subjects. {@--2@} a horse. {#--hotrin#}
+234499 new <>veternary subjects. {@--2@} a horse. {#--hotrin#}
+;
+; TODO Case 348: vio-lation -> violation (spell = True)
+; <L>27908<pc>1042-c<k1>SAstraM<k2>SAstraM
+234740 old <>{@--Comp.@} {#--atikramaH, --ananuzWAnaM#} vio- 
+234740 new <>{@--Comp.@} {#--atikramaH, --ananuzWAnaM#} <lbinfo n="vio+lation"/>
+;
+234742 old <>lation of sacred precepts, disregard
+234742 new <>violation of sacred precepts, disregard
+;
+; TODO Case 349: Belong-ing -> Belonging (spell = True)
+; <L>27979<pc>1045-b<k1>Sirasya<k2>Sirasya
+235340 old {#Sirasya#}¦ {%<ab>a.</ab>%} [{#Sirasi BavaH yat#}] Belong- 
+235340 new {#Sirasya#}¦ {%<ab>a.</ab>%} [{#Sirasi BavaH yat#}] <lbinfo n="Belong+ing"/>
+;
+235342 old <>ing to, or being on, the head. {#--syaH#}
+235342 new <>Belonging to, or being on, the head. {#--syaH#}
+;
+; TODO Case 350: un-entangled -> unentangled (spell = False)
+; <L>28046<pc>1048-b<k1>SIrzaRyaH<k2>SIrzaRyaH
+235989 old {#SIrzaRyaH#}¦ [{#SIrzan-yat#}] Clean or un- 
+235989 new {#SIrzaRyaH#}¦ [{#SIrzan-yat#}] Clean or <lbinfo n="un+entangled"/>
+;
+235991 old <>entangled hair. {#--RyaM#} {@1@} A helmet.
+235991 new <>unentangled hair. {#--RyaM#} {@1@} A helmet.
+;
+; TODO Case 351: prac-tice -> practice (spell = True)
+; <L>28050<pc>1048-c<k1>SIlanaM<k2>SIlanaM
+236054 old {#SIlanaM#}¦ [{#SIl-lyuw#}] {@1@} Repeated prac- 
+236054 new {#SIlanaM#}¦ [{#SIl-lyuw#}] {@1@} Repeated <lbinfo n="prac+tice"/>
+;
+236056 old <>tice, exercise, study, cultivation. {@--2@}
+236056 new <>practice, exercise, study, cultivation. {@--2@}
+;
+; TODO Case 352: auspici-ous -> auspicious (spell = True)
+; <L>28108<pc>1051-a<k1>SuBa<k2>SuBa
+236577 old <>sacrifices are performed. --2. an auspici- 
+236577 new <>sacrifices are performed. --2. an <lbinfo n="auspici+ous"/>
+;
+236579 old <>ous place.
+236579 new <>auspicious place.
+;
+; TODO Case 353: con-gealed -> congealed (spell = True)
+; <L>28341<pc>1058-a<k1>SyE<k2>SyE
+238230 old <>{#SIna#}) {@1@} To go, move. {@--2@} To be con- 
+238230 new <>{#SIna#}) {@1@} To go, move. {@--2@} To be <lbinfo n="con+gealed"/>
+;
+238232 old <>gealed or coagulated. {@--3@} To dry up,
+238232 new <>congealed or coagulated. {@--3@} To dry up,
+;
+; TODO Case 354: Da-śaratha -> Daśaratha (spell = False)
+; <L>28386<pc>1059-b<k1>SrAvaRa<k2>SrAvaRa
+238546 old <>unwittingly shot dead by king Da- 
+238546 new <>unwittingly shot dead by king <lbinfo n="Da+śaratha"/>
+;
+238548 old <>śaratha who was in consequence
+238548 new <>Daśaratha who was in consequence
+;
+; TODO Case 355: proper-ties -> properties (spell = True)
+; <L>28532<pc>1066-a<k1>zAqguRyaM<k2>zAqguRyaM
+239924 old <>of anything by six. {@--4@} Six proper- 
+239924 new <>of anything by six. {@--4@} Six <lbinfo n="proper+ties"/>
+;
+239926 old <>ties. {@--Comp.@} {#--prayogaH#} <lbinfo n="employ+ment"/>
+239926 new <>properties. {@--Comp.@} {#--prayogaH#} <lbinfo n="employ+ment"/>
+;
+; TODO Case 356: admonish-ed -> admonished (spell = True)
+; <L>28642<pc>1069-b<k1>saMvidita<k2>saMvidita
+240705 old <>Agreed upon. {@--6@} Advised, admonish- 
+240705 new <>Agreed upon. {@--6@} Advised, <lbinfo n="admonish+ed"/>
+;
+240707 old <>ed; see {#vid#} with {#saM#}. {#--taM#} An <lbinfo n="agree+ment"/>
+240707 new <>admonished; see {#vid#} with {#saM#}. {#--taM#} An <lbinfo n="agree+ment"/>
+;
+; TODO Case 357: world-ly -> worldly (spell = True)
+; <L>28724<pc>1072-a<k1>saMsAraH<k2>saMsAraH
+241323 old <>the course of worldly affairs, world- 
+241323 new <>the course of worldly affairs, <lbinfo n="world+ly"/>
+;
+241325 old <>ly life. --2. the vulva. {#--mokzaH, --#} <lbinfo n="mo#kzaRaM"/>
+241325 new <>worldly life. --2. the vulva. {#--mokzaH, --#} <lbinfo n="mo#kzaRaM"/>
+;
+; TODO Case 358: desir-ed -> desired (spell = True)
+; <L>28811<pc>1075-b<k1>sakAma<k2>sakAma
+242064 old <>amorous. {@--3@} One who has got his desir- 
+242064 new <>amorous. {@--3@} One who has got his <lbinfo n="desir+ed"/>
+;
+242066 old <>ed object, satisfied, contented;
+242066 new <>desired object, satisfied, contented;
+;
+; TODO Case 359: dis-ease -> disease (spell = True)
+; <L>28987<pc>1081-a<k1>saMcArin<k2>saMcArin
+243382 old <>successively communicated (as a dis- 
+243382 new <>successively communicated (as a <lbinfo n="dis+ease"/>
+;
+243384 old <>ease). {@--8@} Contagious. {@--9@} <lbinfo n="Impell+ing"/>
+243384 new <>disease). {@--8@} Contagious. {@--9@} <lbinfo n="Impell+ing"/>
+;
+; TODO Case 360: conceal-ed -> concealed (spell = True)
+; <L>29005<pc>1081-b<k1>saMCanna<k2>saMCanna
+243474 old {#saMCanna#}¦ {%<ab>p. p.</ab>%} {@1@} Enveloped, conceal- 
+243474 new {#saMCanna#}¦ {%<ab>p. p.</ab>%} {@1@} Enveloped, <lbinfo n="conceal+ed"/>
+;
+243476 old <>ed, hidden. {@--2@} Clothed. {@--3@} <lbinfo n="Sur+rounded"/>
+243476 new <>concealed, hidden. {@--2@} Clothed. {@--3@} <lbinfo n="Sur+rounded"/>
+;
+; TODO Case 361: ortho-dox -> orthodox (spell = True)
+; <L>29045<pc>1082-c<k1>sat<k2>sat
+243843 old <>or virtuous conduct. --3. an ortho- 
+243843 new <>or virtuous conduct. --3. an <lbinfo n="ortho+dox"/>
+;
+243845 old <>dox doctrine. {#--parigrahaH#} acceptance (of
+243845 new <>orthodox doctrine. {#--parigrahaH#} acceptance (of
+;
+; TODO Case 362: interven-ing -> intervening (spell = True)
+; <L>29209<pc>1089-b<k1>saMDyA<k2>saMDyA
+245258 old <>precedes a {%Yuga,%} the time interven- 
+245258 new <>precedes a {%Yuga,%} the time <lbinfo n="interven+ing"/>
+;
+245260 old <>ing between the expiration of one
+245260 new <>intervening between the expiration of one
+;
+; TODO Case 363: accom-plished -> accomplished (spell = True)
+; <L>29213<pc>1089-c<k1>saMnam<k2>saMnam
+245324 old <>ready, prepare. {@--5@} To be accom- 
+245324 new <>ready, prepare. {@--5@} To be <lbinfo n="accom+plished"/>
+;
+245326 old <>plished. {%--<ab>Caus.</ab>%} {@1@} To contract,
+245326 new <>accomplished. {%--<ab>Caus.</ab>%} {@1@} To contract,
+;
+; TODO Case 364: assem-blage -> assemblage (spell = True)
+; <L>29230<pc>1090-b<k1>saMnipAtaH<k2>saMnipAtaH
+245472 old <>{#saMnipAtaH kva meGaH#} <ls>Me. 5.</ls> {@--5@} An assem- 
+245472 new <>{#saMnipAtaH kva meGaH#} <ls>Me. 5.</ls> {@--5@} An <lbinfo n="assem+blage"/>
+;
+245474 old <>blage, a collection, multitude, <lbinfo n="num+ber"/>
+245474 new <>assemblage, a collection, multitude, <lbinfo n="num+ber"/>
+;
+; TODO Case 365: engage-ment -> engagement (spell = True)
+; <L>29326<pc>1094-a<k1>samayaH<k2>samayaH
+246293 old <>a compact, contract, an engage- 
+246293 new <>a compact, contract, an <lbinfo n="engage+ment"/>
+;
+246295 old <>ment; {#miTaHsamayAt#} <ls>Ś. 5.</ls> {@--5@} A <lbinfo n="con+vention"/>
+246295 new <>engagement; {#miTaHsamayAt#} <ls>Ś. 5.</ls> {@--5@} A <lbinfo n="con+vention"/>
+;
+; TODO Case 366: Excre-ment -> Excrement (spell = True)
+; <L>29341<pc>1094-c<k1>samala<k2>samala
+246438 old <>impure. {@--2@} Sinful. {#--laM#} Excre- 
+246438 new <>impure. {@--2@} Sinful. {#--laM#} <lbinfo n="Excre+ment"/>
+;
+246440 old <>ment, ordure, feces.
+246440 new <>Excrement, ordure, feces.
+;
+; TODO Case 367: ex-tract -> extract (spell = True)
+; <L>29362<pc>1095-b<k1>samAkfz<k2>samAkfz
+246595 old {#samAkfz#}¦ 1 <ab>P.</ab> To draw out, ex- 
+246595 new {#samAkfz#}¦ 1 <ab>P.</ab> To draw out, <lbinfo n="ex+tract"/>
+;
+246597 old <>tract. {@--2@} To attract.
+246597 new <>extract. {@--2@} To attract.
+;
+; TODO Case 368: sym-pathising -> sympathising (spell = True)
+; <L>29392<pc>1096-c<k1>samAna<k2>samAna
+246885 old <>possessed of the same qualities, sym- 
+246885 new <>possessed of the same qualities, <lbinfo n="sym+pathising"/>
+;
+246887 old <>pathising, appreciator of merits;  <lbinfo n="ls:Māl.+ 1. 6."/>
+246887 new <>sympathising, appreciator of merits;  <lbinfo n="ls:Māl.+ 1. 6."/>
+;
+; TODO Case 369: connec-tion -> connection (spell = True)
+; <L>29435<pc>1097-c<k1>samAvAyaH<k2>samAvAyaH
+247142 old {#samAvAyaH#}¦ {@1@} Association, connec- 
+247142 new {#samAvAyaH#}¦ {@1@} Association, <lbinfo n="connec+tion"/>
+;
+247144 old <>tion. {@--2@} Inseparable connection;
+247144 new <>connection. {@--2@} Inseparable connection;
+;
+; TODO Case 370: Tak-ing -> Taking (spell = True)
+; <L>29563<pc>1100-c<k1>samudDaraRaM<k2>samudDaraRaM
+247907 old <>{@--5@} Eradication, extirpation. {@--6@} Tak- 
+247907 new <>{@--5@} Eradication, extirpation. {@--6@} <lbinfo n="Tak+ing"/>
+;
+247909 old <>ing out from (a share). {@--7@} Food
+247909 new <>Taking out from (a share). {@--7@} Food
+;
+; TODO Case 371: near-ness -> nearness (spell = True)
+; <L>29593<pc>1101-b<k1>samupasTA<k2>samupasTA, samupasTAnaM
+248080 old <>approximation. {@--2@} Proximity, near- 
+248080 new <>approximation. {@--2@} Proximity, <lbinfo n="near+ness"/>
+;
+248082 old <>ness. {@--3@} Happening, befalling, <lbinfo n="oc+currence"/>
+248082 new <>nearness. {@--3@} Happening, befalling, <lbinfo n="oc+currence"/>
+;
+; TODO Case 372: tor-ture -> torture (spell = True)
+; <L>29636<pc>1102-c<k1>saMpIq<k2>saMpIq
+248394 old <>press or squeeze together. {@--2@} To tor- 
+248394 new <>press or squeeze together. {@--2@} To <lbinfo n="tor+ture"/>
+;
+248396 old <>ture, harass, oppress, pinch, pain;
+248396 new <>torture, harass, oppress, pinch, pain;
+;
+; TODO Case 373: care-fully -> carefully (spell = True)
+; <L>29699<pc>1104-a<k1>saMprekz<k2>saMprekz
+248744 old {#saMprekz#}¦ 1 <ab>A.</ab> {@1@} To observe care- 
+248744 new {#saMprekz#}¦ 1 <ab>A.</ab> {@1@} To observe <lbinfo n="care+fully"/>
+;
+248746 old <>fully, mark, perceive. {@--2@} To consider
+248746 new <>carefully, mark, perceive. {@--2@} To consider
+;
+; TODO Case 374: conscious-ness -> consciousness (spell = True)
+; <L>29723<pc>1104-c<k1>saMbudDiH<k2>saMbudDiH
+248904 old <>or perception. {@--2@} Full conscious- 
+248904 new <>or perception. {@--2@} Full <lbinfo n="conscious+ness"/>
+;
+248906 old <>ness. {@--3@} Calling to, addressing. {@--4@}
+248906 new <>consciousness. {@--3@} Calling to, addressing. {@--4@}
+;
+; TODO Case 375: pos-sessions -> possessions (spell = True)
+; <L>29864<pc>1108-c<k1>sarva<k2>sarva
+249977 old <>everything, the whole of one's pos- 
+249977 new <>everything, the whole of one's <lbinfo n="pos+sessions"/>
+;
+249979 old <>sessions; as in {#sarvasvadaMqaH, sarvasvaharaRaM#}
+249979 new <>possessions; as in {#sarvasvadaMqaH, sarvasvaharaRaM#}
+;
+; TODO Case 376: Ayo-dhyā -> Ayodhyā (spell = False)
+; <L>29989<pc>1113-a<k1>sAketakaH<k2>sAketakaH
+250844 old {#sAketakaH#}¦ An inhabitant of Ayo- 
+250844 new {#sAketakaH#}¦ An inhabitant of <lbinfo n="Ayo+dhyā"/>
+;
+250846 old <>dhyā. {#--kaM#} {#= sAketaM#}.
+250846 new <>Ayodhyā. {#--kaM#} {#= sAketaM#}.
+;
+; TODO Case 377: pos-sessing -> possessing (spell = True)
+; <L>29998<pc>1113-b<k1>sAgnika<k2>sAgnika
+250920 old {#sAgnika#}¦ {%<ab>a.</ab>%} {@1@} Maintaining or pos- 
+250920 new {#sAgnika#}¦ {%<ab>a.</ab>%} {@1@} Maintaining or <lbinfo n="pos+sessing"/>
+;
+250922 old <>sessing fire. {@--2@} Attended by fire.
+250922 new <>possessing fire. {@--2@} Attended by fire.
+;
+; TODO Case 378: ma-gic -> magic (spell = True)
+; <L>30038<pc>1114-c<k1>sADaka<k2>sADaka
+251224 old <>Skilful, adept. {@--4@} Effecting by ma- 
+251224 new <>Skilful, adept. {@--4@} Effecting by <lbinfo n="ma+gic"/>
+;
+251226 old <>gic, magical. {@--5@} Assisting, helping.
+251226 new <>magic, magical. {@--5@} Assisting, helping.
+;
+; TODO Case 379: hav-ing -> having (spell = True)
+; <L>30040<pc>1115-a<k1>sADanatA<k2>sADanatA, --tvaM
+251286 old {#sADanatA, --tvaM#}¦ {@1@} The state of hav- 
+251286 new {#sADanatA, --tvaM#}¦ {@1@} The state of <lbinfo n="hav+ing"/>
+;
+251288 old <>ing means, possession of means to
+251288 new <>having means, possession of means to
+;
+; TODO Case 380: Relat-ing -> Relating (spell = True)
+; <L>30113<pc>1117-b<k1>sAmayAcArika<k2>sAmayAcArika
+251826 old {#sAmayAcArika#}¦ {%<ab>a.</ab>%} ({#kI#} {%<ab>f.</ab>%}) Relat- 
+251826 new {#sAmayAcArika#}¦ {%<ab>a.</ab>%} ({#kI#} {%<ab>f.</ab>%}) <lbinfo n="Relat+ing"/>
+;
+251828 old <>ing to conventional practice or
+251828 new <>Relating to conventional practice or
+;
+; TODO Case 381: pro-perty -> property (spell = True)
+; <L>30119<pc>1117-c<k1>sAmAnya<k2>sAmAnya
+251895 old <>universality. {@--2@} Common or generic pro- 
+251895 new <>universality. {@--2@} Common or generic <lbinfo n="pro+perty"/>
+;
+251897 old <>perty, general characteristic;  <lbinfo n="nitya#mekamanekasamavetaM"/>
+251897 new <>property, general characteristic;  <lbinfo n="nitya#mekamanekasamavetaM"/>
+;
+; TODO Case 382: com-plete -> complete (spell = True)
+; <L>30141<pc>1118-b<k1>sAmrAjyaM<k2>sAmrAjyaM
+252051 old {#sAmrAjyaM#}¦ {@1@} Universal or com- 
+252051 new {#sAmrAjyaM#}¦ {@1@} Universal or <lbinfo n="com+plete"/>
+;
+252053 old <>plete sovereignty, imperial sway;
+252053 new <>complete sovereignty, imperial sway;
+;
+; TODO Case 383: signi-ficant -> significant (spell = True)
+; <L>30178<pc>1119-c<k1>sArTaka<k2>sArTaka
+252353 old {#sArTaka#}¦ {%<ab>a.</ab>%} {@1@} Having sense, signi- 
+252353 new {#sArTaka#}¦ {%<ab>a.</ab>%} {@1@} Having sense, <lbinfo n="signi+ficant"/>
+;
+252355 old <>ficant. {@--2@} Useful, serviceable, <lbinfo n="ad+vantageous"/>
+252355 new <>significant. {@--2@} Useful, serviceable, <lbinfo n="ad+vantageous"/>
+;
+; TODO Case 384: Bind-ing -> Binding (spell = True)
+; <L>30286<pc>1123-a<k1>siti<k2>siti
+253145 old <>{@1@} White or black colour. {@--2@} Bind- 
+253145 new <>{@1@} White or black colour. {@--2@} <lbinfo n="Bind+ing"/>
+;
+253147 old <>ing, fastening. {@--Comp.@} {#--kaMWa, --vAsas#}
+253147 new <>Binding, fastening. {@--Comp.@} {#--kaMWa, --vAsas#}
+;
+; TODO Case 385: instru-ments -> instruments (spell = True)
+; <L>30353<pc>1126-a<k1>su<k2>su
+253795 old <>{#--upaskara#} {%<ab>a.</ab>%} furnished with good instru- 
+253795 new <>{#--upaskara#} {%<ab>a.</ab>%} furnished with good <lbinfo n="instru+ments"/>
+;
+253797 old <>ments. {#--kaMwakA#} the aloe plant.
+253797 new <>instruments. {#--kaMwakA#} the aloe plant.
+;
+; TODO Case 386: waved-leaf -> wavedleaf (spell = False)
+; <L>30353<pc>1126-a<k1>su<k2>su
+254144 old <>handsome feet. {#--pArSvaH#} 1. the waved- 
+254144 new <>handsome feet. {#--pArSvaH#} 1. the <lbinfo n="waved+leaf"/>
+;
+254146 old <>leaf fig-tree ({#plakza#}). --2. <ab>N.</ab> of the
+254146 new <>wavedleaf fig-tree ({#plakza#}). --2. <ab>N.</ab> of the
+;
+; TODO Case 387: plan-tain -> plantain (spell = True)
+; <L>30353<pc>1126-a<k1>su<k2>su
+254202 old <>1. a pumpkin, gourd. --2. the plan- 
+254202 new <>1. a pumpkin, gourd. --2. the <lbinfo n="plan+tain"/>
+;
+254204 old <>tain tree. --3. a variety of brown
+254204 new <>plantain tree. --3. a variety of brown
+;
+; TODO Case 388: adapt-ed -> adapted (spell = True)
+; <L>30353<pc>1126-a<k1>su<k2>su
+254375 old <>{#idamasulaBavastuprArTanAdurnivAraM#} 2. 6. --2. ready for, adapt- 
+254375 new <>{#idamasulaBavastuprArTanAdurnivAraM#} 2. 6. --2. ready for, <lbinfo n="adapt+ed"/>
+;
+254377 old <>ed to, fit, suitable;  <lbinfo n="nizWyUtaScaraRopaBo#gasulaBo"/>
+254377 new <>adapted to, fit, suitable;  <lbinfo n="nizWyUtaScaraRopaBo#gasulaBo"/>
+;
+; TODO Case 389: ac-quired -> acquired (spell = True)
+; <L>30402<pc>1132-c<k1>suvarRa<k2>suvarRa
+255049 old <>turmeric. {#--sidDaH#} an adept who has ac- 
+255049 new <>turmeric. {#--sidDaH#} an adept who has <lbinfo n="ac+quired"/>
+;
+255051 old <>quired gold by magical means.  <lbinfo n="--ste#yaM"/>
+255051 new <>acquired gold by magical means.  <lbinfo n="--ste#yaM"/>
+;
+; TODO Case 390: intel-ligent -> intelligent (spell = True)
+; <L>30421<pc>1133-b<k1>sUkzma<k2>sUkzma
+255200 old <>sharp-witted, acute, shrewd, intel- 
+255200 new <>sharp-witted, acute, shrewd, <lbinfo n="intel+ligent"/>
+;
+255202 old <>ligent. ({#--dDiH#} {%<ab>f.</ab>%}) sharp wit, acute
+255202 new <>intelligent. ({#--dDiH#} {%<ab>f.</ab>%}) sharp wit, acute
+;
+; TODO Case 391: Communi-cated -> Communicated (spell = True)
+; <L>30430<pc>1134-a<k1>sUcita<k2>sUcita
+255333 old <>by signs or gestures. {@--4@} Communi- 
+255333 new <>by signs or gestures. {@--4@} <lbinfo n="Communi+cated"/>
+;
+255335 old <>cated, told, revealed. {@--5@} <lbinfo n="Ascertain+ed"/>
+255335 new <>Communicated, told, revealed. {@--5@} <lbinfo n="Ascertain+ed"/>
+;
+; TODO Case 392: destruc-tion -> destruction (spell = True)
+; <L>30455<pc>1135-a<k1>sUdana<k2>sUdana
+255554 old <>beloved. {#--naM#} {@1@} Destroying, destruc- 
+255554 new <>beloved. {#--naM#} {@1@} Destroying, <lbinfo n="destruc+tion"/>
+;
+255556 old <>tion, massacre. {@--2@} Assenting to,
+255556 new <>destruction, massacre. {@--2@} Assenting to,
+;
+; TODO Case 393: Beau-ty -> Beauty (spell = True)
+; <L>30641<pc>1140-c<k1>sOMdaryaM<k2>sOMdaryaM
+256916 old {#sOMdaryaM#}¦ [{#suMdarasya BAvaH zyaY#}] Beau- 
+256916 new {#sOMdaryaM#}¦ [{#suMdarasya BAvaH zyaY#}] <lbinfo n="Beau+ty"/>
+;
+256918 old <>ty, loveliness, gracefulness, elegance;
+256918 new <>Beauty, loveliness, gracefulness, elegance;
+;
+; TODO Case 394: obstruct-ed -> obstructed (spell = True)
+; <L>30743<pc>1144-a<k1>stabDa<k2>stabDa
+257688 old <>{#kta#}] {@1@} Stopped, blocked up, obstruct- 
+257688 new <>{#kta#}] {@1@} Stopped, blocked up, <lbinfo n="obstruct+ed"/>
+;
+257690 old <>ed. {@--2@} Paralysed, senseless, <lbinfo n="stupe+fied"/>
+257690 new <>obstructed. {@--2@} Paralysed, senseless, <lbinfo n="stupe+fied"/>
+;
+; TODO Case 395: up-hold -> uphold (spell = True)
+; <L>30751<pc>1144-b<k1>staMB<k2>staMB
+257761 old <>14. 55. {@--4@} To prop, support, up- 
+257761 new <>14. 55. {@--4@} To prop, support, <lbinfo n="up+hold"/>
+;
+257763 old <>hold, sustain. {@--5@} To become stiff,
+257763 new <>uphold, sustain. {@--5@} To become stiff,
+;
+; TODO Case 396: continu-ance -> continuance (spell = True)
+; <L>30872<pc>1149-b<k1>sTitiH<k2>sTitiH
+258869 old <>{@--2@} Stopping, standing still, continu- 
+258869 new <>{@--2@} Stopping, standing still, <lbinfo n="continu+ance"/>
+;
+258871 old <>ance in one state; {#prasTitAyAM pratizWeTAH#}
+258871 new <>continuance in one state; {#prasTitAyAM pratizWeTAH#}
+;
+; TODO Case 397: cook-ing -> cooking (spell = True)
+; <L>30876<pc>1149-c<k1>sTAlaM<k2>sTAlaM
+258935 old <>{#GaY#}] {@1@} A plate or dish. {@--2@} A cook- 
+258935 new <>{#GaY#}] {@1@} A plate or dish. {@--2@} A <lbinfo n="cook+ing"/>
+;
+258937 old <>ing-pot, any culinary vessel. {@--Comp@}
+258937 new <>cooking-pot, any culinary vessel. {@--Comp@}
+;
+; TODO Case 398: cere-mony -> ceremony (spell = True)
+; <L>30904<pc>1151-a<k1>snA<k2>snA
+259219 old <>{#mfgatfzRAMBasi snAtaH#}. {@--2@} To perform the cere- 
+259219 new <>{#mfgatfzRAMBasi snAtaH#}. {@--2@} To perform the <lbinfo n="cere+mony"/>
+;
+259221 old <>mony of bathing at the time of
+259221 new <>ceremony of bathing at the time of
+;
+; TODO Case 399: affectionate-ly -> affectionately (spell = True)
+; <L>30929<pc>1152-a<k1>snehaH<k2>snehaH
+259442 old <>friendship. {#--pUrvaM#} {%<ab>ind.</ab>%} affectionate- 
+259442 new <>friendship. {#--pUrvaM#} {%<ab>ind.</ab>%} <lbinfo n="affectionate+ly"/>
+;
+259444 old <>ly. {#--pravfttiH#} {%<ab>f.</ab>%} flow or course of
+259444 new <>affectionately. {#--pravfttiH#} {%<ab>f.</ab>%} flow or course of
+;
+; TODO Case 400: long-ing -> longing (spell = True)
+; <L>30968<pc>1153-b<k1>spfhayAlu<k2>spfhayAlu
+259750 old <>to be desirous or envious of, long- 
+259750 new <>to be desirous or envious of, <lbinfo n="long+ing"/>
+;
+259752 old <>ing or eager for, covetous (with <lbinfo n="dat+or"/>
+259752 new <>longing or eager for, covetous (with <lbinfo n="dat+or"/>
+;
+; TODO Case 401: ex-pand -> expand (spell = True)
+; <L>30989<pc>1153-c<k1>sPAy<k2>sPAy
+259849 old <>bulky. {@--2@} To swell, increase, ex- 
+259849 new <>bulky. {@--2@} To swell, increase, <lbinfo n="ex+pand"/>
+;
+259851 old <>pand; {#saMduDukze tayoH kopaH pasPAye #} <lbinfo n="Sastra#lAGavaM"/>
+259851 new <>expand; {#saMduDukze tayoH kopaH pasPAye #} <lbinfo n="Sastra#lAGavaM"/>
+;
+; TODO Case 402: trem-ble -> tremble (spell = True)
+; <L>31024<pc>1155-a<k1>sPul<k2>sPul
+260146 old {#sPul#}¦ 6 <ab>P.</ab> ({#sPulati#}) {@1@} To trem- 
+260146 new {#sPul#}¦ 6 <ab>P.</ab> ({#sPulati#}) {@1@} To <lbinfo n="trem+ble"/>
+;
+260148 old <>ble, throb, vibrate. {@--2@} To dart
+260148 new <>tremble, throb, vibrate. {@--2@} To dart
+;
+; TODO Case 403: fan-cy -> fancy (spell = True)
+; <L>31223<pc>1163-b<k1>svEra<k2>svEra
+261925 old <>{@1@} Following one's own will or fan- 
+261925 new <>{@1@} Following one's own will or <lbinfo n="fan+cy"/>
+;
+261927 old <>cy, self-willed, wanton, <lbinfo n="uncontrol+led"/>
+261927 new <>fancy, self-willed, wanton, <lbinfo n="uncontrol+led"/>
+;
+; TODO Case 404: com-veyed -> comveyed (spell = False)
+; <L>31375<pc>1170-a<k1>hArya<k2>hArya
+263403 old {#hArya#}¦ {%<ab>a.</ab>%} {@1@} To be taken or com- 
+263403 new {#hArya#}¦ {%<ab>a.</ab>%} {@1@} To be taken or <lbinfo n="com+veyed"/>
+;
+263405 old <>veyed. {@--2@} To be borne or carried
+263405 new <>comveyed. {@--2@} To be borne or carried
+;
+; TODO Case 405: cal-culated -> calculated (spell = True)
+; <L>31385<pc>1170-b<k1>hAvaH<k2>hAvaH
+263480 old <>feminine coquettish gesture cal- 
+263480 new <>feminine coquettish gesture <lbinfo n="cal+culated"/>
+;
+263482 old <>culated to excite amorous <lbinfo n="sensa+tions"/>
+263482 new <>calculated to excite amorous <lbinfo n="sensa+tions"/>
+;
+; TODO Case 406: bene-fiting -> benefiting (spell = True)
+; <L>31428<pc>1171-c<k1>hita<k2>hita
+263790 old <>{%<ab>a.</ab>%} desirous of befriending or bene- 
+263790 new <>{%<ab>a.</ab>%} desirous of befriending or <lbinfo n="bene+fiting"/>
+;
+263792 old <>fiting; <ls>Pt. 1. 315.</ls> {#--kAmyA#} desire
+263792 new <>benefiting; <ls>Pt. 1. 315.</ls> {#--kAmyA#} desire
+;
+; TODO Case 407: in-ference -> inference (spell = True)
+; <L>31512<pc>1175-a<k1>hetuH<k2>hetuH
+264529 old <>logical reason, the reason for an in- 
+264529 new <>logical reason, the reason for an <lbinfo n="in+ference"/>
+;
+264531 old <>ference, middle term (forming the
+264531 new <>inference, middle term (forming the
+;
+; TODO Case 408: Ma-dhumatī -> Madhumatī (spell = False)
+; <L>32139<pc>1194-b<k1>padmAvatI<k2>padmAvatI
+266884 old <>which correspond to the Pārā, Lavaṇā and Ma- 
+266884 new <>which correspond to the Pārā, Lavaṇā and <lbinfo n="Ma+dhumatī"/>
+;
+266886 old <>dhumatī, mentioned by Bhavabhūti, as flowing
+266886 new <>Madhumatī, mentioned by Bhavabhūti, as flowing
+;

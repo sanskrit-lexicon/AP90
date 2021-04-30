@@ -15,3 +15,6 @@ sh redo2.sh
 The change files were partially or completely constructed by programs.
 A sampling of these programs is in filtercode directory, in case they may
 be useful elsewhere.
+
+ls_summary1.txt provides some statistics of occurrence of the various literary source abbreviations. It is recreated from:
+python ls_summary1.py temp_ap90_15.txt tooltip.txt ls_summary1.txt

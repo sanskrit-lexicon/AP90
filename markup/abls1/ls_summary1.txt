@@ -1,0 +1,196 @@
+Ait. Br.:Aitareya Brāhmaṇa (Bombay).:37:37,0,0,0
+Ak.:Amarakoṣa.:124:124,0,0,0
+A. L.:Ānandalaharī.:5:0,5,0,0
+Amaru.:Amaruśataka.:252:0,252,0,0
+Āpast.:Āpastamba.:0:0,0,0,0
+A. R.:Anargharāghava (published in the Kāvyamālā).:12:0,12,0,0
+Āry. S.:Āryavidyāsudhākara (Bombay).:0:0,0,0,0
+Āryā. S.:Āryāsaptaśatī (published in the Kāvyamālā).:0:0,0,0,0
+Aśvad.:Aśvadhāṭī (published in the Subhāṣitaratnākara).:11:0,11,0,0
+Āśval.:Āśvalāyana’s Sūtras.:17:17,0,0,0
+Av.:Atharva-veda.:4:4,0,0,0
+Baudhāy.:Baudhāyana.:0:0,0,0,0
+Bg.:Bhagavadgītā (Bombay).:1034:1,2,1031,0
+Bh.:Bhartṛhari’s three Śatakas (the figures 1., 2., 3. after Bh. denoting Śṛṅgāraº, Nītiº, and Vairāgyaº).:925:1,2,922,0
+Bhav. P.:Bhaviṣyottara Purāṇa.:0:0,0,0,0
+Bhāg.:Bhāgavata (Bombay).:49:49,0,0,0
+Bhār. Ch.:Bhāratacampū (Bombay).:0:0,0,0,0
+Bhāṣā P.:Bhāṣāpariccheda.:36:8,28,0,0
+Bhāva P.:Bhāvaprakāśa.:5:5,0,0,0
+Bīj.:Bījagaṇita.:0:0,0,0,0
+Bk.:Bhaṭṭikāvya.:1308:8,5,1295,0
+B. R.:Bālarāmāyaṇa (Benares).:18:0,3,15,0
+B. and R.:Böthlingk and Roth.:6:6,0,0,0
+Bṛ. S.:Varāhamihira’s Bṛhatsaṃhitā.:31:1,1,29,0
+Bṛ. Kath.:Bṛhatkathā.:1:1,0,0,0
+Br. Sūt.:Brahmasūtras.:12:9,3,0,0
+Bṛ. Up.:Bṛhadāraṇyakopaniṣad.:5:5,0,0,0
+Bv.:Bhāminīvilāsa (Bombay).:604:0,3,601,0
+Caṇḍ. K.:Caṇḍakauśika.:0:0,0,0,0
+Cand. M.:Chandomañjarī.:1:1,0,0,0
+Chandr.:Candrāloka.:38:1,1,36,0
+Chāṇ.:Cāṇakyaśataka.:48:0,48,0,0
+Chāt.:Cātakāṣṭaka (in two parts.):4:0,0,4,0
+Ch. P.:Caurapañcāśikā.:54:1,53,0,0
+Ch. Up.:Chāndogyopaniṣad:20:20,0,0,0
+Dāy.:Dāyabhāga.:1:1,0,0,0
+Dāy. B.:Dāyabhāga.:4:4,0,0,0
+D. Bhāg.:Devībhāgavata.:0:0,0,0,0
+Dhan. V.:Dhanaṃjayavijaya.:1:1,0,0,0
+Dharm.:Dharmaviveka.:3:0,3,0,0
+Dhūrt.:Dhūrtasamāgama.:1:0,1,0,0
+Dk.:Daśakumāracarita (Bombay).:591:84,507,0,0
+D. R.:Daśarūpa (Hall’s Edition).:5:2,0,3,0
+Dṛ. Ś.:Dṛṣṭāntaśataka.:2:0,2,0,0
+Gaut. S.:Gautamasūtra.:3:3,0,0,0
+Gaut. Sūt.:Gautamasūtra.:2:2,0,0,0
+Ghaṭ.:Ghaṭakarparakāvya.:20:0,20,0,0
+Gīt.:Gītagovinda.:467:2,464,1,0
+G. L.:Gaṅgālaharī.:44:0,44,0,0
+G. M.:Gaṇaratnamahodadhi of Vardhamāna.:38:37,0,1,0
+Golādh.:Golādhyāya.:1:0,1,0,0
+H.:Hitopadeśa (Nirṇaya Sāgara Edition).:610:3,167,440,0
+Halāy.:Halāyudha.:6:6,0,0,0
+Hariv.:Harivaṃśa.:18:18,0,0,0
+Hch.:Harṣacarita.:1:1,0,0,0
+H. D.:Haṃsadūta.:4:0,4,0,0
+H. Pr.:?:52:0,52,0,0
+Hem.:Hemacandra.:2:2,0,0,0
+Iśop.:Īśopaniṣad.:0:0,0,0,0
+J. N. V.:Jaiminīyanyāyamālāvistara (Goldstücker’s Edition).:6:6,0,0,0
+K.:Kādambarī (Bombay).:1330:86,1244,0,0
+Kām.:Kāmandakinītisāra.:22:0,0,22,0
+Kāśi.:Kāśikāvṛtti (Benares).:8:8,0,0,0
+Karpūr.:Karpūramañjarī (published in the Kāvyamālā).:4:2,2,0,0
+Kaṭh.:Kaṭhopaniṣad.:8:8,0,0,0
+Kāty.:Kātyāyana.:27:27,0,0,0
+Kauś.:Kauśikasūtra.:2:2,0,0,0
+Kaus. Br.:Kauṣītaki Brāhmaṇa.:0:0,0,0,0
+Kaus. Up.:Kauṣītakyupaniṣad.:0:0,0,0,0
+Kāv.:Kāvyādarśa.:68:0,1,67,0
+Kāvyāl.:Kāvyālaṃkāra (published in the Kāvyamālā).:1:0,0,1,0
+Ken.:Kenopaniṣad.:5:5,0,0,0
+Ki.:Kirātārjunīya.:1386:0,0,1386,0
+Kīr. K.:Kīrtikaumudī (Bombay).:7:0,0,7,0
+K. P.:Kāvyaprakāśa.:352:11,341,0,0
+Ks.:Kathāsaritsāgara.:52:2,1,49,0
+Ku.:Kumārasambhava (Bombay).:2542:1,9,2532,0
+Kull.:Kullūka.:54:54,0,0,0
+Kusum.:Kusumāñjali.:1:1,0,0,0
+Kuval.:Kuvalayānanda.:8:8,0,0,0
+Līlā.:Līlāvatī.:9:8,1,0,0
+M.:Mālavikāgnimitra (Bombay).:638:6,338,294,0
+Mādh. N.:Mādhavanidāna.:1:1,0,0,0
+Mahān.:Mahānāṭaka.:0:0,0,0,0
+Māl.:Mālatīmādhava (Bombay).:1383:4,386,993,0
+Malli.:Mallinātha.:135:133,0,2,0
+Māṇḍ.:Māṇḍūkyopaniṣad.:1:1,0,0,0
+Mārk. P.:Mārkaṇḍeya Purāṇa.:8:8,0,0,0
+Mb.:Mahābhārata (Bombay).:406:404,2,0,0
+Mbh.:Mahābhāṣya (Bombay).:52:52,0,0,0
+Me.:Meghadūta (Bombay).:1160:7,1152,1,0
+Med.:Medinīkośa.:4:4,0,0,0
+Mit.:Mitākṣarā (Bombay).:29:29,0,0,0
+Mīm.:Mīmāṃsā.:7:7,0,0,0
+Mk.:Mṛcchakaṭikā:550:2,184,364,0
+Moha M.:Mohamudgara.:14:0,14,0,0
+Ms.:Manusmṛti.:3483:0,18,3465,0
+Mu.:Mudrārākṣasa (Bombay),:676:2,292,382,0
+Mugdha.:Mugdhabodha.:5:5,0,0,0
+Muṇḍ.:Muṇḍakopaniṣad.:3:3,0,0,0
+Mv.:Mahāvīracarita (Borooah’s Edition),:464:2,108,354,0
+N.:Naiṣadhacarita.:311:1,2,308,0
+Nāg.:Nāgānanda.:16:1,11,4,0
+Nala.:Nalopākhyāna (Bombay).:18:0,0,18,0
+Nalod.:Nalodaya.:12:0,0,12,0
+Nir.:Nirukta.:76:76,0,0,0
+Nīti.:Nītisāra.:3:2,1,0,0
+Nītipr.:Nītipradīpa.:2:0,2,0,0
+Nyāya S.:?:4:2,0,2,0
+P.:Pāṇini’s Aṣṭādhyāyī.:665:665,0,0,0
+Pad. D.:Padāṅkadūta.:1:0,1,0,0
+P. P.:Pārvatīpariṇaya.:0:0,0,0,0
+P. R.:Prasannarāghava.:14:1,2,11,0
+Prab.:Prabodhacandrodaya (Bombay).:16:6,7,3,0
+Praśna. Up.:Praśnopaniṣad.:0:0,0,0,0
+Priy. D.:Priyadarśikā (Bombay).:0:0,0,0,0
+Pt.:Pañcatantra (Bombay).:1567:1,422,1144,0
+R.:Raghuvaṃśa (Bombay).:6957:10,21,6925,1
+Rāj. P.:Rājapraśasti.:2:2,0,0,0
+Rāj. T.:Rājataraṅgiṇī.:12:0,0,12,0
+Rām.:Rāmāyaṇa (Bombay).:355:355,0,0,0
+Ras. M.:Rasamañjarī.:1:0,0,1,0
+Ratn.:Ratnāvalī (Bombay).:173:2,60,111,0
+R. G.:Rasagaṅgādhara (published in the Kāvyamālā).:57:57,0,0,0
+Rs.:Ṛtusaṃhāra (Bombay).:226:0,0,226,0
+Rv.:Ṛgveda (Max Müller’s Edition).:216:1,1,6,208
+Ś.:Śakuntalā (Bombay).:2471:8,968,1495,0
+Śabdak.:Śabdakalpadruma.:20:20,0,0,0
+Sān. K.:Sāṃkhyakārikā.:20:2,18,0,0
+Sāṃkhya K.:Sāṃkhyakārikā.:5:1,4,0,0
+Sān. S.:Sāṃkhyasūtra.:1:1,0,0,0
+Śānti.:?:92:0,0,92,0
+Sar. K.:Sarasvatīkaṇṭhābharaṇa.:2:1,1,0,0
+Sarva. S.:Sarvadarśanasaṃgraha.:13:12,1,0,0
+Sar. S.:Sarvadarśanasaṃgraha.:3:1,2,0,0
+Śat. Br.:Śatapatha Brāhmaṇa.:63:63,0,0,0
+Sāy.:Sāyaṇa.:43:43,0,0,0
+S. B.:Śārīrabhāṣya.:68:67,1,0,0
+S. D.:Sāhityadarpaṇa.:377:106,271,0,0
+Śi.:Śiśupālavadha.:2359:0,9,2350,0
+Sid. Mukt.:Siddhāntamuktāvalī.:0:0,0,0,0
+Sid. Muktā.:Siddhāntamuktāvalī.:0:0,0,0,0
+Sid. Śir.:Siddhāntaśiromaṇi.:2:2,0,0,0
+Śik.:Śikṣā.:16:0,16,0,0
+Śiva P.:Śiva Purāṇa.:1:1,0,0,0
+Sk.:Siddhānta-Kaumudī (Bombay).:455:455,0,0,0
+Skanda. P.:Skanda Purāṇa.:0:0,0,0,0
+S. L.:Sudhālaharī (published in the Kāvyamālā).:0:0,0,0,0
+Śrut.:Śrutabodha.:9:0,9,0,0
+Ś. Til.:Śṛṅgāratilaka.:26:0,26,0,0
+Subh.:Subhāṣitaratnākara (Bombay).:0:0,0,0,0
+Subhāsh.:Subhāṣita.:187:187,0,0,0
+Subh. Ratn.:Subhāṣitaratnabhāṇḍāgāra (Bombay):0:0,0,0,0
+Sūrya S.:Sūryasiddhānta.:3:3,0,0,0
+Suśr.:Suśruta.:84:84,0,0,0
+Sv.:Sāmaveda.:0:0,0,0,0
+Śvet. Up.:Śvetāśvataropaniṣad.:5:5,0,0,0
+Taitt. Up.:Taittirīya Upaniṣad.:6:6,0,0,0
+Tarka K.:Tarkakaumudī (Bombay).:25:24,1,0,0
+Trik.:Trikāṇḍaśeṣa.:10:9,1,0,0
+T. S.:Tarkasaṃgraha (Bombay).:38:33,5,0,0
+Tv.:Tārānātha’s Vācaspatyam.:308:308,0,0,0
+U.:Uttararāmacarita.:1569:0,483,1086,0
+Udb.:Udbhaṭa.:64:64,0,0,0
+Ud. D.:Uddhavadūta.:2:0,2,0,0
+Ud. S.:Uddhavasaṃdeśa.:5:0,5,0,0
+Ujjval.:Ujjvaladatta.:3:3,0,0,0
+Uṇ.:Uṇādisūtras.:483:0,0,483,0
+Up.:Upaniṣad.:20:20,0,0,0
+Upan.:Upaniṣad.:1:1,0,0,0
+V.:Vikramorvaśīyam (Bombay).:857:0,320,537,0
+Vāgb.:Vāgbhaṭa.:1:1,0,0,0
+Vaiś.:Vaiśeṣika.:9:9,0,0,0
+Vaiś. Sūt.:Vaiśeṣikasūtras.:0:0,0,0,0
+Vāj.:Vājasaneyi Saṃhitā.:2:2,0,0,0
+Vāk. P.:Vākyapadīya.:1:1,0,0,0
+Vall. Subh.:Vallabhadeva’s Subhāṣitāvali (Bombay):0:0,0,0,0
+Vās.:Vāsavadattā (Hall’s Edition).:18:14,4,0,0
+Vb.:Viddhaśālabhañjikā (Bombay).:32:1,10,21,0
+Ve.:Veṇīsaṃhāra.:401:2,159,240,0
+Vedānta P.:Vedāntaparibhāṣā.:0:0,0,0,0
+Vet.:Vetālapañca vimśati.:4:4,0,0,0
+Vid.:Vidagdhamukhamaṇḍana.:0:0,0,0,0
+Vikr.:Vikramāṅkadevacarita (Bombay).:95:0,0,95,0
+Vīr. M.:Vīramitrodaya.:0:0,0,0,0
+V. May.:Vyavahāramayūkha (Mr. Mandlik’s Edition).:1:1,0,0,0
+Vop.:Vopadeva.:14:14,0,0,0
+Bop.:Vopadeva.:5:5,0,0,0
+V. P.:Viṣṇu Purāṇa.:8:8,0,0,0
+V. Ratn.:Vṛttaratnākara.:2:2,0,0,0
+Vṛnd. Ś.:Vṛndāvanaśataka.:0:0,0,0,0
+V. Sah.:Viṣṇusahasranāman.:3:3,0,0,0
+Y.:Yājñavalkya (Mr. Mandlik’s Edition).:875:0,2,873,0
+Yoga S.:Yogasūtras.:2:2,0,0,0
+Yv.:Yajurveda.:3:0,0,3,0
+Yaj.:Yajurveda.:1:1,0,0,0

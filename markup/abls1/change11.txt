@@ -1,0 +1,1222 @@
+; <L>19<pc>0002-c<k1>aMh<k2>aMh
+;x 1122 old <>approach; set out, <ls>Bk. 3. 25</ls>, <ls n="Bk. 3.">46</ls>; <ls n="Bk. 3.">14.</ls> 51,
+;
+1123 old <>4. 4. &c. {%--<ab>Caus.</ab>%} {@1@} To send;  <lbinfo n="tamAM#jihanmETilayajYaBUmiM"/>
+1123 new <><ls n="Bk.">4. 4</ls>. &c. {%--<ab>Caus.</ab>%} {@1@} To send;  <lbinfo n="tamAM#jihanmETilayajYaBUmiM"/>
+;
+; <L>63<pc>0003-c<k1>akAma<k2>akAma
+;x 1441 old <>{#kriyA kAciddfSyate neha karhicit#} <ls>Ms. 2. 4</ls>
+;x 1443 old <>{@--2@} Reluctant, unwilling; {#ºmAM kanyAM#}
+;
+1444 old <>4. 364; so {#nAkAmo dAtumarhati#}. {@--3@} <lbinfo n="Unin+fluenced"/>
+1444 new <><ls n="Ms.">4. 364</ls>; so {#nAkAmo dAtumarhati#}. {@--3@} <lbinfo n="Unin+fluenced"/>
+;
+; <L>230<pc>0016-a<k1>agrya<k2>agrya
+;x 4018 old <>{#tadaMgamagryaM maGavan mahAkratoH#} <ls>R. 3. 46</ls>;  <lbinfo n="ºma#hizI"/>
+;x 4019 old <>{#ºmahizI#} 10. 66; {#upeyuzaH svAmapi mUrtimagryAM#}
+;
+4020 old <>6. 73, 8. 28, 14. 19, 18. 39, <ls>Ku. 7. 78</ls>,
+4020 new <><ls n="R.">6. 73</ls>, <ls n="R.">8. 28</ls>, <ls n="R.">14. 19</ls>, <ls n="R.">18. 39</ls>, <ls>Ku. 7. 78</ls>,
+;
+; <L>236<pc>0016-a<k1>aGa<k2>aGa
+;x 4067 old <>{#na vaDUzvaGAni vimfSaMti DiyaH#} <ls>Ki. 6. 45</ls>
+4069 old <>evil; {#kriyAdaGAnAM maGavA viGAtaM#} 3. 52,
+4069 new <>evil; {#kriyAdaGAnAM maGavA viGAtaM#} <ls n="Ki.">3. 52</ls>,
+;
+4070 old <>11. 80; {#prajAnAM tamaGAvahaM#} <ls>R. 15. 51</ls>, <ls n="R. 15.">19.</ls>
+4070 new <><ls n="Ki.">11. 80</ls>; {#prajAnAM tamaGAvahaM#} <ls>R. 15. 51</ls>, <ls n="R. 15.">19.</ls>
+;
+; <L>356<pc>0023-c<k1>ajA<k2>ajA
+5724 old <>{#yaH kaMWe 'jAnAM maRiH sa vijYeyaH#} Br. S.
+5724 new <>{#yaH kaMWe 'jAnAM maRiH sa vijYeyaH#}  <lbinfo n="ls:Br. S.+65"/>
+;
+5725 old <>65. 3. {#--jIvaH, --pAlakaH#} a goat-herd, See
+5725 new <><ls>Br. S. 65. 3</ls>. {#--jIvaH, --pAlakaH#} a goat-herd, See
+;
+; <L>728<pc>0036-c<k1>atyayaH<k2>atyayaH
+;x 8765 old <><ls>Ku. 4. 44</ls>, <ls n="Ku.">5. 23</ls>; {#SiSirAtyayasya puzpoccayaH#}
+;
+8766 old <>3. 61; {#Atapaº#} <ls>R. 1. 52.</ls> {@--2@} <lbinfo n="Com+plete"/>
+8766 new <><ls n="Ku.">3. 61</ls>; {#Atapaº#} <ls>R. 1. 52.</ls> {@--2@} <lbinfo n="Com+plete"/>
+;
+; <L>925<pc>0045-c<k1>aDiH<k2>aDiH
+10782 old <>{#aDyArUQaH#} {#(daMtasyopari jAtaH) daMtaH#} P. VI.
+10782 new <>{#aDyArUQaH#} {#(daMtasyopari jAtaH) daMtaH#}  <lbinfo n="ls:P. VI.+2"/>
+;
+10783 old <>2. 188. ({%c%}) Over, excessive;  <lbinfo n="ºa#DikzepaH"/>
+10783 new <><ls>P. VI. 2. 188</ls>. ({%c%}) Over, excessive;  <lbinfo n="ºa#DikzepaH"/>
+;
+; <L>926<pc>0046-a<k1>aDika<k2>aDika
+10890 old <>censure); {#kftyEraDikArTavacane#} P. II.
+10890 new <>censure); {#kftyEraDikArTavacane#}  <lbinfo n="ls:P. II.+1"/>
+;
+10891 old <>1. 33; ({#ºnaM#} {#= stutiniMdAPalakamarTavAdavacanaM;#}
+10891 new <><ls>P. II. 1. 33</ls>; ({#ºnaM#} {#= stutiniMdAPalakamarTavAdavacanaM;#}
+;
+; <L>928<pc>0046-c<k1>aDikf<k2>aDikf
+10922 old <>subject of; {#aDikftya kfte graMTe#} P. IV.
+10922 new <>subject of; {#aDikftya kfte graMTe#}  <lbinfo n="ls:P. IV.+3"/>
+;
+10923 old <>3. 87; {#kirAtArjunO aDikftya kftaM kAvyaM#}
+10923 new <><ls>P. IV. 3. 87</ls>; {#kirAtArjunO aDikftya kftaM kAvyaM#}
+;
+; <L>934<pc>0047-b<k1>aDikAraH<k2>aDikAraH
+11089 old <>over other rules; {%<ab>e. g.</ab>%} {#sarvasya dve#} P.
+11089 new <>over other rules; {%<ab>e. g.</ab>%} {#sarvasya dve#}  <lbinfo n="ls:P.+VIII"/>
+;
+11090 old <>VIII. 1. 1; IV. 1. 82-3; {#tatpuruzaH#} II.
+11090 new <><ls>P. VIII. 1. 1</ls>; <ls n="P.">IV. 1. 82-3</ls>; {#tatpuruzaH#}  <lbinfo n="ls:II.+1"/>
+;
+11091 old <>1. 22; {#aDikAroyaM#} <ls>Sk.</ls> (This {#aDikAra#} is of
+11091 new <><ls n="P. II.">1. 22</ls>; {#aDikAroyaM#} <ls>Sk.</ls> (This {#aDikAra#} is of
+;
+; <L>1028<pc>0050-a<k1>aDiSI<k2>aDiSI
+;x 11723 old <><ab>acc.</ab> of place); {#BujAMtaraM#} <ls>R. 19. 32</ls>; {#amuM#}
+;
+11724 old <>13. 6; 16. 49; {#SilApawwamaDiSayAnA#}
+11724 new <><ls n="R.">13. 6</ls>; <ls n="R.">16. 49</ls>; {#SilApawwamaDiSayAnA#}
+;
+; <L>1052<pc>0051-c<k1>aDyAya<k2>aDyAya
+12024 old <>lecture; {#aDIyate'smin aDyAyaH#} P. III.
+12024 new <>lecture; {#aDIyate'smin aDyAyaH#}  <lbinfo n="ls:P. III.+3"/>
+;
+12025 old <>3. 122; so {#svADyAyo'DyetavyaH#} {@--4@} A
+12025 new <><ls>P. III. 3. 122</ls>; so {#svADyAyo'DyetavyaH#} {@--4@} A
+;
+; <L>1685<pc>0073-a<k1>anupada<k2>anupada
+;x 17025 old <><ls>R. 11. 31</ls>; {#amoGAH pratigfhRaMtAvarDyAnupadamASizaH#}
+;
+17026 old <>1. 44, 14. 81; <ls>Śi. 14. 48.</ls>
+17026 new <><ls n="R.">1. 44</ls>, <ls n="R.">14. 81</ls>; <ls>Śi. 14. 48.</ls>
+;
+; <L>1818<pc>0078-a<k1>anuyA<k2>anuyA
+;x 18086 old <>{#rakzituryaSaH#} <ls>R. 1. 27</ls>; <ls n="R.">9. 6</ls>; {#anuyAtalIlaH#}
+;
+18087 old <>16. 71; <ls>Śi. 12. 3</ls> followed and <lbinfo n="imitat+ed"/>
+18087 new <><ls n="R.">16. 71</ls>; <ls>Śi. 12. 3</ls> followed and <lbinfo n="imitat+ed"/>
+;
+; <L>1913<pc>0081-c<k1>anuvartin<k2>anuvartin
+;x 18907 old <><ls>Pt. 1. 69</ls>; {#narADipA nIcajanAnuvartinaH#}
+;
+18908 old <>1. 383. {@--2@} Guided by, following
+18908 new <><ls n="Pt.">1. 383</ls>. {@--2@} Guided by, following
+;
+; <L>2044<pc>0085-c<k1>anUpa<k2>anUpa
+19910 old {#anUpa#}¦ {%<ab>a.</ab>%} [{#anu-ap UdanordeSe#} P. VI. 
+19910 new {#anUpa#}¦ {%<ab>a.</ab>%} [{#anu-ap UdanordeSe#}  <lbinfo n="ls:P. VI.+3"/>
+;
+19912 old <>3. 98, {#anugatAH ApaH yasmin#}] Situated
+19912 new <><ls>P. VI. 3. 98</ls>, {#anugatAH ApaH yasmin#}] Situated
+;
+; <L>2061<pc>0086-b<k1>anfta<k2>anfta
+20058 old <>whose gods are not true (<ls>Sāy.</ls>); <ls>Rv.</ls> 
+20058 new <>whose gods are not true (<ls>Sāy.</ls>);  <lbinfo n="ls:Rv.+7"/>
+;
+20060 old <>7. 104. 14; not playing fairly (?).
+20060 new <><ls>Rv. 7. 104. 14</ls>; not playing fairly (?).
+;
+; <L>2093<pc>0087-c<k1>aMta<k2>aMta
+;x 20390 old <>{#tanutyajAM#} <ls>R. 1. 8</ls>; {#ekA BavetsvastimatI tvadaMte#}
+;
+20391 old <>2. 48; 12. 75; {#mamApyaMte#} <ls>Ś. 6</ls>; {#adya#}
+20391 new <><ls n="R.">2. 48</ls>; <ls n="R.">12. 75</ls>; {#mamApyaMte#} <ls>Ś. 6</ls>; {#adya#}
+;
+; <L>2093<pc>0087-c<k1>aMta<k2>aMta
+20464 old <>master to receive instruction); P. IV.
+20464 new <>master to receive instruction);  <lbinfo n="ls:P. IV.+3"/>
+;
+20465 old <>3. 104; VI. 2. 36.; <ls>Ms. 4. 33.</ls> --2. a
+20465 new <><ls>P. IV. 3. 104</ls>; <ls n="P.">VI. 2. 36.</ls>; <ls>Ms. 4. 33.</ls> --2. a
+;
+; <L>2136<pc>0095-c<k1>aMtya<k2>aMtya
+;x 21815 old <>caste; {#caMqAlaº striyaH#} <ls>Ms. 11. 176</ls>;  <lbinfo n="ºstrI#nizeviRaH"/>
+21816 old <>{#ºstrInizeviRaH#} 12. 59; {#aMtyAdapi varaM ratnaM #} <lbinfo n="strI#ratnaM"/>
+21816 new <>{#ºstrInizeviRaH#} <ls n="Ms.">12. 59</ls>; {#aMtyAdapi varaM ratnaM #} <lbinfo n="strI#ratnaM"/>
+;
+21818 old <>{#SUdrARAmaMtyAnAmaMtyayonayaH#} {#(sAkzyaM kuryuH)#} 8. 68,
+21818 new <>{#SUdrARAmaMtyAnAmaMtyayonayaH#} {#(sAkzyaM kuryuH)#} <ls n="Ms.">8. 68</ls>,
+;
+21819 old <>3. 9; 4. 79; <ls>Y. 1. 148</ls>, <ls n="Y.">2. 294.</ls> {#--tyaH#}
+21819 new <><ls n="Ms.">3. 9</ls>; <ls n="Ms.">4. 79</ls>; <ls>Y. 1. 148</ls>, <ls n="Y.">2. 294.</ls> {#--tyaH#}
+;
+; <L>2150<pc>0097-a<k1>aMDaka<k2>aMDaka
+22067 old <>Andhakavṛshṇis; <ls>P. IV. 1. 114</ls>, VI.
+22067 new <>Andhakavṛshṇis; <ls>P. IV. 1. 114</ls>,  <lbinfo n="ls:VI.+2"/>
+;
+22068 old <>2. 34. {@--3@} <ab>N.</ab> of a sage, son of
+22068 new <><ls n="P.">VI. 2. 34</ls>. {@--3@} <ab>N.</ab> of a sage, son of
+;
+; <L>2170<pc>0099-b<k1>anyatra<k2>anyatra
+22534 old <>{#carmaRvatI nadI carmavatI anyatra#} P. VIII.
+22534 new <>{#carmaRvatI nadI carmavatI anyatra#}  <lbinfo n="ls:P. VIII.+2"/>
+;
+22535 old <>2. 12, 14 <ls>Sk.</ls> {@--Comp.@} {#--manas --citta#} {%<ab>a.</ab>%}
+22535 new <><ls>P. VIII. 2. 12</ls>, <ls n="P. VIII. 2.">14</ls> <ls>Sk.</ls> {@--Comp.@} {#--manas --citta#} {%<ab>a.</ab>%}
+;
+; <L>2530<pc>0112-b<k1>apavargaH<k2>apavargaH
+25453 old <>action; {#apavarge tftIyA#} <ls>P. II. 3. 6</ls>; III.
+25453 new <>action; {#apavarge tftIyA#} <ls>P. II. 3. 6</ls>;  <lbinfo n="ls:III.+4"/>
+;
+25454 old <>4. 60; ({#apavargaH = kriyAprAptiH#} or {#samAptiH#}
+25454 new <><ls n="P.">III. 4. 60</ls>; ({#apavargaH = kriyAprAptiH#} or {#samAptiH#}
+;
+; <L>2651<pc>0116-a<k1>apADvan<k2>apADvan
+26326 old {#apADvan#}¦ {%<ab>n.</ab>%} A bad way; P. VI.
+26326 new {#apADvan#}¦ {%<ab>n.</ab>%} A bad way;  <lbinfo n="ls:P. VI.+2"/>
+;
+26327 old <>2. 187.
+26327 new <><ls>P. VI. 2. 187</ls>.
+;
+; <L>2686<pc>0117-a<k1>api<k2>api
+26681 old <>and is treated as a {#karmapravacanIya#} P. I.
+26681 new <>and is treated as a {#karmapravacanIya#}  <lbinfo n="ls:P. I.+4"/>
+; 
+26682 old <>4. 96; the example usually given is
+26682 new <><ls>P. I. 4. 96</ls>; the example usually given is
+;
+; <L>2868<pc>0122-c<k1>aprayARiH<k2>aprayARiH
+27931 old {#aprayARiH#}¦ {%<ab>f.</ab>%} [{#a-prayA-ani#} P. III.
+27931 new {#aprayARiH#}¦ {%<ab>f.</ab>%} [{#a-prayA-ani#}  <lbinfo n="ls:P. III.+3"/>
+;
+27932 old <>3. 112, {#na#} changed to {#Ra#} by P. VIII.
+27932 new <><ls>P. III. 3. 112</ls>, {#na#} changed to {#Ra#} by  <lbinfo n="ls:P. VIII.+4"/>
+;
+27933 old <>4. 29] Not going or progressing
+27933 new <><ls>P. VIII. 4. 29</ls>] Not going or progressing
+;
+; <L>3066<pc>0128-c<k1>aBijanaH<k2>aBijanaH
+29342 old <>{#aBijanAH pUrve bAMDavAH#} Kāśī. on P. IV.
+29342 new <>{#aBijanAH pUrve bAMDavAH#} Kāśī. on  <lbinfo n="ls:P. IV.+3"/>
+;
+29343 old <>3. 90; also descendants. {@--4@} Native
+29343 new <><ls>P. IV. 3. 90</ls>; also descendants. {@--4@} Native
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+;x 38022 old <>{#DigarTAH kazwasaMSrayAH#} <ls>Pt. 1. 163</ls>;  <lbinfo n="arTA#nAmarjane"/>
+;x 38023 old <>{#arTAnAmarjane duHKaM#} {%<ab>ibid.</ab>;%} {#yasyArTAstasya mitrARi#}
+;
+38024 old <>1. 3; {#tezAmarTe niyuMjIta SUrAn dakzAn#}
+38024 new <><ls n="Pt.">1. 3</ls>; {#tezAmarTe niyuMjIta SUrAn dakzAn#}
+;
+; <L>4221<pc>0171-b<k1>arha<k2>arha
+39023 old <><ls>Pt. 1. 87</ls>-92; or in comp; {#tadarheRa prAyaScittena#}
+39023 new <><ls>Pt. 1. 87-92</ls>; or in comp; {#tadarheRa prAyaScittena#}
+;
+39024 old <>1. 275; so {#nfpaº, yajYaº#} <ls>Ak.</ls> {@--5@} Worth
+39024 new <><ls n="Pt.">1. 275</ls>; so {#nfpaº, yajYaº#} <ls>Ak.</ls> {@--5@} Worth
+;
+; <L>4411<pc>0177-a<k1>avakzepaRaM<k2>avakzepaRaM
+40389 old <>Censure, blame; <ls>P. I. 3. 32</ls>; VI.
+40389 new <>Censure, blame; <ls>P. I. 3. 32</ls>;  <lbinfo n="ls:VI.+2"/>
+;
+40390 old <>2. 195. {@--4@} Overcoming, subduing.
+40390 new <><ls n="P.">VI. 2. 195</ls>. {@--4@} Overcoming, subduing.
+;
+; <L>4450<pc>0178-a<k1>avagrahaH<k2>avagrahaH
+40671 old <>separation occurs; {#fdavagrahAt#} P. VIII.
+40671 new <>separation occurs; {#fdavagrahAt#}  <lbinfo n="ls:P. VIII.+4."/>
+;
+40672 old <>4. 26. {@--4@} A hiatus, absence of sandhi
+40672 new <><ls>P. VIII. 4. 26</ls>. {@--4@} A hiatus, absence of sandhi
+;
+; <L>4533<pc>0180-b<k1>avatF<k2>avatF
+;x 41219 old <>of a mortal; {#SApAvatIrRa#} <ls>Ks. 2. 21</ls>;
+;x 41220 old <>{#munikanyA ca sA SApAttasyAM jAtAvavAtarat#}
+;
+41221 old <>2. 31. <ls>Rāj. T. 1. 130</ls>; <ls n="Rāj. T.">5. 66</ls>;  <lbinfo n="vizRure#vAvatIrRosO"/>
+41221 new <><ls n="Ks.">2. 31</ls>. <ls>Rāj. T. 1. 130</ls>; <ls n="Rāj. T.">5. 66</ls>;  <lbinfo n="vizRure#vAvatIrRosO"/>
+;
+; <L>4663<pc>0184-b<k1>avaboDaH<k2>avaboDaH
+;x 42163 old <><ls>R. 7. 41</ls>; {#BAvAvaboDakaluzA dayiteva rAtrO#}
+;
+42164 old <>5. 64; {#pratikUlezu tEkzRasyAvaboDaH kroDa#}
+42164 new <><ls n="R.">5. 64</ls>; {#pratikUlezu tEkzRasyAvaboDaH kroDa#}
+;
+; <L>4881<pc>0191-a<k1>avasAnaM<k2>avasAnaM
+;x 43740 old <><ls>R. 2. 23</ls>, <ls n="R. 2.">45</ls>; {#tacCizyADyayananivoditAvasAnAM#}
+;
+43741 old <>1. 95; {#ityetadavasAnaM kaTAyAH#} <ls>M. 5</ls>
+43741 new <><ls n="R.">1. 95</ls>; {#ityetadavasAnaM kaTAyAH#} <ls>M. 5</ls>
+;
+; <L>5377<pc>0207-c<k1>azWIvat<k2>azWIvat
+47621 old {#azWIvat#}¦ {%<ab>m.</ab> <ab>n.</ab>%} [{#nipAtoyaM#} P. VIII.
+47621 new {#azWIvat#}¦ {%<ab>m.</ab> <ab>n.</ab>%} [{#nipAtoyaM#}  <lbinfo n="ls:P. VIII.+2"/>
+;
+47622 old <>2. 12;] The knee, the kneebone.
+47622 new <><ls>P. VIII. 2. 12</ls>;] The knee, the kneebone.
+;
+; <L>5378<pc>0207-c<k1>as<k2>as
+47728 old <>excelled; joined in <ab>acc.</ab> <ab>Tat.</ab> <ab>comp.</ab>; P. II.
+47728 new <>excelled; joined in <ab>acc.</ab> <ab>Tat.</ab> <ab>comp.</ab>;  <lbinfo n="ls:P. II.+1"/>
+;
+47729 old <>1. 24. {#--aBipra#} to throw over or <lbinfo n="up+on"/>
+47729 new <><ls>P. II. 1. 24</ls>. {#--aBipra#} to throw over or <lbinfo n="up+on"/>
+;
+; <L>5493<pc>0211-c<k1>asaMmata<k2>asaMmata
+48562 old <>consented to; {#asaMmataH kastava muktimArgaM#} <ls>Ku.</ls> 
+48562 new <>consented to; {#asaMmataH kastava muktimArgaM#}  <lbinfo n="ls:Ku.+3"/>
+;
+48564 old <>3. 5. {@--2@} Disliked, averse. {@--3@} <lbinfo n="Dis+sentient"/>
+48564 new <><ls>Ku. 3. 5</ls>. {@--2@} Disliked, averse. {@--3@} <lbinfo n="Dis+sentient"/>
+;
+; <L>5598<pc>0215-b<k1>astraM<k2>astraM
+;x 49382 old <><ls>R. 2. 34</ls>; {#pratyAhatAstro giriSapraBAvAt#}
+;
+49383 old <>2. 41, 3. 58; {#aSikzatAstraM pitureva#}  <lbinfo n="ls:R. 3.+ 31"/>
+49383 new <><ls n="R.">2. 41</ls>, <ls n="R.">3. 58</ls>; {#aSikzatAstraM pitureva#}  <lbinfo n="ls:R. 3.+ 31"/>
+;
+; <L>5720<pc>0220-1<k1>A<k2>A
+50464 old <>far as, unto; {#AN maryAdABiviDyoH#} P. II.
+50464 new <>far as, unto; {#AN maryAdABiviDyoH#}  <lbinfo n="ls:P. II.+1"/>
+;
+50465 old <>1. 13; see {#aBiviDi;#} {#A #} <lbinfo n="paritozAdvidu#zAM"/>
+50465 new <><ls>P. II. 1. 13</ls>; see {#aBiviDi;#} {#A #} <lbinfo n="paritozAdvidu#zAM"/>
+;
+; <L>5744<pc>0221-a<k1>AkAMkzya<k2>AkAMkzya
+50659 old <>the completion of the sense; P. III.
+50659 new <>the completion of the sense;  <lbinfo n="ls:P. III.+4"/>
+;
+50660 old <>4. 23.
+50660 new <><ls>P. III. 4. 23</ls>.
+;
+; <L>5745<pc>0221-a<k1>AkAyaH<k2>AkAyaH
+50665 old <>funeral pile; {#AkAyamagniM cinvIta#} P. III.
+50665 new <>funeral pile; {#AkAyamagniM cinvIta#}  <lbinfo n="ls:P. III.+3"/>
+;
+50666 old <>3. 41. <ls>Sk.</ls> {@--2@} A funeral pile. {@--3@}
+50666 new <><ls>P. III. 3. 41</ls>. <ls>Sk.</ls> {@--2@} A funeral pile. {@--3@}
+;
+; <L>5867<pc>0226-b<k1>AgamaH<k2>AgamaH
+;x 51830 old <>{#kzataH#} <ls>Ki. 2. 28</ls>, <ls n="Ki.">5. 18</ls>; {#pariSudDa AgamaH#}
+;
+51831 old <>2. 33; <ls>K. 55</ls>, <ls n="K.">337.</ls> {@--12@} The study
+51831 new <><ls n="Ki.">2. 33</ls>; <ls>K. 55</ls>, <ls n="K.">337.</ls> {@--12@} The study
+;
+; <L>5903<pc>0227-b<k1>AgneMdra<k2>AgneMdra
+52071 old {#AgneMdra#}¦ {%<ab>a.</ab>%} [{#agniSca iMdraSca-aR#} P. VI.
+52071 new {#AgneMdra#}¦ {%<ab>a.</ab>%} [{#agniSca iMdraSca-aR#}  <lbinfo n="ls:P. VI.+3"/>
+;
+52072 old <>3. 28, VII. 3. 22] Belonging to
+52072 new <><ls>P. VI. 3. 28</ls>, <ls n="P.">VII. 3. 22</ls>] Belonging to
+;
+; <L>6028<pc>0231-a<k1>AjyaM<k2>AjyaM
+52964 old <>Clarified butter, ghee; {#AjyaDUmodgamena#} <ls>Ś.</ls> 
+52964 new <>Clarified butter, ghee; {#AjyaDUmodgamena#}  <lbinfo n="ls:Ś.+1"/>
+;
+52966 old <>1. 15; (it is often distinguished from
+52966 new <><ls>Ś. 1. 15</ls>; (it is often distinguished from
+;
+; <L>6070<pc>0232-c<k1>Atata<k2>Atata
+;x 53283 old <><ls>R. 1. 19</ls>; {#ºjya#} stretched out on the bow;
+;
+53284 old <>11. 45, 16. 77.
+53284 new <><ls n="R.">11. 45</ls>, <ls n="R.">16. 77.</ls>
+;
+; <L>6115<pc>0233-c<k1>Atman<k2>Atman
+;x 53591 old <>{#AtmAnamADAya#} <ls>Ku. 3. 24</ls> assuming his own form;
+;
+53592 old <>2. 61; {#saMropitepyAtmani#} <ls>Ś. 6. 23</ls>
+53592 new <><ls n="Ku.">2. 61</ls>; {#saMropitepyAtmani#} <ls>Ś. 6. 23</ls>
+;
+; <L>6130<pc>0235-c<k1>AtyaMtika<k2>AtyaMtika
+;x 53947 old <><ls>Mu. 4</ls>; {#vizRuguptahatakasyAtyaMtikaSreyase#}
+;
+53948 old <>2. 15; <ls>Ms. 2. 242</ls>; <ls>Bg. 6. 21.</ls> {@--2@}
+53948 new <><ls n="Mu.">2. 15</ls>; <ls>Ms. 2. 242</ls>; <ls>Bg. 6. 21.</ls> {@--2@}
+;
+; <L>6143<pc>0236-a<k1>AdA<k2>AdA
+54060 old <>{@--7@} To pluck, lop off, separate; <ls>Ś.</ls> 
+54060 new <>{@--7@} To pluck, lop off, separate;  <lbinfo n="ls:Ś.+4"/>
+;
+54062 old <>4. 8. {@--8@} To carry, take, bear;  <lbinfo n="jAla#mAdAya"/>
+54062 new <><ls>Ś. 4. 8</ls>. {@--8@} To carry, take, bear;  <lbinfo n="jAla#mAdAya"/>
+;
+; <L>6476<pc>0246-c<k1>Abarhin<k2>Abarhin
+56557 old <>tearing out; {#mUlamasyAbarhi#} P. IV.
+56557 new <>tearing out; {#mUlamasyAbarhi#}  <lbinfo n="ls:P. IV.+4"/>
+;
+56558 old <>4. 88.
+56558 new <><ls>P. IV. 4. 88</ls>.
+;
+; <L>6799<pc>0256-b<k1>Ardraka<k2>Ardraka
+58853 old <>the constellation Ārdrā; <ab>cf.</ab> P. IV.
+58853 new <>the constellation Ārdrā; <ab>cf.</ab>  <lbinfo n="ls:P. IV.+3"/>
+;
+58854 old <>3. 28. {#--kaM#} Ginger in its undried
+58854 new <><ls>P. IV. 3. 28</ls>. {#--kaM#} Ginger in its undried
+;
+; <L>6801<pc>0256-b<k1>ArDa<k2>ArDa
+58871 old <>general tenses (<ab>opp.</ab> {#sArvaDAtuka#}); <ab>cf.</ab> P. III.
+58871 new <>general tenses (<ab>opp.</ab> {#sArvaDAtuka#}); <ab>cf.</ab>  <lbinfo n="ls:P. III.+4"/>
+;
+58872 old <>4. 114, I. 1. 4; II. 4, 35; VII. 2.
+58872 new <><ls>P. III. 4. 114</ls>, <ls n="P.">I. 1. 4</ls>; <ls n="P.">II. 4, 35</ls>;  <lbinfo n="ls:VII. 2.+35"/>
+;
+58873 old <>35 &c. {#--prasTika, --kaMsika#} {%<ab>a.</ab>%} ({#--kI#} {%<ab>f.</ab>%})
+58873 new <><ls n="P.">VII. 2. 35</ls> &c. {#--prasTika, --kaMsika#} {%<ab>a.</ab>%} ({#--kI#} {%<ab>f.</ab>%})
+;
+; <L>6811<pc>0257-b<k1>Arza<k2>Arza
+59043 old <><ls>Ms. 3. 29</ls>; <ls>Y. 1. 59</ls>; {#ArzaH pratyayaH#} P. II.
+59043 new <><ls>Ms. 3. 29</ls>; <ls>Y. 1. 59</ls>; {#ArzaH pratyayaH#}  <lbinfo n="ls:P. II.+4"/>
+;
+59044 old <>4. 58. {@--2@} Sacred, holy, divine,
+59044 new <><ls>P. II. 4. 58</ls>. {@--2@} Sacred, holy, divine,
+;
+; <L>6976<pc>0262-a<k1>Avfj<k2>Avfj
+;x 60178 old <><ls>R. 15. 80</ls>; {#tanayAvarjitapiMqakAMkziRaH#}
+;
+60179 old <>8. 26; 1. 62, 67; <ls>Mu. 4</ls>;  <lbinfo n="ls:K.+ 241."/>
+60179 new <><ls n="R.">8. 26</ls>; <ls n="R.">1. 62</ls>, <ls n="R. 1.">67</ls>; <ls>Mu. 4</ls>;  <lbinfo n="ls:K.+ 241."/>
+;
+; <L>6992<pc>0262-c<k1>AvyaD<k2>AvyaD
+60346 old <>or pierce through. {@--4@} To put on; <ls>Bk.</ls> 
+60346 new <>or pierce through. {@--4@} To put on;  <lbinfo n="ls:Bk.+20"/>
+;
+60348 old <>20. 11. {@--5@} To shoot at, throw or
+60348 new <><ls>Bk. 20. 11</ls>. {@--5@} To shoot at, throw or
+;
+; <L>7128<pc>0268-a<k1>Asad<k2>Asad
+;x 61535 old <><ls n="R.">14. 25</ls>; {#apAyaM#} <ls>Bk. 3. 26</ls> suffering;
+;
+61536 old <>4. 43. {@--5@} To encounter, attack. {@--6@}
+61536 new <><ls n="Bk.">4. 43</ls>. {@--5@} To encounter, attack. {@--6@}
+;
+; <L>7822<pc>0293-a<k1>uttama<k2>uttama
+67199 old <>creditor (<ab>opp.</ab> {#aDamarRaH#}) {#DAreruttamarRaH#} P. I.
+67199 new <>creditor (<ab>opp.</ab> {#aDamarRaH#}) {#DAreruttamarRaH#}  <lbinfo n="ls:P. I.+4"/>
+;
+67200 old <>4. 35; <ls>Ms. 8. 47</ls>, <ls n="Ms. 8.">50</ls>; <ls>Y. 2. 42.</ls>  <lbinfo n="--o#jas"/>
+67200 new <><ls>P. I. 4. 35</ls>; <ls>Ms. 8. 47</ls>, <ls n="Ms. 8.">50</ls>; <ls>Y. 2. 42.</ls>  <lbinfo n="--o#jas"/>
+;
+; <L>7828<pc>0293-c<k1>uttara<k2>uttara
+;x 67287 old <><ls>R. 6. 50</ls> over spread with; {#DarmottaraM#}
+67288 old <>13. 7 rich in; 18. 7; {#kaMpaº#} 13. 28;
+67288 new <><ls n="R.">13. 7</ls> rich in; <ls n="R.">18. 7</ls>; {#kaMpaº#} <ls n="R.">13. 28</ls>;
+;
+67289 old <>17. 12; 19. 23. {@--9@} To be crossed
+67289 new <><ls n="R.">17. 12</ls>; <ls n="R.">19. 23.</ls> {@--9@} To be crossed
+;
+; <L>7869<pc>0296-a<k1>utTA<k2>utTA
+67754 old <>{#uttizWamAnaM mitrArTe kastvAM na bahu manyate#} Bk
+67754 new <>{#uttizWamAnaM mitrArTe kastvAM na bahu manyate#}  <lbinfo n="ls:Bk.+8"/>
+;
+67755 old <>8. 12; 20. 18; <ls>Mv. 4. 6</ls>;  <lbinfo n="mukAvutti#zWate"/>
+67755 new <><ls>Bk. 8. 12</ls>; <ls n="Bk.">20. 18</ls>; <ls>Mv. 4. 6</ls>;  <lbinfo n="mukAvutti#zWate"/>
+;
+; <L>8022<pc>0302-b<k1>udanya<k2>udanya
+69109 old <><ls>Ve. 6</ls>; {#vyasyannudanyAM SiSirEH payoBiH#} Bk
+69109 new <><ls>Ve. 6</ls>; {#vyasyannudanyAM SiSirEH payoBiH#}  <lbinfo n="ls:Bk.+3"/>
+;
+69110 old <>3. 40. {@--Comp.@} {#--ja#} {%<ab>a.</ab>%} <ab>Ved.</ab> born or
+69110 new <><ls>Bk. 3. 40</ls>. {@--Comp.@} {#--ja#} {%<ab>a.</ab>%} <ab>Ved.</ab> born or
+;
+; <L>8254<pc>0310-b<k1>udyA<k2>udyA
+70978 old <>{#matirudayAsIt pakziRaH prekzya BEmIM#} <ab>N.</ab>
+70978 new <>{#matirudayAsIt pakziRaH prekzya BEmIM#}  <lbinfo n="ls:N.+2"/>
+;
+70979 old <>2. 109.
+70979 new <><ls>N. 2. 109</ls>.
+;
+; <L>8407<pc>0315-a<k1>unmuKa<k2>unmuKa
+;x 72032 old <><ls>Me. 14</ls>, <ls n="Me.">100</ls>; <ls>R. 1. 39</ls>, <ls n="R.">11. 26</ls>; {#ASramaº#}
+;
+72033 old <>1. 53. {@--2@} Ready, intent on, on the
+72033 new <><ls n="R.">1. 53</ls>. {@--2@} Ready, intent on, on the
+;
+; <L>8447<pc>0316-b<k1>upakArya<k2>upakArya
+;x 72369 old <>{#bAlyAtparAmiva daSAM madanoDyuvAsa#} <ls>R. 5. 63</ls>; a
+;x 72370 old <>royal tent; {#tasyopakAryAracitopacArAH#}
+;
+72371 old <>5. 41, 11. 93, 13. 79, 16. 55, 73.
+72371 new <><ls n="R.">5. 41</ls>, <ls n="R.">11. 93</ls>, <ls n="R.">13. 79</ls>, <ls n="R.">16. 55</ls>, <ls n="R. 16.">73.</ls>
+;
+; <L>8514<pc>0318-b<k1>upacar<k2>upacar
+;x 72850 old <><ls>R. 14. 17</ls> honoured or entertained;
+;
+72851 old <>5. 62; {#sTAne iyaM devISabdenopacaryate#} <ls>V. 3</ls>
+72851 new <><ls n="R.">5. 62</ls>; {#sTAne iyaM devISabdenopacaryate#} <ls>V. 3</ls>
+;
+; <L>8517<pc>0318-c<k1>upacAraH<k2>upacAraH
+72968 old <>{@--14@} A bribe. {@--15@} A pretext; Śi
+72968 new <>{@--14@} A bribe. {@--15@} A pretext;  <lbinfo n="ls:Śi.+10"/>
+;
+72969 old <>10. 2. {@--16@} A request, solicitation.
+72969 new <><ls>Śi. 10. 2</ls>. {@--16@} A request, solicitation.
+;
+; <L>8773<pc>0327-b<k1>upayam<k2>upayam
+;x 74855 old <><ls>Bk. 15. 21</ls>; {#SastrARyupAyaMsata jitvarARi#}
+;
+74856 old <>1. 16. ({%b%}) To take, receive, accept;
+74856 new <><ls n="Bk.">1. 16</ls>. ({%b%}) To take, receive, accept;
+;
+; <L>10240<pc>0376-b<k1>kanyA<k2>kanyA
+85925 old <>unmarried girl or daughter; P. 1. 51,
+85925 new <>unmarried girl or daughter; <ls>R. 1. 51</ls>,
+;
+85926 old <>2. 10, 3. 33; <ls>Ms. 10. 8.</ls> {@--2@} A girl
+85926 new <><ls n="R.">2. 10</ls>, <ls n="R.">3. 33</ls>; <ls>Ms. 10. 8.</ls> {@--2@} A girl
+;
+; <L>10322<pc>0379-a<k1>kara<k2>kara
+86619 old <>{#karatAlikAnAM dAnAdidAnIM BavatIBirezaH#} <ab>N.</ab>
+86619 new <>{#karatAlikAnAM dAnAdidAnIM BavatIBirezaH#}  <lbinfo n="ls:N.+3"/>
+;
+86620 old <>3. 7. --2. beating time by clapping
+86620 new <><ls>N. 3. 7</ls>. --2. beating time by clapping
+;
+; <L>10324<pc>0380-a<k1>karaMkaH<k2>karaMkaH
+;x 86684 old <>{#sTapuwagatamapi kravyamavyagramatti#} <ls>Māl. 5. 16</ls>; also
+;
+86685 old <>5. 19. {@--3@} A small pot (of cocoa-nut);
+86685 new <><ls n="Māl.">5. 19</ls>. {@--3@} A small pot (of cocoa-nut);
+;
+; <L>10457<pc>0385-b<k1>kala<k2>kala
+;x 87922 old <>{#kalakiMkiRIravaM#} <ls>Śi. 9. 74</ls>, <ls n="Śi. 9.">82</ls>; {#kalameKalAkalakalaH#}
+;
+87923 old <>6. 14, 4. 57. {@--4@} Weak. {@--5@} Crude;
+87923 new <><ls n="Śi.">6. 14</ls>, <ls n="Śi.">4. 57</ls>. {@--4@} Weak. {@--5@} Crude;
+;
+; <L>10492<pc>0387-a<k1>kalApakaM<k2>kalApakaM
+88242 old <>{#kalApakaM#}); for an illustration see Ki
+88242 new <>{#kalApakaM#}); for an illustration see  <lbinfo n="ls:Ki.+3"/>
+;
+88243 old <>3. 41, 42, 43, 44. {@--2@} A debt to be
+88243 new <><ls>Ki. 3. 41</ls>, <ls n="Ki. 3.">42</ls>, <ls n="Ki. 3.">43</ls>, <ls n="Ki. 3.">44.</ls> {@--2@} A debt to be
+;
+; <L>10577<pc>0390-a<k1>kaz<k2>kaz
+88936 old <>{#kazannivAlasatkazapAzARaniBe naBastale#} <ab>N.</ab>
+88936 new <>{#kazannivAlasatkazapAzARaniBe naBastale#}  <lbinfo n="ls:N.+2"/>
+;
+88937 old <>2. 69. {@--3@} To injure, destroy. {@--4@} To
+88937 new <><ls>N. 2. 69</ls>. {@--3@} To injure, destroy. {@--4@} To
+;
+; <L>10764<pc>0397-a<k1>kArA<k2>kArA
+90485 old <>{#laMkeSvaraRozitamA prasAdAt#} <ls>R. 6. 40</ls>, Śānti
+90485 new <>{#laMkeSvaraRozitamA prasAdAt#} <ls>R. 6. 40</ls>,  <lbinfo n="ls:Śānti.+4"/>
+;
+90486 old <>4. 10. {#--guptaH#} a prisoner. {#--pAlaH#} a
+90486 new <><ls>Śānti. 4. 10</ls>. {#--guptaH#} a prisoner. {#--pAlaH#} a
+;
+; <L>11042<pc>0407-b<k1>kuwuMbaM<k2>kuwuMbaM, kuwuMbakaM
+92828 old <>Race. {@--5@} A group, collection; <ls>Vikr.</ls> 
+92828 new <>Race. {@--5@} A group, collection;  <lbinfo n="ls:Vikr.+1"/>
+;
+92830 old <>1. 92. {@--Comp.@} {#--kalahaH, --haM#} internal or
+92830 new <><ls>Vikr. 1. 92</ls>. {@--Comp.@} {#--kalahaH, --haM#} internal or
+;
+; <L>11325<pc>0415-c<k1>kUj<k2>kUj
+94761 old <><ls>Ku. 3. 32</ls>; <ls>Rs. 6. 22</ls>; <ls>R. 2. 12</ls>; <ab>N.</ab>
+94761 new <><ls>Ku. 3. 32</ls>; <ls>Rs. 6. 22</ls>; <ls>R. 2. 12</ls>;  <lbinfo n="ls:N.+1"/>
+;
+94762 old <>1. 127. {@--2@} To moan, groan. {@--3@} To
+94762 new <><ls>N. 1. 127</ls>. {@--2@} To moan, groan. {@--3@} To
+;
+; <L>11729<pc>0431-c<k1>krIq<k2>krIq
+98317 old <>{#iva karRapItA mayAsya saMkrIqati cakracakre#} <ab>N.</ab>
+98317 new <>{#iva karRapItA mayAsya saMkrIqati cakracakre#}  <lbinfo n="ls:N.+3"/>
+;
+98318 old <>3. 50; {#saMkrIqaMti SakawAni#} <ls>Mbh.</ls> ‘the
+98318 new <><ls>N. 3. 50</ls>; {#saMkrIqaMti SakawAni#} <ls>Mbh.</ls> ‘the
+;
+; <L>11891<pc>0436-c<k1>kzIRa<k2>kzIRa
+99544 old <>strength, subsided (as a disease); Pt
+99544 new <>strength, subsided (as a disease);  <lbinfo n="ls:Pt.+1"/>
+;
+99545 old <>1. 235.
+99545 new <><ls>Pt. 1. 235</ls>.
+;
+; <L>12616<pc>0463-a<k1>guru<k2>guru
+;x 105473 old <>{#gurave sa varRI#} <ls>R. 5. 19</ls> the head of the
+;x 105474 old <>castes or orders; {#gururnfpARAM gurave nivedya#}
+;
+105475 old <>2. 68. {@--6@} <ab>N.</ab> of Bṛhaspati, the
+105475 new <><ls n="R.">2. 68</ls>. {@--6@} <ab>N.</ab> of Bṛhaspati, the
+;
+; <L>12849<pc>0475-a<k1>Gaw<k2>Gaw
+;x 107890 old <>{#trAtumalaM Gawasva#} <ls>Bk. 10. 40</ls>; {#aMgadena samaM #} <lbinfo n="yo#dDumaGawizwa"/>
+107891 old <>{#yodDumaGawizwa#} 15. 77, 12. 26, 16. 23;
+107891 new <>{#yodDumaGawizwa#} <ls n="Bk.">15. 77</ls>, <ls n="Bk.">12. 26</ls>, <ls n="Bk.">16. 23</ls>;
+;
+107892 old <>20. 24; 22. 31. {@--2@} To happen,
+107892 new <><ls n="Bk.">20. 24</ls>; <ls n="Bk.">22. 31.</ls> {@--2@} To happen,
+;
+; <L>12954<pc>0478-c<k1>GfRA<k2>GfRA
+108711 old <>{#parapuzwaGuzwa GfRAM ca vIRAkvaRite vitene#} <ab>N.</ab>
+108711 new <>{#parapuzwaGuzwa GfRAM ca vIRAkvaRite vitene#}  <lbinfo n="ls:N.+3"/>
+;
+108712 old <>3. 60; 1. 20; <ls>R. 11. 65.</ls> {@--3@} <lbinfo n="Re+proach"/>
+108712 new <><ls>N. 3. 60</ls>; <ls n="N.">1. 20</ls>; <ls>R. 11. 65.</ls> {@--3@} <lbinfo n="Re+proach"/>
+;
+; <L>13010<pc>0481-b<k1>cakzus<k2>cakzus
+109271 old <>{#--Sravas#} {%<ab>m.</ab>%} a serpent; <ls>Ki. 16. 42</ls>; <ab>N.</ab>
+109271 new <>{#--Sravas#} {%<ab>m.</ab>%} a serpent; <ls>Ki. 16. 42</ls>;  <lbinfo n="ls:N.+1"/>
+;
+109272 old <>1. 28.
+109272 new <><ls>N. 1. 28</ls>.
+;
+; <L>13131<pc>0486-c<k1>carita<k2>carita
+;x 110438 old <>{#caritArTamivABavat#} <ls>R. 12. 87</ls>; {#caritArTEva BAratI#}
+;
+110439 old <>10. 36; <ls>Ki. 13. 62.</ls> --2. satisfied, <lbinfo n="con+tented"/>
+110439 new <><ls n="R.">10. 36</ls>; <ls>Ki. 13. 62.</ls> --2. satisfied, <lbinfo n="con+tented"/>
+;
+; <L>13449<pc>0497-a<k1>culukaH<k2>culukaH
+112813 old <>anything; {#mamO sa BadraM culuke samudraH#} <ab>N.</ab>
+112813 new <>anything; {#mamO sa BadraM culuke samudraH#}  <lbinfo n="ls:N.+8"/>
+;
+112814 old <>8. 45; {#jYAtvA viDAtuSculukAt prasUtiM#}
+112814 new <><ls>N. 8. 45</ls>; {#jYAtvA viDAtuSculukAt prasUtiM#}
+;
+; <L>13652<pc>0502-c<k1>Ceka<k2>Ceka
+;x 114136 old <>Candrāloka thus defines and <lbinfo n="illus+trates"/>
+;x 114138 old <>{#nihnave . prajalpanmatpade lagnaH kAMtaH kiM na hi nUpuraH#}
+;
+114139 old <>5. 27. {#--uktiH#} {%<ab>f.</ab>%} insinuation, {%double%}
+114139 new <><ls>Chandr. 5. 27</ls>. {#--uktiH#} {%<ab>f.</ab>%} insinuation, {%double%}
+;
+; <L>14041<pc>0517-b<k1>jfMBaH<k2>jfMBaH, --BA --BaM
+117427 old <>{#jfMBAraMBapravitatadalopAMtajAlapravizwEH#} <ls>Ve. 2. 7</ls>; Māl
+117427 new <>{#jfMBAraMBapravitatadalopAMtajAlapravizwEH#} <ls>Ve. 2. 7</ls>;  <lbinfo n="ls:Māl.+9"/>
+;
+117428 old <>9. 16. {@--3@} Expansion. {@--4@} Bursting
+117428 new <><ls>Māl. 9. 16</ls>. {@--3@} Expansion. {@--4@} Bursting
+;
+; <L>14106<pc>0519-c<k1>jyotis<k2>jyotis
+117950 old <>Supreme spirit; <ls>Bg. 5. 24</ls>, <ls n="Bg.">13. 17</ls>; U,
+117950 new <>Supreme spirit; <ls>Bg. 5. 24</ls>, <ls n="Bg.">13. 17</ls>;  <lbinfo n="ls:U.+4"/>
+;
+117951 old <>4. 18. {@--3@} Lightning. {@--4@} A heavenly
+117951 new <><ls>U. 4. 18</ls>. {@--3@} Lightning. {@--4@} A heavenly
+;
+; <L>14121<pc>0520-b<k1>jval<k2>jval
+118083 old <>{#jvalati caliteMDanogniH#} <ls>Ś. 6. 30</ls>; <ls>Ku.</ls> 
+118083 new <>{#jvalati caliteMDanogniH#} <ls>Ś. 6. 30</ls>;  <lbinfo n="ls:Ku.+5"/>
+;
+118085 old <>5. 30. {@--2@} To be burnt up, be <lbinfo n="con+sumed"/>
+118085 new <><ls>Ku. 5. 30</ls>. {@--2@} To be burnt up, be <lbinfo n="con+sumed"/>
+;
+; <L>14235<pc>0523-a<k1>qaMbara<k2>qaMbara
+118672 old <>Resemblance, likeness, appearance; U
+118672 new <>Resemblance, likeness, appearance;  <lbinfo n="ls:U.+6"/>
+;
+118673 old <>6. 17; <ls>Māl. 3. 7.</ls> {@--4@} Pride, arrogance.
+118673 new <><ls>U. 6. 17</ls>; <ls>Māl. 3. 7.</ls> {@--4@} Pride, arrogance.
+;
+; <L>14247<pc>0523-b<k1>qiMqimaH<k2>qiMqimaH
+118730 old <><ls>H. 2. 86</ls>; {#muKarayasva yaSonavaqiMqimaM#} <ab>N.</ab>
+118730 new <><ls>H. 2. 86</ls>; {#muKarayasva yaSonavaqiMqimaM#}  <lbinfo n="ls:N.+4"/>
+;
+118731 old <>4. 53; <ls>Amaru. 28</ls>; {#caMqi #} <lbinfo n="raRitarasanA#ravaqiMqimamaBisara"/>
+118731 new <><ls>N. 4. 53</ls>; <ls>Amaru. 28</ls>; {#caMqi #} <lbinfo n="raRitarasanA#ravaqiMqimamaBisara"/>
+;
+; <L>14391<pc>0530-a<k1>tap<k2>tap
+;x 120008 old <>{#madanastvAmaniSaM mAM punardahatyeva#} <ls>Ś. 3. 17</ls>; {#aMgEranaMgataptEH#}
+;
+120009 old <>3. 7. ({%c%}) To hurt, injure, damage,
+120009 new <><ls n="Ś.">3. 7</ls>. ({%c%}) To hurt, injure, damage,
+;
+; <L>15023<pc>0548-c<k1>tri<k2>tri
+124586 old <>gods. ({#--SaH#}) a god, an immortal; <ls>Ku.</ls> 
+124586 new <>gods. ({#--SaH#}) a god, an immortal;  <lbinfo n="ls:Ku.+3"/>
+;
+124588 old <>3. 1. {#ºaMkuSaH, ºAyuDaM#} Indra's
+124588 new <><ls>Ku. 3. 1</ls>. {#ºaMkuSaH, ºAyuDaM#} Indra's
+;
+; <L>15193<pc>0557-b<k1>dam<k2>dam
+126225 old <><ls>Bk. 18. 20</ls>; {#damitvApyarisaMGAtAn#} 9. 42, 19;
+126225 new <><ls>Bk. 18. 20</ls>; {#damitvApyarisaMGAtAn#} <ls n="Bk.">9. 42</ls>, <ls n="Bk. 9.">19</ls>;
+;
+126226 old <>15. 37. {@--4@} To pacify. {%--<ab>Caus.</ab>%}
+126226 new <><ls n="Bk.">15. 37</ls>. {@--4@} To pacify. {%--<ab>Caus.</ab>%}
+;
+; <L>15249<pc>0559-a<k1>dal<k2>dal
+;x 126636 old <>{#hfdayaM gAQodvegaM dviDA tu na Bidyate#} <ls>U. 3. 31</ls>;
+;x 126637 old <>{#api grAvA rodityapi dalati vajrasya hfdayaM#}
+;
+126638 old <>1. 28; <ls>Māl. 9. 12</ls>, <ls n="Māl. 9.">20</ls>; {#dalati na sA#}
+126638 new <><ls n="U.">1. 28</ls>; <ls>Māl. 9. 12</ls>, <ls n="Māl. 9.">20</ls>; {#dalati na sA#}
+;
+; <L>15249<pc>0559-a<k1>dal<k2>dal
+126650 old <>crack; {#tvadizuBirvyadalizyadasAvapi#} <ab>N.</ab>
+126650 new <>crack; {#tvadizuBirvyadalizyadasAvapi#}  <lbinfo n="ls:N.+4"/>
+;
+126651 old <>4. 88. --2. to dig up.
+126651 new <><ls>N. 4. 88</ls>. --2. to dig up.
+;
+; <L>15274<pc>0560-a<k1>daSA<k2>daSA
+126892 old <>wick of a lamp; <ls>Bh. 3. 129</ls>; Ku
+126892 new <>wick of a lamp; <ls>Bh. 3. 129</ls>;  <lbinfo n="ls:Ku.+4"/>
+;
+126893 old <>4. 30. {@--3@} Age or time of life;
+126893 new <><ls>Ku. 4. 30</ls>. {@--3@} Age or time of life;
+;
+; <L>15513<pc>0569-b<k1>dur<k2>dur
+129143 old <>unfortunate, in bad circumstances; Bk,
+129143 new <>unfortunate, in bad circumstances;  <lbinfo n="ls:Bk.+18"/>
+;
+129144 old <>18. 10. --2. indigent, poor. --3.
+129144 new <><ls>Bk. 18. 10</ls>. --2. indigent, poor. --3.
+;
+; <L>15545<pc>0574-b<k1>duh<k2>duh
+;x 129895 old <>{#rAmAdDUtimAptuyAt#} <ls>. 8. 82</ls>; {#payo GawoDnIrapi gA duhaMti#}
+;
+129896 old <>12. 73; <ls>R. 5. 33.</ls> {@--2@} To draw <lbinfo n="any+thing"/>
+129896 new <><ls n="Bk.">12. 73</ls>; <ls>R. 5. 33.</ls> {@--2@} To draw <lbinfo n="any+thing"/>
+;
+; <L>15855<pc>0586-c<k1>dvaMdvaM<k2>dvaMdvaM
+132645 old {#dvaMdvaM#}¦ [{#dvO dvO sahABivyaktO;#} <ab>cf.</ab> P. VIII.
+132645 new {#dvaMdvaM#}¦ [{#dvO dvO sahABivyaktO;#} <ab>cf.</ab>  <lbinfo n="ls:P. VIII.+1"/>
+;
+132646 old <>1. 15. <ls>Sk.</ls>] {@1@} A pair, couple. {@--2@} A
+132646 new <><ls>P. VIII. 1. 15</ls>. <ls>Sk.</ls>] {@1@} A pair, couple. {@--2@} A
+;
+; <L>15904<pc>0589-c<k1>dvEDa<k2>dvEDa
+;x 133258 old <>{#yatra syAt tatra DarmAvuBO smftO#} <ls>Ms. 2. 14</ls>
+;
+133259 old <>9. 32; <ls>Y. 2. 78.</ls> {@--5@} Doubt, <lbinfo n="uncer+tainty"/>
+133259 new <><ls n="Ms.">9. 32</ls>; <ls>Y. 2. 78.</ls> {@--5@} Doubt, <lbinfo n="uncer+tainty"/>
+;
+; <L>16316<pc>0606-c<k1>nanu<k2>nanu
+;x 136962 old <>{#saptasvaMgezu#} <ls>R. 1. 60</ls>; {#trilokanATena sadA#}
+;x 136963 old <>{#maKadvizastvayA niyamyA nanu divyacakzuzA#}
+;
+136964 old <>3. 45. {@--4@} It is used as a vocative
+136964 new <><ls n="R.">3. 45</ls>. {@--4@} It is used as a vocative
+;
+; <L>16395<pc>0610-a<k1>narman<k2>narman
+;x 137724 old <><ls>Māl. 2. 7</ls>; {#tAM yAcate narapaternarmasuhfnnaMdano nfpamuKena#}
+;
+137725 old <>1. 11; <ls>Śi. 1. 59.</ls>
+137725 new <><ls n="Māl.">1. 11</ls>; <ls>Śi. 1. 59.</ls>
+;
+; <L>16400<pc>0610-b<k1>nalaH<k2>nalaH
+137777 old <>fragrant root ({#uSIra#}); <ls>Ki. 12. 50</ls>; <ab>N.</ab>
+137777 new <>fragrant root ({#uSIra#}); <ls>Ki. 12. 50</ls>;  <lbinfo n="ls:N.+4"/>
+;
+137778 old <>4. 116. --2. the honey of a flower.
+137778 new <><ls>N. 4. 116</ls>. --2. the honey of a flower.
+;
+; <L>16594<pc>0617-c<k1>nikazaH<k2>nikazaH(saH)
+;x 139413 old <>{#tattvanikazagrAvA tu tezAM vipad#} <ls>H. 1. 210</ls>
+;
+139414 old <>2. 80.
+139414 new <><ls n="H.">2. 80</ls>.
+;
+; <L>16897<pc>0631-c<k1>nirUQa<k2>nirUQa
+142398 old <>{#nirUQA sEva sA calati yatra hi cittaM#} <ab>N.</ab>
+142398 new <>{#nirUQA sEva sA calati yatra hi cittaM#}  <lbinfo n="ls:N.+5"/>
+;
+142399 old <>5. 57. --2 Unmarried. {@--3@} Drawn
+142399 new <><ls>N. 5. 57</ls>. --2 Unmarried. {@--3@} Drawn
+;
+; <L>17246<pc>0641-c<k1>nizpiz<k2>nizpiz
+144827 old <><ls>R. 12. 73.</ls> {@--2@} To hurt, injure, bruise; Bk
+144827 new <><ls>R. 12. 73.</ls> {@--2@} To hurt, injure, bruise;  <lbinfo n="ls:Bk.+6"/>
+;
+144828 old <>6. 120. {@--3@} To rub the hands. {@--4@}
+144828 new <><ls>Bk. 6. 120</ls>. {@--3@} To rub the hands. {@--4@}
+;
+; <L>17312<pc>0645-c<k1>nIqaH<k2>nIqaH, --qaM
+145618 old <>{#niil-ka lasyaqaH#} <ls>Tv.</ls>] {@1@} A bird's nest; Ś;
+145618 new <>{#niil-ka lasyaqaH#} <ls>Tv.</ls>] {@1@} A bird's nest;  <lbinfo n="ls:Ś.+7"/>
+;
+145619 old <>7. 11. {@--2@} A bed, couch. {@--3@} A lair, den.
+145619 new <><ls>Ś. 7. 11</ls>. {@--2@} A bed, couch. {@--3@} A lair, den.
+;
+; <L>17641<pc>0659-c<k1>paR<k2>paR
+148664 old <>deal in, barter, purchase, buy; <ab>N.</ab>
+148664 new <>deal in, barter, purchase, buy;  <lbinfo n="ls:N.+2"/>
+;
+148665 old <>2. 91. {@--2@} To bargain, transact <lbinfo n="busi+ness"/>
+148665 new <><ls>N. 2. 91</ls>. {@--2@} To bargain, transact <lbinfo n="busi+ness"/>
+;
+; <L>17665<pc>0660-c<k1>pataMgaH<k2>pataMgaH
+148894 old <>{@1@} A bird; {#nfpaH pataMgaM samaDatta pARinA#} <ab>N.</ab>
+148894 new <>{@1@} A bird; {#nfpaH pataMgaM samaDatta pARinA#}  <lbinfo n="ls:N.+1"/>
+;
+148895 old <>1. 124; <ls>Bv. 1. 17.</ls> {@--2@} The sun;
+148895 new <><ls>N. 1. 124</ls>; <ls>Bv. 1. 17.</ls> {@--2@} The sun;
+;
+; <L>17720<pc>0663-a<k1>padaM<k2>padaM
+;x 149394 old <>{#apaTe padamarpayaMti hi#} <ls>R. 9. 74</ls> ‘set foot
+149395 old <>on (follow) a wrong road’; 3. 50;
+149395 new <>on (follow) a wrong road’; <ls n="R.">3. 50</ls>;
+;
+149396 old <>12. 52; {#padaM hi sarvatra guROrniDIyate#} 3.
+149396 new <><ls n="R.">12. 52</ls>; {#padaM hi sarvatra guROrniDIyate#} 3.
+;
+; <L>17765<pc>0665-c<k1>para<k2>para
+;x 149955 old <><ls>. 2. 14</ls> ‘higher than the highest’;
+;
+149956 old <>6. 19; <ls>Ś. 7. 27.</ls> {@--7@} Having as a
+149956 new <><ls n="Ku.">6. 19</ls>; <ls>Ś. 7. 27.</ls> {@--7@} Having as a
+;
+; <L>17790<pc>0668-c<k1>paraspara<k2>paraspara
+;x 150547 old <><ls>R. 3. 24</ls>; <ls n="R.">7. 38</ls>; {#avijYAtaparasparEH apasarpEH#}
+;
+150548 old <>17. 51; {#parasparAkzisAdfkzyaM#} 1. 40, 3. 24.
+150548 new <><ls n="R.">17. 51</ls>; {#parasparAkzisAdfkzyaM#} <ls n="R.">1. 40</ls>, <ls n="R.">3. 24.</ls>
+;
+; <L>18021<pc>0675-c<k1>parityAgaH<k2>parityAgaH
+;x 152165 old <>{#aparityAgamayAcatAtmanaH#} <ls>R. 8. 12</ls>; {#kftasItAparityAgaH#}
+;
+152166 old <>15. 1. {@--2@} Giving up, renouncing,
+152166 new <><ls n="R.">15. 1</ls>. {@--2@} Giving up, renouncing,
+;
+; <L>18673<pc>0693-b<k1>pAdaH<k2>pAdaH
+156529 old <>mark of respectful salutation); Ku
+156529 new <>mark of respectful salutation);  <lbinfo n="ls:Ku.+7"/>
+;
+156530 old <>7. 27. {#--caturaH, --catvaraH#} 1. a <lbinfo n="slander+er"/>
+156530 new <><ls>Ku. 7. 27</ls>. {#--caturaH, --catvaraH#} 1. a <lbinfo n="slander+er"/>
+;
+; <L>18710<pc>0695-a<k1>pAyasa<k2>pAyasa
+156856 old <>{#--saH, --saM#} {@1@} Rice boiled in milk; Ms,
+156856 new <>{#--saH, --saM#} {@1@} Rice boiled in milk;  <lbinfo n="ls:Ms.+3"/>
+;
+156857 old <>3. 271, 5. 7; <ls>Y. 1. 173.</ls> {@--2@} <lbinfo n="Turpen+tine"/>
+156857 new <><ls>Ms. 3. 271</ls>, <ls n="Ms.">5. 7</ls>; <ls>Y. 1. 173.</ls> {@--2@} <lbinfo n="Turpen+tine"/>
+;
+; <L>18748<pc>0696-b<k1>pAralOkika<k2>pAralOkika
+157111 old <>{#manuzyARAM sahAyaH paramArTika#} <ls>Mb.</ls>; <ab>N.</ab>
+157111 new <>{#manuzyARAM sahAyaH paramArTika#} <ls>Mb.</ls>;  <lbinfo n="ls:N.+5"/>
+;
+157112 old <>5. 92. {#--kaM#} Obsequies, funeral rites;
+157112 new <><ls>N. 5. 92</ls>. {#--kaM#} Obsequies, funeral rites;
+;
+; <L>19028<pc>0704-b<k1>pI<k2>pI
+159057 old <>{#vadanaBavAmftaM nipIya#} <ls>Mk. 10. 13</ls>; <ab>N.</ab>
+159057 new <>{#vadanaBavAmftaM nipIya#} <ls>Mk. 10. 13</ls>;  <lbinfo n="ls:N.+1"/>
+;
+159058 old <>1. 1.
+159058 new <><ls>N. 1. 1</ls>.
+;
+; <L>19465<pc>0723-a<k1>pOlastyaH<k2>pOlastyaH
+163110 old <>{#vijYa tavAn#} <ls>Pt. 2. 4</ls>; <ls>R. 4. 80</ls>: 10. 5;
+163110 new <>{#vijYa tavAn#} <ls>Pt. 2. 4</ls>; <ls>R. 4. 80</ls>; <ls n="R.">10. 5</ls>;
+;
+163111 old <>12. 72. {@--2@} Of Kubera. {@--3@} Of
+163111 new <><ls n="R.">12. 72</ls>. {@--2@} Of Kubera. {@--3@} Of
+;
+; <L>19742<pc>0731-b<k1>praRAmaH<k2>praRAmaH
+;x 165105 old <><ls>Ku. 6. 91</ls>; {#mUrDnA praRAmaM vfzaBaDvajAya caMkAra#}
+;
+165106 old <>3. 62; {#asmE praRAmamakaravam#} <ls>K. 142.</ls>
+165106 new <><ls n="Ku.">3. 62</ls>; {#asmE praRAmamakaravam#} <ls>K. 142.</ls>
+;
+; <L>19801<pc>0733-b<k1>prati<k2>prati
+165704 old <>{#giriSamupacacAra pratyahaM sA sukeSI#} <ls>Ku.</ls> 
+165704 new <>{#giriSamupacacAra pratyahaM sA sukeSI#}  <lbinfo n="ls:Ku.+1"/>
+;
+165706 old <>1. 60. {#--AkAraH#} a scabbard, sheath.
+165706 new <><ls>Ku. 1. 60</ls>. {#--AkAraH#} a scabbard, sheath.
+;
+; <L>19801<pc>0733-b<k1>prati<k2>prati
+165867 old <>{#--mallaH#} an antagonist, a rival; <ab>N.</ab>
+165867 new <>{#--mallaH#} an antagonist, a rival;  <lbinfo n="ls:N.+1"/>
+;
+165868 old <>1. 63; {#pAtAlapratimallagalla#} &c.  <lbinfo n="ls:Māl. 5.+ 22."/>
+165868 new <><ls>N. 1. 63</ls>; {#pAtAlapratimallagalla#} &c.  <lbinfo n="ls:Māl. 5.+ 22."/>
+;
+; <L>19904<pc>0737-c<k1>pratipad<k2>pratipad
+166546 old <><ls>R. 8. 5</ls>, <ls n="R. 8.">13</ls>; <ls n="R. 8.">4.</ls> 1, 41; 11. 34; 12. 7;
+166546 new <><ls>R. 8. 5</ls>, <ls n="R. 8.">13</ls>; <ls n="R.">4. 1</ls>, <ls n="R. 4.">41</ls>; <ls n="R.">11. 34</ls>; <ls n="R.">12. 7</ls>;
+;
+166547 old <>19. 55; <ls>Bg. 14. 14</ls>; <ls>Śi. 10. 63.</ls> {@--5@}
+166547 new <><ls n="R.">19. 55</ls>; <ls>Bg. 14. 14</ls>; <ls>Śi. 10. 63.</ls> {@--5@}
+;
+; <L>20053<pc>0741-c<k1>pratiSru<k2>pratiSru
+;x 167510 old <>{#raGupravIrastadIpsitaM#} <ls>R. 14. 29</ls>, <ls n="R.">2. 65</ls>; <ls n="R.">3. 67.</ls>
+;
+167511 old <>15. 4.
+167511 new <><ls n="R.">15. 4</ls>.
+;
+; <L>20278<pc>0747-b<k1>praT<k2>praT
+168915 old <>{#praTitaH puruzottamaH#} <ls>Bg. 15. 18</ls>; <ls>Śi. 9</ls> 16;
+168915 new <>{#praTitaH puruzottamaH#} <ls>Bg. 15. 18</ls>; <ls>Śi. 9. 16</ls>;
+;
+168916 old <>15. 23; <ls>Ku. 5. 7</ls>; <ls>Me. 24</ls>;  <lbinfo n="ls:R. 5.+ 65"/>
+168916 new <><ls n="Śi.">15. 23</ls>; <ls>Ku. 5. 7</ls>; <ls>Me. 24</ls>;  <lbinfo n="ls:R. 5.+ 65"/>
+;
+; <L>20635<pc>0758-a<k1>prarohaH<k2>prarohaH
+;x 171463 old <><ls>R. 8. 93</ls>; {#plakzAn prarohajawilAniva maMtrivfdDAn#}
+;
+171464 old <>13. 71; <ls>Ku. 5. 60</ls>; <ls n="Ku.">7. 17</ls>; <ls n="Ku.">5. 60</ls>;
+171464 new <><ls n="R.">13. 71</ls>; <ls>Ku. 5. 60</ls>; <ls n="Ku.">7. 17</ls>; <ls n="Ku.">5. 60</ls>;
+;
+; <L>21634<pc>0791-a<k1>ballavaH<k2>ballavaH
+179098 old <>{#kuMjezvAkrAMtavIrunnicayaparicayA ballavAH saMcaraMtu#} Ve
+179098 new <>{#kuMjezvAkrAMtavIrunnicayaparicayA ballavAH saMcaraMtu#}  <lbinfo n="ls:Ve.+6"/>
+;
+179099 old <>6. 2; <ls>Śi. 11. 8.</ls> {@--2@} A cook. {@--3@} The
+179099 new <><ls>Ve. 6. 2</ls>; <ls>Śi. 11. 8.</ls> {@--2@} A cook. {@--3@} The
+;
+; <L>21941<pc>0807-c<k1>BawaH<k2>BawaH
+182516 old <>soldier, combatant; {#tadBawacAturIturI#} <ab>N.</ab>
+182516 new <>soldier, combatant; {#tadBawacAturIturI#}  <lbinfo n="ls:N.+1"/>
+;
+182517 old <>1. 12; {#vAditrasfzwirGawate Bawasya#} 22. 22;
+182517 new <><ls>N. 1. 12</ls>; {#vAditrasfzwirGawate Bawasya#} <ls n="N.">22. 22</ls>;
+;
+; <L>22148<pc>0815-c<k1>BAzA<k2>BAzA
+;x 184352 old <>{#dehi me pariraMBaRaM#} <ls>. 6. 11</ls> (which
+184353 old <>is in Sanskrit or Śaurasenī); se
+184353 new <>is in Sanskrit or Śaurasenī); so
+;
+184354 old <>6. 10.
+184354 new <><ls n="Māl.">6. 10</ls>.
+;
+; <L>22254<pc>0822-b<k1>BUman<k2>BUman
+;x 185725 old <>{#BUmtA rasAnAM gahanAH prayogAH#} <ls>Māl. 1. 4</ls>;
+;x 185726 old <>{#saMBUyeba suKAni cetasi paraM BUmAnamAtanvata#}
+;
+185727 old <>5. 9. {@--2@} Wealth. {%--<ab>n.</ab>%} {@1@} The earth
+185727 new <><ls n="Māl.">5. 9</ls>. {@--2@} Wealth. {%--<ab>n.</ab>%} {@1@} The earth
+;
+; <L>22569<pc>0835-b<k1>matsara<k2>matsara
+188533 old <><ls>Ku. 5. 17.</ls> {@--2@} Hostility, enmity; R
+188533 new <><ls>Ku. 5. 17.</ls> {@--2@} Hostility, enmity;  <lbinfo n="ls:R.+3"/>
+;
+188534 old <>3. 60. {@--3@} Pride; <ls>Śi. 8. 71.</ls> {@--4@}
+188534 new <><ls>R. 3. 60</ls>. {@--3@} Pride; <ls>Śi. 8. 71.</ls> {@--4@}
+;
+; <L>22635<pc>0840-c<k1>manas<k2>manas
+;x 189610 old <><ls>R. 2. 27</ls>; {#kAyena vAcA manasApi SaSvat#}
+;
+189611 old <>5. 5; {#manasApi na vipriyaM mayA (kftapUrvaM)#}
+189611 new <><ls n="R.">5. 5</ls>; {#manasApi na vipriyaM mayA (kftapUrvaM)#}
+;
+; <L>22635<pc>0840-c<k1>manas<k2>manas
+;x 189610 old <><ls>R. 2. 27</ls>; {#kAyena vAcA manasApi SaSvat#}
+;189611 old <>5. 5; {#manasApi na vipriyaM mayA (kftapUrvaM)#}
+;189611 new <><ls n="R.">5. 5</ls>; {#manasApi na vipriyaM mayA (kftapUrvaM)#}
+;
+189612 old <>8. 52. {@--5@} Design, purpose, <lbinfo n="inten+tion"/>
+189612 new <><ls n="R.">8. 52</ls>. {@--5@} Design, purpose, <lbinfo n="inten+tion"/>
+;
+; <L>22865<pc>0850-b<k1>mahA<k2>mahA
+192231 old <>{#mahABAgaH kAmaM narapatiraBinnasTitirasO#} Ś
+192231 new <>{#mahABAgaH kAmaM narapatiraBinnasTitirasO#}  <lbinfo n="ls:Ś.+5"/>
+;
+192232 old <>5. 10; <ls>Ms. 3. 192.</ls> --3. very pure
+192232 new <><ls>Ś. 5. 10</ls>; <ls>Ms. 3. 192.</ls> --3. very pure
+;
+; <L>23202<pc>0867-a<k1>mImAMsA<k2>mImAMsA
+195298 old <>{#tamunmamATa sahasA hastI mutiM jEminiM#} Pt
+195298 new <>{#tamunmamATa sahasA hastI mutiM jEminiM#}  <lbinfo n="ls:Pt.+2"/>
+;
+195299 old <>2. 33. {@--Comp.@} {#--kAraH --kft#} {%<ab>m.</ab>%} <ab>N.</ab> of
+195299 new <><ls>Pt. 2. 33</ls>. {@--Comp.@} {#--kAraH --kft#} {%<ab>m.</ab>%} <ab>N.</ab> of
+;
+; <L>23306<pc>0872-a<k1>muz<k2>muz
+196319 old <>{#Ganatimiramuzi jyotizi#} <ls>Śi. 4. 67</ls>, Ratn
+196319 new <>{#Ganatimiramuzi jyotizi#} <ls>Śi. 4. 67</ls>,  <lbinfo n="ls:Ratn.+3"/>
+;
+196320 old <>3. 19. {@--3@} (Fig.) To ruin, undo:
+196320 new <><ls>Ratn. 3. 19</ls>. {@--3@} (Fig.) To ruin, undo:
+;
+; <L>23393<pc>0876-a<k1>mfgavyaM<k2>mfgavyaM
+197170 old {#mfgavyaM#}¦ {@1@} The chase, hunting; Ki
+197170 new {#mfgavyaM#}¦ {@1@} The chase, hunting;  <lbinfo n="ls:Ki.+13"/>
+;
+197171 old <>13. 9. {@--2@} A target, butt (in
+197171 new <><ls>Ki. 13. 9</ls>. {@--2@} A target, butt (in
+;
+; <L>23943<pc>0900-c<k1>raMkuH<k2>raMkuH
+202486 old {#raMkuH#}¦ A deer, an antelope; <ab>N.</ab>
+202486 new {#raMkuH#}¦ A deer, an antelope;  <lbinfo n="ls:N.+2"/>
+;
+202487 old <>2. 83.
+202487 new <><ls>N. 2. 83</ls>.
+;
+; <L>23969<pc>0902-a<k1>raMjana<k2>raMjana
+;x 202779 old <>{#rAjA prajAraMjanalabDavarRaH#} <ls>R. 6. 21</ls>;
+;x 202780 old <>{#taTEva so'BUdanvarTo rAjA prakftiraMjanAt#}
+;
+202781 old <>4. 12. {@--4@} Red sandal-wood. {@--5@} The 
+202781 new <><ls n="R.">4. 12</ls>. {@--4@} Red sandal-wood. {@--5@} The 
+;
+; <L>23972<pc>0902-b<k1>raw<k2>raw
+;x 202799 old <><ls>Bk. 15. 27</ls>; {#papAta rAkzaso BUmO rarAwa ca BayaMkaraM#}
+;
+202800 old <>14. 81. {@--2@} To call out, proclaim
+202800 new <><ls n="Bk.">14. 81</ls>. {@--2@} To call out, proclaim
+;
+; <L>24209<pc>0914-a<k1>ruc<k2>ruc, rucA
+205333 old <>{#calavanBfMgarucastavAlakAn#} <ls>R. 8. 53</ls>; <ls>Ku. 3. 65</ls>; Ś,
+205333 new <>{#calavanBfMgarucastavAlakAn#} <ls>R. 8. 53</ls>; <ls>Ku. 3. 65</ls>;  <lbinfo n="ls:Ś.+1"/>
+;
+205334 old <>1. 16; <ls>Ki. 5. 45.</ls> {@--4@} Liking, <lbinfo n="de+sire"/>
+205334 new <><ls>Ś. 1. 16</ls>; <ls>Ki. 5. 45.</ls> {@--4@} Liking, <lbinfo n="de+sire"/>
+;
+; <L>24511<pc>0926-a<k1>lavaH<k2>lavaH
+;x 207944 old <>{#te#} <ls>R. 13. 20</ls>, <ls n="R.">6. 57</ls>, <ls n="R.">16. 66</ls>; {#aSruº#}
+;
+207945 old <>15. 97; {#amftaº#} <ls>Ki. 5. 44</ls>;  <lbinfo n="BrUkzepala#kzmIlavakrIte"/>
+207945 new <><ls n="R.">15. 97</ls>; {#amftaº#} <ls>Ki. 5. 44</ls>;  <lbinfo n="BrUkzepala#kzmIlavakrIte"/>
+;
+; <L>24947<pc>0941-c<k1>vadAnya<k2>vadAnya
+;x 211467 old <><ls>Bv. 1. 19</ls>; or {#tasmE vadAnyagurave tarave namo'stu#}
+;
+211468 old <>1. 94; <ls>N. 5. 11</ls>; <ls>R. 5. 24.</ls>
+211468 new <><ls n="Bv.">1. 94</ls>; <ls>N. 5. 11</ls>; <ls>R. 5. 24.</ls>
+;
+; <L>24985<pc>0943-b<k1>vanIpakaH<k2>vanIpakaH, vanIyakaH
+211871 old <>mendicant; {#vanIyakAnAM sa hi kalpaBUruhaH#} <ab>N.</ab>
+211871 new <>mendicant; {#vanIyakAnAM sa hi kalpaBUruhaH#}  <lbinfo n="ls:N.+15"/>
+;
+211872 old <>15. 60.
+211872 new <><ls>N. 15. 60</ls>.
+;
+; <L>25034<pc>0944-c<k1>vayas<k2>vayas
+;x 212181 old <><ls>U. 4. 11</ls>; {#navaM vayaH#} <ls>R. 2. 47</ls>; {#paScime vayasi#}
+;
+212182 old <>19. 1; {#na Kalu vayastejaso hetuH#}  <lbinfo n="ls:Bh.+ 2. 38"/>
+212182 new <><ls n="R.">19. 1</ls>; {#na Kalu vayastejaso hetuH#}  <lbinfo n="ls:Bh.+ 2. 38"/>
+;
+; <L>25270<pc>0952-c<k1>vasatiH<k2>vasatiH --tI
+;x 214051 old <>({#vasatiH = rAtriH#} <ls>Malli.</ls>) ‘he halted at
+214052 old <>night’ &c.; {#tisro vasatIruzitvA#} 7. 33;
+214052 new <>night’ &c.; {#tisro vasatIruzitvA#} <ls n="Malli.">7. 33</ls>;
+;
+214053 old <>11. 30. {@--6@} A Jaina monastery.
+214053 new <><ls n="Malli.">11. 30</ls>. {@--6@} A Jaina monastery.
+;
+; <L>25859<pc>0972-b<k1>viwapin<k2>viwapin
+218599 old <>A tree; {#parito dfzwASca viwapinaH sarve#} <ls>Bv.</ls> 
+218599 new <>A tree; {#parito dfzwASca viwapinaH sarve#}  <lbinfo n="ls:Bv.+1"/>
+;
+218601 old <>1. 21, 29. {@--2@} The fig-tree. {@--Comp.@}
+218601 new <><ls>Bv. 1. 21</ls>, <ls n="Bv. 1.">29.</ls> {@--2@} The fig-tree. {@--Comp.@}
+;
+; <L>25869<pc>0972-c<k1>viqaMbanaM<k2>viqaMbanaM --nA
+;x 218658 old <>{#te'nyA purato viqaMbanA#} <ls>Ku. 5. 70</ls>; {#asati#}
+;x 218659 old <>{#tvayi vAruRImadaH pramadAnAmaDunA viqaMbanA#}
+;
+218660 old <>4. 12.
+218660 new <><ls n="Ku.">4. 12</ls>.
+;
+; <L>26080<pc>0979-c<k1>vinI<k2>vinI
+;x 220260 old <>{#pawupawahaDvaniBirvinItanidraH#} <ls>R. 9. 71</ls>; {#vinItaKedaH#}
+;
+220261 old <>13. 35, 46; 15. 48; <ls>Śi. 10. 62</ls>,  <lbinfo n="ls:Ki.+ 7. 30"/>
+220261 new <><ls n="R.">13. 35</ls>, <ls n="R. 13.">46</ls>; <ls n="R.">15. 48</ls>; <ls>Śi. 10. 62</ls>,  <lbinfo n="ls:Ki.+ 7. 30"/>
+;
+; <L>26080<pc>0979-c<k1>vinI<k2>vinI
+220268 old <>{#satvAn#} <ls>R. 2. 8</ls>; <ls n="R.">6. 27</ls>, <ls n="R.">14. 75</ls>; Ki
+220268 new <>{#satvAn#} <ls>R. 2. 8</ls>; <ls n="R.">6. 27</ls>, <ls n="R.">14. 75</ls>;  <lbinfo n="ls:Ki.+2"/>
+;
+220269 old <>2. 41; {#vanagaja iva #} <lbinfo n="tasmAtsoByupAyErvine#yaH"/>
+220269 new <><ls>Ki. 2. 41</ls>; {#vanagaja iva #} <lbinfo n="tasmAtsoByupAyErvine#yaH"/>
+;
+; <L>26125<pc>0981-b<k1>viparyayaH<k2>viparyayaH
+;x 220675 old <>{#SlADya eva paramezWinA tvayA#} <ls>R. 11. 86</ls>;
+;x 220676 old <>{#svaSarIraSarIriRAvapi SrutasaMyogaviparyayO yadA#}
+;
+220677 old <>8. 89; {#naBasaH sPuwatArasya rAtreriva #} <lbinfo n="vipa#ryayaH"/>
+220677 new <><ls n="R.">8. 89</ls>; {#naBasaH sPuwatArasya rAtreriva #} <lbinfo n="vipa#ryayaH"/>
+;
+; <L>26206<pc>0984-a<k1>viBaj<k2>viBaj
+221268 old <>distribute; {#viBajya merurna yadarTisAtkftaH#} <ab>N.</ab>
+221268 new <>distribute; {#viBajya merurna yadarTisAtkftaH#}  <lbinfo n="ls:N.+1"/>
+;
+221269 old <>1. 16; {#patriRAM vyaBajadASramAdbahiH#}  <lbinfo n="ls:R.+ 11. 29"/>
+221269 new <><ls>N. 1. 16</ls>; {#patriRAM vyaBajadASramAdbahiH#}  <lbinfo n="ls:R.+ 11. 29"/>
+;
+; <L>26357<pc>0988-c<k1>viriMciH<k2>viriMciH
+222389 old {#viriMciH#}¦ {@1@} <ab>N.</ab> of Brahman; Vikr
+222389 new {#viriMciH#}¦ {@1@} <ab>N.</ab> of Brahman;  <lbinfo n="ls:Vikr.+1"/>
+;
+222390 old <>1. 46; <ls>N. 3. 44</ls>; <ls>Śi. 9. 9.</ls> {@--2@} Of
+222390 new <><ls>Vikr. 1. 46</ls>; <ls>N. 3. 44</ls>; <ls>Śi. 9. 9.</ls> {@--2@} Of
+;
+; <L>26621<pc>0998-c<k1>vizayaH<k2>vizayaH
+224640 old <><ls>V. 1. 9</ls>; {#nirvizwavizayasnehaH#} 12. 1, 3. 70,
+224640 new <><ls>V. 1. 9</ls>; {#nirvizwavizayasnehaH#} <ls n="V.">12. 1</ls>, <ls n="V.">3. 70</ls>,
+;
+224641 old <>8. 10, 19. 49; <ls>Bg. 2. 59.</ls> {@--4@} An
+224641 new <><ls n="V.">8. 10</ls>, <ls n="V.">19. 49</ls>; <ls>Bg. 2. 59.</ls> {@--4@} An
+;
+; <L>26629<pc>0999-b<k1>vizARaH<k2>vizARaH --RaM, --RI
+;x 224741 old <>{#sAkzAtpaSuH pucCavizARahInaH#} <ls>Bh. 2. 12</ls>;
+;x 224742 old <>{#kadAcidapi paryawaY SaSavizARamAsAdayet#}
+;
+224743 old <>2. 5. {@--2@} The tusk of an elephant
+224743 new <><ls n="Bh.">2. 5</ls>. {@--2@} The tusk of an elephant
+;
+; <L>26755<pc>1002-c<k1>vihas<k2>vihas
+225570 old <>gently; {#kiMcidvihasyArTapatiM baBAze#} R
+225570 new <>gently; {#kiMcidvihasyArTapatiM baBAze#}  <lbinfo n="ls:R.+2"/>
+;
+225571 old <>2. 46. {@--2@} To laugh at, deride, <lbinfo n="ridi+cule"/>
+225571 new <><ls>R. 2. 46</ls>. {@--2@} To laugh at, deride, <lbinfo n="ridi+cule"/>
+;
+; <L>26770<pc>1003-a<k1>vihAraH<k2>vihAraH
+225675 old <>{#nAgEH#} P. 16. 26, 67; 5. 41; 9. 68, 
+225675 new <>{#nAgEH#} <ls>R. 16. 26</ls>, <ls n="R. 16.">67</ls>; <ls n="R.">5. 41</ls>; <ls n="R.">9. 68</ls>, 
+;
+225677 old <>13. 38, 19. 37. {@--4@} Tread, <lbinfo n="step+ping"/>
+225677 new <><ls n="R.">13. 38</ls>, <ls n="R.">19. 37</ls>. {@--4@} Tread, <lbinfo n="step+ping"/>
+;
+; <L>26857<pc>1007-a<k1>vfD<k2>vfD
+226555 old <>{#anyonyajayasaMraMBo vavfDe vAdinoriva#} R
+226555 new <>{#anyonyajayasaMraMBo vavfDe vAdinoriva#}  <lbinfo n="ls:R.+12"/>
+;
+226556 old <>12. 92, 10. 78; {#Danakzaye varDati #} <lbinfo n="jAWarA#gniH"/>
+226556 new <><ls>R. 12. 92</ls>, <ls n="R.">10. 78</ls>; {#Danakzaye varDati #} <lbinfo n="jAWarA#gniH"/>
+;
+; <L>26880<pc>1008-b<k1>vfzan<k2>vfzan
+226822 old <>Indra; {#vfzeva sItAM tadavagrahakzatAM#} <ls>Ku.</ls> 
+226822 new <>Indra; {#vfzeva sItAM tadavagrahakzatAM#}  <lbinfo n="ls:Ku.+5"/>
+;
+226824 old <>5. 61, 80; <ls>R. 10. 52</ls>, <ls n="R.">17. 77.</ls> {@--8@} <ab>N.</ab>
+226824 new <><ls>Ku. 5. 61</ls>, <ls n="Ku. 5.">80</ls>; <ls>R. 10. 52</ls>, <ls n="R.">17. 77.</ls> {@--8@} <ab>N.</ab>
+;
+; <L>26994<pc>1012-a<k1>vezwanaM<k2>vezwanaM
+;x 227690 old <>{#aspfzwAlakavezwanO#} <ls>R. 1. 42</ls>; {#SirasA vezwana SoBinA#}
+;
+227691 old <>8. 12. {@--5@} An enclosure, a fence;
+227691 new <><ls n="R.">8. 12</ls>. {@--5@} An enclosure, a fence;
+;
+; <L>27197<pc>1016-c<k1>vyaMjanaM<k2>vyaMjanaM
+228887 old <>condiment, sauce, a seasoned article; <ab>N.</ab>
+228887 new <>condiment, sauce, a seasoned article;  <lbinfo n="ls:N.+16"/>
+;
+228888 old <>16. 104. ({%b%}) An article used in
+228888 new <><ls>N. 16. 104</ls>. ({%b%}) An article used in
+;
+; <L>27474<pc>1026-b<k1>vratin<k2>vratin
+231070 old <>practising penance, devout, pious; Pt
+231070 new <>practising penance, devout, pious;  <lbinfo n="ls:Pt.+1"/>
+;
+231071 old <>1. 416. {%--<ab>m.</ab>%} {@1@} A religious student.
+231071 new <><ls>Pt. 1. 416</ls>. {%--<ab>m.</ab>%} {@1@} A religious student.
+;
+; <L>27500<pc>1027-c<k1>SaMs<k2>SaMs
+;x 231236 old <>{#SAsanamagrajAya#} <ls>R. 14. 83</ls>; {#na me hriyA#}
+231237 old <>{#SaMsati kiMcidIpsitaM#} 3. 5, 2. 68, 4. 72,
+231237 new <>{#SaMsati kiMcidIpsitaM#} <ls n="R.">3. 5</ls>, <ls n="R.">2. 68</ls>, <ls n="R.">4. 72</ls>,
+;
+231238 old <>9. 77, 11. 84; <ls>Ku. 3. 60</ls>, <ls n="Ku.">5. 51.</ls>
+231238 new <><ls n="R.">9. 77</ls>, <ls n="R.">11. 84</ls>; <ls>Ku. 3. 60</ls>, <ls n="Ku.">5. 51.</ls>
+;
+; <L>27712<pc>1037-a<k1>SalyaM<k2>SalyaM
+;x 233346 old <>{#niKAtamudahArayatAmurastaH#} <ls>R. 9. 78</ls>; {#SalyaprotaM#}
+;
+233347 old <>9. 75; {#avagacCati mUQacetanaH priyanASaM#}
+233347 new <><ls n="R.">9. 75</ls>; {#avagacCati mUQacetanaH priyanASaM#}
+;
+; <L>27796<pc>1039-c<k1>SAtakuMBaM<k2>SAtakuMBaM
+233964 old {#SAtakuMBaM#}¦ {@1@} Gold; <ls>Śi. 9. 9</ls>; <ab>N.</ab>
+233964 new {#SAtakuMBaM#}¦ {@1@} Gold; <ls>Śi. 9. 9</ls>;  <lbinfo n="ls:N.+16"/>
+;
+233965 old <>16. 34. {@--2@} The thorn-apple ({#DattUra#}).
+233965 new <><ls>N. 16. 34</ls>. {@--2@} The thorn-apple ({#DattUra#}).
+;
+; <L>27810<pc>1040-a<k1>SAMta<k2>SAMta
+234046 old <>extinguished; {#SAMtaraTakzoBapariSramaM#} R,
+234046 new <>extinguished; {#SAMtaraTakzoBapariSramaM#}  <lbinfo n="ls:R.+1"/>
+;
+234047 old <>1. 58; 5. 47; {#SAMtArcizaM dIpamiva #} <lbinfo n="pra#kASaH"/>
+234047 new <><ls>R. 1. 58</ls>; <ls n="R.">5. 47</ls>; {#SAMtArcizaM dIpamiva #} <lbinfo n="pra#kASaH"/>
+;
+; <L>27983<pc>1045-c<k1>SirIzaH<k2>SirIzaH
+;x 235364 old <>{#tadIyAviti me vitarkaH#} <ls>Ku. 1. 41</ls>; so {#padaM saheta#}
+;x 235365 old <>{#Bramarasya pelavaM SirIzapuzpaM na punaH patAtriRaH#}
+;
+235366 old <>5. 4, <ls>R. 16. 48</ls>; <ls>Me. 65.</ls>
+235366 new <><ls n="Ku.">5. 4</ls>, <ls>R. 16. 48</ls>; <ls>Me. 65.</ls>
+;
+; <L>28206<pc>1054-b<k1>SevaH<k2>SevaH
+237318 old {#SevaH#}¦ [{#SukrapAte sati Sete, SI-van#} Uṇ
+237318 new {#SevaH#}¦ [{#SukrapAte sati Sete, SI-van#}  <lbinfo n="ls:Uṇ.+1"/>
+;
+237319 old <>1. 152, 154] {@1@} The penis. {@--2@} A
+237319 new <><ls>Uṇ. 1. 152</ls>, <ls n="Uṇ. 1.">154</ls>] {@1@} The penis. {@--2@} A
+; 
+; <L>28403<pc>1060-c<k1>Sruta<k2>Sruta
+238808 old <>{#SrotraM SrutenEva na kuMqalena (viBAti)#} <ls>Bh.</ls> 
+238808 new <>{#SrotraM SrutenEva na kuMqalena (viBAti)#}  <lbinfo n="ls:Bh.+2"/>
+;
+238810 old <>2. 71, <ls>R. 3. 21</ls>, <ls n="R.">5. 22</ls>; <ls>Pt. 2. 147</ls>;
+238810 new <><ls>Bh. 2. 71</ls>, <ls>R. 3. 21</ls>, <ls n="R.">5. 22</ls>; <ls>Pt. 2. 147</ls>;
+;
+; <L>29217<pc>1090-a<k1>saMnah<k2>saMnah
+245352 old <>{#samanAtsIttato sEnyaM#} <ls>Bk. 15. 111</ls>, <ls n="Bk. 15.">112</ls>; <ls n="Bk. 15.">14.</ls> 7;
+245352 new <>{#samanAtsIttato sEnyaM#} <ls>Bk. 15. 111</ls>, <ls n="Bk. 15.">112</ls>; <ls n="Bk.">14. 7</ls>;
+;
+245353 old <>16. 4. {@--4@} To make oneself ready,
+245353 new <><ls n="Bk.">16. 4</ls>. {@--4@} To make oneself ready,
+;
+; <L>29295<pc>1093-a<k1>sama<k2>sama
+;x 246040 old <>{#ca tvadviprayogASru samaM visfzwaM#} <ls>R. 13. 26.</ls>
+;
+246041 old <>4. 4; 10. 59; 14. 1. {@--Comp.@}
+246041 new <><ls n="R.">4. 4</ls>; <ls n="R.">10. 59</ls>; <ls n="R.">14. 1.</ls> {@--Comp.@}
+;
+; <L>29436<pc>1098-a<k1>samAviS<k2>samAviS
+247149 old {#samAviS#}¦ 6 <ab>P.</ab> {@1@} To enter; Bk;
+247149 new {#samAviS#}¦ 6 <ab>P.</ab> {@1@} To enter;  <lbinfo n="ls:Bk.+8"/>
+;
+247150 old <>8. 27. {@--2@} To go to, approach. {@--3@}
+247150 new <><ls>Bk.8. 27</ls>. {@--2@} To go to, approach. {@--3@}
+;
+; <L>29889<pc>1110-a<k1>savarRa<k2>savarRa
+250146 old <>pronunciation; {#tulyAsyaprayatnaM savarRaM#} P. I.
+250146 new <>pronunciation; {#tulyAsyaprayatnaM savarRaM#}  <lbinfo n="ls:P. I.+1"/>
+;
+250147 old <>1. 9.
+250147 new <><ls>P. I. 1. 9</ls>.
+;
+; <L>30411<pc>1133-a<k1>suzuptiH<k2>suzuptiH
+;x 255102 old <>{#saMsAriRo jIvAH#} <ls>S. B.</ls> on <ls>Br. Sūt. 1.</ls>
+;
+255103 old <>4. 3.
+255103 new <><ls n="Br. Sūt.">4.</ls> <ls n="Br. Sūt.">3</ls>.
+;
+; <L>30529<pc>1137-b<k1>setuH<k2>setuH
+256083 old <><ls>R. 13. 2</ls>; {#sEnyErbadDadviradasetuBiH#} 4. 38,
+256083 new <><ls>R. 13. 2</ls>; {#sEnyErbadDadviradasetuBiH#} <ls n="R.">4. 38</ls>,
+;
+256084 old <>12. 70; <ls>Ku. 7. 53.</ls> {@--3@} A land-mark;
+256084 new <><ls n="R.">12. 70</ls>; <ls>Ku. 7. 53.</ls> {@--3@} A land-mark;
+;
+; <L>30559<pc>1138-b<k1>sEkata<k2>sEkata
+;x 256332 old <><ls n="R.">5. 8</ls>; <ls n="R.">10. 62</ls>, <ls n="R.">13. 17</ls>, <ls n="R. 13.">62</ls>; <ls n="R.">14. 76</ls>;
+;
+256333 old <>16. 21; <ls>Ku. 1. 29</ls>; <ls>Ś. 6. 16.</ls> {@--2@} An
+256333 new <><ls n="R.">16. 21</ls>; <ls>Ku. 1. 29</ls>; <ls>Ś. 6. 16.</ls> {@--2@} An
+;
+; <L>30673<pc>1142-a<k1>sOraByaM<k2>sOraByaM
+257162 old <>scent; {#sOraByaM Buvanatraye'pi viditaM#} Bv
+257162 new <>scent; {#sOraByaM Buvanatraye'pi viditaM#}  <lbinfo n="ls:Bv.+1"/>
+;
+257163 old <>1. 38; {#punAnA sOraByEH#} G. <ab>L.</ab> 43,  <lbinfo n="ls:R.+ 5. 69."/>
+257163 new <><ls>Bv. 1. 38</ls>; {#punAnA sOraByEH#} G. <ab>L.</ab> 43,  <lbinfo n="ls:R.+ 5. 69."/>
+;
+; <L>30968<pc>1153-b<k1>spfhayAlu<k2>spfhayAlu
+259754 old <><ls>Bh. 3. 64</ls>; {#tapovanezu spfhayAlureva#} R
+259754 new <><ls>Bh. 3. 64</ls>; {#tapovanezu spfhayAlureva#}  <lbinfo n="ls:R.+14"/>
+;
+259755 old <>14. 45.
+259755 new <><ls>R. 14. 45</ls>.
+;
+; <L>31121<pc>1158-b<k1>sva<k2>sva
+;x 260876 old <>{#kuru#} <ls>Ś. 2</ls>; {#prajAH prajAH svA iva taMtrayitvA#}
+;
+260877 old <>5. 5; <ab>oft.</ab> in <ab>comp.</ab> in this sense;
+260877 new <><ls n="Ś.">5. 5</ls>; <ab>oft.</ab> in <ab>comp.</ab> in this sense;
+;
+; <L>31607<pc>1177-c<k1>hrI<k2>hrI
+265121 old <>{#kiM punaH sahavAsinAM#} <ls>Ki. 11. 58</ls>; R,
+265121 new <>{#kiM punaH sahavAsinAM#} <ls>Ki. 11. 58</ls>;  <lbinfo n="ls:R.+15"/>
+;
+265122 old <>15. 44; 17. 73; <ls>Bk. 3. 53</ls>; <ls n="Bk. 3.">5.</ls>
+265122 new <><ls>R. 15. 44</ls>; <ls n="R.">17. 73</ls>; <ls>Bk. 3. 53</ls>; <ls n="Bk. 3.">5.</ls>
+;
+; <L>31611<pc>1177-c<k1>hrIRa<k2>hrIRa, hrIta
+265154 old <><ls>Ve. 2. 11.</ls> {@--2@} Bashful, modest; <ab>N.</ab>
+265154 new <><ls>Ve. 2. 11.</ls> {@--2@} Bashful, modest;  <lbinfo n="ls:N.+3"/>
+;
+265155 old <>3. 67.
+265155 new <><ls>N. 3. 67</ls>.
+;

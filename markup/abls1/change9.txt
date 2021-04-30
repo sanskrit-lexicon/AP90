@@ -1,0 +1,558 @@
+; <L>1108<pc>0053-b<k1>aDyAs<k2>aDyAs
+12472 old <><ls>R. 2. 17</ls>; <ls n="R.">4. 74</ls>; <ls n="R.">6. 10</ls>; <ls n="R.">12. 85</ls>; <ls n="R.">13. 22</ls>, 76;
+12472 new <><ls>R. 2. 17</ls>; <ls n="R.">4. 74</ls>; <ls n="R.">6. 10</ls>; <ls n="R.">12. 85</ls>; <ls n="R.">13. 22</ls>, <ls n="R. 13.">76</ls>;
+;
+; <L>3124<pc>0131-a<k1>aBinaMd<k2>aBinaMd
+29893 old <><ls>R. 2. 74</ls>, <ls n="R.">3. 68</ls>, <ls n="R.">7. 69</ls>, 71; 11.
+29893 new <><ls>R. 2. 74</ls>, <ls n="R.">3. 68</ls>, <ls n="R.">7. 69</ls>, <ls n="R. 7.">71</ls>;  <lbinfo n="ls:11.+30"/>
+;
+29894 old <>30; 16. 64; 17. 15, 60; <ls>Y. 1. 332.</ls>
+29894 new <><ls n="R.">30</ls>; <ls n="R.">16. 64</ls>; <ls n="R.">17. 15</ls>, <ls n="R. 17.">60</ls>; <ls>Y. 1. 332.</ls>
+;
+; <L>3865<pc>0153-a<k1>ameDya<k2>ameDya
+35137 old <><ls>Ms. 9. 282</ls>; <ls n="Ms.">5. 126</ls>, 128; 12. 71. {@--2@} An
+35137 new <><ls>Ms. 9. 282</ls>; <ls n="Ms.">5. 126</ls>, <ls n="Ms. 5.">128</ls>; <ls n="Ms.">12. 71.</ls> {@--2@} An
+;
+; <L>4130<pc>0164-b<k1>arc<k2>arc
+37604 old <>respect; <ls>R. 2. 21</ls>, <ls n="R.">1. 6</ls>, 90; 4. 84,
+37604 new <>respect; <ls>R. 2. 21</ls>, <ls n="R.">1. 6</ls>, <ls n="R. 1.">90</ls>; <ls n="R.">4. 84</ls>,
+;
+37605 old <>12. 89; <ls>Ms. 3. 93</ls>; {#ArcId #} <lbinfo n="dvijAtI#n"/>
+37605 new <><ls n="R.">12. 89</ls>; <ls>Ms. 3. 93</ls>; {#ArcId #} <lbinfo n="dvijAtI#n"/>
+;
+; <L>4130<pc>0164-b<k1>arc<k2>arc
+37606 old <>{#dvijAtIn paramArTaviMdAn#} <ls>Bk. 1. 15</ls>, <ls n="Bk.">14. 63</ls>; 17.
+37606 new <>{#dvijAtIn paramArTaviMdAn#} <ls>Bk. 1. 15</ls>, <ls n="Bk.">14. 63</ls>;  <lbinfo n="ls:17.+5"/>
+;
+37607 old <>5; {#yasyArcatyasO SAsanaM#} <ls>Mv. 1. 29</ls> <lbinfo n="hon+ours"/>
+37607 new <><ls n="Bk.">17. 5</ls>; {#yasyArcatyasO SAsanaM#} <ls>Mv. 1. 29</ls> <lbinfo n="hon+ours"/>
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38202 old <>{#kiMcidvihasyArTapatiM baBAze#} <ls>R. 2. 46</ls>; <ls n="R.">1. 59</ls>; <ls n="R.">9. 3</ls>; 18.
+38202 new <>{#kiMcidvihasyArTapatiM baBAze#} <ls>R. 2. 46</ls>; <ls n="R.">1. 59</ls>; <ls n="R.">9. 3</ls>;  <lbinfo n="ls:18.+1"/>
+;
+38203 old <>1; <ls>Pt. 1. 74.</ls> --2. an epithet of
+38203 new <><ls n="R.">18. 1</ls>; <ls>Pt. 1. 74.</ls> --2. an epithet of
+;
+; <L>4220<pc>0171-a<k1>arh<k2>arh
+38974 old <>{#tallabDumarhati#} <ls>Ms. 8. 147</ls>; <ls n="Ms.">11. 7</ls>, 18. {@--3@} To
+38974 new <>{#tallabDumarhati#} <ls>Ms. 8. 147</ls>; <ls n="Ms.">11. 7</ls>, <ls n="Ms. 11.">18.</ls> {@--3@} To
+;
+; <L>4685<pc>0185-a<k1>avaman<k2>avaman
+42317 old <><ls>Bk. 8. 81</ls>; <ls n="Bk.">12. 25</ls>; <ls n="Bk.">15. 14</ls>, 66.
+42317 new <><ls>Bk. 8. 81</ls>; <ls n="Bk.">12. 25</ls>; <ls n="Bk.">15. 14</ls>, <ls n="Bk. 15.">66.</ls>
+;
+; <L>5215<pc>0199-c<k1>aS<k2>aS
+45909 old <><ls>R. 9. 9</ls>; {#na vedaPalamaSnute#} <ls>Ms. 1. 109</ls>; <ls n="Ms.">4. 149</ls>; 5.
+45909 new <><ls>R. 9. 9</ls>; {#na vedaPalamaSnute#} <ls>Ms. 1. 109</ls>; <ls n="Ms.">4. 149</ls>;  <lbinfo n="ls:5.+46"/>
+;
+45910 old <>46; {#arTajYa itsakalaM BadramaSnute#} <ls>Nir.</ls>; {#PalaM#} 
+45910 new <><ls n="Ms.">5. 46</ls>; {#arTajYa itsakalaM BadramaSnute#} <ls>Nir.</ls>; {#PalaM#}
+;
+; <L>6203<pc>0238-c<k1>ADA<k2>ADA
+54656 old <><ls>Ś. 3. 27</ls>; <ls>Ki. 4. 12</ls>, <ls n="Ki.">6. 19</ls>, <ls n="Ki.">8. 46</ls>, 57;
+54656 new <><ls>Ś. 3. 27</ls>; <ls>Ki. 4. 12</ls>, <ls n="Ki.">6. 19</ls>, <ls n="Ki.">8. 46</ls>, <ls n="Ki. 8.">57</ls>;
+;
+; <L>6736<pc>0254-b<k1>AravaH<k2>Ara(rA)vaH
+58382 old <><ls>Rām.</ls> {@--2@} Sound; <ls>Śi. 11. 8</ls>, <ls n="Śi.">12. 18</ls>, 8.
+58382 new <><ls>Rām.</ls> {@--2@} Sound; <ls>Śi. 11. 8</ls>, <ls n="Śi.">12. 18</ls>,  <lbinfo n="ls:8.+45"/>
+;
+58383 old <>45. {@--3@} <ab>N.</ab> of a people.
+58383 new <><ls n="Śi.">8. 45</ls>. {@--3@} <ab>N.</ab> of a people.
+;
+; <L>6784<pc>0256-a<k1>Arta<k2>Arta
+58739 old <><ls>Ś. 1. 11</ls>, <ls>R. 2. 28</ls>, <ls n="R.">8. 31</ls>, <ls n="R.">12. 10</ls>, 32.
+58739 new <><ls>Ś. 1. 11</ls>, <ls>R. 2. 28</ls>, <ls n="R.">8. 31</ls>, <ls n="R.">12. 10</ls>, <ls n="R. 12.">32.</ls>
+;
+; <L>6847<pc>0258-c<k1>AlAnaM<k2>AlAnaM
+59327 old <>{#daMtinaH#} <ls>R. 1. 71</ls>, <ls n="R.">4. 69</ls>, 81; {#AlAne gfhyate#}
+59327 new <>{#daMtinaH#} <ls>R. 1. 71</ls>, <ls n="R.">4. 69</ls>, <ls n="R. 4.">81</ls>; {#AlAne gfhyate#}
+;
+; <L>6976<pc>0262-a<k1>Avfj<k2>Avfj
+60169 old <><ls>R. 16. 19</ls>; <ls n="R.">13. 17</ls>, 24; <ls>Mv. 5. 63</ls>;
+60169 new <><ls>R. 16. 19</ls>; <ls n="R.">13. 17</ls>, <ls n="R. 13.">24</ls>; <ls>Mv. 5. 63</ls>;
+;
+; <L>6976<pc>0262-a<k1>Avfj<k2>Avfj
+60170 old <><ls>K. 14</ls>, <ls n="K.">58</ls>; <ls>Ku. 2. 26</ls>, <ls n="Ku.">3. 54</ls>; 7.
+60170 new <><ls>K. 14</ls>, <ls n="K.">58</ls>; <ls>Ku. 2. 26</ls>, <ls n="Ku.">3. 54</ls>;  <lbinfo n="ls:7.+54"/>
+;
+60171 old <>54; <ls>Me. 46.</ls> {@--2@} To subdue, win or
+60171 new <><ls n="Ku.">7. 54</ls>; <ls>Me. 46.</ls> {@--2@} To subdue, win or
+;
+; <L>7196<pc>0270-b<k1>AspadaM<k2>AspadaM
+62041 old <>{#BUtapaterviveSa#} <ls>Ku. 3. 43</ls>, <ls n="Ku.">5. 10</ls>, 48, 69;
+62041 new <>{#BUtapaterviveSa#} <ls>Ku. 3. 43</ls>, <ls n="Ku.">5. 10</ls>, <ls n="Ku. 5.">48</ls>, <ls n="Ku. 5.">69</ls>;
+;
+; <L>7249<pc>0272-a<k1>Ahf<k2>Ahf
+62425 old <>receive; <ls>Ms. 2. 183</ls>, <ls n="Ms.">6. 27</ls>, <ls n="Ms.">7. 80</ls>, 8.
+62425 new <>receive; <ls>Ms. 2. 183</ls>, <ls n="Ms.">6. 27</ls>, <ls n="Ms.">7. 80</ls>,  <lbinfo n="ls:8.+151"/>
+;
+62426 old <>151, 11. 12; <ls>Y. 1. 97.</ls> {@--5@} To have,
+62426 new <><ls n="Ms.">8. 151</ls>, <ls n="Ms.">11. 12</ls>; <ls>Y. 1. 97.</ls> {@--5@} To have,
+;
+; <L>7546<pc>0284-c<k1>Ihita<k2>Ihita
+65182 old <>{#PalEH#} <ls>Ki. 1. 20</ls>, <ls n="Ki.">8. 46</ls>, <ls n="Ki.">11. 43</ls>, 18.
+65182 new <>{#PalEH#} <ls>Ki. 1. 20</ls>, <ls n="Ki.">8. 46</ls>, <ls n="Ki.">11. 43</ls>,  <lbinfo n="ls:18.+31"/>
+;
+65183 old <>31; <ls>Śi. 9. 62.</ls> 
+65183 new <><ls n="Ki.">18. 31</ls>; <ls>Śi. 9. 62.</ls> 
+;
+; <L>7575<pc>0286-a<k1>ucita<k2>ucita
+65467 old <><ls>R. 1. 50</ls>, <ls n="R.">2. 25</ls>; <ls n="R.">3. 54</ls>, 60; 11. 9;  <lbinfo n="caMda#nocitaH"/>
+65467 new <><ls>R. 1. 50</ls>, <ls n="R.">2. 25</ls>; <ls n="R.">3. 54</ls>, <ls n="R. 3.">60</ls>; <ls n="R.">11. 9</ls>;  <lbinfo n="caMda#nocitaH"/>
+;
+; <L>8000<pc>0301-a<k1>udagra<k2>udagra  START HERE
+68875 old <>{#maMgalodagratarapraBAvaH#} <ls>R. 2. 71</ls>, <ls n="R.">9. 64</ls>, 13.
+68875 new <>{#maMgalodagratarapraBAvaH#} <ls>R. 2. 71</ls>, <ls n="R.">9. 64</ls>,  <lbinfo n="ls:13.+50"/>
+;
+68876 old <>50. {@--7@} Intense, unbearable (as heat);
+68876 new <><ls n="R.">13. 50.</ls> {@--7@} Intense, unbearable (as heat);
+;
+; <L>8377<pc>0314-a<k1>unmada<k2>unmada
+71817 old <><ls>Śi. 10. 4</ls>, <ls n="Śi.">12. 44</ls>, 77; 16. 59. {@--3@} <lbinfo n="Caus+ing"/>
+71817 new <><ls>Śi. 10. 4</ls>, <ls n="Śi.">12. 44</ls>, <ls n="Śi. 12.">77</ls>; <ls n="Śi.">16. 59.</ls> {@--3@} <lbinfo n="Caus+ing"/>
+;
+; <L>8691<pc>0324-c<k1>upapatiH<k2>upapatiH
+74248 old <><ls>Ms. 3. 155</ls>; <ls n="Ms.">4. 216</ls>, 217.
+74248 new <><ls>Ms. 3. 155</ls>; <ls n="Ms.">4. 216</ls>, <ls n="Ms. 4.">217.</ls>
+;
+; <L>9051<pc>0335-b<k1>upahf<k2>upahf
+76799 old <><ls>Mv. 6. 22</ls>; <ls>K. 40</ls>, <ls n="K.">65</ls>; <ls>R. 14. 19</ls>, <ls n="R.">16. 86</ls>, 19.
+76799 new <><ls>Mv. 6. 22</ls>; <ls>K. 40</ls>, <ls n="K.">65</ls>; <ls>R. 14. 19</ls>, <ls n="R.">16. 86</ls>,  <lbinfo n="ls:19+12"/>
+;
+76800 old <>12; {#upahara pAdaM#} <ls>M. 3</ls> give. {@--3@} To serve
+76800 new <><ls n="R.">19. 12</ls>; {#upahara pAdaM#} <ls>M. 3</ls> give. {@--3@} To serve
+;
+; <L>9190<pc>0340-b<k1>uragaH<k2>uragaH,
+77872 old <>{#aMgulIvoragakzatA#} <ls>R. 1. 28</ls>, <ls n="R.">12. 5</ls>, 91. {@--2@} A
+77872 new <>{#aMgulIvoragakzatA#} <ls>R. 1. 28</ls>, <ls n="R.">12. 5</ls>, <ls n="R. 12.">91.</ls> {@--2@} A
+;
+; <L>9220<pc>0341-b<k1>urvI<k2>urvI
+78098 old <>{#gorUpaDarAmivorvIM#} <ls>R. 2. 3</ls>, <ls n="R.">1. 14</ls>, 30, 75,
+78098 new <>{#gorUpaDarAmivorvIM#} <ls>R. 2. 3</ls>, <ls n="R.">1. 14</ls>, <ls n="R. 1.">30</ls>, <ls n="R. 1.">75</ls>,
+;
+78099 old <>2. 66; <ls>Me. 21.</ls> {@--2@} Land, soil. {@--3@} The
+78099 new <><ls n="R.">2. 66</ls>; <ls>Me. 21.</ls> {@--2@} Land, soil. {@--3@} The
+;
+; <L>9457<pc>0348-c<k1>fta<k2>fta
+79826 old <><ls>Ms. 1. 29</ls>, <ls n="Ms.">2. 52</ls>, <ls n="Ms.">8. 61</ls>, 104. {@--7@}
+79826 new <><ls>Ms. 1. 29</ls>, <ls n="Ms.">2. 52</ls>, <ls n="Ms.">8. 61</ls>, <ls n="Ms. 8.">104.</ls> {@--7@}
+;
+; <L>10229<pc>0376-a<k1>kaMdukaH<k2>kaMdukaH, --kaM
+85854 old <>{#kaMdukaH#} <ls>Bh. 2. 83</ls>; <ls>Ku. 1. 29</ls>, <ls n="Ku.">5. 11</ls>, 19;
+85854 new <>{#kaMdukaH#} <ls>Bh. 2. 83</ls>; <ls>Ku. 1. 29</ls>, <ls n="Ku.">5. 11</ls>, <ls n="Ku. 5.">19</ls>;
+;
+; <L>10379<pc>0381-c<k1>karkaSa<k2>karkaSa
+87090 old <>{#suradvipAsPAlanakarkaSAM gulO#} <ls>R. 3. 55</ls>, <ls n="R.">12. 41</ls>, 13.
+87090 new <>{#suradvipAsPAlanakarkaSAM gulO#} <ls>R. 3. 55</ls>, <ls n="R.">12. 41</ls>,  <lbinfo n="ls:13.+73"/>
+;
+87091 old <>73; {#ErAvatAsPAlanakarkaSena hastena pasparSa#}
+87091 new <><ls n="R.">13. 73</ls>; {#ErAvatAsPAlanakarkaSena hastena pasparSa#}
+;
+; <L>10379<pc>0381-c<k1>karkaSa<k2>karkaSa
+87093 old <><ls>Śi. 15. 10</ls>, <ls n="Śi.">16. 18</ls>, 63. {@--2@} Harsh, cruel,
+87093 new <><ls>Śi. 15. 10</ls>, <ls n="Śi.">16. 18</ls>, <ls n="Śi. 16.">63.</ls> {@--2@} Harsh, cruel,
+;
+; <L>10472<pc>0386-a<k1>kalaBaH<k2>kalaBaH
+88064 old <>{#kalaBaH Srayanniva#} <ls>R. 3. 32</ls>; <ls n="R.">11. 39</ls>; 18.
+88064 new <>{#kalaBaH Srayanniva#} <ls>R. 3. 32</ls>; <ls n="R.">11. 39</ls>;  <lbinfo n="ls:18.+38."/>
+;
+88065 old <>38. {@--2@} An elephant 30 years old.
+88065 new <><ls n="R.">18. 38.</ls> {@--2@} An elephant 30 years old.
+;
+; <L>10527<pc>0388-c<k1>kalmaza<k2>kalmaza
+88579 old <><ls>Ms. 4. 260</ls>, <ls n="Ms.">12. 18</ls>, 22. {#--zaH#} Hell.
+88579 new <><ls>Ms. 4. 260</ls>, <ls n="Ms.">12. 18</ls>, <ls n="Ms. 12.">22.</ls> {#--zaH#} Hell.
+;
+; <L>10623<pc>0391-c<k1>kAkutsTaH<k2>kAkutsTaH
+89278 old <><ls>R. 6. 2</ls>; <ls n="R.">12. 30</ls>, 46; see {#kakutsTa#}.
+89278 new <><ls>R. 6. 2</ls>; <ls n="R.">12. 30</ls>, <ls n="R. 12.">46</ls>; see {#kakutsTa#}.
+;
+; <L>11106<pc>0409-a<k1>kutUhala<k2>kutUhala
+93212 old <>{#kutUhaleneva manuzyaSoRitam#} <ls>R. 3. 54</ls>; <ls n="R.">13. 21</ls>; 15.
+93212 new <>{#kutUhaleneva manuzyaSoRitam#} <ls>R. 3. 54</ls>; <ls n="R.">13. 21</ls>;  <lbinfo n="ls:15.+65"/>
+;
+93213 old <>65. {@--2@} Eagerness. {@--3@} What excites
+93213 new <><ls n="R.">15. 65.</ls> {@--2@} Eagerness. {@--3@} What excites
+;
+; <L>11267<pc>0413-c<k1>kuSaH<k2>kuSaH
+94357 old <>{#vizwaraM#} <ls>R. 8. 18</ls>, <ls n="R.">1. 49</ls>, 95. {@--2@} <ab>N.</ab> of the
+94357 new <>{#vizwaraM#} <ls>R. 8. 18</ls>, <ls n="R.">1. 49</ls>, <ls n="R. 1.">95.</ls> {@--2@} <ab>N.</ab> of the
+;
+; <L>11320<pc>0415-b<k1>kU<k2>kU
+94735 old <>{#KagAScukuvire'SuBaM#} <ls>Bk. 14. 20</ls>; <ls n="Bk.">1. 20</ls>; 14.
+94735 new <>{#KagAScukuvire'SuBaM#} <ls>Bk. 14. 20</ls>; <ls n="Bk.">1. 20</ls>;  <lbinfo n="ls:14.+5"/>
+;
+94736 old <>5; 15. 26; 16. 29.
+94736 new <><ls n="Bk.">14. 5</ls>; <ls n="Bk.">15. 26</ls>; <ls n="Bk.">16. 29.</ls>
+;
+; <L>11391<pc>0419-c<k1>kfcCra<k2>kfcCra
+95612 old <>expiation; <ls>Ms. 4. 222</ls>; <ls n="Ms.">5. 21</ls>; 11.
+95612 new <>expiation; <ls>Ms. 4. 222</ls>; <ls n="Ms.">5. 21</ls>;  <lbinfo n="ls:11.+106"/>
+;
+95613 old <>106. {@--3@} Torment, torture. {@--4@} A <lbinfo n="par+ticular"/>
+95613 new <><ls n="Ms.">11. 106.</ls> {@--3@} Torment, torture. {@--4@} A <lbinfo n="par+ticular"/>
+;
+; <L>11454<pc>0422-b<k1>kxp<k2>kxp
+96190 old <>{#kalpizyate hareH prItiH#} <ls>Bk. 16. 12</ls>; <ls n="Bk.">9. 44</ls>, 45.
+96190 new <>{#kalpizyate hareH prItiH#} <ls>Bk. 16. 12</ls>; <ls n="Bk.">9. 44</ls>, <ls n="Bk. 9.">45.</ls>
+;
+; <L>11693<pc>0430-a<k1>kramaH<k2>kramaH 
+97983 old <><ls>Ś. 7. 30</ls>; <ls>Ms. 7. 24</ls>, <ls n="Ms.">9. 85</ls>, <ls n="Ms.">2. 173</ls>, 3.
+97983 new <><ls>Ś. 7. 30</ls>; <ls>Ms. 7. 24</ls>, <ls n="Ms.">9. 85</ls>, <ls n="Ms.">2. 173</ls>,  <lbinfo n="ls:3.+69"/>
+;
+97984 old <>69. ({%b%}) Traditional order, <ls>U. 6.</ls> ({%c%})
+97984 new <><ls n="Ms.">3. 69.</ls> ({%b%}) Traditional order, <ls>U. 6.</ls> ({%c%})
+;
+; <L>12059<pc>0442-a<k1>KaMq<k2>KaMq
+100719 old <>{#KaMqitaM#} <ls>Mu. 5. 18</ls>; <ls>Śi. 7. 31</ls>, <ls n="Śi.">20. 24</ls>, 6.
+100719 new <>{#KaMqitaM#} <ls>Mu. 5. 18</ls>; <ls>Śi. 7. 31</ls>, <ls n="Śi.">20. 24</ls>,  <lbinfo n="ls:6.+16"/>
+;
+100720 old <>16, 12. 3. {@--2@} To defeat completely,
+100720 new <><ls n="Śi.">6. 16</ls>, <ls n="Śi.">12. 3.</ls> {@--2@} To defeat completely,
+;
+; <L>12093<pc>0443-a<k1>Kara<k2>Kara
+100964 old <>An ass; <ls>Ms. 2. 201</ls>; <ls n="Ms.">4. 115</ls>, 120,
+100964 new <>An ass; <ls>Ms. 2. 201</ls>; <ls n="Ms.">4. 115</ls>, <ls n="Ms. 4.">120</ls>,
+;
+100965 old <>8. 370; <ls>Y. 2. 160.</ls> {@--2@} A mule. {@--3@}
+100965 new <><ls n="Ms.">8. 370</ls>; <ls>Y. 2. 160.</ls> {@--2@} A mule. {@--3@}
+;
+; <L>12151<pc>0444-b<k1>KAd<k2>KAd
+101297 old <><ls>Bk. 6. 6</ls>; <ls n="Bk.">9. 78</ls>, <ls n="Bk.">14. 87</ls>, 101; 15. 35. {@--2@}
+101297 new <><ls>Bk. 6. 6</ls>; <ls n="Bk.">9. 78</ls>, <ls n="Bk.">14. 87</ls>, <ls n="Bk. 14.">101</ls>; <ls n="Bk.">15. 35.</ls> {@--2@}
+;
+; <L>12252<pc>0447-b<k1>gaR<k2>gaR
+102028 old <><ls>Bk. 2. 53</ls>; <ls n="Bk.">15. 5</ls>, 45; <ls>H. 2. 142</ls>;
+102028 new <><ls>Bk. 2. 53</ls>; <ls n="Bk.">15. 5</ls>, <ls n="Bk. 15.">45</ls>; <ls>H. 2. 142</ls>;
+;
+; <L>12320<pc>0452-a<k1>gatiH<k2>gatiH
+102942 old <>metempsychosis; <ls>Ms. 6. 73</ls>, <ls n="Ms.">12. 3</ls>, 23,
+102942 new <>metempsychosis; <ls>Ms. 6. 73</ls>, <ls n="Ms.">12. 3</ls>, <ls n="Ms. 12.">23</ls>,
+;
+102943 old <>40-45. {@--21@} A stage or period of life
+102943 new <><ls n="Ms. 12.">40-45</ls>. {@--21@} A stage or period of life
+;
+; <L>12794<pc>0472-b<k1>grahaH<k2>grahaH
+107370 old <>{#nakzatratArAgrahasakulApi (rAtri)#} <ls>R. 6. 22</ls>, <ls n="R.">3. 13</ls>; 12.
+107370 new <>{#nakzatratArAgrahasakulApi (rAtri)#} <ls>R. 6. 22</ls>, <ls n="R.">3. 13</ls>;  <lbinfo n="ls:12.+28"/>
+;
+107371 old <>28; {#garuRA stanaBareRa muKacaMdreRa #} <lbinfo n="BAsva#tA"/>
+107371 new <><ls n="R.">12. 28</ls>; {#garuRA stanaBareRa muKacaMdreRa #} <lbinfo n="BAsva#tA"/>
+;
+; <L>12986<pc>0479-1<k1>ca<k2>ca
+108969 old <>{#cAdipUruzaH#} <ls>R. 10. 6</ls>; <ls n="R.">3. 40</ls>; <ls n="R.">11. 50</ls>, 81;
+108969 new <>{#cAdipUruzaH#} <ls>R. 10. 6</ls>; <ls n="R.">3. 40</ls>; <ls n="R.">11. 50</ls>, <ls n="R. 11.">81</ls>;
+;
+; <L>13121<pc>0486-a<k1>car<k2>car
+110277 old <><ls>R. 12. 59</ls>; <ls>Ms. 2. 23</ls>, <ls n="Ms.">6. 68</ls>; <ls n="Ms.">8. 236</ls>; 9.
+110277 new <><ls>R. 12. 59</ls>; <ls>Ms. 2. 23</ls>, <ls n="Ms.">6. 68</ls>; <ls n="Ms.">8. 236</ls>;  <lbinfo n="ls:9.+306"/>
+;
+110278 old <>306; 10. 55. {@--2@} ({%a%}) To perform, do,
+110278 new <><ls n="Ms.">9. 306</ls>; <ls n="Ms.">10. 55.</ls> {@--2@} ({%a%}) To perform, do,
+;
+; <L>13721<pc>0505-a<k1>jan<k2>jan
+114638 old <>Ait. Br.; <ls>Ms. 1. 9</ls>; <ls n="Ms.">3. 39</ls>, 41;  <lbinfo n="prARAdvA#yurajAyata"/>
+114638 new <>Ait. Br.; <ls>Ms. 1. 9</ls>; <ls n="Ms.">3. 39</ls>, <ls n="Ms. 3.">41</ls>;  <lbinfo n="prARAdvA#yurajAyata"/>
+;
+; <L>14397<pc>0530-b<k1>tapas<k2>tapas
+120138 old <><ls>Ku. 3. 24</ls>; <ls n="Ku.">5. 6</ls>, 18. {#--sTalI#} 1. a seat of
+120138 new <><ls>Ku. 3. 24</ls>; <ls n="Ku.">5. 6</ls>, <ls n="Ku. 5.">18</ls>. {#--sTalI#} 1. a seat of
+;
+; <L>14487<pc>0533-a<k1>tarj<k2>tarj
+120729 old <>censure, blame; <ls>Bk. 6. 3</ls>, <ls n="Bk.">8. 101</ls>, 17.
+120729 new <>censure, blame; <ls>Bk. 6. 3</ls>, <ls n="Bk.">8. 101</ls>,  <lbinfo n="ls:17.+103."/>
+;
+120730 old <>103. {@--3@} To mock, deride.
+120730 new <><ls n="Bk.">17. 103.</ls> {@--3@} To mock, deride.
+;
+; <L>14582<pc>0535-a<k1>tAmarasaM<k2>tAmarasaM
+121261 old <><ls>R. 6. 37</ls>, <ls n="R.">9. 12</ls>, 37; <ls>Amaru. 70.</ls>
+121261 new <><ls>R. 6. 37</ls>, <ls n="R.">9. 12</ls>, <ls n="R. 9.">37</ls>; <ls>Amaru. 70.</ls>
+;
+121262 old <>88. {@--2@} Gold. {@--3@} Copper. {#--sI#} A
+121262 new <><ls n="Amaru.">88.</ls> {@--2@} Gold. {@--3@} Copper. {#--sI#} A
+;
+; <L>14882<pc>0544-c<k1>tfd<k2>tfd
+123467 old <><ls>Bk. 6. 38</ls>, <ls n="Bk.">14. 13</ls>, 108; 15. 36, 44. {@--3@} To
+123467 new <><ls>Bk. 6. 38</ls>, <ls n="Bk.">14. 13</ls>, <ls n="Bk. 14.">108</ls>; <ls n="Bk.">15. 36</ls>, <ls n="Bk. 15.">44.</ls> {@--3@} To
+;
+; <L>14896<pc>0545-a<k1>tfz<k2>tfz
+123554 old <>be thirsty; <ls>Bk. 7. 106</ls>, <ls n="Bk.">14. 30</ls>; 15.
+123554 new <>be thirsty; <ls>Bk. 7. 106</ls>, <ls n="Bk.">14. 30</ls>;  <lbinfo n="ls:15.+51"/>
+;
+123555 old <>51. {@--2@} To wish, wish excessively,
+123555 new <><ls n="Bk.">15. 51.</ls> {@--2@} To wish, wish excessively,
+;
+; <L>14976<pc>0547-b<k1>toraRaH<k2>toraRaH --RaM
+124106 old <>arch; <ls>Ku. 7. 3</ls>; <ls>R. 1. 41</ls>, <ls n="R.">7. 4</ls>, 11.
+124106 new <>arch; <ls>Ku. 7. 3</ls>; <ls>R. 1. 41</ls>, <ls n="R.">7. 4</ls>,  <lbinfo n="ls:11.+5"/>
+;
+124107 old <>5. {@--4@} An elevated place near a
+124107 new <><ls n="R.">11. 5.</ls> {@--4@} An elevated place near a
+;
+; <L>15313<pc>0562-a<k1>dAnaM<k2>dAnaM
+127290 old <>sense 4 also); <ls>R. 2. 7</ls>, <ls n="R.">4. 45</ls>, 5.
+127290 new <>sense 4 also); <ls>R. 2. 7</ls>, <ls n="R.">4. 45</ls>,  <lbinfo n="ls:5.+43"/>
+;
+127291 old <>43. {@--6@} Bribery, as one of the four
+127291 new <><ls n="R.">5. 43.</ls> {@--6@} Bribery, as one of the four
+;
+; <L>15513<pc>0569-b<k1>dur<k2>dur
+129366 old <><ls>R. 1. 67</ls>, <ls n="R.">17. 70</ls>; <ls>Ku. 4. 40</ls>, <ls n="Ku.">5. 46</ls>, 61.
+129366 new <><ls>R. 1. 67</ls>, <ls n="R.">17. 70</ls>; <ls>Ku. 4. 40</ls>, <ls n="Ku.">5. 46</ls>, <ls n="Ku. 5.">61.</ls>
+;
+; <L>15523<pc>0572-b<k1>duz<k2>duz
+129509 old <><ls>Pt. 1. 66</ls>; <ls>Ms. 7. 24</ls>, <ls n="Ms.">9. 318</ls>, 10.
+129509 new <><ls>Pt. 1. 66</ls>; <ls>Ms. 7. 24</ls>, <ls n="Ms.">9. 318</ls>,  <lbinfo n="ls:10.+102"/>
+;
+129510 old <>102. {@--3@} To sin, commit a mistake, be
+129510 new <><ls n="Ms.">10. 102.</ls> {@--3@} To sin, commit a mistake, be
+;
+; <L>15753<pc>0583-b<k1>dyut<k2>dyut
+131866 old <>{#raviH#} <ls>Bk. 14. 104</ls>; <ls n="Bk.">6. 26</ls>, <ls n="Bk.">7. 107</ls>; 8.
+131866 new <>{#raviH#} <ls>Bk. 14. 104</ls>; <ls n="Bk.">6. 26</ls>, <ls n="Bk.">7. 107</ls>;  <lbinfo n="ls:8.+89"/>
+;
+131867 old <>89. {%--<ab>Caus.</ab>%} ({#dyotayati-te#}) {@1@} To <lbinfo n="illumi+nate"/>
+131867 new <><ls n="Bk.">8. 89.</ls> {%--<ab>Caus.</ab>%} ({#dyotayati-te#}) {@1@} To <lbinfo n="illumi+nate"/>
+;
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132972 old <><ls>Ku. 1. 27</ls>, <ls n="Ku.">3. 27</ls>, 36. {#--vacanaM#} the
+132972 new <><ls>Ku. 1. 27</ls>, <ls n="Ku.">3. 27</ls>, <ls n="Ku. 3.">36.</ls> {#--vacanaM#} the
+;
+; <L>16000<pc>0594-c<k1>DA<k2>DA
+134290 old <><ls>R. 3. 1</ls>; <ls>Bk. 2. 1</ls>; <ls n="Bk.">4. 16</ls>, 18;  <lbinfo n="ls:Śi.+ 9. 3"/>
+134290 new <><ls>R. 3. 1</ls>; <ls>Bk. 2. 1</ls>; <ls n="Bk.">4. 16</ls>, <ls n="Bk. 4.">18</ls>;  <lbinfo n="ls:Śi.+ 9. 3"/>
+;
+; <L>16034<pc>0596-b<k1>DAraRA<k2>DAraRA
+134632 old <>{#Darmasya DAraRA#} <ls>Ms. 8. 184</ls>, <ls n="Ms.">4. 38</ls>, 9.
+134632 new <>{#Darmasya DAraRA#} <ls>Ms. 8. 184</ls>, <ls n="Ms.">4. 38</ls>,  <lbinfo n="ls:9.+124"/>
+;
+134633 old <>124. {@--7@} Understanding, intellect.
+134633 new <><ls n="Ms.">9. 124.</ls> {@--7@} Understanding, intellect.
+;
+; <L>16037<pc>0596-b<k1>DArA<k2>DArA
+134663 old <><ls>R. 11. 78</ls>; <ls n="R.">6. 42</ls>; <ls n="R.">10. 86</ls>, 41;  <lbinfo n="ls:Bh.+ 2. 28."/>
+134663 new <><ls>R. 11. 78</ls>; <ls n="R.">6. 42</ls>; <ls n="R.">10. 86</ls>, <ls n="R. 10.">41</ls>;  <lbinfo n="ls:Bh.+ 2. 28."/>
+;
+; <L>16248<pc>0604-a<k1>na<k2>na
+136379 old <><ls>Mb.</ls>; <ls>Ms. 2. 195</ls>; <ls n="Ms.">3. 8</ls>, 9; 4. 15;
+136379 new <><ls>Mb.</ls>; <ls>Ms. 2. 195</ls>; <ls n="Ms.">3. 8</ls>, <ls n="Ms. 3.">9</ls>; <ls n="Ms.">4. 15</ls>;
+;
+; <L>16786<pc>0623-b<k1>nibaMD<k2>nibaMD
+140730 old <>{#nibaDnaMti DanaMjaya#} <ls>Bg. 4. 41</ls>; <ls n="Bg.">9. 9</ls>; 14.
+140730 new <>{#nibaDnaMti DanaMjaya#} <ls>Bg. 4. 41</ls>; <ls n="Bg.">9. 9</ls>;  <lbinfo n="ls:14.+7"/>
+;
+140731 old <>7; 18. 17; <ls>Ms. 6. 14</ls>; <ls>Ku. 5. 10.</ls>
+140731 new <><ls n="Bg.">14. 7</ls>; <ls n="Bg.">18. 17</ls>; <ls>Ms. 6. 14</ls>; <ls>Ku. 5. 10.</ls>
+;
+; <L>16818<pc>0624-c<k1>nimezaH<k2>nimezaH
+141012 old <><ls>R. 2. 19</ls>; <ls n="R.">3. 43</ls>, 61. {@--Comp.@} {#--kft#}
+141012 new <><ls>R. 2. 19</ls>; <ls n="R.">3. 43</ls>, <ls n="R. 3.">61.</ls> {@--Comp.@} {#--kft#}
+;
+; <L>16921<pc>0632-b<k1>nirGAtaH<k2>nirGAtaH
+142552 old <><ls>R. 9. 64</ls>; <ls>Ms. 1. 38</ls>, <ls n="Ms.">4. 105</ls>, 7,  <lbinfo n="ls:Y. 1.+ 145"/>
+142552 new <><ls>R. 9. 64</ls>; <ls>Ms. 1. 38</ls>, <ls n="Ms.">4. 105</ls>, <ls n="Ms. 4.">7</ls>,  <lbinfo n="ls:Y. 1.+ 145"/>
+;
+; <L>17206<pc>0640-c<k1>nizkftiH<k2>nizkftiH
+144561 old <><ls>Ms. 2. 227</ls>, <ls n="Ms.">3. 19</ls>; <ls n="Ms.">8. 105</ls>, <ls n="Ms.">9. 19</ls>, 11.
+144561 new <><ls>Ms. 2. 227</ls>, <ls n="Ms.">3. 19</ls>; <ls n="Ms.">8. 105</ls>, <ls n="Ms.">9. 19</ls>,  <lbinfo n="ls:11.+27"/>
+;
+;144562 old <>27. {@--3@} Removal. {@--4@} Restoration,
+;144562 new <><ls n="Ms.">11. 27.</ls> {@--3@} Removal. {@--4@} Restoration,
+;
+; <L>17328<pc>0646-c<k1>nIvAraH<k2>nIvAraH
+145815 old <><ls>R. 1. 50</ls>, <ls n="R.">5. 9</ls>, 15; (also {#nIvAraka#}).
+145815 new <><ls>R. 1. 50</ls>, <ls n="R.">5. 9</ls>, <ls n="R. 5.">15</ls>; (also {#nIvAraka#}).
+;
+; <L>17334<pc>0646-c<k1>nu<k2>nu
+145858 old <>{#nu mahIM nu#} <ls>Ki. 9. 7</ls>; <ls n="Ki.">5. 1</ls>; 8 53,
+145858 new <>{#nu mahIM nu#} <ls>Ki. 9. 7</ls>; <ls n="Ki.">5. 1</ls>; <ls n="Ki.">8. 53</ls>,
+;
+145859 old <>9. 15, 54; 13. 4; <ls>Ku. 1. 46</ls>;  <lbinfo n="ls:Śi. 10.+ 14"/>
+145859 new <><ls n="Ki.">9. 15</ls>, <ls n="Ki. 9.">54</ls>; <ls n="Ki.">13. 4</ls>; <ls>Ku. 1. 46</ls>;  <lbinfo n="ls:Śi. 10.+ 14"/>
+;
+; <L>17364<pc>0648-a<k1>netraM<k2>netraM
+146130 old <><ls>Ku. 6. 85</ls>, <ls n="Ku.">2. 29</ls>, 30; 7. 13. {@--3@} The
+146130 new <><ls>Ku. 6. 85</ls>, <ls n="Ku.">2. 29</ls>, <ls n="Ku. 2.">30</ls>; <ls n="Ku.">7. 13</ls>. {@--3@} The
+;
+; <L>18124<pc>0678-a<k1>pariBogaH<k2>pariBogaH
+152766 old <><ls>R. 11. 52</ls>, <ls n="R.">19. 21</ls>, 28, 30. {@--3@} <lbinfo n="II+legal"/>
+152766 new <><ls>R. 11. 52</ls>, <ls n="R.">19. 21</ls>, <ls n="R. 19.">28</ls>, <ls n="R. 19.">30.</ls> {@--3@} <lbinfo n="II+legal"/>
+;
+; <L>18536<pc>0688-c<k1>paScAt<k2>paScAt
+155402 old <><ls>R. 4. 30</ls>, <ls n="R.">12. 7</ls>, 17, 39; 16. 29;  <lbinfo n="ls:Me.+ 36"/>
+155402 new <><ls>R. 4. 30</ls>, <ls n="R.">12. 7</ls>, <ls n="R. 12.">17</ls>, <ls n="R. 12.">39</ls>; <ls n="R.">16. 29</ls>;  <lbinfo n="ls:Me.+ 36"/>
+;
+; <L>18548<pc>0689-a<k1>pA<k2>pA
+155502 old <>{#pibataH sutAnanaM#} <ls>R. 3. 17</ls>; <ls n="R.">2. 19</ls>, 73;
+155502 new <>{#pibataH sutAnanaM#} <ls>R. 3. 17</ls>; <ls n="R.">2. 19</ls>, <ls n="R. 2.">73</ls>;
+;
+155503 old <>11. 36; 13. 30; <ls>Me. 16</ls>; <ls>Ku. 7.</ls> 
+155503 new <><ls n="R.">11. 36</ls>; <ls n="R.">13. 30</ls>; <ls>Me. 16</ls>; <ls>Ku. 7.</ls> 
+;
+; <L>19310<pc>0719-b<k1>pfzata<k2>pfzata
+162213 old <>{#rajaH#} <ls>Ki. 6. 27</ls>; <ls>R. 3. 3</ls>; <ls n="R.">4. 27</ls>; 6.
+162213 new <>{#rajaH#} <ls>Ki. 6. 27</ls>; <ls>R. 3. 3</ls>; <ls n="R.">4. 27</ls>;  <lbinfo n="ls:6.+51"/>
+;
+162214 old <>51. {@--3@} A spot, mark. {@--4@} An <lbinfo n="ante+lope"/>
+162214 new <><ls n="R.">6. 51.</ls> {@--3@} A spot, mark. {@--4@} An <lbinfo n="ante+lope"/>
+;
+; <L>19894<pc>0737-c<k1>pratiniDiH<k2>pratiniDiH
+166485 old <><ls>R. 11. 13</ls>, <ls n="R.">1. 81</ls>; <ls n="R.">4. 54</ls>; 5, 63; 9. 40.
+166485 new <><ls>R. 11. 13</ls>, <ls n="R.">1. 81</ls>; <ls n="R.">4. 54</ls>; <ls n="R.">5. 63</ls>; <ls n="R.">9. 40.</ls>
+;
+; <L>20611<pc>0757-a<k1>prayuj<k2>prayuj
+171229 old <>{#prayuyuje na vAhinIM#} <ls>R. 11. 6</ls>; <ls n="R.">2. 70</ls>; 5.
+171229 new <>{#prayuyuje na vAhinIM#} <ls>R. 11. 6</ls>; <ls n="R.">2. 70</ls>;  <lbinfo n="ls:5.+35"/>
+;
+171230 old <>35, 15. 8. {@--4@} To move, set in <lbinfo n="mo+tion"/>
+171230 new <><ls n="R.">5. 35</ls>, <ls n="R.">15. 8.</ls> {@--4@} To move, set in <lbinfo n="mo+tion"/>
+;
+; <L>20706<pc>0760-a<k1>pravAhaH<k2>pravAhaH
+171925 old <>{#naH#} G. <ab>L.</ab> 2; <ls>R. 5. 46</ls>; <ls n="R.">13. 10</ls>, 48;
+171925 new <>{#naH#} G. <ab>L.</ab> 2; <ls>R. 5. 46</ls>; <ls n="R.">13. 10</ls>, <ls n="R. 13.">48</ls>;
+;
+; <L>21554<pc>0786-b<k1>baMD<k2>baMD
+178139 old <><ls>R. 16. 5</ls>; <ls n="R.">4. 38</ls>; <ls n="R.">11. 35</ls>, 78; <ls>Ku. 2. 47</ls>;
+178139 new <><ls>R. 16. 5</ls>; <ls n="R.">4. 38</ls>; <ls n="R.">11. 35</ls>, <ls n="R. 11.">78</ls>; <ls>Ku. 2. 47</ls>;
+;
+178140 old <>5. 30; <ls>Bk. 7.</ls>77. {@--10@} To put <lbinfo n="toge+ther"/>
+178140 new <><ls n="Ku.">5. 30</ls>; <ls>Bk. 7.</ls>77. {@--10@} To put <lbinfo n="toge+ther"/>
+;
+; <L>21698<pc>0794-b<k1>bAla<k2>bAla
+179907 old <><ls>R. 9. 66</ls>; <ls n="R.">14. 11</ls>; <ls n="R.">16. 33</ls>, 57. {#--saKi,#}
+179907 new <><ls>R. 9. 66</ls>; <ls n="R.">14. 11</ls>; <ls n="R.">16. 33</ls>, <ls n="R. 16.">57</ls>. {#--saKi,#}
+;
+; <L>22352<pc>0827-b<k1>BojyA<k2>BojyA
+186756 old <>Bhojas; <ls>R. 6. 59</ls>; <ls n="R.">7. 2</ls>, 13.
+186756 new <>Bhojas; <ls>R. 6. 59</ls>; <ls n="R.">7. 2</ls>, <ls n="R. 7.">13</ls>.
+;
+; <L>22668<pc>0843-c<k1>maMTara<k2>maMTara
+190191 old <>{#daramaMTaracaraRavihAraM#} <ls>Gīt. 11.</ls> <ls>Śi. 6. 40</ls>; <ls n="Śi.">7. 18</ls>; 5.
+190191 new <>{#daramaMTaracaraRavihAraM#} <ls>Gīt. 11.</ls> <ls>Śi. 6. 40</ls>; <ls n="Śi.">7. 18</ls>;  <lbinfo n="ls:5.+62"/>
+;
+190192 old <>62; <ls>R. 19. 21.</ls> {@--2@} Stupid, foolish,
+190192 new <><ls n="Śi.">5. 62</ls>; <ls>R. 19. 21.</ls> {@--2@} Stupid, foolish,
+;
+; <L>22768<pc>0847-b<k1>marmara<k2>marmara
+191004 old <>{#tIrezu tAlIvanamarmarezu#} <ls>R. 6. 57</ls>, <ls n="R.">4. 73</ls>; 19.
+191004 new <>{#tIrezu tAlIvanamarmarezu#} <ls>R. 6. 57</ls>, <ls n="R.">4. 73</ls>;  <lbinfo n="ls:19.+41"/>
+;
+191005 old <>41; {#madodDatAH pratyanilaM #} <lbinfo n="vicerurvanasTalI#rmarmarapatramokzAH"/>
+191005 new <><ls n="R.">19. 41</ls>; {#madodDatAH pratyanilaM #} <lbinfo n="vicerurvanasTalI#rmarmarapatramokzAH"/>
+;
+; <L>24009<pc>0904-b<k1>raMDraM<k2>raMDraM
+203241 old <>{#dvizAmAmizatAM yayO#} <ls>R. 12. 11</ls>; <ls n="R.">15. 17</ls>, 17.
+203241 new <>{#dvizAmAmizatAM yayO#} <ls>R. 12. 11</ls>; <ls n="R.">15. 17</ls>,  <lbinfo n="ls:17.+61"/>
+;
+;203242 old <>61. ({%b%}) A defect, fault, an <lbinfo n="imper+fection"/>
+;203242 new <><ls n="R.">17. 61.</ls> ({%b%}) A defect, fault, an <lbinfo n="imper+fection"/>
+;
+; <L>24396<pc>0920-b<k1>lakzmI<k2>lakzmI
+206790 old <>{#SaSAMkamUrteH#} <ls>Ki. 2. 59</ls>, <ls n="Ki.">5. 39</ls>, 52, 9.
+206790 new <>{#SaSAMkamUrteH#} <ls>Ki. 2. 59</ls>, <ls n="Ki.">5. 39</ls>, <ls n="Ki. 5.">52</ls>,  <lbinfo n="ls:9.+2"/>
+;
+206791 old <>2; <ls>Ku. 3. 49.</ls> {@--5@} The goddess of
+206791 new <><ls n="Ki.">9. 2</ls>; <ls>Ku. 3. 49.</ls> {@--5@} The goddess of
+;
+; <L>24398<pc>0920-c<k1>lakzya<k2>lakzya
+206872 old <>{#badDalakzyaH#} <ls>U. 5. 11</ls>; <ls>R. 1. 61</ls>, <ls n="R.">6. 11</ls>, 9.
+206872 new <>{#badDalakzyaH#} <ls>U. 5. 11</ls>; <ls>R. 1. 61</ls>, <ls n="R.">6. 11</ls>,  <lbinfo n="ls:9.+67"/>
+;
+206873 old <>67; <ls>Ku. 3. 47</ls>, <ls n="Ku. 3.">64</ls>; <ls n="Ku. 3.">5.</ls> 49. {@--2@} A
+206873 new <><ls n="R.">9. 67</ls>; <ls>Ku. 3. 47</ls>, <ls n="Ku. 3.">64</ls>; <ls n="Ku. 3.">5.</ls> <ls n="Ku. 3.">49</ls>. {@--2@} A
+;
+; <L>24626<pc>0929-a<k1>liMgaM<k2>liMgaM
+208683 old <><ls>Ms. 1. 30</ls>; <ls n="Ms.">8. 25</ls>, 252. {@--2@} A false or <lbinfo n="un+real"/>
+208683 new <><ls>Ms. 1. 30</ls>; <ls n="Ms.">8. 25</ls>, <ls n="Ms. 8.">252.</ls> {@--2@} A false or <lbinfo n="un+real"/>
+;
+; <L>25251<pc>0952-b<k1>vaSaMvada<k2>vaSaMvada
+213908 old <><ls>Bv. 3. 9</ls>, <ls n="Bv.">2. 136</ls>, 157; <ls>N. 1. 33</ls>; {#sA dadarSa#}
+213908 new <><ls>Bv. 3. 9</ls>, <ls n="Bv.">2. 136</ls>, <ls n="Bv. 2.">157</ls>; <ls>N. 1. 33</ls>; {#sA dadarSa#}
+;
+; <L>25362<pc>0957-b<k1>vAjin<k2>vAjin
+215016 old <>{#vAjinaH#} <ls>Ś. 1</ls>; <ls>R. 3. 43</ls>, <ls n="R.">4. 25</ls>, 67;  <lbinfo n="ls:Śi.+ 18. 31."/>
+215016 new <>{#vAjinaH#} <ls>Ś. 1</ls>; <ls>R. 3. 43</ls>, <ls n="R.">4. 25</ls>, <ls n="R. 4.">67</ls>;  <lbinfo n="ls:Śi.+ 18. 31."/>
+;
+; <L>25579<pc>0964-b<k1>vAha<k2>vAha
+216626 old <>{@--4@} A horse; <ls>R. 4. 56</ls>, <ls n="R.">5. 73</ls>, 14.
+216626 new <>{@--4@} A horse; <ls>R. 4. 56</ls>, <ls n="R.">5. 73</ls>,  <lbinfo n="ls:14.+52"/>
+;
+216627 old <>52. {@--5@} A bull; <ls>Ku. 7. 49.</ls> {@--6@} A
+216627 new <><ls n="R.">14. 52.</ls> {@--5@} A bull; <ls>Ku. 7. 49.</ls> {@--6@} A
+;
+; <L>25581<pc>0964-b<k1>vAhanaM<k2>vAhanaM
+216647 old <><ls>R. 1. 48</ls>, <ls n="R.">9. 25</ls>, 60. {@--5@} An elephant.
+216647 new <><ls>R. 1. 48</ls>, <ls n="R.">9. 25</ls>, <ls n="R. 9.">60.</ls> {@--5@} An elephant.
+;
+; <L>25648<pc>0966-a<k1>vikAraH<k2>vikAraH
+217083 old <><ls>U. 1. 35</ls>, <ls n="U.">3. 25</ls>, 36; <ls>Māl. 1. 30.</ls> {@--6@} <lbinfo n="Agita+tion"/>
+217083 new <><ls>U. 1. 35</ls>, <ls n="U.">3. 25</ls>, <ls n="U. 3.">36</ls>; <ls>Māl. 1. 30.</ls> {@--6@} <lbinfo n="Agita+tion"/>
+;
+; <L>25908<pc>0973-c<k1>vitF<k2>vitF
+218899 old <><ls>R. 14. 81</ls>; <ls>Māl. 1. 3</ls>; <ls n="Māl.">6. 7</ls>; <ls n="Māl.">9. 5</ls>, 44. {@--3@}
+218899 new <><ls>R. 14. 81</ls>; <ls>Māl. 1. 3</ls>; <ls n="Māl.">6. 7</ls>; <ls n="Māl.">9. 5</ls>, <ls n="Māl. 9.">44.</ls> {@--3@}
+;
+; <L>26281<pc>0986-c<k1>vimuh<k2>vimuh
+221867 old <>embarrassed; <ls>Bg. 2. 72</ls>; <ls n="Bg.">3. 6</ls>, 27.
+221867 new <>embarrassed; <ls>Bg. 2. 72</ls>; <ls n="Bg.">3. 6</ls>, <ls n="Bg. 3.">27</ls>.
+;
+; <L>26688<pc>1000-c<k1>visf<k2>visf
+225106 old <>{#caMkrIvadaMgaruhaDUmraruco visasraH#} <ls>Śi. 5. 8</ls>; <ls n="Śi.">9. 19</ls>, 37;
+225106 new <>{#caMkrIvadaMgaruhaDUmraruco visasraH#} <ls>Śi. 5. 8</ls>; <ls n="Śi.">9. 19</ls>, <ls n="Śi. 9.">37</ls>;
+;
+; <L>27614<pc>1032-c<k1>SabdaH<k2>SabdaH
+232449 old <><ls>R. 3. 35</ls>, <ls n="R.">2. 53</ls>, 64, 3. 49, 5. 22; 18. 42;
+232449 new <><ls>R. 3. 35</ls>, <ls n="R.">2. 53</ls>, <ls n="R. 2.">64</ls>, <ls n="R.">3. 49</ls>, <ls n="R.">5. 22</ls>; <ls n="R.">18. 42</ls>;
+;
+; <L>27739<pc>1038-a<k1>SastraM<k2>SastraM
+233576 old <><ls>Subhāsh.</ls>, <ls>R. 2. 40</ls>, <ls n="R.">3. 51</ls>, 62; 5. 28. {@--2@}
+233576 new <><ls>Subhāsh.</ls>, <ls>R. 2. 40</ls>, <ls n="R.">3. 51</ls>, <ls n="R. 3.">62</ls>; <ls n="R.">5. 28.</ls> {@--2@}
+;
+; <L>27816<pc>1040-b<k1>SApaH<k2>SApaH
+234133 old <><ls>R. 1. 78</ls>, <ls n="R.">5. 56</ls>, 59; 11. 14. {@--2@} An
+234133 new <><ls>R. 1. 78</ls>, <ls n="R.">5. 56</ls>, <ls n="R. 5.">59</ls>; <ls n="R.">11. 14.</ls> {@--2@} An
+;
+; <L>28006<pc>1047-a<k1>SiSuH<k2>SiSuH
+235645 old <>fawn &c.); <ls>Ś. 1. 15</ls>; <ls n="Ś.">7. 14</ls>, 18. {@--3@}
+235645 new <>fawn &c.); <ls>Ś. 1. 15</ls>; <ls n="Ś.">7. 14</ls>, <ls n="Ś. 7.">18.</ls> {@--3@}
+;
+; <L>29261<pc>1091-c<k1>saparyA<k2>saparyA
+245717 old <>{#saparyAviDiBAjanena#} <ls>R. 5. 22</ls>, <ls n="R.">2. 22</ls>, 11.
+245717 new <>{#saparyAviDiBAjanena#} <ls>R. 5. 22</ls>, <ls n="R.">2. 22</ls>,  <lbinfo n="ls:11.+35"/>
+;
+;245718 old <>35, 13. 46; <ls>Śi. 1. 14</ls>;  <lbinfo n="ls:Ku. 5.+ 31."/>
+;245718 new <><ls n="R.">11. 35</ls>, <ls n="R.">13. 46</ls>; <ls>Śi. 1. 14</ls>;  <lbinfo n="ls:Ku. 5.+ 31."/>
+;
+; <L>29988<pc>1113-a<k1>sAketaM<k2>sAketaM
+250839 old <><ls>R. 14. 13</ls>, <ls n="R.">13. 79</ls>, 18, 36; {#aruRadyavanaH#}
+250839 new <><ls>R. 14. 13</ls>, <ls n="R.">13. 79</ls>, <ls n="R.">18. 36</ls>; {#aruRadyavanaH#}
+;
+; <L>30772<pc>1145-a<k1>stimita<k2>stimita
+257913 old <><ls>R. 2. 22</ls>, <ls n="R.">3. 17</ls>, <ls n="R.">13. 48</ls>, 79; <ls>U. 6. 25.</ls> {@--3@}
+257913 new <><ls>R. 2. 22</ls>, <ls n="R.">3. 17</ls>, <ls n="R.">13. 48</ls>, <ls n="R. 13.">79</ls>; <ls>U. 6. 25.</ls> {@--3@}
+;
+; <L>30775<pc>1145-b<k1>stu<k2>stu
+257939 old <><ls>Bk. 8. 92</ls>, <ls n="Bk.">15. 70</ls>, 3. {@--2@} To celebrate or
+257939 new <><ls>Bk. 8. 92</ls>, <ls n="Bk.">15. 70</ls>, <ls n="Bk.">3.</ls> {@--2@} To celebrate or
+;
+; <L>30866<pc>1149-a<k1>sTAvara<k2>sTAvara
+258786 old <>{#tajjanmadinaM baBUva#} <ls>Ku. 1. 23</ls>, <ls n="Ku.">6. 67</ls>, 73. {@--2@} <lbinfo n="In+ert"/>
+258786 new <>{#tajjanmadinaM baBUva#} <ls>Ku. 1. 23</ls>, <ls n="Ku.">6. 67</ls>, <ls n="Ku. 6.">73.</ls> {@--2@} <lbinfo n="In+ert"/>
+;
+; <L>31273<pc>1165-c<k1>hara<k2>hara
+262430 old <><ls>Ku. 1. 50</ls>, <ls n="Ku.">3. 40</ls>, 67, <ls>Me. 7.</ls> {@--2@}
+262430 new <><ls>Ku. 1. 50</ls>, <ls n="Ku.">3. 40</ls>, <ls n="Ku. 3.">67</ls>, <ls>Me. 7.</ls> {@--2@}
+;
+; <L>31327<pc>1168-a<k1>havizyaM<k2>havizyaM
+262922 old <><ls>Ms. 3. 256</ls>, <ls n="Ms.">11. 78</ls>, 107; <ls>Y. 1. 239.</ls> {@--2@}
+262922 new <><ls>Ms. 3. 256</ls>, <ls n="Ms.">11. 78</ls>, <ls n="Ms. 11.">107</ls>; <ls>Y. 1. 239.</ls> {@--2@}
+;
+; <L>31352<pc>1169-b<k1>hA<k2>hA
+263230 old <><ls>Bg. 2. 50</ls>; <ls>Bk. 3. 53</ls>, <ls n="Bk.">5. 91</ls>, <ls n="Bk.">10. 71</ls>, 20.
+263230 new <><ls>Bg. 2. 50</ls>; <ls>Bk. 3. 53</ls>, <ls n="Bk.">5. 91</ls>, <ls n="Bk.">10. 71</ls>,  <lbinfo n="ls:20.+10"/>
+;
+263231 old <>10; <ls>Me. 49</ls>, <ls n="Me.">60</ls>; <ls>Bv. 2. 129</ls>;  <lbinfo n="ls:Rs. 1.+ 38."/>
+263231 new <><ls n="Bk.">20. 10</ls>; <ls>Me. 49</ls>, <ls n="Me.">60</ls>; <ls>Bv. 2. 129</ls>;  <lbinfo n="ls:Rs. 1.+ 38."/>
+;

@@ -1,0 +1,3264 @@
+; Case 1: <L>97<pc>0005-a<k1>akfzwa<k2>akfzwa
+1756 old <>or wild; {#ºcyA iva SasyasaMpadaH#} <ls>Ki. 1.</ls>
+1756 new <>or wild; {#ºcyA iva SasyasaMpadaH#}  <lbinfo n="ls:Ki. 1.+ 17"/>
+;
+; Case 2: <L>97<pc>0005-a<k1>akfzwa<k2>akfzwa
+1757 old <>17; so {#ºcyA ozaDayaH, ºcyaM aSanaM, DAnyaM#}
+1757 new <><ls>Ki. 1. 17</ls>; so {#ºcyA ozaDayaH, ºcyaM aSanaM, DAnyaM#}
+;
+; Case 3: <L>270<pc>0018-a<k1>aMga<k2>aMga
+4495 old <>{#kimaMga BUpatiH#} <ls>Śi. 16. 34</ls>, 2. 12; <ls>Ki. 10.</ls>
+4495 new <>{#kimaMga BUpatiH#} <ls>Śi. 16. 34</ls>, 2. 12;  <lbinfo n="ls:Ki. 10.+ 55"/>
+;
+; Case 4: <L>270<pc>0018-a<k1>aMga<k2>aMga
+4496 old <>55, 13. 65; used with {#kiM#} in the sense
+4496 new <><ls>Ki. 10. 55</ls>, 13. 65; used with {#kiM#} in the sense
+;
+; Case 5: <L>426<pc>0026-a<k1>aMc<k2>aMc
+6260 old <>tend towards; {#svataMtrA kaTamaMcasi#} <ls>Bk.</ls>
+6260 new <>tend towards; {#svataMtrA kaTamaMcasi#}  <lbinfo n="ls:Bk.+ 4. 22"/>
+;
+; Case 6: <L>426<pc>0026-a<k1>aMc<k2>aMc
+6261 old <>4. 22; also in {#avAMc#} tending <lbinfo n="down+ward"/>
+6261 new <><ls>Bk. 4. 22</ls>; also in {#avAMc#} tending <lbinfo n="down+ward"/>
+;
+; Case 7: <L>437<pc>0027-a<k1>aMjaliH<k2>aMjaliH
+6483 old <>{#SakreRa kftaM necCedaDimUrDAnamaMjalim#} <ls>Bk.</ls>
+6483 new <>{#SakreRa kftaM necCedaDimUrDAnamaMjalim#}  <lbinfo n="ls:Bk.+ 8. 84"/>
+;
+; Case 8: <L>437<pc>0027-a<k1>aMjaliH<k2>aMjaliH
+6484 old <>8. 84; {#baDyatAmaBayayAcanAMjaliH#} <ls>R. 11. 78.</ls>
+6484 new <><ls>Bk. 8. 84</ls>; {#baDyatAmaBayayAcanAMjaliH#} <ls>R. 11. 78.</ls>
+;
+; Case 9: <L>449<pc>0027-b<k1>aw<k2>aw
+6573 old <>go to beg alms; {#Awa nEkawikASramAn#} <ls>Bk.</ls>
+6573 new <>go to beg alms; {#Awa nEkawikASramAn#}  <lbinfo n="ls:Bk.+ 4. 12"/>
+;
+; Case 10: <L>449<pc>0027-b<k1>aw<k2>aw
+6574 old <>4. 12; {#mahImawan#} <ls>Dk. 38</ls> {%--<ab>desid.</ab>%} {#awiwizati;#}
+6574 new <><ls>Bk. 4. 12</ls>; {#mahImawan#} <ls>Dk. 38</ls> {%--<ab>desid.</ab>%} {#awiwizati;#}
+;
+; Case 11: <L>691<pc>0035-b<k1>atiSI<k2>atiSI
+8439 old <>{#caritena cAtiSayitA munayaH#} <ls>Ki. 6. 32</ls>, <ls>Bk.</ls>
+8439 new <>{#caritena cAtiSayitA munayaH#} <ls>Ki. 6. 32</ls>,  <lbinfo n="ls:Bk.+ 7. 46"/>
+;
+; Case 12: <L>691<pc>0035-b<k1>atiSI<k2>atiSI
+8440 old <>7. 46, 8. 1; {#na Saknumo vayamAryasya #} <lbinfo n="matimati#SayituM"/>
+8440 new <><ls>Bk. 7. 46</ls>, 8. 1; {#na Saknumo vayamAryasya #} <lbinfo n="matimati#SayituM"/>
+;
+; Case 13: <L>907<pc>0044-b<k1>aDarIkf<k2>aDarIkf
+10484 old <>vanquish; {#BavatA DIratayA'DarIkftaH#} <ls>Ki.</ls>
+10484 new <>vanquish; {#BavatA DIratayA'DarIkftaH#}  <lbinfo n="ls:Ki.+ 2. 40"/>
+;
+; Case 14: <L>907<pc>0044-b<k1>aDarIkf<k2>aDarIkf
+10485 old <>2. 40, 6. 21; {#caritErmunInaDarayaYSuciBiH#}
+10485 new <><ls>Ki. 2. 40</ls>, 6. 21; {#caritErmunInaDarayaYSuciBiH#}
+;
+; Case 15: <L>1001<pc>0049-b<k1>aDiruh<k2>aDiruh
+11547 old <>string; {#aDirohati gAMqIvaM mahezO#} <ls>Ki. 13.</ls>
+11547 new <>string; {#aDirohati gAMqIvaM mahezO#}  <lbinfo n="ls:Ki. 13.+ 16."/>
+;
+; Case 16: <L>1001<pc>0049-b<k1>aDiruh<k2>aDiruh
+11548 old <>16. {@--3@} (Intran.) To rise or grow over
+11548 new <><ls>Ki. 13. 16.</ls> {@--3@} (Intran.) To rise or grow over
+;
+; Case 17: <L>1036<pc>0050-b<k1>aDizWA<k2>aDizWA
+11790 old <>{#pAtAlamaDitizWati#} <ls>R. 1. 80</ls>; {#mADizWA nirjanaM vanaM#} <ls>Bk.</ls>
+11790 new <>{#pAtAlamaDitizWati#} <ls>R. 1. 80</ls>; {#mADizWA nirjanaM vanaM#}  <lbinfo n="ls:Bk.+ 8. 79"/>
+;
+; Case 18: <L>1036<pc>0050-b<k1>aDizWA<k2>aDizWA
+11791 old <>8. 79; {#SrIjayadevaBaRitamaDitizWatu #} <lbinfo n="kaM#WatawImavirataM"/>
+11791 new <><ls>Bk. 8. 79</ls>; {#SrIjayadevaBaRitamaDitizWatu #} <lbinfo n="kaM#WatawImavirataM"/>
+;
+; Case 19: <L>1036<pc>0050-b<k1>aDizWA<k2>aDizWA
+11798 old <>{#PalaSAlinIM kriyAM SaradaM loka ivADitizWati#} <ls>Ki.</ls>
+11798 new <>{#PalaSAlinIM kriyAM SaradaM loka ivADitizWati#}  <lbinfo n="ls:Ki.+ 2. 31"/>
+;
+; Case 20: <L>1036<pc>0050-b<k1>aDizWA<k2>aDizWA
+11799 old <>2. 31 obtains; {#aDitizWati #} <lbinfo n="lokamo#jasA"/>
+11799 new <><ls>Ki. 2. 31</ls> obtains; {#aDitizWati #} <lbinfo n="lokamo#jasA"/>
+;
+; Case 21: <L>1175<pc>0056-b<k1>anaMtara<k2>anaMtara
+13124 old <><ls>K. 136</ls>; immediately adjoining; <ls>Ki. 2.</ls>
+13124 new <><ls>K. 136</ls>; immediately adjoining;  <lbinfo n="ls:Ki. 2.+ 53"/>
+;
+; Case 22: <L>1175<pc>0056-b<k1>anaMtara<k2>anaMtara
+13125 old <>53, <ls>R. 7. 21</ls>; not distant from (with
+13125 new <><ls>Ki. 2. 53</ls>, <ls>R. 7. 21</ls>; not distant from (with
+;
+; Case 23: <L>1396<pc>0063-b<k1>anAsTA<k2>anAsTA
+14750 old <>or female is no consideration &c.; <ls>Ki.</ls>
+14750 new <>or female is no consideration &c.;  <lbinfo n="ls:Ki.+ 4. 34."/>
+;
+; Case 24: <L>1396<pc>0063-b<k1>anAsTA<k2>anAsTA
+14751 old <>4. 34. {@--2@} Want of faith or <lbinfo n="confi+dence"/>
+14751 new <><ls>Ki. 4. 34.</ls> {@--2@} Want of faith or <lbinfo n="confi+dence"/>
+;
+; Case 25: <L>1541<pc>0068-c<k1>anugata<k2>anugata
+15966 old <>behind; {#SivamivAnugataM gajacarmaRA#} <ls>Ki.</ls>
+15966 new <>behind; {#SivamivAnugataM gajacarmaRA#}  <lbinfo n="ls:Ki.+ 5. 2"/>
+;
+; Case 26: <L>1541<pc>0068-c<k1>anugata<k2>anugata
+15967 old <>5. 2 ({#paScAdvyAptaM#}). ({%d%}) Extinguished
+15967 new <><ls>Ki. 5. 2</ls> ({#paScAdvyAptaM#}). ({%d%}) Extinguished
+;
+; Case 27: <L>1553<pc>0069-a<k1>anuguRa<k2>anuguRa
+16067 old <>{#cireRAnuguRaM proktA pratipattiparANmuKI#} <ls>Bk.</ls>
+16067 new <>{#cireRAnuguRaM proktA pratipattiparANmuKI#}  <lbinfo n="ls:Bk.+ 8. 95."/>
+;
+; Case 28: <L>1553<pc>0069-a<k1>anuguRa<k2>anuguRa
+16068 old <>8. 95. {@--2@} Agreeably or conformably
+16068 new <><ls>Bk. 8. 95.</ls> {@--2@} Agreeably or conformably
+;
+; Case 29: <L>1555<pc>0069-b<k1>anuguRayati<k2>anuguRayati
+16078 old <>secure; {#saMpado'nuguRayan suKEziRAM#} <ls>Ki.</ls>
+16078 new <>secure; {#saMpado'nuguRayan suKEziRAM#}  <lbinfo n="ls:Ki.+ 13. 44."/>
+;
+; Case 30: <L>1555<pc>0069-b<k1>anuguRayati<k2>anuguRayati
+16079 old <>13. 44.
+16079 new <><ls>Ki. 13. 44.</ls>
+;
+; Case 31: <L>1732<pc>0074-b<k1>anupUrva<k2>anupUrva
+17296 old <><ls>Ku. 1. 35</ls>; {#tatonupUrvAyatavfttabAhuH#} <ls>Ki.</ls>
+17296 new <><ls>Ku. 1. 35</ls>; {#tatonupUrvAyatavfttabAhuH#}  <lbinfo n="ls:Ki.+ 17. 50"/>
+;
+; Case 32: <L>1732<pc>0074-b<k1>anupUrva<k2>anupUrva
+17297 old <>17. 50 ({#gopucCAkAra#} <ls>Malli.</ls>); {#jaMGe #} <lbinfo n="anu#pUrvavftte"/>
+17297 new <><ls>Ki. 17. 50</ls> ({#gopucCAkAra#} <ls>Malli.</ls>); {#jaMGe #} <lbinfo n="anu#pUrvavftte"/>
+;
+; Case 33: <L>1765<pc>0075-c<k1>anubaMDin<k2>anubaMDin
+17623 old <>never come single; <ls>K. 349</ls>; <ls>Ki. 1.</ls>
+17623 new <>never come single; <ls>K. 349</ls>;  <lbinfo n="ls:Ki. 1.+ 20"/>
+;
+; Case 34: <L>1765<pc>0075-c<k1>anubaMDin<k2>anubaMDin
+17624 old <>20; <ls>Bg. 15. 2</ls>; {#guRA guRAnubaMDitvAttasya#}
+17624 new <><ls>Ki. 1. 20</ls>; <ls>Bg. 15. 2</ls>; {#guRA guRAnubaMDitvAttasya#}
+;
+; Case 35: <L>1781<pc>0076-b<k1>anuBAvaH<k2>anuBAvaH
+17783 old <>20, 41, 4. 22, <ls>K. 108</ls>, 240; <ls>V. 1</ls>; <ls>Ki.</ls>
+17783 new <>20, 41, 4. 22, <ls>K. 108</ls>, 240; <ls>V. 1</ls>;  <lbinfo n="ls:Ki.+ 1. 6"/>
+;
+; Case 36: <L>1781<pc>0076-b<k1>anuBAvaH<k2>anuBAvaH
+17784 old <>1. 6; <ls>Dk. 29</ls>, 113; <ls>Mv. 6. 53</ls>;  <lbinfo n="a#ho"/>
+17784 new <><ls>Ki. 1. 6</ls>; <ls>Dk. 29</ls>, 113; <ls>Mv. 6. 53</ls>;  <lbinfo n="a#ho"/>
+;
+; Case 37: <L>1937<pc>0082-b<k1>anuSAs<k2>anuSAs
+19112 old <>{#rAjapatnIniyogasTamanuSADi purIjanaM#} <ls>Bk.</ls>
+19112 new <>{#rAjapatnIniyogasTamanuSADi purIjanaM#}  <lbinfo n="ls:Bk.+ 20. 17"/>
+;
+; Case 38: <L>1937<pc>0082-b<k1>anuSAs<k2>anuSAs
+19113 old <>20. 17; {#ko nu Kalu mAmevamanuSAsti#} <ls>V. 4</ls>
+19113 new <><ls>Bk. 20. 17</ls>; {#ko nu Kalu mAmevamanuSAsti#} <ls>V. 4</ls>
+;
+; Case 39: <L>1939<pc>0082-c<k1>anuSAsanaM<k2>anuSAsanaM
+19140 old <><ab>gen.</ab>); {#BavatyaDikzepa ivAnuSAsanaM#} <ls>Ki. 1.</ls>
+19140 new <><ab>gen.</ab>); {#BavatyaDikzepa ivAnuSAsanaM#}  <lbinfo n="ls:Ki. 1.+ 28"/>
+;
+; Case 40: <L>1939<pc>0082-c<k1>anuSAsanaM<k2>anuSAsanaM
+19141 old <>28 words of advice; {#tanmanoranuSAsanaM#}
+19141 new <><ls>Ki. 1. 28</ls> words of advice; {#tanmanoranuSAsanaM#}
+;
+; Case 41: <L>1947<pc>0083-a<k1>anuSIlanaM<k2>anuSIlanaM
+19225 old <>study; {#vijYAtasArARyanuSIlanena#} <ls>Ki.</ls>
+19225 new <>study; {#vijYAtasArARyanuSIlanena#}  <lbinfo n="ls:Ki.+ 16. 28."/>
+;
+; Case 42: <L>1947<pc>0083-a<k1>anuSIlanaM<k2>anuSIlanaM
+19226 old <>16. 28.
+19226 new <><ls>Ki. 16. 28.</ls>
+;
+; Case 43: <L>2043<pc>0085-c<k1>anUna<k2>anUna
+19903 old <>entire; large; {#maharzaBaskaMDamanUnakaMDaraM#} <ls>Ki.</ls>
+19903 new <>entire; large; {#maharzaBaskaMDamanUnakaMDaraM#}  <lbinfo n="ls:Ki.+ 14. 40"/>
+;
+; Case 44: <L>2043<pc>0085-c<k1>anUna<k2>anUna
+19904 old <>14. 40; great; <ls>Śi. 4. 11</ls>; (before <lbinfo n="ad+jectives"/>
+19904 new <><ls>Ki. 14. 40</ls>; great; <ls>Śi. 4. 11</ls>; (before <lbinfo n="ad+jectives"/>
+;
+; Case 45: <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20690 old <>{#tasminnaMtarGaRe paSyan praGARe sODasadmanaH#} <ls>Bk.</ls>
+20690 new <>{#tasminnaMtarGaRe paSyan praGARe sODasadmanaH#}  <lbinfo n="ls:Bk.+ 7. 62"/>
+;
+; Case 46: <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20691 old <>7. 62 {#(dvAramatikramya yaH sAvakASapradeSaH#}
+20691 new <><ls>Bk. 7. 62</ls> {#(dvAramatikramya yaH sAvakASapradeSaH#}
+;
+; Case 47: <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20813 old <>{#vigrahaH praBumaMtaHprakftiprakopajaH#} <ls>Ki. 2.</ls>
+20813 new <>{#vigrahaH praBumaMtaHprakftiprakopajaH#}  <lbinfo n="ls:Ki. 2.+ 51."/>
+;
+; Case 48: <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20814 old <>51. {#--prakopanaM#} sowing internal <lbinfo n="dis+sensions"/>
+20814 new <><ls>Ki. 2. 51.</ls> {#--prakopanaM#} sowing internal <lbinfo n="dis+sensions"/>
+;
+; Case 49: <L>2100<pc>0091-c<k1>aMtara<k2>aMtara
+21057 old <>mind; {#satatamasutaraM varRayaMtyaMtaraM#} <ls>Ki. 5.</ls>
+21057 new <>mind; {#satatamasutaraM varRayaMtyaMtaraM#}  <lbinfo n="ls:Ki. 5.+ 18"/>
+;
+; Case 50: <L>2100<pc>0091-c<k1>aMtara<k2>aMtara
+21058 old <>18 the inmost or secret nature (<ab>lit.</ab>
+21058 new <><ls>Ki. 5. 18</ls> the inmost or secret nature (<ab>lit.</ab>
+;
+; Case 51: <L>2257<pc>0103-b<k1>apakf<k2>apakf
+23394 old <>dragging away; {#yo'pacakre vanAtsItAM#} <ls>Bk.</ls>
+23394 new <>dragging away; {#yo'pacakre vanAtsItAM#}  <lbinfo n="ls:Bk.+ 8. 20"/>
+;
+; Case 52: <L>2257<pc>0103-b<k1>apakf<k2>apakf
+23395 old <>8. 20 bore forcibly away. {@--2@} To hurt,
+23395 new <><ls>Bk. 8. 20</ls> bore forcibly away. {@--2@} To hurt,
+;
+; Case 53: <L>2308<pc>0105-a<k1>apacAraH<k2>apacAraH
+23802 old <>({#lopa#}); {#mahADvare viDyapacAradozaH#} <ls>Ki. 16.</ls>
+23802 new <>({#lopa#}); {#mahADvare viDyapacAradozaH#}  <lbinfo n="ls:Ki. 16.+ 48."/>
+;
+; Case 54: <L>2308<pc>0105-a<k1>apacAraH<k2>apacAraH
+23803 old <>48. {@--6@} Unwholesome or improper
+23803 new <><ls>Ki. 16. 48.</ls> {@--6@} Unwholesome or improper
+;
+; Case 55: <L>2383<pc>0107-b<k1>apanI<k2>apanI
+24327 old <>{#BayamapanenumAttaDanvA#} <ls>Ś. 6. 26</ls>; {#SatrUnapanezyAmi#} <ls>Bk.</ls>
+24327 new <>{#BayamapanenumAttaDanvA#} <ls>Ś. 6. 26</ls>; {#SatrUnapanezyAmi#}  <lbinfo n="ls:Bk.+ 16. 30"/>
+;
+; Case 56: <L>2383<pc>0107-b<k1>apanI<k2>apanI
+24328 old <>16. 30; so {#tfpRAM, BayaM, BramaM, dozaM, #} <lbinfo n="saMSa#yaM"/>
+24328 new <><ls>Bk. 16. 30</ls>; so {#tfpRAM, BayaM, BramaM, dozaM, #} <lbinfo n="saMSa#yaM"/>
+;
+; Case 57: <L>2390<pc>0107-c<k1>apapayas<k2>apapayas
+24394 old {#apapayas#}¦ {%<ab>a.</ab>%} Waterless, dry; <ls>Ki.</ls>
+24394 new {#apapayas#}¦ {%<ab>a.</ab>%} Waterless, dry;  <lbinfo n="ls:Ki.+ 5. 12."/>
+;
+; Case 58: <L>2390<pc>0107-c<k1>apapayas<k2>apapayas
+24395 old <>5. 12.
+24395 new <><ls>Ki. 5. 12.</ls>
+;
+; Case 59: <L>2529<pc>0112-a<k1>apavfj<k2>apavfj
+25440 old <>{#SiroBiH#} {#(mahIM tastAra)#} <ls>R. 4. 63</ls>, <ls>Ki.</ls>
+25440 new <>{#SiroBiH#} {#(mahIM tastAra)#} <ls>R. 4. 63</ls>,  <lbinfo n="ls:Ki.+ 17. 58"/>
+;
+; Case 60: <L>2529<pc>0112-a<k1>apavfj<k2>apavfj
+25441 old <>17. 58 severed or cut off by arrows;
+25441 new <><ls>Ki. 17. 58</ls> severed or cut off by arrows;
+;
+; Case 61: <L>2530<pc>0112-b<k1>apavargaH<k2>apavargaH
+25455 old <><ls>Sk.</ls>); {#kriyApavargezvanujIvisAtkftAH#} <ls>Ki.</ls>
+25455 new <><ls>Sk.</ls>); {#kriyApavargezvanujIvisAtkftAH#}  <lbinfo n="ls:Ki.+ 1. 14"/>
+;
+; Case 62: <L>2530<pc>0112-b<k1>apavargaH<k2>apavargaH
+25456 old <>1. 14; {#apavarge tftIyeti BaRataH pARinerapi#}
+25456 new <><ls>Ki. 1. 14</ls>; {#apavarge tftIyeti BaRataH pARinerapi#}
+;
+; Case 63: <L>2539<pc>0112-c<k1>apavftta<k2>apavftta
+25527 old <>agitated, disturbed; {#ºjaWaraSaParI#} <ls>Ki. 12.</ls>
+25527 new <>agitated, disturbed; {#ºjaWaraSaParI#}  <lbinfo n="ls:Ki. 12.+ 49."/>
+;
+; Case 64: <L>2539<pc>0112-c<k1>apavftta<k2>apavftta
+25528 old <>49. {@--2@} With downward face;  <lbinfo n="vyA#kIrRasPuradapavfttaruMqaKaMqaH"/>
+25528 new <><ls>Ki. 12. 49.</ls> {@--2@} With downward face;  <lbinfo n="vyA#kIrRasPuradapavfttaruMqaKaMqaH"/>
+;
+; Case 65: <L>2541<pc>0112-c<k1>apavyaD<k2>apavyaD
+25543 old <><ls>Dk. 61</ls> given or spent away; <ls>Ki. 5.</ls>
+25543 new <><ls>Dk. 61</ls> given or spent away;  <lbinfo n="ls:Ki. 5.+ 30"/>
+;
+; Case 66: <L>2541<pc>0112-c<k1>apavyaD<k2>apavyaD
+25544 old <>30; <ls>Śi. 8. 37</ls>; {#hfdayamaSaraRaM me #} <lbinfo n="pakzmalA#kzyAH"/>
+25544 new <><ls>Ki. 5. 30</ls>; <ls>Śi. 8. 37</ls>; {#hfdayamaSaraRaM me #} <lbinfo n="pakzmalA#kzyAH"/>
+;
+; Case 67: <L>2632<pc>0115-b<k1>apAkf<k2>apAkf
+26165 old <>{#caMdraH#} <ls>Ś. 6. 29</ls>; {#sPuwatA na padErapAkftA#} <ls>Ki.</ls>
+26165 new <>{#caMdraH#} <ls>Ś. 6. 29</ls>; {#sPuwatA na padErapAkftA#}  <lbinfo n="ls:Ki.+ 2. 27"/>
+;
+; Case 68: <L>2632<pc>0115-b<k1>apAkf<k2>apAkf
+26166 old <>2. 27; {#pApamapAkaroti#} <ls>Bh. 2. 23</ls>; {#guhopi#}
+26166 new <><ls>Ki. 2. 27</ls>; {#pApamapAkaroti#} <ls>Bh. 2. 23</ls>; {#guhopi#}
+;
+; Case 69: <L>2686<pc>0117-a<k1>api<k2>api
+26595 old <>{#taTApi#} only being used; as in <ls>Ki. 1.</ls>
+26595 new <>{#taTApi#} only being used; as in  <lbinfo n="ls:Ki. 1.+ 28."/>
+;
+; Case 70: <L>2686<pc>0117-a<k1>api<k2>api
+26596 old <>28. {@--4@} Though (<ab>oft.</ab> translateable
+26596 new <><ls>Ki. 1. 28.</ls> {@--4@} Though (<ab>oft.</ab> translateable
+;
+; Case 71: <L>2746<pc>0119-b<k1>apAyaH<k2>apAyaH
+27082 old <>{#yena jAtaM priyApAye kadvadaM haMsakokilaM#} <ls>Bk.</ls>
+27082 new <>{#yena jAtaM priyApAye kadvadaM haMsakokilaM#}  <lbinfo n="ls:Bk.+ 6. 75."/>
+;
+; Case 72: <L>2746<pc>0119-b<k1>apAyaH<k2>apAyaH
+27083 old <>6. 75. {@--3@} Disappearance, vanishing,
+27083 new <><ls>Bk. 6. 75.</ls> {@--3@} Disappearance, vanishing,
+;
+; Case 73: <L>2746<pc>0119-b<k1>apAyaH<k2>apAyaH
+27103 old <>{#satye'pyapAyamapekzate#} <ls>H. 4. 102</ls>; <ls>Ki.</ls>
+27103 new <>{#satye'pyapAyamapekzate#} <ls>H. 4. 102</ls>;  <lbinfo n="ls:Ki.+ 14. 19."/>
+;
+; Case 74: <L>2746<pc>0119-b<k1>apAyaH<k2>apAyaH
+27104 old <>14. 19. {@--6@} Loss, detriment, <lbinfo n="in+jury"/>
+27104 new <><ls>Ki. 14. 19.</ls> {@--6@} Loss, detriment, <lbinfo n="in+jury"/>
+;
+; Case 75: <L>2749<pc>0119-b<k1>apekz<k2>apekz
+27147 old <>{#payoDarAn DvanataH prArTayate mfgADipaH#} <ls>Ki. 2.</ls>
+27147 new <>{#payoDarAn DvanataH prArTayate mfgADipaH#}  <lbinfo n="ls:Ki. 2.+ 21"/>
+;
+; Case 76: <L>2749<pc>0119-b<k1>apekz<k2>apekz
+27148 old <>21; {#yataH Sabdo'yaM vyaMjakatve'rTAMtaramapekzate#}
+27148 new <><ls>Ki. 2. 21</ls>; {#yataH Sabdo'yaM vyaMjakatve'rTAMtaramapekzate#}
+;
+; Case 77: <L>2991<pc>0126-c<k1>aBi<k2>aBi
+28862 old <>reference to; {#sAyamaMqanamaBi tvarayaMtyaH#} <ls>Ki.</ls>
+28862 new <>reference to; {#sAyamaMqanamaBi tvarayaMtyaH#}  <lbinfo n="ls:Ki.+ 9. 6"/>
+;
+; Case 78: <L>2991<pc>0126-c<k1>aBi<k2>aBi
+28863 old <>9. 6; {#sADurdevadatto mAtaramaBi#} <ls>Sk.</ls> ({%d%})
+28863 new <><ls>Ki. 9. 6</ls>; {#sADurdevadatto mAtaramaBi#} <ls>Sk.</ls> ({%d%})
+;
+; Case 79: <L>3110<pc>0130-b<k1>aBiDAnaM<k2>aBiDAnaM
+29748 old <><ls>K. 32</ls>; {#tavABiDAnAd vyaTate natAnanaH#} <ls>Ki.</ls>
+29748 new <><ls>K. 32</ls>; {#tavABiDAnAd vyaTate natAnanaH#}  <lbinfo n="ls:Ki.+ 1. 24"/>
+;
+; Case 80: <L>3110<pc>0130-b<k1>aBiDAnaM<k2>aBiDAnaM
+29749 old <>1. 24; (at the end of <ab>comp.</ab>) called,
+29749 new <><ls>Ki. 1. 24</ls>; (at the end of <ab>comp.</ab>) called,
+;
+; Case 81: <L>3143<pc>0131-c<k1>aBiniviS<k2>aBiniviS
+30029 old <>{#Bavanmano'BiniviSate#} <ls>Dk. 57</ls>, <ls>Mu. 5. 12</ls>, <ls>Bk. 8.</ls>
+30029 new <>{#Bavanmano'BiniviSate#} <ls>Dk. 57</ls>, <ls>Mu. 5. 12</ls>,  <lbinfo n="ls:Bk. 8.+ 80."/>
+;
+; Case 82: <L>3143<pc>0131-c<k1>aBiniviS<k2>aBiniviS
+30030 old <>80. {%--<ab>Caus.</ab>%} To make one enter or
+30030 new <><ls>Bk. 8. 80.</ls> {%--<ab>Caus.</ab>%} To make one enter or
+;
+; Case 83: <L>3144<pc>0131-c<k1>aBinivizwa<k2>aBinivizwa
+30050 old <>Obstinate, perverse; <ls>Śi. 16. 43</ls>; <ls>Ki.</ls>
+30050 new <>Obstinate, perverse; <ls>Śi. 16. 43</ls>;  <lbinfo n="ls:Ki.+ 17. 11."/>
+;
+; Case 84: <L>3144<pc>0131-c<k1>aBinivizwa<k2>aBinivizwa
+30051 old <>17. 11. {@--6@} Well-versed or proficient
+30051 new <><ls>Ki. 17. 11.</ls> {@--6@} Well-versed or proficient
+;
+; Case 85: <L>3168<pc>0133-a<k1>aBipanna<k2>aBipanna
+30283 old <>state &c.); {#tvamanyamAkAramivABipannaH#} <ls>Ki.</ls>
+30283 new <>state &c.); {#tvamanyamAkAramivABipannaH#}  <lbinfo n="ls:Ki.+ 3. 46."/>
+;
+; Case 86: <L>3168<pc>0133-a<k1>aBipanna<k2>aBipanna
+30284 old <>3. 46. {@--2@} Fled, fugitive, seeking <lbinfo n="re+fuge"/>
+30284 new <><ls>Ki. 3. 46.</ls> {@--2@} Fled, fugitive, seeking <lbinfo n="re+fuge"/>
+;
+; Case 87: <L>3210<pc>0134-a<k1>aBiBavaH<k2>aBiBavaH
+30544 old <>{#itaretarAnaBiBavena mfgAstamupAsate gurumivAMtasadaH#} <ls>Ki.</ls>
+30544 new <>{#itaretarAnaBiBavena mfgAstamupAsate gurumivAMtasadaH#}  <lbinfo n="ls:Ki.+ 6. 34"/>
+;
+; Case 88: <L>3210<pc>0134-a<k1>aBiBavaH<k2>aBiBavaH
+30545 old <>6. 34 (<ab>cf.</ab> <ls>K. 45</ls> and the Bible
+30545 new <><ls>Ki. 6. 34</ls> (<ab>cf.</ab> <ls>K. 45</ls> and the Bible
+;
+; Case 89: <L>3305<pc>0137-b<k1>aBilAzaka<k2>aBilAzaka, --lAzi(si)n, --lAzuka
+31329 old <><ls>Me. 78</ls>; {#jayamatraBavAnnUnamarAtizvaBilAzukaH#} <ls>Ki.</ls>
+31329 new <><ls>Me. 78</ls>; {#jayamatraBavAnnUnamarAtizvaBilAzukaH#}  <lbinfo n="ls:Ki.+ 11. 18"/>
+;
+; Case 90: <L>3305<pc>0137-b<k1>aBilAzaka<k2>aBilAzaka, --lAzi(si)n, --lAzuka
+31330 old <>11. 18; <ls>Śi. 15. 59.</ls>
+31330 new <><ls>Ki. 11. 18</ls>; <ls>Śi. 15. 59.</ls>
+;
+; Case 91: <L>3337<pc>0138-a<k1>aBivft<k2>aBivft
+31529 old <>{#Bivartate#} <ls>Ś. 1</ls>; {#ayamekacaro'Bivartate mAM#} <ls>Ki.</ls>
+31529 new <>{#Bivartate#} <ls>Ś. 1</ls>; {#ayamekacaro'Bivartate mAM#}  <lbinfo n="ls:Ki.+ 13. 3."/>
+;
+; Case 92: <L>3337<pc>0138-a<k1>aBivft<k2>aBivft
+31530 old <>13. 3. {@--3@} To face, encounter, stand
+31530 new <><ls>Ki. 13. 3.</ls> {@--3@} To face, encounter, stand
+;
+; Case 93: <L>3463<pc>0141-b<k1>aBisf<k2>aBisf
+32294 old <>proceed; {#puroBisasre surasuMdarIjanEH#} <ls>Ki.</ls>
+32294 new <>proceed; {#puroBisasre surasuMdarIjanEH#}  <lbinfo n="ls:Ki.+ 8. 4."/>
+;
+; Case 94: <L>3463<pc>0141-b<k1>aBisf<k2>aBisf
+32295 old <>8. 4. {@--2@} To attack, assail. {@--3@} To
+32295 new <><ls>Ki. 8. 4.</ls> {@--2@} To attack, assail. {@--3@} To
+;
+; Case 95: <L>3504<pc>0142-b<k1>aBI<k2>aBI
+32572 old <>{@--3@} ({%a%}) To go into, enter; <ls>Bk. 5.</ls>
+32572 new <>{@--3@} ({%a%}) To go into, enter;  <lbinfo n="ls:Bk. 5.+ 67"/>
+;
+; Case 96: <L>3504<pc>0142-b<k1>aBI<k2>aBI
+32573 old <>67; <ls>Ms. 8. 75.</ls> ({%b%}) To go over to,
+32573 new <><ls>Bk. 5. 67</ls>; <ls>Ms. 8. 75.</ls> ({%b%}) To go over to,
+;
+; Case 97: <L>3504<pc>0142-b<k1>aBI<k2>aBI
+32575 old <>fall to one's share, come to; <ls>Bk. 7.</ls>
+32575 new <>fall to one's share, come to;  <lbinfo n="ls:Bk. 7.+ 99."/>
+;
+; Case 98: <L>3504<pc>0142-b<k1>aBI<k2>aBI
+32576 old <>99. {@--4@} To get, meet with, fall into,
+32576 new <><ls>Bk. 7. 99.</ls> {@--4@} To get, meet with, fall into,
+;
+; Case 99: <L>3584<pc>0144-b<k1>aByamitraM<k2>aByamitraM
+33066 old <>enemy; to face the enemy; <ls>Ki.</ls>
+33066 new <>enemy; to face the enemy;  <lbinfo n="ls:Ki.+ 16. 5"/>
+;
+; Case 100: <L>3584<pc>0144-b<k1>aByamitraM<k2>aByamitraM
+33067 old <>16. 5; <ls>Mv. 6</ls>; <ls>Ve. 5. 37.</ls>
+33067 new <><ls>Ki. 16. 5</ls>; <ls>Mv. 6</ls>; <ls>Ve. 5. 37.</ls>
+;
+; Case 101: <L>3585<pc>0144-b<k1>aByamitrIRaH<k2>aByamitrIRaH, --yaH, --mitryaH
+33074 old <>{#udyogamaByamitrIRo yaTezwaM tvaM ca saMtanu#} <ls>Bk.</ls>
+33074 new <>{#udyogamaByamitrIRo yaTezwaM tvaM ca saMtanu#}  <lbinfo n="ls:Bk.+ 5. 47"/>
+;
+; Case 102: <L>3585<pc>0144-b<k1>aByamitrIRaH<k2>aByamitrIRaH, --yaH, --mitryaH
+33075 old <>5. 47; {#mArIco'nunayaMstrAsAdaByamitryo #} <lbinfo n="Ba#vAmi"/>
+33075 new <><ls>Bk. 5. 47</ls>; {#mArIco'nunayaMstrAsAdaByamitryo #} <lbinfo n="Ba#vAmi"/>
+;
+; Case 103: <L>3815<pc>0151-a<k1>amitraH<k2>amitraH
+34705 old <><ls>M. 1</ls>; {#prakftyamitrA hi satAmasADavaH#} <ls>Ki.</ls>
+34705 new <><ls>M. 1</ls>; {#prakftyamitrA hi satAmasADavaH#}  <lbinfo n="ls:Ki.+ 14. 21"/>
+;
+; Case 104: <L>3815<pc>0151-a<k1>amitraH<k2>amitraH
+34706 old <>14. 21; <ls>Ms. 7. 83</ls>; 12. 79; 2. 239.
+34706 new <><ls>Ki. 14. 21</ls>; <ls>Ms. 7. 83</ls>; 12. 79; 2. 239.
+;
+; Case 105: <L>3852<pc>0152-a<k1>amfta<k2>amfta
+34958 old <>the ocean; {#devAsurEramftamaMbuniDirmamaMTe#} <ls>Ki.</ls>
+34958 new <>the ocean; {#devAsurEramftamaMbuniDirmamaMTe#}  <lbinfo n="ls:Ki.+ 5. 30"/>
+;
+; Case 106: <L>3852<pc>0152-a<k1>amfta<k2>amfta
+34959 old <>5. 30; {#vizAdazyamftaM grAhyaM#} <ls>Ms. 2. 239</ls>;
+34959 new <><ls>Ki. 5. 30</ls>; {#vizAdazyamftaM grAhyaM#} <ls>Ms. 2. 239</ls>;
+;
+; Case 107: <L>3894<pc>0154-b<k1>aMbu<k2>aMbu
+35445 old <>the ocean; {#devAsurEramftamaMbuniDirmamaMTe#} <ls>Ki.</ls>
+35445 new <>the ocean; {#devAsurEramftamaMbuniDirmamaMTe#}  <lbinfo n="ls:Ki.+ 5. 30."/>
+;
+; Case 108: <L>3894<pc>0154-b<k1>aMbu<k2>aMbu
+35446 old <>5. 30. {#--pa#} {%<ab>a.</ab>%} drinking water. ({#--paH#})
+35446 new <><ls>Ki. 5. 30.</ls> {#--pa#} {%<ab>a.</ab>%} drinking water. ({#--paH#})
+;
+; Case 109: <L>3894<pc>0154-b<k1>aMbu<k2>aMbu
+35453 old <>cascade; {#gaMgAMbupAtapratimA gfheByaH#} <ls>Bk. 1.</ls>
+35453 new <>cascade; {#gaMgAMbupAtapratimA gfheByaH#}  <lbinfo n="ls:Bk. 1.+ 8."/>
+;
+; Case 110: <L>3894<pc>0154-b<k1>aMbu<k2>aMbu
+35454 old <>8. {#--prasAdaH, --prasAdanaM#} [{#aMbUni prasAdayati]#}
+35454 new <><ls>Bk. 1. 8.</ls> {#--prasAdaH, --prasAdanaM#} [{#aMbUni prasAdayati]#}
+;
+; Case 111: <L>4007<pc>0160-a<k1>aratniH<k2>aratniH
+36603 old <>{#badDamuzwikaro ratniraratniH sakanizWikaH ..#} <ls>Halāy.</ls>; <ls>Ki. 18.</ls>
+36603 new <>{#badDamuzwikaro ratniraratniH sakanizWikaH ..#} <ls>Halāy.</ls>;  <lbinfo n="ls:Ki. 18.+ 6."/>
+;
+; Case 112: <L>4007<pc>0160-a<k1>aratniH<k2>aratniH
+36604 old <>6. {@--3@} The arm.
+36604 new <><ls>Ki. 18. 6.</ls> {@--3@} The arm.
+;
+; Case 113: <L>4130<pc>0164-b<k1>arc<k2>arc
+37618 old <>worship; {#prAnarcurarcyA jagadarcanIyaM#} <ls>Bk.</ls>
+37618 new <>worship; {#prAnarcurarcyA jagadarcanIyaM#}  <lbinfo n="ls:Bk.+ 2. 20"/>
+;
+; Case 114: <L>4130<pc>0164-b<k1>arc<k2>arc
+37619 old <>2. 20; ({%--caus.%}) to honour. {#--saM#} 1.
+37619 new <><ls>Bk. 2. 20</ls>; ({%--caus.%}) to honour. {#--saM#} 1.
+;
+; Case 115: <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38160 old <>of meaning; {#BAraverarTagOravaM#} <ls>Udb.</ls>, <ls>Ki.</ls>
+38160 new <>of meaning; {#BAraverarTagOravaM#} <ls>Udb.</ls>,  <lbinfo n="ls:Ki.+ 2. 27."/>
+;
+; Case 116: <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38161 old <>2. 27. {#--Gna#} {%<ab>a.</ab>%} ({#GnI#} {%<ab>f.</ab>%}) extravagant,
+38161 new <><ls>Ki. 2. 27.</ls> {#--Gna#} {%<ab>a.</ab>%} ({#GnI#} {%<ab>f.</ab>%}) extravagant,
+;
+; Case 117: <L>4174<pc>0168-b<k1>ard<k2>ard
+38439 old <>attack; {#atyArdIt vAlinaH putraM#} <ls>Bk. 15.</ls>
+38439 new <>attack; {#atyArdIt vAlinaH putraM#}  <lbinfo n="ls:Bk. 15.+ 115."/>
+;
+; Case 118: <L>4174<pc>0168-b<k1>ard<k2>ard
+38440 old <>115. {#--aBi#} to distress, afflict, pain,
+38440 new <><ls>Bk. 15. 115.</ls> {#--aBi#} to distress, afflict, pain,
+;
+; Case 119: <L>4220<pc>0171-a<k1>arh<k2>arh
+39005 old <>worship; {#rAjArjihattaM maDuparkapARiH#} <ls>Bk.</ls>
+39005 new <>worship; {#rAjArjihattaM maDuparkapARiH#}  <lbinfo n="ls:Bk.+ 1. 17"/>
+;
+; Case 120: <L>4220<pc>0171-a<k1>arh<k2>arh
+39006 old <>1. 17; <ls>Ms. 3. 3</ls>, 119.
+39006 new <><ls>Bk. 1. 17</ls>; <ls>Ms. 3. 3</ls>, 119.
+;
+; Case 121: <L>4246<pc>0172-b<k1>alaMGya<k2>alaMGya
+39237 old <>secure or attain, unattainable; <ls>Ki. 10.</ls>
+39237 new <>secure or attain, unattainable;  <lbinfo n="ls:Ki. 10.+ 6"/>
+;
+; Case 122: <L>4246<pc>0172-b<k1>alaMGya<k2>alaMGya
+39238 old <>6, 13; <ls>Śi. 8. 57</ls>; {#ºtA#} state of being
+39238 new <><ls>Ki. 10. 6</ls>, 13; <ls>Śi. 8. 57</ls>; {#ºtA#} state of being
+;
+; Case 123: <L>4371<pc>0176-a<k1>avakF<k2>avakF
+40169 old <>{#lAjAMjaliBiravakIryamARaH#} <ls>K. 86</ls>; <ls>Ki.</ls>
+40169 new <>{#lAjAMjaliBiravakIryamARaH#} <ls>K. 86</ls>;  <lbinfo n="ls:Ki.+ 6. 2"/>
+;
+; Case 124: <L>4371<pc>0176-a<k1>avakF<k2>avakF
+40170 old <>6. 2; {#avakIryottarIyARi#} <ls>Mb.</ls> <lbinfo n="spread+ing"/>
+40170 new <><ls>Ki. 6. 2</ls>; {#avakIryottarIyARi#} <ls>Mb.</ls> <lbinfo n="spread+ing"/>
+;
+; Case 125: <L>4424<pc>0177-b<k1>avagam<k2>avagam
+40460 old <>{#tejoMSasaMBavaM#} <ls>Bg. 10. 41</ls>; <ls>R. 8. 88</ls>; <ls>Bk.</ls>
+40460 new <>{#tejoMSasaMBavaM#} <ls>Bg. 10. 41</ls>; <ls>R. 8. 88</ls>;  <lbinfo n="ls:Bk.+ 5. 81."/>
+;
+; Case 126: <L>4424<pc>0177-b<k1>avagam<k2>avagam
+40461 old <>5. 81. ({%b%}) To consider, regard, look
+40461 new <><ls>Bk. 5. 81.</ls> ({%b%}) To consider, regard, look
+;
+; Case 127: <L>4433<pc>0177-c<k1>avaguRaH<k2>avaguRaH
+40551 old <>demerit; {#anyadozaM parAvaguRaM#} <ls>Malli.</ls> on <ls>Ki.</ls>
+40551 new <>demerit; {#anyadozaM parAvaguRaM#} <ls>Malli.</ls> on  <lbinfo n="ls:Ki.+ 13. 48."/>
+;
+; Case 128: <L>4433<pc>0177-c<k1>avaguRaH<k2>avaguRaH
+40552 old <>13. 48.
+40552 new <><ls>Ki. 13. 48.</ls>
+;
+; Case 129: <L>4446<pc>0178-a<k1>avagIta<k2>avagIta
+40629 old <><ls>U. 2. 2</ls>; {#avagItAM gamite daSAmimAM#} <ls>Ki.</ls>
+40629 new <><ls>U. 2. 2</ls>; {#avagItAM gamite daSAmimAM#}  <lbinfo n="ls:Ki.+ 2. 7"/>
+;
+; Case 130: <L>4446<pc>0178-a<k1>avagIta<k2>avagIta
+40630 old <>2. 7; {#soQAvagItapraTamAyuDasya#} 17. 28;
+40630 new <><ls>Ki. 2. 7</ls>; {#soQAvagItapraTamAyuDasya#} 17. 28;
+;
+; Case 131: <L>4499<pc>0179-b<k1>avajitiH<k2>avajitiH
+40982 old {#avajitiH#}¦ {%<ab>f.</ab>%} Conquest, defeat; <ls>Ki.</ls>
+40982 new {#avajitiH#}¦ {%<ab>f.</ab>%} Conquest, defeat;  <lbinfo n="ls:Ki.+ 6. 43."/>
+;
+; Case 132: <L>4499<pc>0179-b<k1>avajitiH<k2>avajitiH
+40983 old <>6. 43.
+40983 new <><ls>Ki. 6. 43.</ls>
+;
+; Case 133: <L>4501<pc>0179-b<k1>avajYA<k2>avajYA
+40993 old <>{#mUQA mAnuzIM tanumASritaM#} <ls>Bg. 9. 11</ls>; <ls>Bk.</ls>
+40993 new <>{#mUQA mAnuzIM tanumASritaM#} <ls>Bg. 9. 11</ls>;  <lbinfo n="ls:Bk.+ 3. 8."/>
+;
+; Case 134: <L>4501<pc>0179-b<k1>avajYA<k2>avajYA
+40994 old <>3. 8.
+40994 new <><ls>Bk. 3. 8.</ls>
+;
+; Case 135: <L>4554<pc>0181-b<k1>avadAnaM<k2>avadAnaM
+41419 old <>{#prApadastramavadAnatozitAt#} <ls>R. 11. 21</ls>; <ls>Ki. 17.</ls>
+41419 new <>{#prApadastramavadAnatozitAt#} <ls>R. 11. 21</ls>;  <lbinfo n="ls:Ki. 17.+ 16"/>
+;
+; Case 136: <L>4554<pc>0181-b<k1>avadAnaM<k2>avadAnaM
+41420 old <>16; {#tattvatpUrvAvadAneByo na rocate#}  <lbinfo n="ls:Dk.+ 52"/>
+41420 new <><ls>Ki. 17. 16</ls>; {#tattvatpUrvAvadAneByo na rocate#}  <lbinfo n="ls:Dk.+ 52"/>
+;
+; Case 137: <L>4663<pc>0184-b<k1>avaboDaH<k2>avaboDaH
+42167 old <>judgment; {#avaboDavAri rajasaH SamanaM#} <ls>Ki. 6.</ls>
+42167 new <>judgment; {#avaboDavAri rajasaH SamanaM#}  <lbinfo n="ls:Ki. 6.+ 41."/>
+;
+; Case 138: <L>4663<pc>0184-b<k1>avaboDaH<k2>avaboDaH
+42168 old <>41. {@--4@} Teaching, informing.
+42168 new <><ls>Ki. 6. 41.</ls> {@--4@} Teaching, informing.
+;
+; Case 139: <L>4672<pc>0184-c<k1>avaBAsaH<k2>avaBAsaH
+42221 old <>spiration; {#yenAsya tattvezu kfte'vaBAse#} <ls>Ki.</ls>
+42221 new <>spiration; {#yenAsya tattvezu kfte'vaBAse#}  <lbinfo n="ls:Ki.+ 3. 26."/>
+;
+; Case 140: <L>4672<pc>0184-c<k1>avaBAsaH<k2>avaBAsaH
+42222 old <>3. 26. {@--4@} Space, reach, compass. {@--5@}
+42222 new <><ls>Ki. 3. 26.</ls> {@--4@} Space, reach, compass. {@--5@}
+;
+; Case 141: <L>4736<pc>0186-c<k1>avaruh<k2>avaruh
+42713 old <>{#yAnAsanasTaScEvEnamavaruhyABivAdayet#} <ls>Ms. 2. 202</ls>; <ls>R. 4. 80</ls>; <ls>Bk. 8.</ls>
+42713 new <>{#yAnAsanasTaScEvEnamavaruhyABivAdayet#} <ls>Ms. 2. 202</ls>; <ls>R. 4. 80</ls>;  <lbinfo n="ls:Bk. 8.+ 104"/>
+;
+; Case 142: <L>4736<pc>0186-c<k1>avaruh<k2>avaruh
+42714 old <>104; so {#prAsAdAt, vfkzAgrAt; ESvaryAt#}
+42714 new <><ls>Bk. 8. 104</ls>; so {#prAsAdAt, vfkzAgrAt; ESvaryAt#}
+;
+; Case 143: <L>4852<pc>0190-a<k1>avasad<k2>avasad
+43530 old <>{#kfcCrezvavasIdati#} <ls>Mb.</ls>; <ls>Ms. 4. 187</ls>, <ls>Bk. 6.</ls>
+43530 new <>{#kfcCrezvavasIdati#} <ls>Mb.</ls>; <ls>Ms. 4. 187</ls>,  <lbinfo n="ls:Bk. 6.+ 24."/>
+;
+; Case 144: <L>4852<pc>0190-a<k1>avasad<k2>avasad
+43531 old <>24. {@--2@} To suffer, be neglected or
+43531 new <><ls>Bk. 6. 24.</ls> {@--2@} To suffer, be neglected or
+;
+; Case 145: <L>4878<pc>0191-a<k1>avaso<k2>avaso
+43717 old <>end; {#SaktirmamAvasyati hInayudDe#} <ls>Ki. 16.</ls>
+43717 new <>end; {#SaktirmamAvasyati hInayudDe#}  <lbinfo n="ls:Ki. 16.+ 17."/>
+;
+; Case 146: <L>4878<pc>0191-a<k1>avaso<k2>avaso
+43718 old <>17. {@--5@} To put up (as at an inn).
+43718 new <><ls>Ki. 16. 17.</ls> {@--5@} To put up (as at an inn).
+;
+; Case 147: <L>4878<pc>0191-a<k1>avaso<k2>avaso
+43722 old <>firm, to persist in. {@--11@} To know; <ls>Bk.</ls>
+43722 new <>firm, to persist in. {@--11@} To know;  <lbinfo n="ls:Bk.+ 19. 28."/>
+;
+; Case 148: <L>4878<pc>0191-a<k1>avaso<k2>avaso
+43723 old <>19. 28. {@--12@} To get, attain to, reach.
+43723 new <><ls>Bk. 19. 28.</ls> {@--12@} To get, attain to, reach.
+;
+; Case 149: <L>4902<pc>0191-c<k1>avasTA<k2>avasTA
+43903 old <>obey; {#na SAsane'vAsTita yo gurURAM#} <ls>Bk.</ls>
+43903 new <>obey; {#na SAsane'vAsTita yo gurURAM#}  <lbinfo n="ls:Bk.+ 3. 14."/>
+;
+; Case 150: <L>4902<pc>0191-c<k1>avasTA<k2>avasTA
+43904 old <>3. 14. {@--3@} To live; {#kzaRamapyavatizWate#}
+43904 new <><ls>Bk. 3. 14.</ls> {@--3@} To live; {#kzaRamapyavatizWate#}
+;
+; Case 151: <L>5142<pc>0197-b<k1>ave<k2>ave
+45348 old <>{#tadavEmi kEtavaM#} <ls>Ku. 4. 9</ls>; <ls>Ś. 5. 11</ls>; <ls>Bk. 7.</ls>
+45348 new <>{#tadavEmi kEtavaM#} <ls>Ku. 4. 9</ls>; <ls>Ś. 5. 11</ls>;  <lbinfo n="ls:Bk. 7.+ 33"/>
+;
+; Case 152: <L>5142<pc>0197-b<k1>ave<k2>ave
+45349 old <>33; {#kiM mAM sutakzayakaraM suta ityavEzi#}  <lbinfo n="ls:Ve.+ 5. 2."/>
+45349 new <><ls>Bk. 7. 33</ls>; {#kiM mAM sutakzayakaraM suta ityavEzi#}  <lbinfo n="ls:Ve.+ 5. 2."/>
+;
+; Case 153: <L>5144<pc>0197-b<k1>avekz<k2>avekz
+45382 old <>consider; {#yadavocadavekzya mAninI#} <ls>Ki. 2.</ls>
+45382 new <>consider; {#yadavocadavekzya mAninI#}  <lbinfo n="ls:Ki. 2.+ 3."/>
+;
+; Case 154: <L>5144<pc>0197-b<k1>avekz<k2>avekz
+45383 old <>3. {@--6@} To look into or examine, <lbinfo n="in+spect"/>
+45383 new <><ls>Ki. 2. 3.</ls> {@--6@} To look into or examine, <lbinfo n="in+spect"/>
+;
+; Case 155: <L>5215<pc>0199-c<k1>aS<k2>aS
+45900 old <>{#KaM prAvfzeRyEriva cAnaSe'bdEH#} <ls>Bk. 2.</ls>
+45900 new <>{#KaM prAvfzeRyEriva cAnaSe'bdEH#}  <lbinfo n="ls:Bk. 2.+ 30"/>
+;
+; Case 156: <L>5215<pc>0199-c<k1>aS<k2>aS
+45901 old <>30; {#sadigaSnuvAnamiva viSvamojasA#} <ls>Ki.</ls>
+45901 new <><ls>Bk. 2. 30</ls>; {#sadigaSnuvAnamiva viSvamojasA#}  <lbinfo n="ls:Ki.+ 12. 21"/>
+;
+; Case 157: <L>5215<pc>0199-c<k1>aS<k2>aS
+45902 old <>12. 21; <ls>Śi. 17. 46</ls>, 65. {@--2@} To
+45902 new <><ls>Ki. 12. 21</ls>; <ls>Śi. 17. 46</ls>, 65. {@--2@} To
+;
+; Case 158: <L>5277<pc>0201-c<k1>aSezayati<k2>aSezayati
+46331 old <>completely; {#sa veda niHSezamaSezitakriyaH#} <ls>Ki.</ls>
+46331 new <>completely; {#sa veda niHSezamaSezitakriyaH#}  <lbinfo n="ls:Ki.+ 1. 20"/>
+;
+; Case 159: <L>5277<pc>0201-c<k1>aSezayati<k2>aSezayati
+46332 old <>1. 20; <ls>Ku. 7. 29.</ls>
+46332 new <><ls>Ki. 1. 20</ls>; <ls>Ku. 7. 29.</ls>
+;
+; Case 160: <L>5286<pc>0202-a<k1>aSnItapibatA<k2>aSnItapibatA
+46432 old <>{#aSnItapibatIyaMtI prasftA smarakarmaRi#} <ls>Bk.</ls>
+46432 new <>{#aSnItapibatIyaMtI prasftA smarakarmaRi#}  <lbinfo n="ls:Bk.+ 5. 92."/>
+;
+; Case 161: <L>5286<pc>0202-a<k1>aSnItapibatA<k2>aSnItapibatA
+46433 old <>5. 92.
+46433 new <><ls>Bk. 5. 92.</ls>
+;
+; Case 162: <L>5396<pc>0209-a<k1>asaMvidAna<k2>asaMvidAna
+47906 old <>{#asaMvidAneva jAmAtre kupyasiM#} <ls>U. 7</ls>; <ls>Ki.</ls>
+47906 new <>{#asaMvidAneva jAmAtre kupyasiM#} <ls>U. 7</ls>;  <lbinfo n="ls:Ki.+ 18. 42."/>
+;
+; Case 163: <L>5396<pc>0209-a<k1>asaMvidAna<k2>asaMvidAna
+47907 old <>18. 42.
+47907 new <><ls>Ki. 18. 42.</ls>
+;
+; Case 164: <L>5507<pc>0212-a<k1>asaha<k2>asaha
+48642 old <>{#kucakuMBayorBarasya#} <ls>Śi. 7. 48</ls>; 10. 81; <ls>Ki.</ls>
+48642 new <>{#kucakuMBayorBarasya#} <ls>Śi. 7. 48</ls>; 10. 81;  <lbinfo n="ls:Ki.+ 7. 7."/>
+;
+; Case 165: <L>5507<pc>0212-a<k1>asaha<k2>asaha
+48643 old <>7. 7. {#--haM#} The middle of the breast.
+48643 new <><ls>Ki. 7. 7.</ls> {#--haM#} The middle of the breast.
+;
+; Case 166: <L>5774<pc>0222-c<k1>Akfz<k2>Akfz
+51003 old <>take away by force, snatch; <ls>Bk. 16.</ls>
+51003 new <>take away by force, snatch;  <lbinfo n="ls:Bk. 16.+ 30."/>
+;
+; Case 167: <L>5774<pc>0222-c<k1>Akfz<k2>Akfz
+51004 old <>30. {@--7@} To supply a word or words
+51004 new <><ls>Bk. 16. 30.</ls> {@--7@} To supply a word or words
+;
+; Case 168: <L>5784<pc>0223-a<k1>Akarin<k2>Akarin
+51087 old <>breed; {#daDatamAkariBiH kariBiH kzatEH#} <ls>Ki.</ls>
+51087 new <>breed; {#daDatamAkariBiH kariBiH kzatEH#}  <lbinfo n="ls:Ki.+ 5. 7."/>
+;
+; Case 169: <L>5784<pc>0223-a<k1>Akarin<k2>Akarin
+51088 old <>5. 7.
+51088 new <><ls>Ki. 5. 7.</ls>
+;
+; Case 170: <L>5787<pc>0223-b<k1>Akekara<k2>Akekara
+51106 old <>(eyes); {#nimIladAkekaralolacakzuzA#} <ls>Ki.</ls>
+51106 new <>(eyes); {#nimIladAkekaralolacakzuzA#}  <lbinfo n="ls:Ki.+ 8. 53"/>
+;
+; Case 171: <L>5787<pc>0223-b<k1>Akekara<k2>Akekara
+51107 old <>8. 53; <ls>Māl. 5</ls>; <ls>K. 81</ls>; <ls>Mu. 3. 21</ls>;
+51107 new <><ls>Ki. 8. 53</ls>; <ls>Māl. 5</ls>; <ls>K. 81</ls>; <ls>Mu. 3. 21</ls>;
+;
+; Case 172: <L>5798<pc>0223-c<k1>AkrAMta<k2>AkrAMta
+51239 old <>{#varRAMtarAkrAMtapayoDarAgrAM#} <ls>R. 14. 27</ls>; <ls>Ki. 11.</ls>
+51239 new <>{#varRAMtarAkrAMtapayoDarAgrAM#} <ls>R. 14. 27</ls>;  <lbinfo n="ls:Ki. 11.+ 7."/>
+;
+; Case 173: <L>5798<pc>0223-c<k1>AkrAMta<k2>AkrAMta
+51240 old <>7. {@--5@} Accompanied, attended. {@--6@}
+51240 new <><ls>Ki. 11. 7.</ls> {@--5@} Accompanied, attended. {@--6@}
+;
+; Case 174: <L>5807<pc>0224-a<k1>AkruS<k2>AkruS
+51288 old <>{#kzatriyo daMqamarhati#} <ls>Ms. 8. 267</ls>; 6. 48; <ls>Bk.</ls>
+51288 new <>{#kzatriyo daMqamarhati#} <ls>Ms. 8. 267</ls>; 6. 48;  <lbinfo n="ls:Bk.+ 5. 39."/>
+;
+; Case 175: <L>5807<pc>0224-a<k1>AkruS<k2>AkruS
+51289 old <>5. 39. {@--3@} To curse. {@--4@} To censure,
+51289 new <><ls>Bk. 5. 39.</ls> {@--3@} To curse. {@--4@} To censure,
+;
+; Case 176: <L>5867<pc>0226-b<k1>AgamaH<k2>AgamaH
+51839 old <>{#nyAyanirRItasAratvAnnirapekzamivAgame#} <ls>Ki.</ls>
+51839 new <>{#nyAyanirRItasAratvAnnirapekzamivAgame#}  <lbinfo n="ls:Ki.+ 11. 39."/>
+;
+; Case 177: <L>5867<pc>0226-b<k1>AgamaH<k2>AgamaH
+51840 old <>11. 39. {@--15@} The last of the
+51840 new <><ls>Ki. 11. 39.</ls> {@--15@} The last of the
+;
+; Case 178: <L>5914<pc>0228-a<k1>AGaww<k2>AGaww
+52177 old <>touch; {#AGawwayAmAsa gatAgatAByAM#} <ls>Ki. 17.</ls>
+52177 new <>touch; {#AGawwayAmAsa gatAgatAByAM#}  <lbinfo n="ls:Ki. 17.+ 38."/>
+;
+; Case 179: <L>5914<pc>0228-a<k1>AGaww<k2>AGaww
+52178 old <>38. {@--2@} To move.
+52178 new <><ls>Ki. 17. 38.</ls> {@--2@} To move.
+;
+; Case 180: <L>5929<pc>0228-b<k1>AGrA<k2>AGrA
+52257 old <>(with the nose) as the head; <ls>Bk.</ls>
+52257 new <>(with the nose) as the head;  <lbinfo n="ls:Bk.+ 14. 12."/>
+;
+; Case 181: <L>5929<pc>0228-b<k1>AGrA<k2>AGrA
+52258 old <>14. 12. {@--3@} (Fig.) To attack, <lbinfo n="de+vour"/>
+52258 new <><ls>Bk. 14. 12.</ls> {@--3@} (Fig.) To attack, <lbinfo n="de+vour"/>
+;
+; Case 182: <L>6166<pc>0237-c<k1>AdiS<k2>AdiS
+54372 old <><ls>Ms. 11. 193</ls>; {#AdikzadasyABigamaM vanAya#} <ls>Bk. 3.</ls>
+54372 new <><ls>Ms. 11. 193</ls>; {#AdikzadasyABigamaM vanAya#}  <lbinfo n="ls:Bk. 3.+ 9"/>
+;
+; Case 183: <L>6166<pc>0237-c<k1>AdiS<k2>AdiS
+54373 old <>9, 7. 28; <ls>R. 1. 54</ls>, 2. 65; to <lbinfo n="ap+point"/>
+54373 new <><ls>Bk. 3. 9</ls>, 7. 28; <ls>R. 1. 54</ls>, 2. 65; to <lbinfo n="ap+point"/>
+;
+; Case 184: <L>6203<pc>0238-c<k1>ADA<k2>ADA
+54648 old <>26; {#ADatte kanakamayAtapatralakzmIM#} <ls>Ki.</ls>
+54648 new <>26; {#ADatte kanakamayAtapatralakzmIM#}  <lbinfo n="ls:Ki.+ 5. 39"/>
+;
+; Case 185: <L>6203<pc>0238-c<k1>ADA<k2>ADA
+54649 old <>5. 39 takes or assumes; {#garmamADatta#}
+54649 new <><ls>Ki. 5. 39</ls> takes or assumes; {#garmamADatta#}
+;
+; Case 186: <L>6270<pc>0241-a<k1>AnaMd<k2>AnaMd
+55135 old <>or delighted; {#AnaMditArastvAM dfzwvA#} <ls>Bk.</ls>
+55135 new <>or delighted; {#AnaMditArastvAM dfzwvA#}  <lbinfo n="ls:Bk.+ 22. 14"/>
+;
+; Case 187: <L>6270<pc>0241-a<k1>AnaMd<k2>AnaMd
+55136 old <>22. 14; <ls>Gīt. 11.</ls> {%--<ab>Caus.</ab>%} {@1@} To <lbinfo n="glad+den"/>
+55136 new <><ls>Bk. 22. 14</ls>; <ls>Gīt. 11.</ls> {%--<ab>Caus.</ab>%} {@1@} To <lbinfo n="glad+den"/>
+;
+; Case 188: <L>6270<pc>0241-a<k1>AnaMd<k2>AnaMd
+55137 old <>gladden, delight; <ls>Y. 1. 356</ls>; <ls>Bk.</ls>
+55137 new <>gladden, delight; <ls>Y. 1. 356</ls>;  <lbinfo n="ls:Bk.+ 21. 12."/>
+;
+; Case 189: <L>6270<pc>0241-a<k1>AnaMd<k2>AnaMd
+55138 old <>21. 12. {@--2@} To amuse oneself.
+55138 new <><ls>Bk. 21. 12.</ls> {@--2@} To amuse oneself.
+;
+; Case 190: <L>6472<pc>0246-c<k1>AbadDa<k2>AbadDa
+56529 old <>{#AbadDareKamaBito ravimaMjarIBiH#} <ls>Gīt. 11</ls>; <ls>Bk.</ls>
+56529 new <>{#AbadDareKamaBito ravimaMjarIBiH#} <ls>Gīt. 11</ls>;  <lbinfo n="ls:Bk.+ 3. 30"/>
+;
+; Case 191: <L>6472<pc>0246-c<k1>AbadDa<k2>AbadDa
+56530 old <>3. 30; <ls>Ki. 5. 33.</ls> {@--4@} Obtained. {@--5@}
+56530 new <><ls>Bk. 3. 30</ls>; <ls>Ki. 5. 33.</ls> {@--4@} Obtained. {@--5@}
+;
+; Case 192: <L>6528<pc>0248-a<k1>ABaraRaM<k2>ABaraRaM
+56867 old <><ls>Ku. 5. 44</ls>; {#praSamABaraRaM parAkramaH#} <ls>Ki. 2.</ls>
+56867 new <><ls>Ku. 5. 44</ls>; {#praSamABaraRaM parAkramaH#}  <lbinfo n="ls:Ki. 2.+ 32."/>
+;
+; Case 193: <L>6528<pc>0248-a<k1>ABaraRaM<k2>ABaraRaM
+56868 old <>32. ({#ABaraRa#} occurs in the names of
+56868 new <><ls>Ki. 2. 32.</ls> ({#ABaraRa#} occurs in the names of
+;
+; Case 194: <L>6580<pc>0249-c<k1>Amuc<k2>Amuc
+57232 old <><ls>R. 13. 21</ls>, 12. 86, 16. 74, 17. 25; <ls>Ki.</ls>
+57232 new <><ls>R. 13. 21</ls>, 12. 86, 16. 74, 17. 25;  <lbinfo n="ls:Ki.+ 11. 15"/>
+;
+; Case 195: <L>6580<pc>0249-c<k1>Amuc<k2>Amuc
+57233 old <>11. 15; {#AmuMcadvarma ratnAQyaM#} <ls>Bk. 17. 6.</ls>
+57233 new <><ls>Ki. 11. 15</ls>; {#AmuMcadvarma ratnAQyaM#} <ls>Bk. 17. 6.</ls>
+;
+; Case 196: <L>6654<pc>0251-c<k1>Ayas<k2>Ayas
+57749 old <>injure, affect; lessen, diminish; <ls>Bk.</ls>
+57749 new <>injure, affect; lessen, diminish;  <lbinfo n="ls:Bk.+ 8. 61."/>
+;
+; Case 197: <L>6654<pc>0251-c<k1>Ayas<k2>Ayas
+57750 old <>8. 61. {@--4@} To string (as a bow);
+57750 new <><ls>Bk. 8. 61.</ls> {@--4@} To string (as a bow);
+;
+; Case 198: <L>6669<pc>0252-a<k1>Ayukta<k2>Ayukta
+57856 old <>{#kuSalo'nvezaRasyAhamAyukto dUtakarmaRi#} <ls>Bk. 8.</ls>
+57856 new <>{#kuSalo'nvezaRasyAhamAyukto dUtakarmaRi#}  <lbinfo n="ls:Bk. 8.+ 115."/>
+;
+; Case 199: <L>6669<pc>0252-a<k1>Ayukta<k2>Ayukta
+57857 old <>115. {@--2@} United, joined, obtained. 
+57857 new <><ls>Bk. 8. 115.</ls> {@--2@} United, joined, obtained. 
+;
+; Case 200: <L>6700<pc>0253-c<k1>AraB<k2>AraB
+58153 old <><ls>Subhāsh.</ls>; {#ArabDA balivigrahaM#} <ls>Bk. 5.</ls>
+58153 new <><ls>Subhāsh.</ls>; {#ArabDA balivigrahaM#}  <lbinfo n="ls:Bk. 5.+ 38."/>
+;
+; Case 201: <L>6700<pc>0253-c<k1>AraB<k2>AraB
+58154 old <>38. {@--2@} To be active or energetic,
+58154 new <><ls>Bk. 5. 38.</ls> {@--2@} To be active or energetic,
+;
+; Case 202: <L>6710<pc>0254-a<k1>Arata<k2>Arata
+58231 old {#Arata#}¦ {%<ab>p. p.</ab>%} {@1@} Stopped, ceased; <ls>Ki.</ls>
+58231 new {#Arata#}¦ {%<ab>p. p.</ab>%} {@1@} Stopped, ceased;  <lbinfo n="ls:Ki.+ 5. 6"/>
+;
+; Case 203: <L>6710<pc>0254-a<k1>Arata<k2>Arata
+58232 old <>5. 6; see {#anArata#} also. {@--2@} Quiet,
+58232 new <><ls>Ki. 5. 6</ls>; see {#anArata#} also. {@--2@} Quiet,
+;
+; Case 204: <L>6829<pc>0258-a<k1>AlaB<k2>AlaB
+59162 old <>{#gAmAlaByArkamIkzya vA#} <ls>Ms. 5. 87</ls>, 4. 117; <ls>Bk.</ls>
+59162 new <>{#gAmAlaByArkamIkzya vA#} <ls>Ms. 5. 87</ls>, 4. 117;  <lbinfo n="ls:Bk.+ 14. 91"/>
+;
+; Case 205: <L>6829<pc>0258-a<k1>AlaB<k2>AlaB
+59163 old <>14. 91; {#satyenAyuDamAlaBe; satyena (satyaM)#}
+59163 new <><ls>Bk. 14. 91</ls>; {#satyenAyuDamAlaBe; satyena (satyaM)#}
+;
+; Case 206: <L>6889<pc>0259-c<k1>Aloc<k2>Aloc
+59587 old <>{#AlocayaMto vistAramaMBasAM dakziRodaDeH#} <ls>Bk. 7.</ls>
+59587 new <>{#AlocayaMto vistAramaMBasAM dakziRodaDeH#}  <lbinfo n="ls:Bk. 7.+ 40"/>
+;
+; Case 207: <L>6889<pc>0259-c<k1>Aloc<k2>Aloc
+59588 old <>40; {#iti-evaM-Alocya#} so thinking.
+59588 new <><ls>Bk. 7. 40</ls>; {#iti-evaM-Alocya#} so thinking.
+;
+; Case 208: <L>6970<pc>0261-c<k1>AvaraRa<k2>AvaraRa
+60130 old <>{#labDAMtarA sAvaraRepi gehe#} <ls>R. 16. 7</ls>; <ls>Ki. 5.</ls>
+60130 new <>{#labDAMtarA sAvaraRepi gehe#} <ls>R. 16. 7</ls>;  <lbinfo n="ls:Ki. 5.+ 25."/>
+;
+; Case 209: <L>6970<pc>0261-c<k1>AvaraRa<k2>AvaraRa
+60131 old <>25. {@--6@} A bolt, latch. {@--7@} A shield.
+60131 new <><ls>Ki. 5. 25.</ls> {@--6@} A bolt, latch. {@--7@} A shield.
+;
+; Case 210: <L>7031<pc>0263-c<k1>ASA<k2>ASA
+60572 old <>{#agastyAcaritAmASAmanASAsyajayo yayO#} <ls>R. 4. 44</ls>; <ls>Ki. 7.</ls>
+60572 new <>{#agastyAcaritAmASAmanASAsyajayo yayO#} <ls>R. 4. 44</ls>;  <lbinfo n="ls:Ki. 7.+ 9."/>
+;
+; Case 211: <L>7031<pc>0263-c<k1>ASA<k2>ASA
+60573 old <>9. {@--Comp.@} {#--anvita, --janana#} {%<ab>a.</ab>%}
+60573 new <><ls>Ki. 7. 9.</ls> {@--Comp.@} {#--anvita, --janana#} {%<ab>a.</ab>%}
+;
+; Case 212: <L>7063<pc>0265-a<k1>ASyAna<k2>ASyAna
+60865 old <>consolidated; {#paMkErivASyAnavanEstawAni#} <ls>Ki.</ls>
+60865 new <>consolidated; {#paMkErivASyAnavanEstawAni#}  <lbinfo n="ls:Ki.+ 16. 10."/>
+;
+; Case 213: <L>7063<pc>0265-a<k1>ASyAna<k2>ASyAna
+60866 old <>16. 10. {@--2@} Partially dried;  <lbinfo n="paTaScA#SyAnakardamAn"/>
+60866 new <><ls>Ki. 16. 10.</ls> {@--2@} Partially dried;  <lbinfo n="paTaScA#SyAnakardamAn"/>
+;
+; Case 214: <L>7119<pc>0267-c<k1>AsaMsAra<k2>AsaMsAra, --saMsfti
+61432 old <>of worldly life; <ls>Bh. 3. 46</ls>; <ls>Ki. 3.</ls>
+61432 new <>of worldly life; <ls>Bh. 3. 46</ls>;  <lbinfo n="ls:Ki. 3.+ 6"/>
+;
+; Case 215: <L>7119<pc>0267-c<k1>AsaMsAra<k2>AsaMsAra, --saMsfti
+61433 old <>6 (<ls>Malli.</ls> {#yAvatsaMsAraM#}).
+61433 new <><ls>Ki. 3. 6</ls> (<ls>Malli.</ls> {#yAvatsaMsAraM#}).
+;
+; Case 216: <L>7121<pc>0267-c<k1>AsaMj<k2>AsaMj
+61448 old <>{@--2@} To confer upon, conduce to; <ls>Ki.</ls>
+61448 new <>{@--2@} To confer upon, conduce to;  <lbinfo n="ls:Ki.+ 13. 44."/>
+;
+; Case 217: <L>7121<pc>0267-c<k1>AsaMj<k2>AsaMj
+61449 old <>13. 44. {@--3@} To stick or adhere to,
+61449 new <><ls>Ki. 13. 44.</ls> {@--3@} To stick or adhere to,
+;
+; Case 218: <L>7172<pc>0269-b<k1>AskaMdaH<k2>AskaMdaH, --danaM
+61839 old <>mounting; treading, stepping over; <ls>Ki.</ls>
+61839 new <>mounting; treading, stepping over;  <lbinfo n="ls:Ki.+ 13. 18."/>
+;
+; Case 219: <L>7172<pc>0269-b<k1>AskaMdaH<k2>AskaMdaH, --danaM
+61840 old <>13. 18. {@--3@} Reproach, abuse. {@--4@} The
+61840 new <><ls>Ki. 13. 18.</ls> {@--3@} Reproach, abuse. {@--4@} The
+;
+; Case 220: <L>7225<pc>0271-b<k1>Ahan<k2>Ahan
+62263 old <><ls>Ki. 17. 63</ls>; so {#AhaDvaM mA raGUttamaM;#} <ls>Bk.</ls>
+62263 new <><ls>Ki. 17. 63</ls>; so {#AhaDvaM mA raGUttamaM;#}  <lbinfo n="ls:Bk.+ 8. 15"/>
+;
+; Case 221: <L>7225<pc>0271-b<k1>Ahan<k2>Ahan
+62264 old <>8. 15, 5. 102 (see <ls>Sk.</ls> on P. I. 3.
+62264 new <><ls>Bk. 8. 15</ls>, 5. 102 (see <ls>Sk.</ls> on P. I. 3.
+;
+; Case 222: <L>7293<pc>0273-1<k1>ezyat<k2>ezyat
+62804 old {#ezyat#}¦ {%<ab>a.</ab>%} Future, to come; <ls>Ki. 1.</ls>
+62804 new {#ezyat#}¦ {%<ab>a.</ab>%} Future, to come;  <lbinfo n="ls:Ki. 1.+ 23"/>
+;
+; Case 223: <L>7293<pc>0273-1<k1>ezyat<k2>ezyat
+62805 old <>23; <ls>Śi. 1. 26.</ls>
+62805 new <><ls>Ki. 1. 23</ls>; <ls>Śi. 1. 26.</ls>
+;
+; Case 224: <L>7380<pc>0279-b<k1>idDa<k2>idDa
+63970 old <>Obeyed, unresisted (as order); {#ºSAsanaH#} <ls>Ki.</ls>
+63970 new <>Obeyed, unresisted (as order); {#ºSAsanaH#}  <lbinfo n="ls:Ki.+ 1. 22"/>
+;
+; Case 225: <L>7380<pc>0279-b<k1>idDa<k2>idDa
+63971 old <>1. 22 {#--dDaM#} {@1@} Sunshine, heat. {@--2@}
+63971 new <><ls>Ki. 1. 22</ls> {#--dDaM#} {@1@} Sunshine, heat. {@--2@}
+;
+; Case 226: <L>7477<pc>0282-c<k1>Ikz<k2>Ikz
+64672 old <>{#Ikzate gargaH#} <ls>Sk.</ls> ({#SuBASuBaM paryAlocayati#}); <ls>Bk.</ls>
+64672 new <>{#Ikzate gargaH#} <ls>Sk.</ls> ({#SuBASuBaM paryAlocayati#});  <lbinfo n="ls:Bk.+ 8. 76"/>
+;
+; Case 227: <L>7477<pc>0282-c<k1>Ikz<k2>Ikz
+64673 old <>8. 76 --With {#aDi#} to suspect;  <lbinfo n="satye#pyapAyamaDIkzate"/>
+64673 new <><ls>Bk. 8. 76</ls> --With {#aDi#} to suspect;  <lbinfo n="satye#pyapAyamaDIkzate"/>
+;
+; Case 228: <L>7490<pc>0282-1<k1>Iq<k2>Iq
+64740 old <><ls>R. 18. 17</ls>; {#neqize yadi kAkutsTaM#} <ls>Bk.</ls>
+64740 new <><ls>R. 18. 17</ls>; {#neqize yadi kAkutsTaM#}  <lbinfo n="ls:Bk.+ 9. 57"/>
+;
+; Case 229: <L>7490<pc>0282-1<k1>Iq<k2>Iq
+64741 old <>9. 57, 18. 15. {@--2@} To implore, <lbinfo n="re+quest"/>
+64741 new <><ls>Bk. 9. 57</ls>, 18. 15. {@--2@} To implore, <lbinfo n="re+quest"/>
+;
+; Case 230: <L>7556<pc>0285-a<k1>ukz<k2>ukz
+65280 old <>down upon; {#Okzan SoRitamaMBodAH#} <ls>Bk.</ls>
+65280 new <>down upon; {#Okzan SoRitamaMBodAH#}  <lbinfo n="ls:Bk.+ 17. 9"/>
+;
+; Case 231: <L>7556<pc>0285-a<k1>ukz<k2>ukz
+65281 old <>17. 9, 3. 5; <ls>Śi. 5. 30</ls>; <ls>R. 11. 5</ls>, 
+65281 new <><ls>Bk. 17. 9</ls>, 3. 5; <ls>Śi. 5. 30</ls>; <ls>R. 11. 5</ls>, 
+;
+; Case 232: <L>7607<pc>0287-a<k1>uccayaH<k2>uccayaH
+65730 old <>(wearing) garment ({#nIvibaMDa#}); <ls>Ki.</ls>
+65730 new <>(wearing) garment ({#nIvibaMDa#});  <lbinfo n="ls:Ki.+ 8. 15"/>
+;
+; Case 233: <L>7607<pc>0287-a<k1>uccayaH<k2>uccayaH
+65731 old <>8. 15, 51. {@--4@} Nīvāra rice (collected
+65731 new <><ls>Ki. 8. 15</ls>, 51. {@--4@} Nīvāra rice (collected
+;
+; Case 234: <L>7620<pc>0287-b<k1>ucCiKa<k2>ucCiKa
+65800 old <>upwards, flaming, blazing up; <ls>Ki.</ls>
+65800 new <>upwards, flaming, blazing up;  <lbinfo n="ls:Ki.+ 1. 32"/>
+;
+; Case 235: <L>7620<pc>0287-b<k1>ucCiKa<k2>ucCiKa
+65801 old <>1. 32; <ls>K. 127</ls>; <ls>R. 16. 87.</ls> {@--3@}
+65801 new <><ls>Ki. 1. 32</ls>; <ls>K. 127</ls>; <ls>R. 16. 87.</ls> {@--3@}
+;
+; Case 236: <L>7646<pc>0288-a<k1>ucCrayaH<k2>ucCra(cCrA)yaH
+65960 old <>{#vitatya sTitaH KaM#} <ls>Me. 58</ls>; <ls>K. 105</ls>; <ls>Ki.</ls>
+65960 new <>{#vitatya sTitaH KaM#} <ls>Me. 58</ls>; <ls>K. 105</ls>;  <lbinfo n="ls:Ki.+ 7. 27"/>
+;
+; Case 237: <L>7646<pc>0288-a<k1>ucCrayaH<k2>ucCra(cCrA)yaH
+65961 old <>7. 27, 8. 23, 17. 61; <ls>Śi. 4. 10</ls>, 8.
+65961 new <><ls>Ki. 7. 27</ls>, 8. 23, 17. 61; <ls>Śi. 4. 10</ls>, 8.
+;
+; Case 238: <L>7681<pc>0289-a<k1>ujJ<k2>ujJ
+66214 old <>down; {#aviratojJitavArivipAMquBiH#} <ls>Ki.</ls>
+66214 new <>down; {#aviratojJitavArivipAMquBiH#}  <lbinfo n="ls:Ki.+ 5. 6"/>
+;
+; Case 239: <L>7681<pc>0289-a<k1>ujJ<k2>ujJ
+66215 old <>5. 6; <ls>Śi. 4. 63.</ls>
+66215 new <><ls>Ki. 5. 6</ls>; <ls>Śi. 4. 63.</ls>
+;
+; Case 240: <L>7826<pc>0293-c<k1>uttaMB<k2>uttaMB
+67249 old <>{@1@} To increase, heighten, rouse; <ls>Ki.</ls>
+67249 new <>{@1@} To increase, heighten, rouse;  <lbinfo n="ls:Ki.+ 2. 48."/>
+;
+; Case 241: <L>7826<pc>0293-c<k1>uttaMB<k2>uttaMB
+67250 old <>2. 48. {@--2@} To bind up.
+67250 new <><ls>Ki. 2. 48.</ls> {@--2@} To bind up.
+;
+; Case 242: <L>7944<pc>0298-c<k1>utsaMgaH<k2>utsaMgaH
+68344 old <>({%b%}) Peak, summit; {#utsaMge mahAdreH#} <ls>Ki.</ls>
+68344 new <>({%b%}) Peak, summit; {#utsaMge mahAdreH#}  <lbinfo n="ls:Ki.+ 7. 21."/>
+;
+; Case 243: <L>7944<pc>0298-c<k1>utsaMgaH<k2>utsaMgaH
+68345 old <>7. 21. {@--8@} The roof of a house.
+68345 new <><ls>Ki. 7. 21.</ls> {@--8@} The roof of a house.
+;
+; Case 244: <L>7955<pc>0299-a<k1>utsavaH<k2>utsavaH
+68436 old <><ls>Śi. 2. 61</ls>; {#parABavopyutsava eva mAninAM#} <ls>Ki.</ls>
+68436 new <><ls>Śi. 2. 61</ls>; {#parABavopyutsava eva mAninAM#}  <lbinfo n="ls:Ki.+ 1. 41."/>
+;
+; Case 245: <L>7955<pc>0299-a<k1>utsavaH<k2>utsavaH
+68437 old <>1. 41. {@--3@} Height, elevation. {@--4@}
+68437 new <><ls>Ki. 1. 41.</ls> {@--3@} Height, elevation. {@--4@}
+;
+; Case 246: <L>7956<pc>0299-a<k1>utsah<k2>utsah
+68451 old <><ls>Ś. 5</ls>; <ls>Mu. 4. 14</ls>; <ls>Śi. 14. 83</ls>; <ls>Bk. 3.</ls>
+68451 new <><ls>Ś. 5</ls>; <ls>Mu. 4. 14</ls>; <ls>Śi. 14. 83</ls>;  <lbinfo n="ls:Bk. 3.+ 54"/>
+;
+; Case 247: <L>7956<pc>0299-a<k1>utsah<k2>utsah
+68452 old <>54, 5. 59, 14. 89; sometimes with
+68452 new <><ls>Bk. 3. 54</ls>, 5. 59, 14. 89; sometimes with
+;
+; Case 248: <L>7977<pc>0300-a<k1>utsfj<k2>utsfj
+68634 old <>discharge, throw (as arrows); <ls>Bk. 14.</ls>
+68634 new <>discharge, throw (as arrows);  <lbinfo n="ls:Bk. 14.+ 45."/>
+;
+; Case 249: <L>7977<pc>0300-a<k1>utsfj<k2>utsfj
+68635 old <>45. {@--6@} To let fall down, sow, scatter
+68635 new <><ls>Bk. 14. 45.</ls> {@--6@} To let fall down, sow, scatter
+;
+; Case 250: <L>8057<pc>0303-b<k1>udAra<k2>udAra
+69382 old <>By means of arguments; <ls>Ki. 12.</ls>
+69382 new <>By means of arguments;  <lbinfo n="ls:Ki. 12.+ 40."/>
+;
+; Case 251: <L>8057<pc>0303-b<k1>udAra<k2>udAra
+69383 old <>40. {#--raH#} <ab>Ved.</ab> {@1@} A rising fog or
+69383 new <><ls>Ki. 12. 40.</ls> {#--raH#} <ab>Ved.</ab> {@1@} A rising fog or
+;
+; Case 252: <L>8068<pc>0304-a<k1>udAhf<k2>udAhf
+69477 old <>utter; {#udAjahAra drupadAtmajA giraH#} <ls>Ki.</ls>
+69477 new <>utter; {#udAjahAra drupadAtmajA giraH#}  <lbinfo n="ls:Ki.+ 1. 27"/>
+;
+; Case 253: <L>8068<pc>0304-a<k1>udAhf<k2>udAhf
+69478 old <>1. 27; <ls>Mk. 9. 4</ls>; <ls>Pt. 2.</ls>;  <lbinfo n="ciki#tsakA"/>
+69478 new <><ls>Ki. 1. 27</ls>; <ls>Mk. 9. 4</ls>; <ls>Pt. 2.</ls>;  <lbinfo n="ciki#tsakA"/>
+;
+; Case 254: <L>8127<pc>0306-b<k1>udGanaH<k2>udGanaH
+70030 old <>{#lOhodGanaGanaskaMDAM lalitApaGanAM striyaM#} <ls>Bk. 7.</ls>
+70030 new <>{#lOhodGanaGanaskaMDAM lalitApaGanAM striyaM#}  <lbinfo n="ls:Bk. 7.+ 62."/>
+;
+; Case 255: <L>8127<pc>0306-b<k1>udGanaH<k2>udGanaH
+70031 old <>62.
+70031 new <><ls>Bk. 7. 62.</ls>
+;
+; Case 256: <L>8177<pc>0308-a<k1>udData<k2>udData
+70380 old <>lifted up; {#lAMgUlamudDataM Dunvan#} <ls>Bk. 9.</ls>
+70380 new <>lifted up; {#lAMgUlamudDataM Dunvan#}  <lbinfo n="ls:Bk. 9.+ 7"/>
+;
+; Case 257: <L>8177<pc>0308-a<k1>udData<k2>udData
+70381 old <>7; {#AtmodDatErapi rajoBiH#} <ls>Ś. 1. 8</ls> raised;
+70381 new <><ls>Bk. 9. 7</ls>; {#AtmodDatErapi rajoBiH#} <ls>Ś. 1. 8</ls> raised;
+;
+; Case 258: <L>8192<pc>0308-b<k1>udDU<k2>udDU
+70494 old <><ls>Ku. 2. 29</ls>; {#udDunIyAta satketUn#} <ls>Bk. 19</ls>
+70494 new <><ls>Ku. 2. 29</ls>; {#udDunIyAta satketUn#}  <lbinfo n="ls:Bk. 19+ 8"/>
+;
+; Case 259: <L>8192<pc>0308-b<k1>udDU<k2>udDU
+70495 old <>8; <ls>Ki. 5. 39.</ls> {@--2@} To shake or
+70495 new <><ls>Bk. 19 8</ls>; <ls>Ki. 5. 39.</ls> {@--2@} To shake or
+;
+; Case 260: <L>8245<pc>0310-b<k1>udyam<k2>udyam
+70919 old <>{%--<ab>Caus.</ab>%} To prompt, stimulate; <ls>Ki.</ls>
+70919 new <>{%--<ab>Caus.</ab>%} To prompt, stimulate;  <lbinfo n="ls:Ki.+ 9. 66."/>
+;
+; Case 261: <L>8245<pc>0310-b<k1>udyam<k2>udyam
+70920 old <>9. 66.
+70920 new <><ls>Ki. 9. 66.</ls>
+;
+; Case 262: <L>8291<pc>0311-b<k1>udvah<k2>udvah
+71180 old <><ls>R. 16. 60</ls>, 11. 66; <ls>Śi. 9. 73</ls>; <ls>Bk.</ls>
+71180 new <><ls>R. 16. 60</ls>, 11. 66; <ls>Śi. 9. 73</ls>;  <lbinfo n="ls:Bk.+ 9. 7"/>
+;
+; Case 263: <L>8291<pc>0311-b<k1>udvah<k2>udvah
+71181 old <>9. 7; {#BAraM#} &c. {@--4@} To suffer, <lbinfo n="ex+perience"/>
+71181 new <><ls>Bk. 9. 7</ls>; {#BAraM#} &c. {@--4@} To suffer, <lbinfo n="ex+perience"/>
+;
+; Case 264: <L>8567<pc>0320-c<k1>upatapana<k2>upatapana
+73325 old {#upatapana#}¦ {%<ab>a.</ab>%} Paining, afflicting; <ls>Ki.</ls>
+73325 new {#upatapana#}¦ {%<ab>a.</ab>%} Paining, afflicting;  <lbinfo n="ls:Ki.+ 12. 3."/>
+;
+; Case 265: <L>8567<pc>0320-c<k1>upatapana<k2>upatapana
+73326 old <>12. 3.
+73326 new <><ls>Ki. 12. 3.</ls>
+;
+; Case 266: <L>8686<pc>0324-b<k1>upanyas<k2>upanyas
+74208 old <>spoken; {#sadupanyasyati kftyavartma yaH#} <ls>Ki.</ls>
+74208 new <>spoken; {#sadupanyasyati kftyavartma yaH#}  <lbinfo n="ls:Ki.+ 2. 3"/>
+;
+; Case 267: <L>8686<pc>0324-b<k1>upanyas<k2>upanyas
+74209 old <>2. 3 tells or points out;  <lbinfo n="kimidamupa#nyastaM"/>
+74209 new <><ls>Ki. 2. 3</ls> tells or points out;  <lbinfo n="kimidamupa#nyastaM"/>
+;
+; Case 268: <L>8694<pc>0325-a<k1>upapattiH<k2>upapattiH
+74328 old <>{#prAk tanayopapatteH#} <ls>R. 14. 78</ls>; <ls>Ki. 3.</ls>
+74328 new <>{#prAk tanayopapatteH#} <ls>R. 14. 78</ls>;  <lbinfo n="ls:Ki. 3.+ 1."/>
+;
+; Case 269: <L>8694<pc>0325-a<k1>upapattiH<k2>upapattiH
+74329 old <>1. {@--14@} Religious abstraction ({#samADi#}).
+74329 new <><ls>Ki. 3. 1.</ls> {@--14@} Religious abstraction ({#samADi#}).
+;
+; Case 270: <L>8699<pc>0325-b<k1>upapadaM<k2>upapadaM
+74371 old <>previously uttered; {#DanurupapadaM vedaM#} <ls>Ki.</ls>
+74371 new <>previously uttered; {#DanurupapadaM vedaM#}  <lbinfo n="ls:Ki.+ 18. 44"/>
+;
+; Case 271: <L>8699<pc>0325-b<k1>upapadaM<k2>upapadaM
+74372 old <>18. 44 {#(DanurvedaM);#} {#tasyAH sa rAjopapadaM #} <lbinfo n="ni#SAMtaM"/>
+74372 new <><ls>Ki. 18. 44</ls> {#(DanurvedaM);#} {#tasyAH sa rAjopapadaM #} <lbinfo n="ni#SAMtaM"/>
+;
+; Case 272: <L>8723<pc>0325-c<k1>upaplavaH<k2>upaplavaH
+74508 old <>({%b%}) An obstacle, impediment; <ls>Ki. 11.</ls>
+74508 new <>({%b%}) An obstacle, impediment;  <lbinfo n="ls:Ki. 11.+ 20."/>
+;
+; Case 273: <L>8723<pc>0325-c<k1>upaplavaH<k2>upaplavaH
+74509 old <>20. {@--3@} Oppression, harassing, <lbinfo n="troubl+ing"/>
+74509 new <><ls>Ki. 11. 20.</ls> {@--3@} Oppression, harassing, <lbinfo n="troubl+ing"/>
+;
+; Case 274: <L>8736<pc>0326-a<k1>upaBuj<k2>upaBuj
+74583 old <>eat, drink; {#payaH#} <ls>R. 2. 65</ls>, 1. 67; <ls>Bk.</ls>
+74583 new <>eat, drink; {#payaH#} <ls>R. 2. 65</ls>, 1. 67;  <lbinfo n="ls:Bk.+ 8. 40"/>
+;
+; Case 275: <L>8736<pc>0326-a<k1>upaBuj<k2>upaBuj
+74584 old <>8. 40; {#arDopaBuktena#} <ls>Ku. 3. 37</ls>;  <lbinfo n="ls:Y.+ 3. 325."/>
+74584 new <><ls>Bk. 8. 40</ls>; {#arDopaBuktena#} <ls>Ku. 3. 37</ls>;  <lbinfo n="ls:Y.+ 3. 325."/>
+;
+; Case 276: <L>8801<pc>0328-b<k1>uparam<k2>uparam
+75067 old <><ls>Bk. 8. 54</ls>; 9. 51; or with <ab>inf.</ab>; <ls>Ki.</ls>
+75067 new <><ls>Bk. 8. 54</ls>; 9. 51; or with <ab>inf.</ab>;  <lbinfo n="ls:Ki.+ 4. 17"/>
+;
+; Case 277: <L>8801<pc>0328-b<k1>uparam<k2>uparam
+75068 old <>4. 17; or by itself; <ls>Bk. 8. 55.</ls> {@--3@}
+75068 new <><ls>Ki. 4. 17</ls>; or by itself; <ls>Bk. 8. 55.</ls> {@--3@}
+;
+; Case 278: <L>8885<pc>0331-a<k1>upavIRayati<k2>upavIRayati
+75692 old <>{#raverudayAvfttipaTena nAradaH#} <ls>R. 8. 33</ls>; <ls>N. 6. 65</ls>; <ls>Ki.</ls>
+75692 new <>{#raverudayAvfttipaTena nAradaH#} <ls>R. 8. 33</ls>; <ls>N. 6. 65</ls>;  <lbinfo n="ls:Ki.+ 10. 38"/>
+;
+; Case 279: <L>8885<pc>0331-a<k1>upavIRayati<k2>upavIRayati
+75693 old <>10. 38; <ls>K. 131.</ls>
+75693 new <><ls>Ki. 10. 38</ls>; <ls>K. 131.</ls>
+;
+; Case 280: <L>9035<pc>0335-a<k1>upahan<k2>upahan
+76693 old <><ls>Ms. 9. 208</ls>; {#laMkA copahanizyate#} <ls>Bk.</ls>
+76693 new <><ls>Ms. 9. 208</ls>; {#laMkA copahanizyate#}  <lbinfo n="ls:Bk.+ 16. 12"/>
+;
+; Case 281: <L>9035<pc>0335-a<k1>upahan<k2>upahan
+76694 old <>16. 12, 5. 12; <ls>Bg. 3. 24.</ls> {@--3@} To
+76694 new <><ls>Bk. 16. 12</ls>, 5. 12; <ls>Bg. 3. 24.</ls> {@--3@} To
+;
+; Case 282: <L>9308<pc>0343-b<k1>uz<k2>uz
+78643 old <>{#ozAMcakAra kAmAgnirdaSavaktramaharniSaM#} <ls>Bk.</ls>
+78643 new <>{#ozAMcakAra kAmAgnirdaSavaktramaharniSaM#}  <lbinfo n="ls:Bk.+ 6. 1"/>
+;
+; Case 283: <L>9308<pc>0343-b<k1>uz<k2>uz
+78644 old <>6. 1, 14. 62; <ls>Ms. 4. 189.</ls> {@--2@} To punish,
+78644 new <><ls>Bk. 6. 1</ls>, 14. 62; <ls>Ms. 4. 189.</ls> {@--2@} To punish,
+;
+; Case 284: <L>9378<pc>0345-c<k1>UrDva<k2>UrDva
+79144 old <><ls>Ms. 9. 77</ls>; <ls>Y. 1. 53</ls>; <ls>R. 14. 66</ls>; <ls>Bk.</ls>
+79144 new <><ls>Ms. 9. 77</ls>; <ls>Y. 1. 53</ls>; <ls>R. 14. 66</ls>;  <lbinfo n="ls:Bk.+ 18. 36"/>
+;
+; Case 285: <L>9378<pc>0345-c<k1>UrDva<k2>UrDva
+79145 old <>18. 36; {#piturUrDvaM#} <ls>Ms. 9. 104</ls> after
+79145 new <><ls>Bk. 18. 36</ls>; {#piturUrDvaM#} <ls>Ms. 9. 104</ls> after
+;
+; Case 286: <L>9378<pc>0345-c<k1>UrDva<k2>UrDva
+79245 old <>as to dry (anything) above; <ls>Bk. 3.</ls>
+79245 new <>as to dry (anything) above;  <lbinfo n="ls:Bk. 3.+ 14."/>
+;
+; Case 287: <L>9378<pc>0345-c<k1>UrDva<k2>UrDva
+79246 old <>14. {#--SvAsaH#} expiration. {#--sAnu#} {%<ab>a.</ab>%}
+79246 new <><ls>Bk. 3. 14.</ls> {#--SvAsaH#} expiration. {#--sAnu#} {%<ab>a.</ab>%}
+;
+; Case 288: <L>9405<pc>0346-c<k1>Uh<k2>Uh
+79403 old <>perceive, expect; {#UhAMcakre jayaM na ca#} <ls>Bk.</ls>
+79403 new <>perceive, expect; {#UhAMcakre jayaM na ca#}  <lbinfo n="ls:Bk.+ 14. 72"/>
+;
+; Case 289: <L>9405<pc>0346-c<k1>Uh<k2>Uh
+79404 old <>14. 72, 3. 48, 15. 123. {@--4@} To reason,
+79404 new <><ls>Bk. 14. 72</ls>, 3. 48, 15. 123. {@--4@} To reason,
+;
+; Case 290: <L>9476<pc>0349-c<k1>fte<k2>fte
+80034 old <><ab>abl.</ab>); {#fte krOryAtsamAyAtaH#} <ls>Bk. 8.</ls>
+80034 new <><ab>abl.</ab>); {#fte krOryAtsamAyAtaH#}  <lbinfo n="ls:Bk. 8.+ 105"/>
+;
+; Case 291: <L>9476<pc>0349-c<k1>fte<k2>fte
+80035 old <>105; {#avehi mAM prItamfte turaMgamAt#}  <lbinfo n="ls:R. 3.+ 63"/>
+80035 new <><ls>Bk. 8. 105</ls>; {#avehi mAM prItamfte turaMgamAt#}  <lbinfo n="ls:R. 3.+ 63"/>
+;
+; Case 292: <L>9951<pc>0366-c<k1>kakzya<k2>kakzya
+83709 old <>A woman's girdle or zone; <ls>Ki.</ls>
+83709 new <>A woman's girdle or zone;  <lbinfo n="ls:Ki.+ 7. 8"/>
+;
+; Case 293: <L>9951<pc>0366-c<k1>kakzya<k2>kakzya
+83710 old <>7. 8; <ls>Śi. 10. 62.</ls> {@--3@} Fingers. {@--4@}
+83710 new <><ls>Ki. 7. 8</ls>; <ls>Śi. 10. 62.</ls> {@--3@} Fingers. {@--4@}
+;
+; Case 294: <L>9976<pc>0367-b<k1>kacaH<k2>kacaH
+83911 old <>{#kacAcitO vizvagivAgajO gajO#} <ls>Ki. 1.</ls>
+83911 new <>{#kacAcitO vizvagivAgajO gajO#}  <lbinfo n="ls:Ki. 1.+ 36."/>
+;
+; Case 295: <L>9976<pc>0367-b<k1>kacaH<k2>kacaH
+83912 old <>36. {#--AmodaH#} a fragrant ointment
+83912 new <><ls>Ki. 1. 36.</ls> {#--AmodaH#} a fragrant ointment
+;
+; Case 296: <L>10179<pc>0374-b<k1>kad<k2>kad
+85505 old <>{#yuDi kadraTavadBImaM baBaMja DvajaSAlinaM#} <ls>Bk.</ls>
+85505 new <>{#yuDi kadraTavadBImaM baBaMja DvajaSAlinaM#}  <lbinfo n="ls:Bk.+ 5. 103."/>
+;
+; Case 297: <L>10179<pc>0374-b<k1>kad<k2>kad
+85506 old <>5. 103. {#--vada#} {%<ab>a.</ab>%} 1. speaking ill or
+85506 new <><ls>Bk. 5. 103.</ls> {#--vada#} {%<ab>a.</ab>%} 1. speaking ill or
+;
+; Case 298: <L>10289<pc>0378-b<k1>kam<k2>kam
+86337 old <>{#kuberAt#} 5. 26; 4. 48; 10. 53; <ls>Bk.</ls>
+86337 new <>{#kuberAt#} 5. 26; 4. 48; 10. 53;  <lbinfo n="ls:Bk.+ 14. 82."/>
+;
+; Case 299: <L>10289<pc>0378-b<k1>kam<k2>kam
+86338 old <>14. 82. {@--3@} To have intercourse with.
+86338 new <><ls>Bk. 14. 82.</ls> {@--3@} To have intercourse with.
+;
+; Case 300: <L>10291<pc>0378-b<k1>kamanIya<k2>kamanIya
+86354 old <>{#SAKAvasaktakamanIyaparicCadAnAM#} <ls>Ki. 7.</ls>
+86354 new <>{#SAKAvasaktakamanIyaparicCadAnAM#}  <lbinfo n="ls:Ki. 7.+ 40"/>
+;
+; Case 301: <L>10291<pc>0378-b<k1>kamanIya<k2>kamanIya
+86355 old <>40; {#tadapi kamanIyaM vapuridaM#} <ls>Ś. 3. 9</ls> v. 1.
+86355 new <><ls>Ki. 7. 40</ls>; {#tadapi kamanIyaM vapuridaM#} <ls>Ś. 3. 9</ls> v. 1.
+;
+; Case 302: <L>10302<pc>0378-c<k1>kaMp<k2>kaMp
+86433 old <>{#prAgjyotizeSvaraH#} <ls>R. 4. 81</ls>; <ls>Mk. 4. 8</ls>; <ls>Bk. 14.</ls>
+86433 new <>{#prAgjyotizeSvaraH#} <ls>R. 4. 81</ls>; <ls>Mk. 4. 8</ls>;  <lbinfo n="ls:Bk. 14.+ 31"/>
+;
+; Case 303: <L>10302<pc>0378-c<k1>kaMp<k2>kaMp
+86434 old <>31, 15. 70. {%--<ab>Caus.</ab>%} {@1@} To shake,
+86434 new <><ls>Bk. 14. 31</ls>, 15. 70. {%--<ab>Caus.</ab>%} {@1@} To shake,
+;
+; Case 304: <L>10469<pc>0386-a<k1>kalatraM<k2>kalatraM
+88047 old <>(where {#kaº#} has both senses); <ls>Ki. 8.</ls>
+88047 new <>(where {#kaº#} has both senses);  <lbinfo n="ls:Ki. 8.+ 9"/>
+;
+; Case 305: <L>10469<pc>0386-a<k1>kalatraM<k2>kalatraM
+88048 old <>9, 17. {@--3@} Any royal citadel. {@--4@} The
+88048 new <><ls>Ki. 8. 9</ls>, 17. {@--3@} Any royal citadel. {@--4@} The
+;
+; Case 306: <L>10749<pc>0396-b<k1>kAraRaM<k2>kAraRaM
+90398 old <>elementary or primary cause; an atom; <ls>Ki.</ls>
+90398 new <>elementary or primary cause; an atom;  <lbinfo n="ls:Ki.+ 18. 35."/>
+;
+; Case 307: <L>10749<pc>0396-b<k1>kAraRaM<k2>kAraRaM
+90399 old <>18. 35. {#--gata#} {%<ab>a.</ab>%} referred to its
+90399 new <><ls>Ki. 18. 35.</ls> {#--gata#} {%<ab>a.</ab>%} referred to its
+;
+; Case 308: <L>10822<pc>0399-a<k1>kAla<k2>kAla
+91098 old <>or destiny; {#laMDyatena Kalu kAlaniyogaH#} <ls>Ki.</ls>
+91098 new <>or destiny; {#laMDyatena Kalu kAlaniyogaH#}  <lbinfo n="ls:Ki.+ 9. 13."/>
+;
+; Case 309: <L>10822<pc>0399-a<k1>kAla<k2>kAla
+91099 old <>9. 13. {#--nirUpaRaM#} determination of
+91099 new <><ls>Ki. 9. 13.</ls> {#--nirUpaRaM#} determination of
+;
+; Case 310: <L>11147<pc>0410-a<k1>kupyaM<k2>kupyaM
+93462 old <>metal but silver and gold; <ls>Ki. 1.</ls>
+93462 new <>metal but silver and gold;  <lbinfo n="ls:Ki. 1.+ 35"/>
+;
+; Case 311: <L>11147<pc>0410-a<k1>kupyaM<k2>kupyaM
+93463 old <>35; <ls>Ms. 7. 96</ls>; 10. 113. {@--Comp.@}
+93463 new <><ls>Ki. 1. 35</ls>; <ls>Ms. 7. 96</ls>; 10. 113. {@--Comp.@}
+;
+; Case 312: <L>11375<pc>0418-a<k1>kfta<k2>kfta
+95334 old <>{#nibarhitAMhasA#} <ls>Śi. 1. 29</ls>; <ls>R. 8. 3</ls>; <ls>Ki.</ls>
+95334 new <>{#nibarhitAMhasA#} <ls>Śi. 1. 29</ls>; <ls>R. 8. 3</ls>;  <lbinfo n="ls:Ki.+ 4. 9"/>
+;
+; Case 313: <L>11375<pc>0418-a<k1>kfta<k2>kfta
+95335 old <>4. 9; <ls>Ś. 2. 1</ls>; <ls>Pt. 1. 194.</ls> --3. clever.
+95335 new <><ls>Ki. 4. 9</ls>; <ls>Ś. 2. 1</ls>; <ls>Pt. 1. 194.</ls> --3. clever.
+;
+; Case 314: <L>11375<pc>0418-a<k1>kfta<k2>kfta
+95449 old <><ls>Y. 2. 164.</ls> {#--vedin#} {%<ab>a.</ab>%} grateful; <ls>Ki. 13.</ls>
+95449 new <><ls>Y. 2. 164.</ls> {#--vedin#} {%<ab>a.</ab>%} grateful;  <lbinfo n="ls:Ki. 13.+ 32"/>
+;
+; Case 315: <L>11375<pc>0418-a<k1>kfta<k2>kfta
+95450 old <>32; see {#kftajYaH#} {#--veSa#} {%<ab>a.</ab>%} attired, <lbinfo n="de+corated"/>
+95450 new <><ls>Ki. 13. 32</ls>; see {#kftajYaH#} {#--veSa#} {%<ab>a.</ab>%} attired, <lbinfo n="de+corated"/>
+;
+; Case 316: <L>11435<pc>0421-a<k1>kfz<k2>kfz
+95928 old <>towards oneself, attract; <ls>Bk. 15.</ls>
+95928 new <>towards oneself, attract;  <lbinfo n="ls:Bk. 15.+ 47"/>
+;
+; Case 317: <L>11435<pc>0421-a<k1>kfz<k2>kfz
+95929 old <>47; <ls>Bg. 15. 7.</ls> {@--3@} To lead or conduct
+95929 new <><ls>Bk. 15. 47</ls>; <ls>Bg. 15. 7.</ls> {@--3@} To lead or conduct
+;
+; Case 318: <L>11453<pc>0422-b<k1>kFt<k2>kFt
+96174 old <>{#apapraTatguRAn BrAturacikIrtacca vikramaM#} <ls>Bk.</ls>
+96174 new <>{#apapraTatguRAn BrAturacikIrtacca vikramaM#}  <lbinfo n="ls:Bk.+ 15. 72."/>
+;
+; Case 319: <L>11453<pc>0422-b<k1>kFt<k2>kFt
+96175 old <>15. 72.
+96175 new <><ls>Bk. 15. 72.</ls>
+;
+; Case 320: <L>11664<pc>0429-a<k1>kOSalyAyaniH<k2>kOSalyAyaniH
+97717 old <>Rāma, son of Kauśalyā; <ls>Bk. 7.</ls>
+97717 new <>Rāma, son of Kauśalyā;  <lbinfo n="ls:Bk. 7.+ 99."/>
+;
+; Case 321: <L>11664<pc>0429-a<k1>kOSalyAyaniH<k2>kOSalyAyaniH
+97718 old <>99.
+97718 new <><ls>Bk. 7. 99.</ls>
+;
+; Case 322: <L>11935<pc>0438-b<k1>kzud<k2>kzud
+99854 old <>{#mitraGnasya pracukzoda gadayAMgaM biBIzaRaH#} <ls>Bk.</ls>
+99854 new <>{#mitraGnasya pracukzoda gadayAMgaM biBIzaRaH#}  <lbinfo n="ls:Bk.+ 14. 33."/>
+;
+; Case 323: <L>11935<pc>0438-b<k1>kzud<k2>kzud
+99855 old <>14. 33.
+99855 new <><ls>Bk. 14. 33.</ls>
+;
+; Case 324: <L>12001<pc>0440-b<k1>kzmAy<k2>kzmAy
+100319 old <>shake, tremble; {#cakzmAye ca mahI#} <ls>Bk.</ls>
+100319 new <>shake, tremble; {#cakzmAye ca mahI#}  <lbinfo n="ls:Bk.+ 14. 21"/>
+;
+; Case 325: <L>12001<pc>0440-b<k1>kzmAy<k2>kzmAy
+100320 old <>14. 21; 17. 73.
+100320 new <><ls>Bk. 14. 21</ls>; 17. 73.
+;
+; Case 326: <L>12151<pc>0444-b<k1>KAd<k2>KAd
+101296 old <>{#KAdanmAMsaM na duzyati#} <ls>Ms. 5. 32</ls>, 53; <ls>Bk.</ls>
+101296 new <>{#KAdanmAMsaM na duzyati#} <ls>Ms. 5. 32</ls>, 53;  <lbinfo n="ls:Bk.+ 6. 6"/>
+;
+; Case 327: <L>12151<pc>0444-b<k1>KAd<k2>KAd
+101297 old <>6. 6; 9. 78, 14. 87, 101; 15. 35. {@--2@}
+101297 new <><ls>Bk. 6. 6</ls>; 9. 78, 14. 87, 101; 15. 35. {@--2@}
+;
+; Case 328: <L>12294<pc>0449-c<k1>gadya<k2>gadya
+102472 old <>or uttered; {#gadyametattvayA mama#} <ls>Bk. 6.</ls>
+102472 new <>or uttered; {#gadyametattvayA mama#}  <lbinfo n="ls:Bk. 6.+ 47."/>
+;
+; Case 329: <L>12294<pc>0449-c<k1>gadya<k2>gadya
+102473 old <>47. {#--dyaM#} Prose, elaborate prose <lbinfo n="com+position"/>
+102473 new <><ls>Bk. 6. 47.</ls> {#--dyaM#} Prose, elaborate prose <lbinfo n="com+position"/>
+;
+; Case 330: <L>12516<pc>0458-c<k1>gir<k2>gir
+104444 old <>{#pravfttisArAH Kalu mAdfSAM giraH#} <ls>Ki. 1.</ls>
+104444 new <>{#pravfttisArAH Kalu mAdfSAM giraH#}  <lbinfo n="ls:Ki. 1.+ 25"/>
+;
+; Case 331: <L>12516<pc>0458-c<k1>gir<k2>gir
+104445 old <>25; <ls>Śi. 2. 15</ls>; <ls>Y. 1. 71.</ls> {@--2@} <lbinfo n="Invo+cation"/>
+104445 new <><ls>Ki. 1. 25</ls>; <ls>Śi. 2. 15</ls>; <ls>Y. 1. 71.</ls> {@--2@} <lbinfo n="Invo+cation"/>
+;
+; Case 332: <L>12559<pc>0460-b<k1>guRaH<k2>guRaH
+104929 old <>of the good qualities of others; <ls>Ki.</ls>
+104929 new <>of the good qualities of others;  <lbinfo n="ls:Ki.+ 1. 11."/>
+;
+; Case 333: <L>12559<pc>0460-b<k1>guRaH<k2>guRaH
+104930 old <>1. 11. {#--anuroDaH#} conformity or <lbinfo n="suit+ableness"/>
+104930 new <><ls>Ki. 1. 11.</ls> {#--anuroDaH#} conformity or <lbinfo n="suit+ableness"/>
+;
+; Case 334: <L>12594<pc>0462-b<k1>gup<k2>gup
+105246 old <>{#jugopa gorUpaDarAmivorvI#} 2. 3; <ls>Bk. 17.</ls>
+105246 new <>{#jugopa gorUpaDarAmivorvI#} 2. 3;  <lbinfo n="ls:Bk. 17.+ 80."/>
+;
+; Case 335: <L>12594<pc>0462-b<k1>gup<k2>gup
+105247 old <>80. {@--2@} To hide, conceal; {#kiM #} <lbinfo n="vakzaScara#RAnativyatikaravyAjena"/>
+105247 new <><ls>Bk. 17. 80.</ls> {@--2@} To hide, conceal; {#kiM #} <lbinfo n="vakzaScara#RAnativyatikaravyAjena"/>
+;
+; Case 336: <L>12687<pc>0466-b<k1>gF<k2>gF
+106123 old <>{#taTAvagiramARESca piSAcErmAMsaSoRitaM#} <ls>Bk.</ls>
+106123 new <>{#taTAvagiramARESca piSAcErmAMsaSoRitaM#}  <lbinfo n="ls:Bk.+ 8. 30."/>
+;
+; Case 337: <L>12687<pc>0466-b<k1>gF<k2>gF
+106124 old <>8. 30. --III. 10 <ab>A.</ab> ({#gArayate#}) {@1@} To
+106124 new <><ls>Bk. 8. 30.</ls> --III. 10 <ab>A.</ab> ({#gArayate#}) {@1@} To
+;
+; Case 338: <L>12713<pc>0467-a<k1>go<k2>go
+106520 old <><ls>Māl. 9. 1.</ls> --2. a principal gate; <ls>Ki. 5.</ls>
+106520 new <><ls>Māl. 9. 1.</ls> --2. a principal gate;  <lbinfo n="ls:Ki. 5.+ 5."/>
+;
+; Case 339: <L>12713<pc>0467-a<k1>go<k2>go
+106521 old <>5. --3. the ornamental gate-way of
+106521 new <><ls>Ki. 5. 5.</ls> --3. the ornamental gate-way of
+;
+; Case 340: <L>12775<pc>0471-a<k1>graMT<k2>graMT
+107098 old <>{#bAzpabiMdunikaraM pakzmapaMktayaH#} <ls>K. 60</ls>; <ls>Bk.</ls>
+107098 new <>{#bAzpabiMdunikaraM pakzmapaMktayaH#} <ls>K. 60</ls>;  <lbinfo n="ls:Bk.+ 17. 69."/>
+;
+; Case 341: <L>12775<pc>0471-a<k1>graMT<k2>graMT
+107099 old <>17. 69. {@--6@} To set or strew with.
+107099 new <><ls>Bk. 17. 69.</ls> {@--6@} To set or strew with.
+;
+; Case 342: <L>12784<pc>0471-b<k1>gras<k2>gras
+107192 old <>destory. --WITH {#saM#} to destroy; <ls>Bk. 12.</ls>
+107192 new <>destory. --WITH {#saM#} to destroy;  <lbinfo n="ls:Bk. 12.+ 4."/>
+;
+; Case 343: <L>12784<pc>0471-b<k1>gras<k2>gras
+107193 old <>4. --II. 1 <ab>P.</ab>, 10 <ab>U.</ab> ({#grasati, grAsayati-te#})
+107193 new <><ls>Bk. 12. 4.</ls> --II. 1 <ab>P.</ab>, 10 <ab>U.</ab> ({#grasati, grAsayati-te#})
+;
+; Case 344: <L>12849<pc>0475-a<k1>Gaw<k2>Gaw
+107906 old <>{#viGawayati yUyaM Gawayata#} <ls>Ve. 1. 10</ls>; <ls>Bk.</ls>
+107906 new <>{#viGawayati yUyaM Gawayata#} <ls>Ve. 1. 10</ls>;  <lbinfo n="ls:Bk.+ 11. 11."/>
+;
+; Case 345: <L>12849<pc>0475-a<k1>Gaw<k2>Gaw
+107907 old <>11. 11. {@--2@} To bring or place near
+107907 new <><ls>Bk. 11. 11.</ls> {@--2@} To bring or place near
+;
+; Case 346: <L>12849<pc>0475-a<k1>Gaw<k2>Gaw
+107920 old <>{#snehOGo Gawayati mAM taTApi vaktu#} <ls>Bk. 10.</ls>
+107920 new <>{#snehOGo Gawayati mAM taTApi vaktu#}  <lbinfo n="ls:Bk. 10.+ 73."/>
+;
+; Case 347: <L>12849<pc>0475-a<k1>Gaw<k2>Gaw
+107921 old <>73. {@--6@} To rub, touch. {@--7@} To exert
+107921 new <><ls>Bk. 10. 73.</ls> {@--6@} To rub, touch. {@--7@} To exert
+;
+; Case 348: <L>12863<pc>0476-a<k1>Gaww<k2>Gaww
+108066 old <>{#viwajananaKaGawwiteva vIRA#} <ls>Mk. 1. 24</ls>; <ls>Bk.</ls>
+108066 new <>{#viwajananaKaGawwiteva vIRA#} <ls>Mk. 1. 24</ls>;  <lbinfo n="ls:Bk.+ 14. 2."/>
+;
+; Case 349: <L>12863<pc>0476-a<k1>Gaww<k2>Gaww
+108067 old <>14. 2. {@--3@} To smooth, stroke. {@--4@} To
+108067 new <><ls>Bk. 14. 2.</ls> {@--3@} To smooth, stroke. {@--4@} To
+;
+; Case 350: <L>12876<pc>0476-b<k1>Gana<k2>Gana
+108220 old <>the sky; {#Ganavartma sahasraDeva kurvan#} <ls>Ki. 5.</ls>
+108220 new <>the sky; {#Ganavartma sahasraDeva kurvan#}  <lbinfo n="ls:Ki. 5.+ 17."/>
+;
+; Case 351: <L>12876<pc>0476-b<k1>Gana<k2>Gana
+108221 old <>17. {#--vallikA, --vallI#} lightning. {#--vAtaH#}
+108221 new <><ls>Ki. 5. 17.</ls> {#--vallikA, --vallI#} lightning. {#--vAtaH#}
+;
+; Case 352: <L>12989<pc>0480-a<k1>cakAs<k2>cakAs
+108997 old <>{#cakAsataM cArucamUrucarmaRA#} <ls>Śi. 1. 8</ls>; <ls>Bk.</ls>
+108997 new <>{#cakAsataM cArucamUrucarmaRA#} <ls>Śi. 1. 8</ls>;  <lbinfo n="ls:Bk.+ 3. 37."/>
+;
+; Case 353: <L>12989<pc>0480-a<k1>cakAs<k2>cakAs
+108998 old <>3. 37. {@--2@} (Fig.) To be happy or
+108998 new <><ls>Bk. 3. 37.</ls> {@--2@} (Fig.) To be happy or
+;
+; Case 354: <L>13173<pc>0488-a<k1>cal<k2>cal
+110733 old <>{#calati nayAnna jigIzatAM hi cetaH#} <ls>Ki. 10.</ls>
+110733 new <>{#calati nayAnna jigIzatAM hi cetaH#}  <lbinfo n="ls:Ki. 10.+ 29"/>
+;
+; Case 355: <L>13173<pc>0488-a<k1>cal<k2>cal
+110734 old <>29; to fall off, leave; <ls>Ms. 7. 15</ls>;
+110734 new <><ls>Ki. 10. 29</ls>; to fall off, leave; <ls>Ms. 7. 15</ls>;
+;
+; Case 356: <L>13545<pc>0499-c<k1>cyut<k2>cyut
+113381 old <>{#idaM SoRitamaByagraM saMprahAre'cyutattayoH#} <ls>Bk.</ls>
+113381 new <>{#idaM SoRitamaByagraM saMprahAre'cyutattayoH#}  <lbinfo n="ls:Bk.+ 6. 28."/>
+;
+; Case 357: <L>13545<pc>0499-c<k1>cyut<k2>cyut
+113382 old <>6. 28. {@--2@} To drop or fall down,
+113382 new <><ls>Bk. 6. 28.</ls> {@--2@} To drop or fall down,
+;
+; Case 358: <L>13585<pc>0500-c<k1>CalaH<k2>CalaH, --laM
+113666 old <>{#pUjAmupadAcCalena#} <ls>R. 7. 30</ls>, 6. 54, 16. 28; <ls>Bk. 1.</ls>
+113666 new <>{#pUjAmupadAcCalena#} <ls>R. 7. 30</ls>, 6. 54, 16. 28;  <lbinfo n="ls:Bk. 1.+ 1"/>
+;
+; Case 359: <L>13585<pc>0500-c<k1>CalaH<k2>CalaH, --laM
+113667 old <>1; <ls>Amaru. 15</ls>; <ls>Māl. 9. 1.</ls> {@--4@} <lbinfo n="In+tention"/>
+113667 new <><ls>Bk. 1. 1</ls>; <ls>Amaru. 15</ls>; <ls>Māl. 9. 1.</ls> {@--4@} <lbinfo n="In+tention"/>
+;
+; Case 360: <L>13666<pc>0503-a<k1>jakz<k2>jakz
+114207 old <>To eat, eat up, destroy, consume; <ls>Bk.</ls>
+114207 new <>To eat, eat up, destroy, consume;  <lbinfo n="ls:Bk.+ 4. 39"/>
+;
+; Case 361: <L>13666<pc>0503-a<k1>jakz<k2>jakz
+114208 old <>4. 39; 13. 28; 15. 46, 18. 19;  <lbinfo n="ls:Me.+ 21."/>
+114208 new <><ls>Bk. 4. 39</ls>; 13. 28; 15. 46, 18. 19;  <lbinfo n="ls:Me.+ 21."/>
+;
+; Case 362: <L>13924<pc>0513-a<k1>ji<k2>ji
+116474 old <>{#jaladapawalAni#} <ls>Pt. 1. 330</ls>; <ls>Bk. 15.</ls>
+116474 new <>{#jaladapawalAni#} <ls>Pt. 1. 330</ls>;  <lbinfo n="ls:Bk. 15.+ 76"/>
+;
+; Case 363: <L>13924<pc>0513-a<k1>ji<k2>ji
+116475 old <>76, 19. 2. {@--2@} To surpass, excel; 
+116475 new <><ls>Bk. 15. 76</ls>, 19. 2. {@--2@} To surpass, excel; 
+;
+; Case 364: <L>13965<pc>0514-b<k1>jihma<k2>jihma
+116792 old <>unfair; {#DftahetirapyaDftajihmamatiH#} <ls>Ki. 6.</ls>
+116792 new <>unfair; {#DftahetirapyaDftajihmamatiH#}  <lbinfo n="ls:Ki. 6.+ 24"/>
+;
+; Case 365: <L>13965<pc>0514-b<k1>jihma<k2>jihma
+116793 old <>24; {#suhfdarTamIhitamajihmaDiyAM#} <ls>Śi. 9. 62.</ls>
+116793 new <><ls>Ki. 6. 24</ls>; {#suhfdarTamIhitamajihmaDiyAM#} <ls>Śi. 9. 62.</ls>
+;
+; Case 366: <L>14013<pc>0516-c<k1>juz<k2>juz
+117241 old <>{#pOlastyo'juzata SucaM vipannavaMDuH#} <ls>Bk.</ls>
+117241 new <>{#pOlastyo'juzata SucaM vipannavaMDuH#}  <lbinfo n="ls:Bk.+ 17. 112."/>
+;
+; Case 367: <L>14013<pc>0516-c<k1>juz<k2>juz
+117242 old <>17. 112. {@--5@} To frequent, visit,
+117242 new <><ls>Bk. 17. 112.</ls> {@--5@} To frequent, visit,
+;
+; Case 368: <L>14013<pc>0516-c<k1>juz<k2>juz
+117245 old <>resort to; {#raTaM ca jujuze SuBaM#} <ls>Bk. 14.</ls>
+117245 new <>resort to; {#raTaM ca jujuze SuBaM#}  <lbinfo n="ls:Bk. 14.+ 95."/>
+;
+; Case 369: <L>14013<pc>0516-c<k1>juz<k2>juz
+117246 old <>95. {@--7@} To choose. {@--8@} To enjoy,
+117246 new <><ls>Bk. 14. 95.</ls> {@--7@} To choose. {@--8@} To enjoy,
+;
+; Case 370: <L>14069<pc>0518-a<k1>jYA<k2>jYA
+117600 old <>{#jYAsIstvaM suKI rAmo yadakArzItsa rakzasAM#} <ls>Bk.</ls>
+117600 new <>{#jYAsIstvaM suKI rAmo yadakArzItsa rakzasAM#}  <lbinfo n="ls:Bk.+ 15. 9."/>
+;
+; Case 371: <L>14069<pc>0518-a<k1>jYA<k2>jYA
+117601 old <>15. 9. {@--2@} To know, be aware
+117601 new <><ls>Bk. 15. 9.</ls> {@--2@} To know, be aware
+;
+; Case 372: <L>14306<pc>0525-c<k1>taq<k2>taq
+119109 old <>{#tAqyamAnAsuBerIzu#} <ls>Mb.</ls>; {#atAqayan mfdaMgAMSca#} <ls>Bk.</ls>
+119109 new <>{#tAqyamAnAsuBerIzu#} <ls>Mb.</ls>; {#atAqayan mfdaMgAMSca#}  <lbinfo n="ls:Bk.+ 17. 7"/>
+;
+; Case 373: <L>14306<pc>0525-c<k1>taq<k2>taq
+119110 old <>17. 7; <ls>Ve. 1. 22.</ls> {@--4@} To play on,
+119110 new <><ls>Bk. 17. 7</ls>; <ls>Ve. 1. 22.</ls> {@--4@} To play on,
+;
+; Case 374: <L>14492<pc>0533-a<k1>tard<k2>tard
+120754 old <>hurt. {@--2@} To kill, cut through; <ls>Bk.</ls>
+120754 new <>hurt. {@--2@} To kill, cut through;  <lbinfo n="ls:Bk.+ 14. 108"/>
+;
+; Case 375: <L>14492<pc>0533-a<k1>tard<k2>tard
+120755 old <>14. 108; see {#tfd#} also.
+120755 new <><ls>Bk. 14. 108</ls>; see {#tfd#} also.
+;
+; Case 376: <L>14595<pc>0535-c<k1>tAy<k2>tAy
+121382 old <>--WITH {#vi#} to spread, create; <ls>Bk.</ls>
+121382 new <>--WITH {#vi#} to spread, create;  <lbinfo n="ls:Bk.+ 16. 105."/>
+;
+; Case 377: <L>14595<pc>0535-c<k1>tAy<k2>tAy
+121383 old <>16. 105.
+121383 new <><ls>Bk. 16. 105.</ls>
+;
+; Case 378: <L>14705<pc>0539-b<k1>tizWadgu<k2>tizWadgu
+122228 old <>evening); {#AtizWadgu japan saMDyAM#} <ls>Bk. 4.</ls>
+122228 new <>evening); {#AtizWadgu japan saMDyAM#}  <lbinfo n="ls:Bk. 4.+ 14"/>
+;
+; Case 379: <L>14705<pc>0539-b<k1>tizWadgu<k2>tizWadgu
+122229 old <>14 ({#tizWadgu = rAtrEH praTamanAqikA#}).
+122229 new <><ls>Bk. 4. 14</ls> ({#tizWadgu = rAtrEH praTamanAqikA#}).
+;
+; Case 380: <L>14882<pc>0544-c<k1>tfd<k2>tfd
+123466 old <>To kill, destroy, annihilate; <ls>Bk. 6.</ls>
+123466 new <>To kill, destroy, annihilate;  <lbinfo n="ls:Bk. 6.+ 38"/>
+;
+; Case 381: <L>14882<pc>0544-c<k1>tfd<k2>tfd
+123467 old <>38, 14. 13, 108; 15. 36, 44. {@--3@} To
+123467 new <><ls>Bk. 6. 38</ls>, 14. 13, 108; 15. 36, 44. {@--3@} To
+;
+; Case 382: <L>14989<pc>0547-b<k1>tyaj<k2>tyaj
+124165 old <>let go, dismiss, discharge; <ls>Bk. 6.</ls>
+124165 new <>let go, dismiss, discharge;  <lbinfo n="ls:Bk. 6.+ 122."/>
+;
+; Case 383: <L>14989<pc>0547-b<k1>tyaj<k2>tyaj
+124166 old <>122. {@--3@} To give up, renounce, <lbinfo n="re+sign"/>
+124166 new <><ls>Bk. 6. 122.</ls> {@--3@} To give up, renounce, <lbinfo n="re+sign"/>
+;
+; Case 384: <L>15012<pc>0548-b<k1>tras<k2>tras
+124360 old <>{#pramadavanAttrasyati#} <ls>K. 255</ls>; {#kaperatrAsizunAdAt#} <ls>Bk. 9.</ls>
+124360 new <>{#pramadavanAttrasyati#} <ls>K. 255</ls>; {#kaperatrAsizunAdAt#}  <lbinfo n="ls:Bk. 9.+ 11"/>
+;
+; Case 385: <L>15012<pc>0548-b<k1>tras<k2>tras
+124361 old <>11, 5. 75, 14. 48, 15. 53; <ls>Śi. 8. 24</ls>;
+124361 new <><ls>Bk. 9. 11</ls>, 5. 75, 14. 48, 15. 53; <ls>Śi. 8. 24</ls>;
+;
+; Case 386: <L>15023<pc>0548-c<k1>tri<k2>tri
+124517 old <>{#kAma; na bADataM'sya trigaRaH parasparaM#} <ls>Ki.</ls>
+124517 new <>{#kAma; na bADataM'sya trigaRaH parasparaM#}  <lbinfo n="ls:Ki.+ 1. 11"/>
+;
+; Case 387: <L>15023<pc>0548-c<k1>tri<k2>tri
+124518 old <>1. 11; see {#trivarga#} below. {#--gata#} {%<ab>a.</ab>%} 1.
+124518 new <><ls>Ki. 1. 11</ls>; see {#trivarga#} below. {#--gata#} {%<ab>a.</ab>%} 1.
+;
+; Case 388: <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+125759 old <><ls>R. 17. 62</ls>; <ls>Ms. 7. 65</ls>, 9. 294; <ls>Ki. 2.</ls>
+125759 new <><ls>R. 17. 62</ls>; <ls>Ms. 7. 65</ls>, 9. 294;  <lbinfo n="ls:Ki. 2.+ 12."/>
+;
+; Case 389: <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+125760 old <>12. {@--19@} A form of military array. {@--20@}
+125760 new <><ls>Ki. 2. 12.</ls> {@--19@} A form of military array. {@--20@}
+;
+; Case 390: <L>15193<pc>0557-b<k1>dam<k2>dam
+126224 old <>restrain; {#yamo dAmyati rAkzasAn#} <ls>Bk. 18.</ls>
+126224 new <>restrain; {#yamo dAmyati rAkzasAn#}  <lbinfo n="ls:Bk. 18.+ 20"/>
+;
+; Case 391: <L>15193<pc>0557-b<k1>dam<k2>dam
+126225 old <>20; {#damitvApyarisaMGAtAn#} 9. 42, 19;
+126225 new <><ls>Bk. 18. 20</ls>; {#damitvApyarisaMGAtAn#} 9. 42, 19;
+;
+; Case 392: <L>15217<pc>0558-b<k1>dayita<k2>dayita
+126450 old <>{#dayitAjIvitAlaMbanArTI#} <ls>Me. 4</ls>; <ls>R. 2. 3</ls>; <ls>Bv. 2. 182</ls>; <ls>Ki.</ls>
+126450 new <>{#dayitAjIvitAlaMbanArTI#} <ls>Me. 4</ls>; <ls>R. 2. 3</ls>; <ls>Bv. 2. 182</ls>;  <lbinfo n="ls:Ki.+ 6. 13"/>
+;
+; Case 393: <L>15217<pc>0558-b<k1>dayita<k2>dayita
+126451 old <>6. 13; {#dayitAjitaH#} ‘a hen-pecked <lbinfo n="hus+band"/>
+126451 new <><ls>Ki. 6. 13</ls>; {#dayitAjitaH#} ‘a hen-pecked <lbinfo n="hus+band"/>
+;
+; Case 394: <L>15486<pc>0568-c<k1>du<k2>du
+128795 old <>burn, consume with fire; <ls>Bk. 14.</ls>
+128795 new <>burn, consume with fire;  <lbinfo n="ls:Bk. 14.+ 85."/>
+;
+; Case 395: <L>15486<pc>0568-c<k1>du<k2>du
+128796 old <>85. {@--2@} To torment, afflict, distress;
+128796 new <><ls>Bk. 14. 85.</ls> {@--2@} To torment, afflict, distress;
+;
+; Case 396: <L>15494<pc>0569-b<k1>dukUlaM<k2>dukUlaM
+128888 old <>{#SyAmalamfdulakalevaramaMqanamaDigatagOradukUlaM#} Gīt 11; <ls>Ku. 5. 67</ls>, 78; <ls>Bk.</ls>
+128888 new <>{#SyAmalamfdulakalevaramaMqanamaDigatagOradukUlaM#} Gīt 11; <ls>Ku. 5. 67</ls>, 78;  <lbinfo n="ls:Bk.+ 3. 34"/>
+;
+; Case 397: <L>15494<pc>0569-b<k1>dukUlaM<k2>dukUlaM
+128889 old <>3. 34, 10. 1; <ls>R. 17. 25.</ls>
+128889 new <><ls>Bk. 3. 34</ls>, 10. 1; <ls>R. 17. 25.</ls>
+;
+; Case 398: <L>15596<pc>0576-b<k1>dfS<k2>dfS
+130379 old <>{#gatasmayaH kftADipatyAmiva sADu baMDutAM#} <ls>Ki. 1.</ls>
+130379 new <>{#gatasmayaH kftADipatyAmiva sADu baMDutAM#}  <lbinfo n="ls:Ki. 1.+ 10"/>
+;
+; Case 399: <L>15596<pc>0576-b<k1>dfS<k2>dfS
+130380 old <>10; <ls>Ku. 4. 25.</ls> {%--Desid.%} ({#didfkzate#})
+130380 new <><ls>Ki. 1. 10</ls>; <ls>Ku. 4. 25.</ls> {%--Desid.%} ({#didfkzate#})
+;
+; Case 400: <L>15626<pc>0578-a<k1>deva<k2>deva
+130902 old <>{#nadImAtfkAH#}) {#cirAya tasmin kurabaScakAMsate#} <ls>Ki.</ls>
+130902 new <>{#nadImAtfkAH#}) {#cirAya tasmin kurabaScakAMsate#}  <lbinfo n="ls:Ki.+ 1. 17."/>
+;
+; Case 401: <L>15626<pc>0578-a<k1>deva<k2>deva
+130903 old <>1. 17. {#--mAnakaH#} the jewel of Viṣṇu
+130903 new <><ls>Ki. 1. 17.</ls> {#--mAnakaH#} the jewel of Viṣṇu
+;
+; Case 402: <L>15852<pc>0586-b<k1>drOpadI<k2>drOpadI
+132629 old <>upon them by their enemies; (see <ls>Ki.</ls>
+132629 new <>upon them by their enemies; (see  <lbinfo n="ls:Ki.+ 1. 29"/>
+;
+; Case 403: <L>15852<pc>0586-b<k1>drOpadI<k2>drOpadI
+132630 old <>1. 29-46). It was then that the <lbinfo n="Pāṇḍa+vas"/>
+132630 new <><ls>Ki. 1. 29</ls>-46). It was then that the <lbinfo n="Pāṇḍa+vas"/>
+;
+; Case 404: <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132836 old <>1. doubled, multiplied by two; <ls>Ki.</ls>
+132836 new <>1. doubled, multiplied by two;  <lbinfo n="ls:Ki.+ 5. 46."/>
+;
+; Case 405: <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132837 old <>5. 46. --2. folded double. --3. <lbinfo n="envelop+ed"/>
+132837 new <><ls>Ki. 5. 46.</ls> --2. folded double. --3. <lbinfo n="envelop+ed"/>
+;
+; Case 406: <L>15882<pc>0589-a<k1>dviz<k2>dviz
+133105 old <><ls>Ve. 3. 13</ls>; <ls>Bg. 2. 57</ls>, 18. 10; <ls>Bk.</ls>
+133105 new <><ls>Ve. 3. 13</ls>; <ls>Bg. 2. 57</ls>, 18. 10;  <lbinfo n="ls:Bk.+ 17. 61"/>
+;
+; Case 407: <L>15882<pc>0589-a<k1>dviz<k2>dviz
+133106 old <>17. 61; 18. 9; {#ramyaM dvezwi#}  <lbinfo n="ls:Ś.+ 6. 4."/>
+133106 new <><ls>Bk. 17. 61</ls>; 18. 9; {#ramyaM dvezwi#}  <lbinfo n="ls:Ś.+ 6. 4."/>
+;
+; Case 408: <L>15885<pc>0589-a<k1>dvizat<k2>dvizat
+133125 old <><ls>R. 6. 31</ls>; <ls>Śi. 2. 1</ls>; <ls>Bk.</ls>
+133125 new <><ls>R. 6. 31</ls>; <ls>Śi. 2. 1</ls>;  <lbinfo n="ls:Bk.+ 5. 97."/>
+;
+; Case 409: <L>15885<pc>0589-a<k1>dvizat<k2>dvizat
+133126 old <>5. 97.
+133126 new <><ls>Bk. 5. 97.</ls>
+;
+; Case 410: <L>16000<pc>0594-c<k1>DA<k2>DA
+134283 old <>{#daDato maMgalakzOmE#} <ls>R. 12. 8</ls>, 9. 40; <ls>Bk.</ls>
+134283 new <>{#daDato maMgalakzOmE#} <ls>R. 12. 8</ls>, 9. 40;  <lbinfo n="ls:Bk.+ 17. 54."/>
+;
+; Case 411: <L>16000<pc>0594-c<k1>DA<k2>DA
+134284 old <>17. 54. {@--7@} To assume, take, have,
+134284 new <><ls>Bk. 17. 54.</ls> {@--7@} To assume, take, have,
+;
+; Case 412: <L>16149<pc>0601-a<k1>Dfz<k2>Dfz
+135665 old <><ab>inf.</ab>). {@--6@} To brave, challenge; <ls>Bk.</ls>
+135665 new <><ab>inf.</ab>). {@--6@} To brave, challenge;  <lbinfo n="ls:Bk.+ 14. 102."/>
+;
+; Case 413: <L>16149<pc>0601-a<k1>Dfz<k2>Dfz
+135666 old <>14. 102. {@--7@} To insult, treat with
+135666 new <><ls>Bk. 14. 102.</ls> {@--7@} To insult, treat with
+;
+; Case 414: <L>16158<pc>0601-b<k1>De<k2>De
+135733 old <>{#aDAdvasAmaDAsIcca ruDiraM vanavAsinAM#} <ls>Bk. 15.</ls>
+135733 new <>{#aDAdvasAmaDAsIcca ruDiraM vanavAsinAM#}  <lbinfo n="ls:Bk. 15.+ 29"/>
+;
+; Case 415: <L>16158<pc>0601-b<k1>De<k2>De
+135734 old <>29, 6. 18; <ls>Ms. 4. 59</ls>; <ls>Y. 1. 140.</ls>
+135734 new <><ls>Bk. 15. 29</ls>, 6. 18; <ls>Ms. 4. 59</ls>; <ls>Y. 1. 140.</ls>
+;
+; Case 416: <L>16234<pc>0603-b<k1>Dvajin<k2>Dvajin
+136244 old <>army; <ls>R. 7. 40</ls>; <ls>Śi. 12. 66</ls>; <ls>Ki.</ls>
+136244 new <>army; <ls>R. 7. 40</ls>; <ls>Śi. 12. 66</ls>;  <lbinfo n="ls:Ki.+ 13. 9."/>
+;
+; Case 417: <L>16234<pc>0603-b<k1>Dvajin<k2>Dvajin
+136245 old <>13. 9.
+136245 new <><ls>Ki. 13. 9.</ls>
+;
+; Case 418: <L>16237<pc>0603-b<k1>Dvan<k2>Dvan
+136261 old <>roar; {#biBidyamAnA iva daDvanurdiSaH#} <ls>Ki.</ls>
+136261 new <>roar; {#biBidyamAnA iva daDvanurdiSaH#}  <lbinfo n="ls:Ki.+ 14. 46"/>
+;
+; Case 419: <L>16237<pc>0603-b<k1>Dvan<k2>Dvan
+136262 old <>14. 46; {#ayaM DIraM DIraM Dvanati navanIlo#}
+136262 new <><ls>Ki. 14. 46</ls>; {#ayaM DIraM DIraM Dvanati navanIlo#}
+;
+; Case 420: <L>16366<pc>0608-c<k1>naya<k2>naya
+137413 old <>{#calati nayAnna jigIzatAM hi cetaH#} <ls>Ki.</ls>
+137413 new <>{#calati nayAnna jigIzatAM hi cetaH#}  <lbinfo n="ls:Ki.+ 10. 29"/>
+;
+; Case 421: <L>16366<pc>0608-c<k1>naya<k2>naya
+137414 old <>10. 29, 2. 3, 6. 38, 16. 42. {@--6@} A
+137414 new <><ls>Ki. 10. 29</ls>, 2. 3, 6. 38, 16. 42. {@--6@} A
+;
+; Case 422: <L>16597<pc>0618-a<k1>nikAyyaH<k2>nikAyyaH
+139440 old <>{#praRAyyo janaH kaccinnikAyyaM te'DitizWati#} <ls>Bk.</ls>
+139440 new <>{#praRAyyo janaH kaccinnikAyyaM te'DitizWati#}  <lbinfo n="ls:Bk.+ 6. 66."/>
+;
+; Case 423: <L>16597<pc>0618-a<k1>nikAyyaH<k2>nikAyyaH
+139441 old <>6. 66.
+139441 new <><ls>Bk. 6. 66.</ls>
+;
+; Case 424: <L>16600<pc>0618-a<k1>nikAzaH<k2>nikAzaH
+139454 old {#nikAzaH#}¦ Scratching, rubbing; <ls>Ki.</ls>
+139454 new {#nikAzaH#}¦ Scratching, rubbing;  <lbinfo n="ls:Ki.+ 7. 6."/>
+;
+; Case 425: <L>16600<pc>0618-a<k1>nikAzaH<k2>nikAzaH
+139455 old <>7. 6.
+139455 new <><ls>Ki. 7. 6.</ls>
+;
+; Case 426: <L>16745<pc>0622-b<k1>ninaMkzu<k2>ninaMkzu
+140466 old <>Wishing to escape or fly away; <ls>Bk.</ls>
+140466 new <>Wishing to escape or fly away;  <lbinfo n="ls:Bk.+ 4. 33."/>
+;
+; Case 427: <L>16745<pc>0622-b<k1>ninaMkzu<k2>ninaMkzu
+140467 old <>4. 33.
+140467 new <><ls>Bk. 4. 33.</ls>
+;
+; Case 428: <L>16793<pc>0623-c<k1>nibarhaRa<k2>niba(va)rhaRa
+140811 old <>destroyer, enemy (in <ab>comp.</ab>); <ls>Ki. 2.</ls>
+140811 new <>destroyer, enemy (in <ab>comp.</ab>);  <lbinfo n="ls:Ki. 2.+ 43"/>
+;
+; Case 429: <L>16793<pc>0623-c<k1>nibarhaRa<k2>niba(va)rhaRa
+140812 old <>43; <ls>Mv. 3. 37.</ls> {#--RaM#} Killing, <lbinfo n="de+struction"/>
+140812 new <><ls>Ki. 2. 43</ls>; <ls>Mv. 3. 37.</ls> {#--RaM#} Killing, <lbinfo n="de+struction"/>
+;
+; Case 430: <L>16868<pc>0630-c<k1>niras<k2>niras
+142165 old <>throw into the back-ground; <ls>Bk. 1.</ls>
+142165 new <>throw into the back-ground;  <lbinfo n="ls:Bk. 1.+ 3."/>
+;
+; Case 431: <L>16868<pc>0630-c<k1>niras<k2>niras
+142166 old <>3. {@--8@} To tear out, strip off. {@--9@} To
+142166 new <><ls>Bk. 1. 3.</ls> {@--8@} To tear out, strip off. {@--9@} To
+;
+; Case 432: <L>16898<pc>0631-c<k1>nirUQiH<k2>nirUQiH
+142414 old <>proficiency; {#nfpa vidyAsu nirUQimAgatA#} <ls>Ki.</ls>
+142414 new <>proficiency; {#nfpa vidyAsu nirUQimAgatA#}  <lbinfo n="ls:Ki.+ 2. 6."/>
+;
+; Case 433: <L>16898<pc>0631-c<k1>nirUQiH<k2>nirUQiH
+142415 old <>2. 6. {@--3@} Confirmation. {@--4@} {#= #} <lbinfo n="nirUQalakza#RA"/>
+142415 new <><ls>Ki. 2. 6.</ls> {@--3@} Confirmation. {@--4@} {#= #} <lbinfo n="nirUQalakza#RA"/>
+;
+; Case 434: <L>17038<pc>0635-b<k1>nirvARa<k2>nirvARa
+143305 old <>{#nirvARamapi manye'hamaMtarAyaM jayaSriyaH#} <ls>Ki. 11.</ls>
+143305 new <>{#nirvARamapi manye'hamaMtarAyaM jayaSriyaH#}  <lbinfo n="ls:Ki. 11.+ 69"/>
+;
+; Case 435: <L>17038<pc>0635-b<k1>nirvARa<k2>nirvARa
+143306 old <>69; <ls>R. 12. 1.</ls> {@--5@} (With <lbinfo n="Bud+dhists"/>
+143306 new <><ls>Ki. 11. 69</ls>; <ls>R. 12. 1.</ls> {@--5@} (With <lbinfo n="Bud+dhists"/>
+;
+; Case 436: <L>17092<pc>0637-a<k1>nivAta<k2>nivAta
+143733 old <>{#nivAtanizkaMpamiva pradIpaM#} <ls>Ku. 3. 48</ls>; <ls>Ki.</ls>
+143733 new <>{#nivAtanizkaMpamiva pradIpaM#} <ls>Ku. 3. 48</ls>;  <lbinfo n="ls:Ki.+ 14. 37"/>
+;
+; Case 437: <L>17092<pc>0637-a<k1>nivAta<k2>nivAta
+143734 old <>14. 37; <ls>R. 13. 52</ls>, 3. 17; <ls>Bg. 6. 19.</ls>
+143734 new <><ls>Ki. 14. 37</ls>; <ls>R. 13. 52</ls>, 3. 17; <ls>Bg. 6. 19.</ls>
+;
+; Case 438: <L>17103<pc>0637-c<k1>niviS<k2>niviS
+143822 old <>keep; {#manogataM vAci niveSayaMti#} <ls>Ki.</ls>
+143822 new <>keep; {#manogataM vAci niveSayaMti#}  <lbinfo n="ls:Ki.+ 14. 4"/>
+;
+; Case 439: <L>17103<pc>0637-c<k1>niviS<k2>niviS
+143823 old <>14. 4; <ls>R. 6. 16</ls>, 4. 39, 7. 63. {@--3@}
+143823 new <><ls>Ki. 14. 4</ls>; <ls>R. 6. 16</ls>, 4. 39, 7. 63. {@--3@}
+;
+; Case 440: <L>17115<pc>0638-a<k1>nivft<k2>nivft
+143920 old <>{#sarvamAMsasya BakzaRAt#} <ls>Ms. 5. 49</ls>, 1. 53; <ls>Bk.</ls>
+143920 new <>{#sarvamAMsasya BakzaRAt#} <ls>Ms. 5. 49</ls>, 1. 53;  <lbinfo n="ls:Bk.+ 1. 18"/>
+;
+; Case 441: <L>17115<pc>0638-a<k1>nivft<k2>nivft
+143921 old <>1. 18; {#nivfttamAMsastu janakaH#} <ls>U. 4.</ls> {@--5@}
+143921 new <><ls>Bk. 1. 18</ls>; {#nivfttamAMsastu janakaH#} <ls>U. 4.</ls> {@--5@}
+;
+; Case 442: <L>17233<pc>0641-b<k1>nizWiv<k2>nizWiv
+144729 old <>send forth; <ls>Ś. 4. 4</ls>; <ls>R. 2. 75</ls>; <ls>Bk.</ls>
+144729 new <>send forth; <ls>Ś. 4. 4</ls>; <ls>R. 2. 75</ls>;  <lbinfo n="ls:Bk.+ 14. 100"/>
+;
+; Case 443: <L>17233<pc>0641-b<k1>nizWiv<k2>nizWiv
+144730 old <>14. 100, 17. 10, 18. 14; <ls>Kāv. 1. 95.</ls>
+144730 new <><ls>Bk. 14. 100</ls>, 17. 10, 18. 14; <ls>Kāv. 1. 95.</ls>
+;
+; Case 444: <L>17254<pc>0642-a<k1>nis<k2>nis
+145119 old <>to; {#yanniHsaMgastvaM PalasyAnateByaH#} <ls>Ki. 18.</ls>
+145119 new <>to; {#yanniHsaMgastvaM PalasyAnateByaH#}  <lbinfo n="ls:Ki. 18.+ 24."/>
+;
+; Case 445: <L>17254<pc>0642-a<k1>nis<k2>nis
+145120 old <>24. --2. one who has renounced all
+145120 new <><ls>Ki. 18. 24.</ls> --2. one who has renounced all
+;
+; Case 446: <L>17277<pc>0644-b<k1>nihan<k2>nihan
+145332 old <>To beat, strike (as a drum); <ls>Bk. 14.</ls>
+145332 new <>To beat, strike (as a drum);  <lbinfo n="ls:Bk. 14.+ 2."/>
+;
+; Case 447: <L>17277<pc>0644-b<k1>nihan<k2>nihan
+145333 old <>2. {@--5@} To counteract, oppose, render
+145333 new <><ls>Bk. 14. 2.</ls> {@--5@} To counteract, oppose, render
+;
+; Case 448: <L>17481<pc>0650-c<k1>nyas<k2>nyas
+146820 old <>{#ayogye na madviDo nyasyati BAramagryaM#} <ls>Bk.</ls>
+146820 new <>{#ayogye na madviDo nyasyati BAramagryaM#}  <lbinfo n="ls:Bk.+ 1. 22"/>
+;
+; Case 449: <L>17481<pc>0650-c<k1>nyas<k2>nyas
+146821 old <>1. 22; <ls>Me. 59.</ls> {@--4@} To entrust, <lbinfo n="con+sign"/>
+146821 new <><ls>Bk. 1. 22</ls>; <ls>Me. 59.</ls> {@--4@} To entrust, <lbinfo n="con+sign"/>
+;
+; Case 450: <L>17551<pc>0655-a<k1>paMkaH<k2>paMkaH, --kaM
+147656 old <><ls>Ś. 2. 34</ls>; {#paMkaklinnamuKAH#} <ls>Mk. 5. 14</ls>; <ls>Ki. 2.</ls>
+147656 new <><ls>Ś. 2. 34</ls>; {#paMkaklinnamuKAH#} <ls>Mk. 5. 14</ls>;  <lbinfo n="ls:Ki. 2.+ 6"/>
+;
+; Case 451: <L>17551<pc>0655-a<k1>paMkaH<k2>paMkaH, --kaM
+147657 old <>6; <ls>R. 16. 30.</ls> {@--2@} Hence, a thick
+147657 new <><ls>Ki. 2. 6</ls>; <ls>R. 16. 30.</ls> {@--2@} Hence, a thick
+;
+; Case 452: <L>17552<pc>0655-a<k1>paMkajinI<k2>paMkajinI
+147679 old {#paMkajinI#}¦ {@1@} A lotus-plant; <ls>Ki. 10.</ls>
+147679 new {#paMkajinI#}¦ {@1@} A lotus-plant;  <lbinfo n="ls:Ki. 10.+ 33."/>
+;
+; Case 453: <L>17552<pc>0655-a<k1>paMkajinI<k2>paMkajinI
+147680 old <>33. {@--2@} A group of lotus-plants or
+147680 new <><ls>Ki. 10. 33.</ls> {@--2@} A group of lotus-plants or
+;
+; Case 454: <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+148126 old <>{#canaKA BakzyA ye proktAH kftajErdvijEH#} <ls>Bk.</ls>
+148126 new <>{#canaKA BakzyA ye proktAH kftajErdvijEH#}  <lbinfo n="ls:Bk.+ 6. 131"/>
+;
+; Case 455: <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+148127 old <>6. 131; <ls>Ms. 5. 17</ls>, 18; <ls>Y. 1. 177.</ls>
+148127 new <><ls>Bk. 6. 131</ls>; <ls>Ms. 5. 17</ls>, 18; <ls>Y. 1. 177.</ls>
+;
+; Case 456: <L>17670<pc>0661-a<k1>patat<k2>patat
+148928 old <>bird; {#paramaH pumaniva patiM patatAM#} <ls>Ki. 6.</ls>
+148928 new <>bird; {#paramaH pumaniva patiM patatAM#}  <lbinfo n="ls:Ki. 6.+ 1"/>
+;
+; Case 457: <L>17670<pc>0661-a<k1>patat<k2>patat
+148929 old <>1; {#kvacitpaTA saMcarate surARAM kvacidDanAnAM#}
+148929 new <><ls>Ki. 6. 1</ls>; {#kvacitpaTA saMcarate surARAM kvacidDanAnAM#}
+;
+; Case 458: <L>17781<pc>0668-b<k1>paraMparIRa<k2>paraMparIRa
+150424 old <>{#paraMparIRAM tvaM putrapOtrIRatAM naya#} <ls>Bk. 5.</ls>
+150424 new <>{#paraMparIRAM tvaM putrapOtrIRatAM naya#}  <lbinfo n="ls:Bk. 5.+ 15."/>
+;
+; Case 459: <L>17781<pc>0668-b<k1>paraMparIRa<k2>paraMparIRa
+150425 old <>15. {@--2@} Traditional.
+150425 new <><ls>Bk. 5. 15.</ls> {@--2@} Traditional.
+;
+; Case 460: <L>17788<pc>0668-c<k1>paras<k2>paras
+150524 old <>{%<ab>a.</ab>%} more than a hundred; <ls>Ki. 13.</ls>
+150524 new <>{%<ab>a.</ab>%} more than a hundred;  <lbinfo n="ls:Ki. 13.+ 26"/>
+;
+; Case 461: <L>17788<pc>0668-c<k1>paras<k2>paras
+150525 old <>26; <ls>Śi. 12. 50.</ls> {#--Svas#} {%<ab>ind.</ab>%} the day
+150525 new <><ls>Ki. 13. 26</ls>; <ls>Śi. 12. 50.</ls> {#--Svas#} {%<ab>ind.</ab>%} the day
+;
+; Case 462: <L>17790<pc>0668-c<k1>paraspara<k2>paraspara
+150543 old <>{#vismayavaMti lakzmImAlokayAMcakrurivAdareRa#} <ls>Bk. 2.</ls>
+150543 new <>{#vismayavaMti lakzmImAlokayAMcakrurivAdareRa#}  <lbinfo n="ls:Bk. 2.+ 5."/>
+;
+; Case 463: <L>17790<pc>0668-c<k1>paraspara<k2>paraspara
+150544 old <>5. {%--<ab>pron. a.</ab>%} Each other, one <lbinfo n="an+other"/>
+150544 new <><ls>Bk. 2. 5.</ls> {%--<ab>pron. a.</ab>%} Each other, one <lbinfo n="an+other"/>
+;
+; Case 464: <L>17798<pc>0669-a<k1>parAkram<k2>parAkram
+150606 old <><ls>Ms. 7. 106</ls>; {#ityuktvA Ke parAkraMsta#} <ls>Bk. 8.</ls>
+150606 new <><ls>Ms. 7. 106</ls>; {#ityuktvA Ke parAkraMsta#}  <lbinfo n="ls:Bk. 8.+ 22"/>
+;
+; Case 465: <L>17798<pc>0669-a<k1>parAkram<k2>parAkram
+150607 old <>22, 94. {@--2@} To turn back. {@--3@} To
+150607 new <><ls>Bk. 8. 22</ls>, 94. {@--2@} To turn back. {@--3@} To
+;
+; Case 466: <L>17884<pc>0671-c<k1>parikrI<k2>parikrI
+151186 old <>{#parikrItaH kartAsmi tava nApriyaM#} <ls>Bk. 8.</ls>
+151186 new <>{#parikrItaH kartAsmi tava nApriyaM#}  <lbinfo n="ls:Bk. 8.+ 78."/>
+;
+; Case 467: <L>17884<pc>0671-c<k1>parikrI<k2>parikrI
+151187 old <>78. {@--2@} To hire, purchase for a time
+151187 new <><ls>Bk. 8. 78.</ls> {@--2@} To hire, purchase for a time
+;
+; Case 468: <L>17914<pc>0672-a<k1>parigam<k2>parigam
+151348 old <>{@--2@} To surround; <ls>Śi. 9. 26</ls>; <ls>Bk. 10.</ls>
+151348 new <>{@--2@} To surround; <ls>Śi. 9. 26</ls>;  <lbinfo n="ls:Bk. 10.+ 1"/>
+;
+; Case 469: <L>17914<pc>0672-a<k1>parigam<k2>parigam
+151349 old <>1; {#senAparigata#} &c. {@--3@} To spread
+151349 new <><ls>Bk. 10. 1</ls>; {#senAparigata#} &c. {@--3@} To spread
+;
+; Case 470: <L>17984<pc>0674-b<k1>pariRata<k2>pariRata
+151910 old <>{#pariRato mataH#} <ls>Halāy.</ls>); <ls>Śi. 4. 29</ls>; <ls>Ki.</ls>
+151910 new <>{#pariRato mataH#} <ls>Halāy.</ls>); <ls>Śi. 4. 29</ls>;  <lbinfo n="ls:Ki.+ 6. 7."/>
+;
+; Case 471: <L>17984<pc>0674-b<k1>pariRata<k2>pariRata
+151911 old <>6. 7.
+151911 new <><ls>Ki. 6. 7.</ls>
+;
+; Case 472: <L>18140<pc>0678-b<k1>pariBram<k2>pariBram
+152876 old <>round; {#pariBramanmUrDajazawpadAkulEH#} <ls>Ki. 5.</ls>
+152876 new <>round; {#pariBramanmUrDajazawpadAkulEH#}  <lbinfo n="ls:Ki. 5.+ 14."/>
+;
+; Case 473: <L>18140<pc>0678-b<k1>pariBram<k2>pariBram
+152877 old <>14. {@--3@} To revolve, rotate, move or
+152877 new <><ls>Ki. 5. 14.</ls> {@--3@} To revolve, rotate, move or
+;
+; Case 474: <L>18163<pc>0679-a<k1>parimuh<k2>parimuh
+153014 old <>To entice, beguile, allure; <ls>Bk.</ls>
+153014 new <>To entice, beguile, allure;  <lbinfo n="ls:Bk.+ 8. 63."/>
+;
+; Case 475: <L>18163<pc>0679-a<k1>parimuh<k2>parimuh
+153015 old <>8. 63. {@--2@} (P) To perplex.
+153015 new <><ls>Bk. 8. 63.</ls> {@--2@} (P) To perplex.
+;
+; Case 476: <L>18187<pc>0679-b<k1>parirakzaRaM<k2>parirakzaRaM, --parirakzA
+153142 old <>adhering to; {#na samayaparirakzaRaM kzamaM te#} <ls>Ki. 1.</ls>
+153142 new <>adhering to; {#na samayaparirakzaRaM kzamaM te#}  <lbinfo n="ls:Ki. 1.+ 45."/>
+;
+; Case 477: <L>18187<pc>0679-b<k1>parirakzaRaM<k2>parirakzaRaM, --parirakzA
+153143 old <>45. {@--3@} Deliverance, rescuing. {@--4@}
+153143 new <><ls>Ki. 1. 45.</ls> {@--3@} Deliverance, rescuing. {@--4@}
+;
+; Case 478: <L>18319<pc>0682-c<k1>parisaraH<k2>parisaraH
+153927 old <><ls>U. 3. 8</ls>; {#parisaravizayezu lIQamuktAH#} <ls>Ki. 5.</ls>
+153927 new <><ls>U. 3. 8</ls>; {#parisaravizayezu lIQamuktAH#}  <lbinfo n="ls:Ki. 5.+ 38."/>
+;
+; Case 479: <L>18319<pc>0682-c<k1>parisaraH<k2>parisaraH
+153928 old <>38. {@--2@} Position, site. {@--2@} Width,
+153928 new <><ls>Ki. 5. 38.</ls> {@--2@} Position, site. {@--2@} Width,
+;
+; Case 480: <L>18325<pc>0682-c<k1>paristf<k2>paristf
+153959 old <>To spread, diffuse, extend; <ls>Bk.</ls>
+153959 new <>To spread, diffuse, extend;  <lbinfo n="ls:Bk.+ 14. 11."/>
+;
+; Case 481: <L>18325<pc>0682-c<k1>paristf<k2>paristf
+153960 old <>14. 11. {@--2@} To cover (<ab>fig.</ab> also);
+153960 new <><ls>Bk. 14. 11.</ls> {@--2@} To cover (<ab>fig.</ab> also);
+;
+; Case 482: <L>18352<pc>0683-b<k1>parI<k2>parI(pari-i)
+154135 old <>{#parItABirmahOzaDiH#} <ls>R. 12. 61</ls>; so {#kopaparItamAnasaM#} <ls>Ki.</ls>
+154135 new <>{#parItABirmahOzaDiH#} <ls>R. 12. 61</ls>; so {#kopaparItamAnasaM#}  <lbinfo n="ls:Ki.+ 2. 25."/>
+;
+; Case 483: <L>18352<pc>0683-b<k1>parI<k2>parI(pari-i)
+154136 old <>2. 25. {@--3@} To go to, think of <lbinfo n="(ob+jects"/>
+154136 new <><ls>Ki. 2. 25.</ls> {@--3@} To go to, think of <lbinfo n="(ob+jects"/>
+;
+; Case 484: <L>18373<pc>0684-a<k1>pare<k2>pare
+154269 old <>life.’ {@--2@} To reach, attain to; <ls>Ki. 1.</ls>
+154269 new <>life.’ {@--2@} To reach, attain to;  <lbinfo n="ls:Ki. 1.+ 39."/>
+;
+; Case 485: <L>18373<pc>0684-a<k1>pare<k2>pare
+154270 old <>39. {@--3@} To depart from this world
+154270 new <><ls>Ki. 1. 39.</ls> {@--3@} To depart from this world
+;
+; Case 486: <L>18548<pc>0689-a<k1>pA<k2>pA
+155510 old <>to drink; <ls>R. 13. 9</ls>; <ls>Bk. 8.</ls>
+155510 new <>to drink; <ls>R. 13. 9</ls>;  <lbinfo n="ls:Bk. 8.+ 41"/>
+;
+; Case 487: <L>18548<pc>0689-a<k1>pA<k2>pA
+155511 old <>41, 62. {@--2@} To water. {%--Desid.%} ( <lbinfo n="pi#pAsati"/>
+155511 new <><ls>Bk. 8. 41</ls>, 62. {@--2@} To water. {%--Desid.%} ( <lbinfo n="pi#pAsati"/>
+;
+; Case 488: <L>19157<pc>0711-b<k1>puruzaH<k2>puruzaH
+160568 old <>help themselves”; <ls>Pt. 5. 30</ls>; <ls>Ki.</ls>
+160568 new <>help themselves”; <ls>Pt. 5. 30</ls>;  <lbinfo n="ls:Ki.+ 5. 52."/>
+;
+; Case 489: <L>19157<pc>0711-b<k1>puruzaH<k2>puruzaH
+160569 old <>5. 52. --2. manhood, virility. {#--kuRapaH#}
+160569 new <><ls>Ki. 5. 52.</ls> --2. manhood, virility. {#--kuRapaH#}
+;
+; Case 490: <L>19245<pc>0715-b<k1>pUraRa<k2>pUraRa
+161400 old <>{#tftIya#} &c.); {#na pUraRI taM samupEti saMKyA#} <ls>Ki.</ls>
+161400 new <>{#tftIya#} &c.); {#na pUraRI taM samupEti saMKyA#}  <lbinfo n="ls:Ki.+ 3. 51."/>
+;
+; Case 491: <L>19245<pc>0715-b<k1>pUraRa<k2>pUraRa
+161401 old <>3. 51. {@--3@} Satisfying. {@--4@} Drawing
+161401 new <><ls>Ki. 3. 51.</ls> {@--3@} Satisfying. {@--4@} Drawing
+;
+; Case 492: <L>19501<pc>0723-c<k1>prakAMqakaH<k2>prakAMqakaH
+163329 old {#prakAMqakaH#}¦ See {#prakAMqa#} above; <ls>Bk.</ls>
+163329 new {#prakAMqakaH#}¦ See {#prakAMqa#} above;  <lbinfo n="ls:Bk.+ 5. 6."/>
+;
+; Case 493: <L>19501<pc>0723-c<k1>prakAMqakaH<k2>prakAMqakaH
+163330 old <>5. 6.
+163330 new <><ls>Bk. 5. 6.</ls>
+;
+; Case 494: <L>19506<pc>0724-a<k1>prakASa<k2>prakASa
+163379 old <><ls>Bg. 7. 25.</ls> {@--3@} Vivid, perspicuous; <ls>Ki.</ls>
+163379 new <><ls>Bg. 7. 25.</ls> {@--3@} Vivid, perspicuous;  <lbinfo n="ls:Ki.+ 14. 4."/>
+;
+; Case 495: <L>19506<pc>0724-a<k1>prakASa<k2>prakASa
+163380 old <>14. 4. {@--4@} Famous, renowned, <lbinfo n="cele+brated"/>
+163380 new <><ls>Ki. 14. 4.</ls> {@--4@} Famous, renowned, <lbinfo n="cele+brated"/>
+;
+; Case 496: <L>19521<pc>0724-c<k1>prakf<k2>prakf
+163516 old <>{@--3@} To assault, outrage, insult; <ls>Bk.</ls>
+163516 new <>{@--3@} To assault, outrage, insult;  <lbinfo n="ls:Bk.+ 8. 19."/>
+;
+; Case 497: <L>19521<pc>0724-c<k1>prakf<k2>prakf
+163517 old <>8. 19. {@--4@} To honor, worship. {@--5@}
+163517 new <><ls>Bk. 8. 19.</ls> {@--4@} To honor, worship. {@--5@}
+;
+; Case 498: <L>19750<pc>0731-c<k1>praRAyya<k2>praRAyya
+165158 old <>{@--3@} Disliked, disapproved; <ls>Bk. 6.</ls>
+165158 new <>{@--3@} Disliked, disapproved;  <lbinfo n="ls:Bk. 6.+ 66."/>
+;
+; Case 499: <L>19750<pc>0731-c<k1>praRAyya<k2>praRAyya
+165159 old <>66. {@--4@} Free from passion, <lbinfo n="in+different"/>
+165159 new <><ls>Bk. 6. 66.</ls> {@--4@} Free from passion, <lbinfo n="in+different"/>
+;
+; Case 500: <L>19801<pc>0733-b<k1>prati<k2>prati
+165629 old <>{#kfzRAtprati#} <ls>Sk.</ls>, {#saM grAme yo dArAyaRataH prati#} <ls>Bk.</ls>
+165629 new <>{#kfzRAtprati#} <ls>Sk.</ls>, {#saM grAme yo dArAyaRataH prati#}  <lbinfo n="ls:Bk.+ 8. 89"/>
+;
+; Case 501: <L>19801<pc>0733-b<k1>prati<k2>prati
+165630 old <>8. 89; or ({%b%}) in exchange or <lbinfo n="re+turn"/>
+165630 new <><ls>Bk. 8. 89</ls>; or ({%b%}) in exchange or <lbinfo n="re+turn"/>
+;
+; Case 502: <L>20109<pc>0743-b<k1>pratihatiH<k2>pratihatiH
+167863 old <>recoil; {#pratihatiM yayurarjunamuzwayaH#} <ls>Ki.</ls>
+167863 new <>recoil; {#pratihatiM yayurarjunamuzwayaH#}  <lbinfo n="ls:Ki.+ 18. 5"/>
+;
+; Case 503: <L>20109<pc>0743-b<k1>pratihatiH<k2>pratihatiH
+167864 old <>18. 5; <ls>Śi. 9. 49.</ls> {@--3@} <lbinfo n="Disappoint+ment"/>
+167864 new <><ls>Ki. 18. 5</ls>; <ls>Śi. 9. 49.</ls> {@--3@} <lbinfo n="Disappoint+ment"/>
+;
+; Case 504: <L>20344<pc>0749-c<k1>pradru<k2>pradru
+169435 old <>{#raRAtpradravaMti balAni#} <ls>Ve. 4</ls>; <ls>Bk. 15.</ls>
+169435 new <>{#raRAtpradravaMti balAni#} <ls>Ve. 4</ls>;  <lbinfo n="ls:Bk. 15.+ 79."/>
+;
+; Case 505: <L>20344<pc>0749-c<k1>pradru<k2>pradru
+169436 old <>79. {@--2@} To hasten away, rush <lbinfo n="to+wards"/>
+169436 new <><ls>Bk. 15. 79.</ls> {@--2@} To hasten away, rush <lbinfo n="to+wards"/>
+;
+; Case 506: <L>20403<pc>0751-a<k1>prapad<k2>prapad
+169808 old <>{#varataMtuSizyaH#} <ls>R. 5. 1</ls>; <ls>Bk. 4. 1</ls>; <ls>Ki.</ls>
+169808 new <>{#varataMtuSizyaH#} <ls>R. 5. 1</ls>; <ls>Bk. 4. 1</ls>;  <lbinfo n="ls:Ki.+ 1. 9"/>
+;
+; Case 507: <L>20403<pc>0751-a<k1>prapad<k2>prapad
+169809 old <>1. 9; 11. 16; <ls>R. 8. 11.</ls> ({%b%}) To take
+169809 new <><ls>Ki. 1. 9</ls>; 11. 16; <ls>R. 8. 11.</ls> ({%b%}) To take
+;
+; Case 508: <L>20452<pc>0752-a<k1>prabAD<k2>prabAD
+170086 old <>{#tarUn prabADate (praBaMjanaH)#} <ls>H. 1</ls>; <ls>Bk. 12.</ls>
+170086 new <>{#tarUn prabADate (praBaMjanaH)#} <ls>H. 1</ls>;  <lbinfo n="ls:Bk. 12.+ 2."/>
+;
+; Case 509: <L>20452<pc>0752-a<k1>prabAD<k2>prabAD
+170087 old <>2. {@--3@} To drive away, remove, get
+170087 new <><ls>Bk. 12. 2.</ls> {@--3@} To drive away, remove, get
+;
+; Case 510: <L>20523<pc>0754-b<k1>pramATin<k2>pramATin
+170613 old <>{#viSvasanIyamAyuDaM#} <ls>M. 3. 2</ls>; <ls>Māl. 2. 1</ls>; <ls>Ki.</ls>
+170613 new <>{#viSvasanIyamAyuDaM#} <ls>M. 3. 2</ls>; <ls>Māl. 2. 1</ls>;  <lbinfo n="ls:Ki.+ 3. 14."/>
+;
+; Case 511: <L>20523<pc>0754-b<k1>pramATin<k2>pramATin
+170614 old <>3. 14. {@--2@} Killing, destroying. {@--3@}
+170614 new <><ls>Ki. 3. 14.</ls> {@--2@} Killing, destroying. {@--3@}
+;
+; Case 512: <L>20675<pc>0759-a<k1>pravaRa<k2>pravaRa
+171718 old <><ls>Bh. 3. 29</ls>; <ls>Śi. 8. 35</ls>; <ls>Mu. 5. 21</ls>; <ls>Ki. 2.</ls>
+171718 new <><ls>Bh. 3. 29</ls>; <ls>Śi. 8. 35</ls>; <ls>Mu. 5. 21</ls>;  <lbinfo n="ls:Ki. 2.+ 44."/>
+;
+; Case 513: <L>20675<pc>0759-a<k1>pravaRa<k2>pravaRa
+171719 old <>44. {@--6@} Favourably inclined or <lbinfo n="dis+posed"/>
+171719 new <><ls>Ki. 2. 44.</ls> {@--6@} Favourably inclined or <lbinfo n="dis+posed"/>
+;
+; Case 514: <L>20863<pc>0764-b<k1>prasAdaH<k2>prasAdaH
+173004 old <>{#prAptabudDiprasAdAH#} <ls>Śi. 11. 6</ls>; <ls>R. 17. 1</ls>; <ls>Ki. 9.</ls>
+173004 new <>{#prAptabudDiprasAdAH#} <ls>Śi. 11. 6</ls>; <ls>R. 17. 1</ls>;  <lbinfo n="ls:Ki. 9.+ 25."/>
+;
+; Case 515: <L>20863<pc>0764-b<k1>prasAdaH<k2>prasAdaH
+173005 old <>25. {@--5@} Perspicuity, clearness of style,
+173005 new <><ls>Ki. 9. 25.</ls> {@--5@} Perspicuity, clearness of style,
+;
+; Case 516: <L>21165<pc>0774-a<k1>prAp<k2>prAp
+175251 old <>find, light upon, overtake; <ls>Bk. 5.</ls>
+175251 new <>find, light upon, overtake;  <lbinfo n="ls:Bk. 5.+ 96."/>
+;
+; Case 517: <L>21165<pc>0774-a<k1>prAp<k2>prAp
+175252 old <>96. {@--5@} To result or follow (as a
+175252 new <><ls>Bk. 5. 96.</ls> {@--5@} To result or follow (as a
+;
+; Case 518: <L>21199<pc>0775-b<k1>prAyeRa<k2>prAyeRa
+175559 old <>{#hi SreyAMsi labDumasuKAni vinAMtarAyEH#} <ls>Ki.</ls>
+175559 new <>{#hi SreyAMsi labDumasuKAni vinAMtarAyEH#}  <lbinfo n="ls:Ki.+ 5. 49"/>
+;
+; Case 519: <L>21199<pc>0775-b<k1>prAyeRa<k2>prAyeRa
+175560 old <>5. 49; <ls>Ku. 3. 28</ls>; <ls>Rs. 6. 24.</ls> {@--2@}
+175560 new <><ls>Ki. 5. 49</ls>; <ls>Ku. 3. 28</ls>; <ls>Rs. 6. 24.</ls> {@--2@}
+;
+; Case 520: <L>21212<pc>0775-c<k1>prArT<k2>prArT
+175625 old <>search of; {#prArTayaDvaM taTA sItAM#} <ls>Bk. 7.</ls>
+175625 new <>search of; {#prArTayaDvaM taTA sItAM#}  <lbinfo n="ls:Bk. 7.+ 48."/>
+;
+; Case 521: <L>21212<pc>0775-c<k1>prArT<k2>prArT
+175626 old <>48. {@--5@} To attack, seize or fall
+175626 new <><ls>Bk. 7. 48.</ls> {@--5@} To attack, seize or fall
+;
+; Case 522: <L>21293<pc>0778-a<k1>prI<k2>prI
+176207 old <><ls>Bh. 2. 68</ls>; {#sasnuH pitFn pipriyurApagAsu#} <ls>Bk. 3.</ls>
+176207 new <><ls>Bh. 2. 68</ls>; {#sasnuH pitFn pipriyurApagAsu#}  <lbinfo n="ls:Bk. 3.+ 38"/>
+;
+; Case 523: <L>21293<pc>0778-a<k1>prI<k2>prI
+176208 old <>38; 5. 104; 7. 64. {@--2@} To be <lbinfo n="pleas+ed"/>
+176208 new <><ls>Bk. 3. 38</ls>; 5. 104; 7. 64. {@--2@} To be <lbinfo n="pleas+ed"/>
+;
+; Case 524: <L>21324<pc>0779-b<k1>preMKaRa<k2>preMKaRa
+176492 old <>going towards, entering; <ls>Bk. 9.</ls>
+176492 new <>going towards, entering;  <lbinfo n="ls:Bk. 9.+ 106."/>
+;
+; Case 525: <L>21324<pc>0779-b<k1>preMKaRa<k2>preMKaRa
+176493 old <>106. {#--RaM#} {@1@} Swinging. {@--2@} A swing.
+176493 new <><ls>Bk. 9. 106.</ls> {#--RaM#} {@1@} Swinging. {@--2@} A swing.
+;
+; Case 526: <L>21385<pc>0780-c<k1>proT<k2>proT
+176846 old <>(with <ab>dat.</ab>); {#puproTAsmE na kaScata#} <ls>Bk.</ls>
+176846 new <>(with <ab>dat.</ab>); {#puproTAsmE na kaScata#}  <lbinfo n="ls:Bk.+ 14. 84"/>
+;
+; Case 527: <L>21385<pc>0780-c<k1>proT<k2>proT
+176847 old <>14. 84; 15. 40. {@--2@} To be able, <lbinfo n="ade+quate"/>
+176847 new <><ls>Bk. 14. 84</ls>; 15. 40. {@--2@} To be able, <lbinfo n="ade+quate"/>
+;
+; Case 528: <L>21494<pc>0784-c<k1>PAMwa<k2>PAMwa
+177740 old <>{#kazAyaviSezaH#} <ls>Sk.</ls>; {#PAMwacitrAstrapARayaH#} <ls>Bk.</ls>
+177740 new <>{#kazAyaviSezaH#} <ls>Sk.</ls>; {#PAMwacitrAstrapARayaH#}  <lbinfo n="ls:Bk.+ 9. 17"/>
+;
+; Case 529: <L>21494<pc>0784-c<k1>PAMwa<k2>PAMwa
+177741 old <>9. 17 (see the commentary). {#--waM#}
+177741 new <><ls>Bk. 9. 17</ls> (see the commentary). {#--waM#}
+;
+; Case 530: <L>21554<pc>0786-b<k1>baMD<k2>baMD
+178116 old <><ls>Ku. 7. 57</ls>; <ls>R. 7. 9</ls>; <ls>Ku. 7. 25</ls>; <ls>Bk.</ls>
+178116 new <><ls>Ku. 7. 57</ls>; <ls>R. 7. 9</ls>; <ls>Ku. 7. 25</ls>;  <lbinfo n="ls:Bk.+ 9. 75."/>
+;
+; Case 531: <L>21554<pc>0786-b<k1>baMD<k2>baMD
+178117 old <>9. 75. {@--2@} To catch, capture, <lbinfo n="im+prison"/>
+178117 new <><ls>Bk. 9. 75.</ls> {@--2@} To catch, capture, <lbinfo n="im+prison"/>
+;
+; Case 532: <L>21634<pc>0791-a<k1>ballavaH<k2>ballavaH
+179102 old <>of Virāṭa. {#--vI#} A cowherdess; <ls>Ki.</ls>
+179102 new <>of Virāṭa. {#--vI#} A cowherdess;  <lbinfo n="ls:Ki.+ 4. 17."/>
+;
+; Case 533: <L>21634<pc>0791-a<k1>ballavaH<k2>ballavaH
+179103 old <>4. 17. {@--Comp.@} {#--yuvatiH --tI#} {%<ab>f.</ab>%} a 
+179103 new <><ls>Ki. 4. 17.</ls> {@--Comp.@} {#--yuvatiH --tI#} {%<ab>f.</ab>%} a 
+;
+; Case 534: <L>21680<pc>0794-a<k1>bAD<k2>bAD
+179663 old <><ls>Me. 53</ls>; <ls>Ms. 9. 226</ls>; 10. 129; <ls>Bk.</ls>
+179663 new <><ls>Me. 53</ls>; <ls>Ms. 9. 226</ls>; 10. 129;  <lbinfo n="ls:Bk.+ 14. 45."/>
+;
+; Case 535: <L>21680<pc>0794-a<k1>bAD<k2>bAD
+179664 old <>14. 45. {@--2@} To resist, oppose, thwart,
+179664 new <><ls>Bk. 14. 45.</ls> {@--2@} To resist, oppose, thwart,
+;
+; Case 536: <L>21832<pc>0799-c<k1>bfMh<k2>bfMh
+180943 old <>grow, increase; {#bfMhitamanyuvega#} <ls>Bk. 3.</ls>
+180943 new <>grow, increase; {#bfMhitamanyuvega#}  <lbinfo n="ls:Bk. 3.+ 49."/>
+;
+; Case 537: <L>21832<pc>0799-c<k1>bfMh<k2>bfMh
+180944 old <>49. {@--2@} To roar. {%--Caus%} To cause to
+180944 new <><ls>Bk. 3. 49.</ls> {@--2@} To roar. {%--Caus%} To cause to
+;
+; Case 538: <L>21834<pc>0799-c<k1>bfMhita<k2>bfMhita
+180959 old <>of an elephant; <ls>Śi. 12. 15</ls>; <ls>Ki. 7.</ls>
+180959 new <>of an elephant; <ls>Śi. 12. 15</ls>;  <lbinfo n="ls:Ki. 7.+ 39."/>
+;
+; Case 539: <L>21834<pc>0799-c<k1>bfMhita<k2>bfMhita
+180960 old <>39.
+180960 new <><ls>Ki. 7. 39.</ls>
+;
+; Case 540: <L>22021<pc>0810-c<k1>BavAnI<k2>BavAnI
+183199 old <>{#AlaMbatAgra karamatra Bavo BavAnyAH#} <ls>Ki. 5.</ls>
+183199 new <>{#AlaMbatAgra karamatra Bavo BavAnyAH#}  <lbinfo n="ls:Ki. 5.+ 29"/>
+;
+; Case 541: <L>22021<pc>0810-c<k1>BavAnI<k2>BavAnI
+183200 old <>29; <ls>Ku. 7. 84</ls>; <ls>Me. 36</ls>, 44. {@--Comp.@}
+183200 new <><ls>Ki. 5. 29</ls>; <ls>Ku. 7. 84</ls>; <ls>Me. 36</ls>, 44. {@--Comp.@}
+;
+; Case 542: <L>22033<pc>0811-a<k1>Bavya<k2>Bavya
+183281 old <>{@--4@} Suitable, proper, fit, worthy; <ls>Ki.</ls>
+183281 new <>{@--4@} Suitable, proper, fit, worthy;  <lbinfo n="ls:Ki.+ 11. 13."/>
+;
+; Case 543: <L>22033<pc>0811-a<k1>Bavya<k2>Bavya
+183282 old <>11. 13. {@--5@} Good, nice, excellent. {@--6@}
+183282 new <><ls>Ki. 11. 13.</ls> {@--5@} Good, nice, excellent. {@--6@}
+;
+; Case 544: <L>22154<pc>0816-a<k1>BAs<k2>BAs
+184399 old <><ls>Bv. 2. 74</ls>; 4. 18; <ls>Ku. 6. 11</ls>; <ls>Bk. 10.</ls>
+184399 new <><ls>Bv. 2. 74</ls>; 4. 18; <ls>Ku. 6. 11</ls>;  <lbinfo n="ls:Bk. 10.+ 61."/>
+;
+; Case 545: <L>22154<pc>0816-a<k1>BAs<k2>BAs
+184400 old <>61. {@--2@} To become clear or evident,
+184400 new <><ls>Bk. 10. 61.</ls> {@--2@} To become clear or evident,
+;
+; Case 546: <L>22197<pc>0818-a<k1>BI<k2>BI
+184821 old <>{#sa BItaM vimuMcati; rAvaRAdviByatiM BfSaM#} <ls>Bk.</ls>
+184821 new <>{#sa BItaM vimuMcati; rAvaRAdviByatiM BfSaM#}  <lbinfo n="ls:Bk.+ 8. 70"/>
+;
+; Case 547: <L>22197<pc>0818-a<k1>BI<k2>BI
+184822 old <>8. 70; <ls>Śi. 3. 45.</ls> {@--2@} To be anxious
+184822 new <><ls>Bk. 8. 70</ls>; <ls>Śi. 3. 45.</ls> {@--2@} To be anxious
+;
+; Case 548: <L>22275<pc>0823-c<k1>Bf<k2>Bf
+186016 old <>{#DaraRIM Kalu pfzWakena#} <ls>Ch. P. 50</ls>; <ls>Bk. 17.</ls>
+186016 new <>{#DaraRIM Kalu pfzWakena#} <ls>Ch. P. 50</ls>;  <lbinfo n="ls:Bk. 17.+ 16"/>
+;
+; Case 549: <L>22275<pc>0823-c<k1>Bf<k2>Bf
+186017 old <>16 {@--3@} To maintain, foster, cherish,
+186017 new <><ls>Bk. 17. 16</ls> {@--3@} To maintain, foster, cherish,
+;
+; Case 550: <L>22327<pc>0825-c<k1>Bezaja<k2>Bezaja
+186456 old <>{#Bezaje bahuralpIyasi dfSyate guRaH#} <ls>Ki. 2.</ls>
+186456 new <>{#Bezaje bahuralpIyasi dfSyate guRaH#}  <lbinfo n="ls:Ki. 2.+ 4."/>
+;
+; Case 551: <L>22327<pc>0825-c<k1>Bezaja<k2>Bezaja
+186457 old <>4. {@--2@} A remedy or cure in general.
+186457 new <><ls>Ki. 2. 4.</ls> {@--2@} A remedy or cure in general.
+;
+; Case 552: <L>22372<pc>0827-c<k1>BraMS<k2>BraMS
+186878 old <>of, lose; {#baBraMSe'sO Dftesta taH#} <ls>Bk. 14.</ls>
+186878 new <>of, lose; {#baBraMSe'sO Dftesta taH#}  <lbinfo n="ls:Bk. 14.+ 71"/>
+;
+; Case 553: <L>22372<pc>0827-c<k1>BraMS<k2>BraMS
+186879 old <>71; <ls>Pt. 2. 108</ls>; 4. 37. {@--4@} To <lbinfo n="es+cape"/>
+186879 new <><ls>Bk. 14. 71</ls>; <ls>Pt. 2. 108</ls>; 4. 37. {@--4@} To <lbinfo n="es+cape"/>
+;
+; Case 554: <L>22581<pc>0836-a<k1>mad<k2>mad
+188685 old <>{#yaMti ye#} <ls>Māl. 1. 36</ls>, <ls>Śi. 13. 38</ls>, <ls>Ki. 5.</ls>
+188685 new <>{#yaMti ye#} <ls>Māl. 1. 36</ls>, <ls>Śi. 13. 38</ls>,  <lbinfo n="ls:Ki. 5.+ 26."/>
+;
+; Case 555: <L>22581<pc>0836-a<k1>mad<k2>mad
+188686 old <>26. {@--3@} To inflame with passion;
+188686 new <><ls>Ki. 5. 26.</ls> {@--3@} To inflame with passion;
+;
+; Case 556: <L>22694<pc>0845-a<k1>maMdra<k2>maMdra
+190460 old <>sound); {#payodamaMdraDvaninA DaritrI#} <ls>Ki.</ls>
+190460 new <>sound); {#payodamaMdraDvaninA DaritrI#}  <lbinfo n="ls:Ki.+ 16. 3"/>
+;
+; Case 557: <L>22694<pc>0845-a<k1>maMdra<k2>maMdra
+190461 old <>16. 3; 7. 22; <ls>Me. 99</ls>; <ls>R. 6. 56.</ls>
+190461 new <><ls>Ki. 16. 3</ls>; 7. 22; <ls>Me. 99</ls>; <ls>R. 6. 56.</ls>
+;
+; Case 558: <L>22848<pc>0849-c<k1>mah<k2>mah
+191591 old <><ls>Ku. 6. 12</ls>; <ls>Ki. 5. 7</ls>, 24; <ls>Bk.</ls>
+191591 new <><ls>Ku. 6. 12</ls>; <ls>Ki. 5. 7</ls>, 24;  <lbinfo n="ls:Bk.+ 10. 2"/>
+;
+; Case 559: <L>22848<pc>0849-c<k1>mah<k2>mah
+191592 old <>10. 2; <ls>R. 5. 25</ls>, 11. 49. {@--2@}
+191592 new <><ls>Bk. 10. 2</ls>; <ls>R. 5. 25</ls>, 11. 49. {@--2@}
+;
+; Case 560: <L>22865<pc>0850-b<k1>mahA<k2>mahA
+192335 old <>different in sense; {%<ab>e. g.</ab>%} see <ls>Ki. 15.</ls>
+192335 new <>different in sense; {%<ab>e. g.</ab>%} see  <lbinfo n="ls:Ki. 15.+ 52"/>
+;
+; Case 561: <L>22865<pc>0850-b<k1>mahA<k2>mahA
+192336 old <>52, where {#vikASamIyurjagatISamArgaRAH#}
+192336 new <><ls>Ki. 15. 52</ls>, where {#vikASamIyurjagatISamArgaRAH#}
+;
+; Case 562: <L>22878<pc>0855-b<k1>mahI<k2>mahI
+192663 old <>{#--prarohaH, --ruh#} {%<ab>m.</ab>,%} {#ruhaH#} a tree; <ls>Ki. 5.</ls>
+192663 new <>{#--prarohaH, --ruh#} {%<ab>m.</ab>,%} {#ruhaH#} a tree;  <lbinfo n="ls:Ki. 5.+ 10"/>
+;
+; Case 563: <L>22878<pc>0855-b<k1>mahI<k2>mahI
+192664 old <>10; <ls>Śi. 20</ls> 49. {#--prAcIraM, --prAvaraH#}
+192664 new <><ls>Ki. 5. 10</ls>; <ls>Śi. 20</ls> 49. {#--prAcIraM, --prAvaraH#}
+;
+; Case 564: <L>22878<pc>0855-b<k1>mahI<k2>mahI
+192666 old <>1. a mountain; <ls>Ki. 1. 27</ls>; <ls>Ki. 5.</ls>
+192666 new <>1. a mountain; <ls>Ki. 1. 27</ls>;  <lbinfo n="ls:Ki. 5.+ 1."/>
+;
+; Case 565: <L>22878<pc>0855-b<k1>mahI<k2>mahI
+192667 old <>1. --2. a king, sovereign. {#--latA#} an
+192667 new <><ls>Ki. 5. 1.</ls> --2. a king, sovereign. {#--latA#} an
+;
+; Case 566: <L>22955<pc>0859-a<k1>mAdfkza<k2>mAdfkza
+193369 old <>{#pravfttisArAH Kalu mAwwaSAM giraH#} <ls>Ki. 1.</ls>
+193369 new <>{#pravfttisArAH Kalu mAwwaSAM giraH#}  <lbinfo n="ls:Ki. 1.+ 25"/>
+;
+; Case 567: <L>22955<pc>0859-a<k1>mAdfkza<k2>mAdfkza
+193370 old <>25; <ls>U. 2</ls>; {#upacAro nEva kalpya iti tu#}
+193370 new <><ls>Ki. 1. 25</ls>; <ls>U. 2</ls>; {#upacAro nEva kalpya iti tu#}
+;
+; Case 568: <L>23738<pc>0891-a<k1>yA<k2>yA
+200463 old <>{#kuto'DiyAsyasi kUra nihatastena pAtriBiH#} <ls>Bk.</ls>
+200463 new <>{#kuto'DiyAsyasi kUra nihatastena pAtriBiH#}  <lbinfo n="ls:Bk.+ 8. 90."/>
+;
+; Case 569: <L>23738<pc>0891-a<k1>yA<k2>yA
+200464 old <>8. 90.
+200464 new <><ls>Bk. 8. 90.</ls>
+;
+; Case 570: <L>23803<pc>0893-a<k1>yAmya<k2>yAmya
+200881 old <>{@1@} Southern; {#dvAraM raraMDaturyAmyaM#} <ls>Bk. 14.</ls>
+200881 new <>{@1@} Southern; {#dvAraM raraMDaturyAmyaM#}  <lbinfo n="ls:Bk. 14.+ 15."/>
+;
+; Case 571: <L>23803<pc>0893-a<k1>yAmya<k2>yAmya
+200882 old <>15. {@--2@} Belonging to or resembling
+200882 new <><ls>Bk. 14. 15.</ls> {@--2@} Belonging to or resembling
+;
+; Case 572: <L>23842<pc>0895-c<k1>yuD<k2>yuD
+201405 old <>contest; {#niGAtayizyanyuDi yAtuDAnAn#} <ls>Bk.</ls>
+201405 new <>contest; {#niGAtayizyanyuDi yAtuDAnAn#}  <lbinfo n="ls:Bk.+ 2. 21"/>
+;
+; Case 573: <L>23842<pc>0895-c<k1>yuD<k2>yuD
+201406 old <>2. 21; {#sadasi vAkpawutA yuDi vikramaH#}
+201406 new <><ls>Bk. 2. 21</ls>; {#sadasi vAkpawutA yuDi vikramaH#}
+;
+; Case 574: <L>23917<pc>0899-1<k1>raMhas<k2>raMhas
+202175 old <>velocity; <ls>R. 2. 34</ls>; <ls>Śi. 12. 7</ls>; <ls>Ki. 2.</ls>
+202175 new <>velocity; <ls>R. 2. 34</ls>; <ls>Śi. 12. 7</ls>;  <lbinfo n="ls:Ki. 2.+ 40."/>
+;
+; Case 575: <L>23917<pc>0899-1<k1>raMhas<k2>raMhas
+202176 old <>40. {@--2@} Eagerness, violence, <lbinfo n="vehe+mence"/>
+202176 new <><ls>Ki. 2. 40.</ls> {@--2@} Eagerness, violence, <lbinfo n="vehe+mence"/>
+;
+; Case 576: <L>23960<pc>0901-c<k1>rajaniMmanya<k2>rajaniMmanya
+202653 old <>looking like night (as a day); <ls>Bk.</ls>
+202653 new <>looking like night (as a day);  <lbinfo n="ls:Bk.+ 7. 13."/>
+;
+; Case 577: <L>23960<pc>0901-c<k1>rajaniMmanya<k2>rajaniMmanya
+202654 old <>7. 13.
+202654 new <><ls>Bk. 7. 13.</ls>
+;
+; Case 578: <L>23972<pc>0902-b<k1>raw<k2>raw
+202798 old <>howl; {#GorAScArawizuH SivAH#} <ls>Bk. 15.</ls>
+202798 new <>howl; {#GorAScArawizuH SivAH#}  <lbinfo n="ls:Bk. 15.+ 27"/>
+;
+; Case 579: <L>23972<pc>0902-b<k1>raw<k2>raw
+202799 old <>27; {#papAta rAkzaso BUmO rarAwa ca BayaMkaraM#}
+202799 new <><ls>Bk. 15. 27</ls>; {#papAta rAkzaso BUmO rarAwa ca BayaMkaraM#}
+;
+; Case 580: <L>24037<pc>0905-b<k1>ravaRa<k2>ravaRa
+203469 old <>{#utkaMWAvarDanEH SuBraM ravaREraM baraM tataM#} <ls>Bk. 7.</ls>
+203469 new <>{#utkaMWAvarDanEH SuBraM ravaREraM baraM tataM#}  <lbinfo n="ls:Bk. 7.+ 14."/>
+;
+; Case 581: <L>24037<pc>0905-b<k1>ravaRa<k2>ravaRa
+203470 old <>14. {@--3@} Sharp, hot. {@--4@} Fickle, <lbinfo n="un+steady"/>
+203470 new <><ls>Bk. 7. 14.</ls> {@--3@} Sharp, hot. {@--4@} Fickle, <lbinfo n="un+steady"/>
+;
+; Case 582: <L>24234<pc>0915-a<k1>ruD<k2>ruD
+205557 old <>but sometimes with two <ab>acc.</ab>); <ls>Bk.</ls>
+205557 new <>but sometimes with two <ab>acc.</ab>);  <lbinfo n="ls:Bk.+ 6. 35"/>
+;
+; Case 583: <L>24234<pc>0915-a<k1>ruD<k2>ruD
+205558 old <>6. 35; {#vrajaM ruRadDi gAM#} <ls>Sk.</ls> ({%b%}) To
+205558 new <><ls>Bk. 6. 35</ls>; {#vrajaM ruRadDi gAM#} <ls>Sk.</ls> ({%b%}) To
+;
+; Case 584: <L>24343<pc>0918-b<k1>roman<k2>roman
+206350 old <>{#vikriyA, --viBedaH#} thrill, horripilation; <ls>Ki.</ls>
+206350 new <>{#vikriyA, --viBedaH#} thrill, horripilation;  <lbinfo n="ls:Ki.+ 9. 46"/>
+;
+; Case 585: <L>24343<pc>0918-b<k1>roman<k2>roman
+206351 old <>9. 46; <ls>Ku. 5. 10.</ls> {#--viDvaMsaH#} a louse.
+206351 new <><ls>Ki. 9. 46</ls>; <ls>Ku. 5. 10.</ls> {#--viDvaMsaH#} a louse.
+;
+; Case 586: <L>24409<pc>0922-a<k1>laGayati<k2>laGayati
+207071 old <>make inferior or insignificant; <ls>Ki.</ls>
+207071 new <>make inferior or insignificant;  <lbinfo n="ls:Ki.+ 5. 4"/>
+;
+; Case 587: <L>24409<pc>0922-a<k1>laGayati<k2>laGayati
+207072 old <>5. 4; 13. 38.
+207072 new <><ls>Ki. 5. 4</ls>; 13. 38.
+;
+; Case 588: <L>24425<pc>0922-b<k1>laMG<k2>laMG
+207169 old <>ascend; {#anye cAlaMGizuH SElAn#} <ls>Bk. 15.</ls>
+207169 new <>ascend; {#anye cAlaMGizuH SElAn#}  <lbinfo n="ls:Bk. 15.+ 32."/>
+;
+; Case 589: <L>24425<pc>0922-b<k1>laMG<k2>laMG
+207170 old <>32. {@--3@} To go beyond, transgress;
+207170 new <><ls>Bk. 15. 32.</ls> {@--3@} To go beyond, transgress;
+;
+; Case 590: <L>24467<pc>0923-c<k1>laB<k2>laB
+207516 old <>get or receive, cause to take; <ls>Ki.</ls>
+207516 new <>get or receive, cause to take;  <lbinfo n="ls:Ki.+ 2. 58."/>
+;
+; Case 591: <L>24467<pc>0923-c<k1>laB<k2>laB
+207517 old <>2. 58. {@--2@} To give, confer or
+207517 new <><ls>Ki. 2. 58.</ls> {@--2@} To give, confer or
+;
+; Case 592: <L>24509<pc>0925-c<k1>lalita<k2>lalita
+207911 old <>{#lalitaM Bavet#} <ls>S. D.</ls>; <ls>Śi. 9. 79</ls>; <ls>Ki.</ls>
+207911 new <>{#lalitaM Bavet#} <ls>S. D.</ls>; <ls>Śi. 9. 79</ls>;  <lbinfo n="ls:Ki.+ 10. 52."/>
+;
+; Case 593: <L>24509<pc>0925-c<k1>lalita<k2>lalita
+207912 old <>10. 52. {@--3@} Beauty, grace, charm.
+207912 new <><ls>Ki. 10. 52.</ls> {@--3@} Beauty, grace, charm.
+;
+; Case 594: <L>24541<pc>0926-c<k1>lA<k2>lA
+208129 old <>obtain, take, up; {#laluH KadBAn#} <ls>Bk.</ls>
+208129 new <>obtain, take, up; {#laluH KadBAn#}  <lbinfo n="ls:Bk.+ 14. 92"/>
+;
+; Case 595: <L>24541<pc>0926-c<k1>lA<k2>lA
+208130 old <>14. 92, 15. 53.
+208130 new <><ls>Bk. 14. 92</ls>, 15. 53.
+;
+; Case 596: <L>24695<pc>0931-c<k1>lul<k2>lul
+209266 old <>about; {#lulitadfzwi madAdiva casKale#} <ls>Ki.</ls>
+209266 new <>about; {#lulitadfzwi madAdiva casKale#}  <lbinfo n="ls:Ki.+ 18. 6"/>
+;
+; Case 597: <L>24695<pc>0931-c<k1>lul<k2>lul
+209267 old <>18. 6; <ls>Śi. 3. 72</ls>, 10. 36. {@--2@} To
+209267 new <><ls>Ki. 18. 6</ls>; <ls>Śi. 3. 72</ls>, 10. 36. {@--2@} To
+;
+; Case 598: <L>24697<pc>0931-c<k1>lulita<k2>lulita
+209294 old <>Elegant, beautiful; {#banaM lulitapallavaM#} <ls>Bk.</ls>
+209294 new <>Elegant, beautiful; {#banaM lulitapallavaM#}  <lbinfo n="ls:Bk.+ 9. 56."/>
+;
+; Case 599: <L>24697<pc>0931-c<k1>lulita<k2>lulita
+209295 old <>9. 56.
+209295 new <><ls>Bk. 9. 56.</ls>
+;
+; Case 600: <L>24806<pc>0936-c<k1>lOha<k2>lOha
+210298 old <>Coppercoloured, red. {#--haM#} Iron; <ls>Bk. 15.</ls>
+210298 new <>Coppercoloured, red. {#--haM#} Iron;  <lbinfo n="ls:Bk. 15.+ 54."/>
+;
+; Case 601: <L>24806<pc>0936-c<k1>lOha<k2>lOha
+210299 old <>54. {#--hA#} A kettle. {@--Comp.@}  <lbinfo n="--Atma#n"/>
+210299 new <><ls>Bk. 15. 54.</ls> {#--hA#} A kettle. {@--Comp.@}  <lbinfo n="--Atma#n"/>
+;
+; Case 602: <L>24865<pc>0938-c<k1>vacanaM<k2>vacanaM
+210788 old <>{#vaktfviSezaniHspfhA guRagfhyA vacane vipaScitaH#} <ls>Ki. 2.</ls>
+210788 new <>{#vaktfviSezaniHspfhA guRagfhyA vacane vipaScitaH#}  <lbinfo n="ls:Ki. 2.+ 5"/>
+;
+; Case 603: <L>24865<pc>0938-c<k1>vacanaM<k2>vacanaM
+210789 old <>5; {#prItaH prItipramuKavacanaM svAgataM #} <lbinfo n="vyAja#hAra"/>
+210789 new <><ls>Ki. 2. 5</ls>; {#prItaH prItipramuKavacanaM svAgataM #} <lbinfo n="vyAja#hAra"/>
+;
+; Case 604: <L>24866<pc>0938-c<k1>vacanIya<k2>vacanIya
+210828 old <>{#yojayiturvacanIyatA#} <ls>Pt. 1. 75</ls>; <ls>Ki. 9.</ls>
+210828 new <>{#yojayiturvacanIyatA#} <ls>Pt. 1. 75</ls>;  <lbinfo n="ls:Ki. 9.+ 39"/>
+;
+; Case 605: <L>24866<pc>0938-c<k1>vacanIya<k2>vacanIya
+210829 old <>39, 65; <ls>Mk. 4. 1.</ls>
+210829 new <><ls>Ki. 9. 39</ls>, 65; <ls>Mk. 4. 1.</ls>
+;
+; Case 606: <L>25013<pc>0944-a<k1>vapus<k2>vapus
+212049 old <>{#vapuHprakarzAdajayadguruM raGuH#} <ls>R. 3. 35</ls>; <ls>Ki.</ls>
+212049 new <>{#vapuHprakarzAdajayadguruM raGuH#} <ls>R. 3. 35</ls>;  <lbinfo n="ls:Ki.+ 3. 2."/>
+;
+; Case 607: <L>25013<pc>0944-a<k1>vapus<k2>vapus
+212050 old <>3. 2. {#--Dara#} {%<ab>a.</ab>%} 1. embodied. --2.
+212050 new <><ls>Ki. 3. 2.</ls> {#--Dara#} {%<ab>a.</ab>%} 1. embodied. --2.
+;
+; Case 608: <L>25180<pc>0950-b<k1>varzuka<k2>varzuka
+213443 old <>{#kftAnnetareMbudasya parihAryamUzaraM#} <ls>Śi. 14. 46</ls>; <ls>Bk. 2.</ls>
+213443 new <>{#kftAnnetareMbudasya parihAryamUzaraM#} <ls>Śi. 14. 46</ls>;  <lbinfo n="ls:Bk. 2.+ 37."/>
+;
+; Case 609: <L>25180<pc>0950-b<k1>varzuka<k2>varzuka
+213444 old <>37. {@--Comp.@} {#--abdaH, --aMbudaH#} a
+213444 new <><ls>Bk. 2. 37.</ls> {@--Comp.@} {#--abdaH, --aMbudaH#} a
+;
+; Case 610: <L>25220<pc>0951-b<k1>valg<k2>valg
+213685 old <><ls>Śi. 18. 53.</ls> {@--4@} To be pleased; <ls>Bk. 13.</ls>
+213685 new <><ls>Śi. 18. 53.</ls> {@--4@} To be pleased;  <lbinfo n="ls:Bk. 13.+ 28."/>
+;
+; Case 611: <L>25220<pc>0951-b<k1>valg<k2>valg
+213686 old <>28. {@--5@} To eat;  <lbinfo n="nirjitAKilamahArRavO#zaDisyaMdasAramamftaM"/>
+213686 new <><ls>Bk. 13. 28.</ls> {@--5@} To eat;  <lbinfo n="nirjitAKilamahArRavO#zaDisyaMdasAramamftaM"/>
+;
+; Case 612: <L>25224<pc>0951-b<k1>valgu<k2>valgu
+213710 old <>attractive; <ls>R. 5. 68</ls>, <ls>Śi. 5. 29</ls>; <ls>Ki.</ls>
+213710 new <>attractive; <ls>R. 5. 68</ls>, <ls>Śi. 5. 29</ls>;  <lbinfo n="ls:Ki.+ 18. 11."/>
+;
+; Case 613: <L>25224<pc>0951-b<k1>valgu<k2>valgu
+213711 old <>18. 11. {@--2@} Sweet; <ls>Bv. 2. 136.</ls> {@--3@}
+213711 new <><ls>Ki. 18. 11.</ls> {@--2@} Sweet; <ls>Bv. 2. 136.</ls> {@--3@}
+;
+; Case 614: <L>25279<pc>0953-b<k1>vasu<k2>vasu
+214170 old <>{#SiTilavasumagADe magnamApatpayoDO#} <ls>Ki. 1.</ls>
+214170 new <>{#SiTilavasumagADe magnamApatpayoDO#}  <lbinfo n="ls:Ki. 1.+ 46"/>
+;
+; Case 615: <L>25279<pc>0953-b<k1>vasu<k2>vasu
+214171 old <>46 (in both cases {#vasu#} means ‘wealth’
+214171 new <><ls>Ki. 1. 46</ls> (in both cases {#vasu#} means ‘wealth’
+;
+; Case 616: <L>25366<pc>0957-c<k1>vAMC<k2>vAMC
+215045 old <>{#BinnavfttayaH priyARi vAMCaMtyasuBiH samI hituM#} <ls>Ki. 1.</ls>
+215045 new <>{#BinnavfttayaH priyARi vAMCaMtyasuBiH samI hituM#}  <lbinfo n="ls:Ki. 1.+ 19."/>
+;
+; Case 617: <L>25366<pc>0957-c<k1>vAMC<k2>vAMC
+215046 old <>19. {@--2@} To seek for, pursue. --WITH
+215046 new <><ls>Ki. 1. 19.</ls> {@--2@} To seek for, pursue. --WITH
+;
+; Case 618: <L>25637<pc>0965-c<k1>vikASaH<k2>vikASaH
+217001 old <>course; {#vikASamIyurjagatISamArgaRAH#} <ls>Ki.</ls>
+217001 new <>course; {#vikASamIyurjagatISamArgaRAH#}  <lbinfo n="ls:Ki.+ 15. 52."/>
+;
+; Case 619: <L>25637<pc>0965-c<k1>vikASaH<k2>vikASaH
+217002 old <>15. 52. {@--4@} An oblique course; <ls>Ki. 15.</ls>
+217002 new <><ls>Ki. 15. 52.</ls> {@--4@} An oblique course;  <lbinfo n="ls:Ki. 15.+ 52."/>
+;
+; Case 620: <L>25637<pc>0965-c<k1>vikASaH<k2>vikASaH
+217003 old <>52. {@--5@} Joy, pleasure; <ls>Ki. 15. 52.</ls>
+217003 new <><ls>Ki. 15. 52.</ls> {@--5@} Joy, pleasure; <ls>Ki. 15. 52.</ls>
+;
+; Case 621: <L>25637<pc>0965-c<k1>vikASaH<k2>vikASaH
+217004 old <>{@--6@} Sky, heaven ({#AkASa#}); <ls>Ki. 15.</ls>
+217004 new <>{@--6@} Sky, heaven ({#AkASa#});  <lbinfo n="ls:Ki. 15.+ 52."/>
+;
+; Case 622: <L>25637<pc>0965-c<k1>vikASaH<k2>vikASaH
+217005 old <>52. {@--7@} Eagerness, ardent desire;
+217005 new <><ls>Ki. 15. 52.</ls> {@--7@} Eagerness, ardent desire;
+;
+; Case 623: <L>25648<pc>0966-a<k1>vikAraH<k2>vikAraH
+217084 old <>Agitation, excitement, perturbation; <ls>Ki. 17.</ls>
+217084 new <>Agitation, excitement, perturbation;  <lbinfo n="ls:Ki. 17.+ 23."/>
+;
+; Case 624: <L>25648<pc>0966-a<k1>vikAraH<k2>vikAraH
+217085 old <>23. {@--7@} Contortion, contraction (as
+217085 new <><ls>Ki. 17. 23.</ls> {@--7@} Contortion, contraction (as
+;
+; Case 625: <L>25666<pc>0967-a<k1>vikoSa<k2>vikoSa --za
+217244 old <>{@--2@} Unsheathed, uncovered; <ls>Ki.</ls>
+217244 new <>{@--2@} Unsheathed, uncovered;  <lbinfo n="ls:Ki.+ 17. 45"/>
+;
+; Case 626: <L>25666<pc>0967-a<k1>vikoSa<k2>vikoSa --za
+217245 old <>17. 45; <ls>R. 7. 48.</ls>
+217245 new <><ls>Ki. 17. 45</ls>; <ls>R. 7. 48.</ls>
+;
+; Case 627: <L>25755<pc>0969-b<k1>vic<k2>vic
+217856 old <>{#bahUnyoDAn jIvitena viveca ca#} <ls>Bk. 14.</ls>
+217856 new <>{#bahUnyoDAn jIvitena viveca ca#}  <lbinfo n="ls:Bk. 14.+ 103."/>
+;
+; Case 628: <L>25755<pc>0969-b<k1>vic<k2>vic
+217857 old <>103.
+217857 new <><ls>Bk. 14. 103.</ls>
+;
+; Case 629: <L>25773<pc>0970-a<k1>vici<k2>vici
+217992 old <>examine, reflect upon; <ls>R. 10. 23</ls>; <ls>Ki.</ls>
+217992 new <>examine, reflect upon; <ls>R. 10. 23</ls>;  <lbinfo n="ls:Ki.+ 16. 1."/>
+;
+; Case 630: <L>25773<pc>0970-a<k1>vici<k2>vici
+217993 old <>16. 1. {@--4@} To separate, discern, <lbinfo n="dis+tinguish"/>
+217993 new <><ls>Ki. 16. 1.</ls> {@--4@} To separate, discern, <lbinfo n="dis+tinguish"/>
+;
+; Case 631: <L>25884<pc>0973-a<k1>vitan<k2>vitan
+218730 old <>{#sPuritavitatajihvaH#} <ls>Mk. 9. 12</ls>; <ls>Ki. 15.</ls>
+218730 new <>{#sPuritavitatajihvaH#} <ls>Mk. 9. 12</ls>;  <lbinfo n="ls:Ki. 15.+ 53"/>
+;
+; Case 632: <L>25884<pc>0973-a<k1>vitan<k2>vitan
+218731 old <>53, <ls>Śi. 5. 38</ls>, 14. 53. {@--2@} To cover,
+218731 new <><ls>Ki. 15. 53</ls>, <ls>Śi. 5. 38</ls>, 14. 53. {@--2@} To cover,
+;
+; Case 633: <L>25884<pc>0973-a<k1>vitan<k2>vitan
+218735 old <>{#SreRIbaMDAdvitanvadDirastaMBAM toraRasrajaM#} <ls>R. 1. 41</ls>; <ls>Ki.</ls>
+218735 new <>{#SreRIbaMDAdvitanvadDirastaMBAM toraRasrajaM#} <ls>R. 1. 41</ls>;  <lbinfo n="ls:Ki.+ 16. 51."/>
+;
+; Case 634: <L>25884<pc>0973-a<k1>vitan<k2>vitan
+218736 old <>16. 51. {@--4@} To stretch, string
+218736 new <><ls>Ki. 16. 51.</ls> {@--4@} To stretch, string
+;
+; Case 635: <L>25884<pc>0973-a<k1>vitan<k2>vitan
+218737 old <>(as a bow); <ls>U. 6. 1</ls>; <ls>Bk.</ls>
+218737 new <>(as a bow); <ls>U. 6. 1</ls>;  <lbinfo n="ls:Bk.+ 3. 47."/>
+;
+; Case 636: <L>25884<pc>0973-a<k1>vitan<k2>vitan
+218738 old <>3. 47. {@--5@} To cause, produce,
+218738 new <><ls>Bk. 3. 47.</ls> {@--5@} To cause, produce,
+;
+; Case 637: <L>25949<pc>0975-b<k1>vidAraRaH<k2>vidAraRaH
+219257 old <>{#yuvajanahfdayavidAraRamanasijanaKarucikriMSukrajAle#} <ls>Gīt. 1</ls>, <ls>Ki.</ls>
+219257 new <>{#yuvajanahfdayavidAraRamanasijanaKarucikriMSukrajAle#} <ls>Gīt. 1</ls>,  <lbinfo n="ls:Ki.+ 14. 54."/>
+;
+; Case 638: <L>25949<pc>0975-b<k1>vidAraRaH<k2>vidAraRaH
+219258 old <>14. 54. {@--2@} Afflicting, tormenting. {@--3@}
+219258 new <><ls>Ki. 14. 54.</ls> {@--2@} Afflicting, tormenting. {@--3@}
+;
+; Case 639: <L>25972<pc>0976-a<k1>vidvas<k2>vidvas
+219454 old <>{#vidvAnapi tApakAraRaM#} <ls>R. 8. 76</ls>; <ls>Ki. 11.</ls>
+219454 new <>{#vidvAnapi tApakAraRaM#} <ls>R. 8. 76</ls>;  <lbinfo n="ls:Ki. 11.+ 30."/>
+;
+; Case 640: <L>25972<pc>0976-a<k1>vidvas<k2>vidvas
+219455 old <>30. {@--2@} Wise, learned. {%--<ab>m.</ab>%} A
+219455 new <><ls>Ki. 11. 30.</ls> {@--2@} Wise, learned. {%--<ab>m.</ab>%} A
+;
+; Case 641: <L>25984<pc>0976-b<k1>viDA<k2>viDA
+219528 old <>{#sadfSIrvyaDatta saH#} <ls>R. 3. 10</ls>; {#tanno devA viDeyAsuH#} <ls>Bk.</ls>
+219528 new <>{#sadfSIrvyaDatta saH#} <ls>R. 3. 10</ls>; {#tanno devA viDeyAsuH#}  <lbinfo n="ls:Bk.+ 19. 2"/>
+;
+; Case 642: <L>25984<pc>0976-b<k1>viDA<k2>viDA
+219529 old <>19. 2; {#viDeyAsurdevAH paramaramaRIyAM #} <lbinfo n="pari#RatiM"/>
+219529 new <><ls>Bk. 19. 2</ls>; {#viDeyAsurdevAH paramaramaRIyAM #} <lbinfo n="pari#RatiM"/>
+;
+; Case 643: <L>25984<pc>0976-b<k1>viDA<k2>viDA
+219559 old <>establish. {@--10@} To give, grant; <ls>Ki. 14.</ls>
+219559 new <>establish. {@--10@} To give, grant;  <lbinfo n="ls:Ki. 14.+ 10."/>
+;
+; Case 644: <L>25984<pc>0976-b<k1>viDA<k2>viDA
+219560 old <>10. {@--11@} To procure, furnish. {@--12@} To
+219560 new <><ls>Ki. 14. 10.</ls> {@--11@} To procure, furnish. {@--12@} To
+;
+; Case 645: <L>26005<pc>0978-a<k1>viDUta<k2>viDUta
+219821 old <>has tossed about the hair; <ls>Ki. 8.</ls>
+219821 new <>has tossed about the hair;  <lbinfo n="ls:Ki. 8.+ 33."/>
+;
+; Case 646: <L>26005<pc>0978-a<k1>viDUta<k2>viDUta
+219822 old <>33. {#--nidra#} {%<ab>a.</ab>%} awakened.
+219822 new <><ls>Ki. 8. 33.</ls> {#--nidra#} {%<ab>a.</ab>%} awakened.
+;
+; Case 647: <L>26017<pc>0978-b<k1>vinam<k2>vinam
+219896 old <>{#pracaye#} <ls>Ki. 6. 34</ls>; <ls>Bh. 1. 67</ls>; <ls>Bk.</ls>
+219896 new <>{#pracaye#} <ls>Ki. 6. 34</ls>; <ls>Bh. 1. 67</ls>;  <lbinfo n="ls:Bk.+ 7. 52."/>
+;
+; Case 648: <L>26017<pc>0978-b<k1>vinam<k2>vinam
+219897 old <>7. 52.
+219897 new <><ls>Bk. 7. 52.</ls>
+;
+; Case 649: <L>26080<pc>0979-c<k1>vinI<k2>vinI
+220261 old <>13. 35, 46; 15. 48; <ls>Śi. 10. 62</ls>, <ls>Ki.</ls>
+220261 new <>13. 35, 46; 15. 48; <ls>Śi. 10. 62</ls>,  <lbinfo n="ls:Ki.+ 7. 30"/>
+;
+; Case 650: <L>26080<pc>0979-c<k1>vinI<k2>vinI
+220262 old <>7. 30, <ls>Ku. 1. 9</ls>, 5. 32. {@--2@} To teach,
+220262 new <><ls>Ki. 7. 30</ls>, <ls>Ku. 1. 9</ls>, 5. 32. {@--2@} To teach,
+;
+; Case 651: <L>26147<pc>0982-b<k1>viprakAraH<k2>viprakAraH
+220865 old <>abuse, treating with disrespect; <ls>Ki.</ls>
+220865 new <>abuse, treating with disrespect;  <lbinfo n="ls:Ki.+ 3. 55."/>
+;
+; Case 652: <L>26147<pc>0982-b<k1>viprakAraH<k2>viprakAraH
+220866 old <>3. 55. {@--2@} Injury, offence. {@--3@} <lbinfo n="Wick+edness"/>
+220866 new <><ls>Ki. 3. 55.</ls> {@--2@} Injury, offence. {@--3@} <lbinfo n="Wick+edness"/>
+;
+; Case 653: <L>26183<pc>0983-b<k1>vipriya<k2>vipriya
+221106 old <>{#jahAsi mAM#} <ls>R. 8. 52</ls>, <ls>Ku. 4. 7</ls>; <ls>Ki. 9.</ls>
+221106 new <>{#jahAsi mAM#} <ls>R. 8. 52</ls>, <ls>Ku. 4. 7</ls>;  <lbinfo n="ls:Ki. 9.+ 39"/>
+;
+; Case 654: <L>26183<pc>0983-b<k1>vipriya<k2>vipriya
+221107 old <>39; <ls>Śi. 15. 11</ls>; <ls>U. 3. 13.</ls>
+221107 new <><ls>Ki. 9. 39</ls>; <ls>Śi. 15. 11</ls>; <ls>U. 3. 13.</ls>
+;
+; Case 655: <L>26289<pc>0987-a<k1>vimfS<k2>vimfS
+221932 old <>{#vyamfSanna dozaM janApavAdaM sa naradreMmftyuM#} <ls>Bk. 3.</ls>
+221932 new <>{#vyamfSanna dozaM janApavAdaM sa naradreMmftyuM#}  <lbinfo n="ls:Bk. 3.+ 7"/>
+;
+; Case 656: <L>26289<pc>0987-a<k1>vimfS<k2>vimfS
+221933 old <>7; 12. 24; <ls>Ku. 6. 87</ls>; <ls>Bg. 18. 63</ls>;
+221933 new <><ls>Bk. 3. 7</ls>; 12. 24; <ls>Ku. 6. 87</ls>; <ls>Bg. 18. 63</ls>;
+;
+; Case 657: <L>26318<pc>0987-c<k1>virac<k2>virac
+222096 old {#virac#}¦ 10 <ab>U.</ab> {@1@} To arrange; <ls>Ki. 7.</ls>
+222096 new {#virac#}¦ 10 <ab>U.</ab> {@1@} To arrange;  <lbinfo n="ls:Ki. 7.+ 94."/>
+;
+; Case 658: <L>26318<pc>0987-c<k1>virac<k2>virac
+222097 old <>94. {@--2@} To compose, put together,
+222097 new <><ls>Ki. 7. 94.</ls> {@--2@} To compose, put together,
+;
+; Case 659: <L>26364<pc>0989-a<k1>viruc<k2>viruc
+222434 old <>resplendent; <ls>R. 6. 5</ls>; 17. 14; <ls>Bk.</ls>
+222434 new <>resplendent; <ls>R. 6. 5</ls>; 17. 14;  <lbinfo n="ls:Bk.+ 8. 66."/>
+;
+; Case 660: <L>26364<pc>0989-a<k1>viruc<k2>viruc
+222435 old <>8. 66. {@--2@} To be eminent or <lbinfo n="con+spicuous"/>
+222435 new <><ls>Bk. 8. 66.</ls> {@--2@} To be eminent or <lbinfo n="con+spicuous"/>
+;
+; Case 661: <L>26400<pc>0990-b<k1>vilap<k2>vilap
+222719 old <>{#vilalApa sa bAzpagadgadaM#} <ls>R. 8. 43</ls>, 70; <ls>Bk.</ls>
+222719 new <>{#vilalApa sa bAzpagadgadaM#} <ls>R. 8. 43</ls>, 70;  <lbinfo n="ls:Bk.+ 6. 11"/>
+;
+; Case 662: <L>26400<pc>0990-b<k1>vilap<k2>vilap
+222720 old <>6. 11; {#tamiha vfTA kiM vilapAmi#} Gīt 3.
+222720 new <><ls>Bk. 6. 11</ls>; {#tamiha vfTA kiM vilapAmi#} Gīt 3.
+;
+; Case 663: <L>26445<pc>0991-c<k1>viluB<k2>viluB
+223041 old <>deranged; be disordered; <ls>Bk. 9.</ls>
+223041 new <>deranged; be disordered;  <lbinfo n="ls:Bk. 9.+ 40."/>
+;
+; Case 664: <L>26445<pc>0991-c<k1>viluB<k2>viluB
+223042 old <>40. {%--<ab>Caus.</ab>%} {@1@} To allure, entice, <lbinfo n="at+tract"/>
+223042 new <><ls>Bk. 9. 40.</ls> {%--<ab>Caus.</ab>%} {@1@} To allure, entice, <lbinfo n="at+tract"/>
+;
+; Case 665: <L>26472<pc>0992-b<k1>vivaraM<k2>vivaraM
+223228 old <>space; <ls>Ś. 7. 7.</ls> {@--3@} A solitary place; <ls>Ki.</ls>
+223228 new <>space; <ls>Ś. 7. 7.</ls> {@--3@} A solitary place;  <lbinfo n="ls:Ki.+ 12. 37."/>
+;
+; Case 666: <L>26472<pc>0992-b<k1>vivaraM<k2>vivaraM
+223229 old <>12. 37. {@--4@} A fault, flaw, defect, weak
+223229 new <><ls>Ki. 12. 37.</ls> {@--4@} A fault, flaw, defect, weak
+;
+; Case 667: <L>26598<pc>0997-b<k1>viSvas<k2>viSvas
+224329 old <>confident; {#viSaSvase pakzigaREH samaMtAt#} <ls>Bk.</ls>
+224329 new <>confident; {#viSaSvase pakzigaREH samaMtAt#}  <lbinfo n="ls:Bk.+ 2. 25."/>
+;
+; Case 668: <L>26598<pc>0997-b<k1>viSvas<k2>viSvas
+224330 old <>2. 25. {%--<ab>Caus.</ab>%} To cause to believe,
+224330 new <><ls>Bk. 2. 25.</ls> {%--<ab>Caus.</ab>%} To cause to believe,
+;
+; Case 669: <L>26598<pc>0997-b<k1>viSvas<k2>viSvas
+224332 old <>{#krOryAtsamAyAto mAM viSvAsayituM nu kiM#} <ls>Bk. 8.</ls>
+224332 new <>{#krOryAtsamAyAto mAM viSvAsayituM nu kiM#}  <lbinfo n="ls:Bk. 8.+ 105"/>
+;
+; Case 670: <L>26598<pc>0997-b<k1>viSvas<k2>viSvas
+224333 old <>105; <ls>Pt. 1. 192.</ls>
+224333 new <><ls>Bk. 8. 105</ls>; <ls>Pt. 1. 192.</ls>
+;
+; Case 671: <L>26618<pc>0998-b<k1>vizama<k2>vizama
+224555 old <>to understand, mysterious; <ls>Ki. 2.</ls>
+224555 new <>to understand, mysterious;  <lbinfo n="ls:Ki. 2.+ 3"/>
+;
+; Case 672: <L>26618<pc>0998-b<k1>vizama<k2>vizama
+224556 old <>3; {#vizamAH karmagatayaH#} <ls>Pt. 4. 50.</ls>
+224556 new <><ls>Ki. 2. 3</ls>; {#vizamAH karmagatayaH#} <ls>Pt. 4. 50.</ls>
+;
+; Case 673: <L>26618<pc>0998-b<k1>vizama<k2>vizama
+224557 old <>{@--5@} Impassable, inaccessible; <ls>Ki.</ls>
+224557 new <>{@--5@} Impassable, inaccessible;  <lbinfo n="ls:Ki.+ 2. 3"/>
+;
+; Case 674: <L>26618<pc>0998-b<k1>vizama<k2>vizama
+224558 old <>2. 3, <ls>Bh. 3. 5.</ls> {@--6@} Coarse, rough. {@--7@}
+224558 new <><ls>Ki. 2. 3</ls>, <ls>Bh. 3. 5.</ls> {@--6@} Coarse, rough. {@--7@}
+;
+; Case 675: <L>26621<pc>0998-c<k1>vizayaH<k2>vizayaH
+224677 old <>sense or worldly pleasures; <ls>Ki. 6.</ls>
+224677 new <>sense or worldly pleasures;  <lbinfo n="ls:Ki. 6.+ 44"/>
+;
+; Case 676: <L>26621<pc>0998-c<k1>vizayaH<k2>vizayaH
+224678 old <>44; so {#ºaBilAzaH#} <ls>Ki. 3. 13.</ls>  <lbinfo n="--A#tmaka"/>
+224678 new <><ls>Ki. 6. 44</ls>; so {#ºaBilAzaH#} <ls>Ki. 3. 13.</ls>  <lbinfo n="--A#tmaka"/>
+;
+; Case 677: <L>26716<pc>1002-a<k1>visPArita<k2>visPArita
+225343 old <>Twanged; {#vikfzwavisPAritacApamaMqalaH#} <ls>Ki. 14.</ls>
+225343 new <>Twanged; {#vikfzwavisPAritacApamaMqalaH#}  <lbinfo n="ls:Ki. 14.+ 31."/>
+;
+; Case 678: <L>26716<pc>1002-a<k1>visPArita<k2>visPArita
+225344 old <>31. {@--4@} Dilated, expanded. {@--5@} <lbinfo n="Mani+fested"/>
+225344 new <><ls>Ki. 14. 31.</ls> {@--4@} Dilated, expanded. {@--5@} <lbinfo n="Mani+fested"/>
+;
+; Case 679: <L>26723<pc>1002-a<k1>vismi<k2>vismi
+225389 old <>{#Buvi na vismayate nageSaM#} <ls>Śi. 4. 19</ls>, <ls>Bk.</ls>
+225389 new <>{#Buvi na vismayate nageSaM#} <ls>Śi. 4. 19</ls>,  <lbinfo n="ls:Bk.+ 5. 51."/>
+;
+; Case 680: <L>26723<pc>1002-a<k1>vismi<k2>vismi
+225390 old <>5. 51. {@--2@} To admire. {@--3@} To be
+225390 new <><ls>Bk. 5. 51.</ls> {@--2@} To admire. {@--3@} To be
+;
+; Case 681: <L>26723<pc>1002-a<k1>vismi<k2>vismi
+225395 old <>{#vismApayan vismitamAtmavfttO#} <ls>R. 2. 33</ls>; <ls>Bk.</ls>
+225395 new <>{#vismApayan vismitamAtmavfttO#} <ls>R. 2. 33</ls>;  <lbinfo n="ls:Bk.+ 5. 58"/>
+;
+; Case 682: <L>26723<pc>1002-a<k1>vismi<k2>vismi
+225396 old <>5. 58; 8. 42.
+225396 new <><ls>Bk. 5. 58</ls>; 8. 42.
+;
+; Case 683: <L>26770<pc>1003-a<k1>vihAraH<k2>vihAraH
+225679 old <>&c.); {#vikarzaREH pARivihArahArimiH#} <ls>Ki.</ls>
+225679 new <>&c.); {#vikarzaREH pARivihArahArimiH#}  <lbinfo n="ls:Ki.+ 4. 15"/>
+;
+; Case 684: <L>26770<pc>1003-a<k1>vihAraH<k2>vihAraH
+225680 old <>4. 15; {#daramaMTaracaraRavihAraM#} <ls>Gīt. 11.</ls>
+225680 new <><ls>Ki. 4. 15</ls>; {#daramaMTaracaraRavihAraM#} <ls>Gīt. 11.</ls>
+;
+; Case 685: <L>26851<pc>1006-a<k1>vft<k2>vft
+226377 old <>brandish, flourish, whirl round; <ls>Bk. 15.</ls>
+226377 new <>brandish, flourish, whirl round;  <lbinfo n="ls:Bk. 15.+ 37."/>
+;
+; Case 686: <L>26851<pc>1006-a<k1>vft<k2>vft
+226378 old <>37. {@--4@} To do, practise, exhibit;
+226378 new <><ls>Bk. 15. 37.</ls> {@--4@} To do, practise, exhibit;
+;
+; Case 687: <L>27027<pc>1013-a<k1>vEKAnasa<k2>vEKAnasa
+227872 old <>his religious life; <ls>R. 14. 28</ls>; <ls>Bk.</ls>
+227872 new <>his religious life; <ls>R. 14. 28</ls>;  <lbinfo n="ls:Bk.+ 3. 46."/>
+;
+; Case 688: <L>27027<pc>1013-a<k1>vEKAnasa<k2>vEKAnasa
+227873 old <>3. 46.
+227873 new <><ls>Bk. 3. 46.</ls>
+;
+; Case 689: <L>27091<pc>1014-b<k1>vEboDikaH<k2>vEboDikaH
+228238 old <>{#vEboDikaDvaniviBAvitapaScimArDA (rAtriH)#} <ls>Ki.</ls>
+228238 new <>{#vEboDikaDvaniviBAvitapaScimArDA (rAtriH)#}  <lbinfo n="ls:Ki.+ 9. 74."/>
+;
+; Case 690: <L>27091<pc>1014-b<k1>vEboDikaH<k2>vEboDikaH
+228239 old <>9. 74.
+228239 new <><ls>Ki. 9. 74.</ls>
+;
+; Case 691: <L>27224<pc>1017-c<k1>vyaT<k2>vyaT
+229107 old <>{#jitamapatyasnehena#} <ls>U. 7</ls>; {#na vivyaTe tasya manaH#} <ls>Ki. 1.</ls>
+229107 new <>{#jitamapatyasnehena#} <ls>U. 7</ls>; {#na vivyaTe tasya manaH#}  <lbinfo n="ls:Ki. 1.+ 2"/>
+;
+; Case 692: <L>27224<pc>1017-c<k1>vyaT<k2>vyaT
+229108 old <>2, 24. {@--2@} To be disturbed, be <lbinfo n="ruf+fled"/>
+229108 new <><ls>Ki. 1. 2</ls>, 24. {@--2@} To be disturbed, be <lbinfo n="ruf+fled"/>
+;
+; Case 693: <L>27313<pc>1021-a<k1>vyaS<k2>vyaS
+229820 old <>{#yugapad vyAnaSe diSaH#} <ls>R. 4. 15</ls>; <ls>Bk. 9.</ls>
+229820 new <>{#yugapad vyAnaSe diSaH#} <ls>R. 4. 15</ls>;  <lbinfo n="ls:Bk. 9.+ 4"/>
+;
+; Case 694: <L>27313<pc>1021-a<k1>vyaS<k2>vyaS
+229821 old <>4; 14. 96. {@--2@} To obtain, attain to,
+229821 new <><ls>Bk. 9. 4</ls>; 14. 96. {@--2@} To obtain, attain to,
+;
+; Case 695: <L>27316<pc>1021-a<k1>vyasanaM<k2>vyasanaM
+229852 old <>{#amAtyavyasanaM#} <ls>Pt. 3</ls>; {#svabalavyasane#} <ls>Ki. 13.</ls>
+229852 new <>{#amAtyavyasanaM#} <ls>Pt. 3</ls>; {#svabalavyasane#}  <lbinfo n="ls:Ki. 13.+ 15"/>
+;
+; Case 696: <L>27316<pc>1021-a<k1>vyasanaM<k2>vyasanaM
+229853 old <>15; <ls>Śi. 2. 57.</ls> {@--5@} ({%a%}) A calamity,
+229853 new <><ls>Ki. 13. 15</ls>; <ls>Śi. 2. 57.</ls> {@--5@} ({%a%}) A calamity,
+;
+; Case 697: <L>27351<pc>1022-b<k1>vyAdA<k2>vyAdA
+230143 old <>open; {#na vyAdadAtyAnanamatra mftyuH#} <ls>Ki. 16.</ls>
+230143 new <>open; {#na vyAdadAtyAnanamatra mftyuH#}  <lbinfo n="ls:Ki. 16.+ 16"/>
+;
+; Case 698: <L>27351<pc>1022-b<k1>vyAdA<k2>vyAdA
+230144 old <>16; {#nadI kUlaM vyAdada ti,#} or {#vyAdadate #} <lbinfo n="pi#pIlikAH"/>
+230144 new <><ls>Ki. 16. 16</ls>; {#nadI kUlaM vyAdada ti,#} or {#vyAdadate #} <lbinfo n="pi#pIlikAH"/>
+;
+; Case 699: <L>27364<pc>1022-c<k1>vyAp<k2>vyAp
+230215 old <><ls>Bg. 10. 16</ls>; <ls>R. 13. 5</ls>, 18. 40; <ls>Bk. 7.</ls>
+230215 new <><ls>Bg. 10. 16</ls>; <ls>R. 13. 5</ls>, 18. 40;  <lbinfo n="ls:Bk. 7.+ 56."/>
+;
+; Case 700: <L>27364<pc>1022-c<k1>vyAp<k2>vyAp
+230216 old <>56. {@--2@} To reach as far, extend to.
+230216 new <><ls>Bk. 7. 56.</ls> {@--2@} To reach as far, extend to.
+;
+; Case 701: <L>27497<pc>1027-c<k1>SaH<k2>SaH
+231213 old {#SaH#}¦ {@1@} A cutter, destroyer; <ls>Ki.</ls>
+231213 new {#SaH#}¦ {@1@} A cutter, destroyer;  <lbinfo n="ls:Ki.+ 15. 45."/>
+;
+; Case 702: <L>27497<pc>1027-c<k1>SaH<k2>SaH
+231214 old <>15. 45. {@--2@} A weapon. {@--3@} <ab>N.</ab> of
+231214 new <><ls>Ki. 15. 45.</ls> {@--2@} A weapon. {@--3@} <ab>N.</ab> of
+;
+; Case 703: <L>27498<pc>1027-c<k1>SaMyu<k2>SaMyu
+231218 old {#SaMyu#}¦ {%<ab>a.</ab>%} Happy, prosperous; <ls>Bk.</ls>
+231218 new {#SaMyu#}¦ {%<ab>a.</ab>%} Happy, prosperous;  <lbinfo n="ls:Bk.+ 4. 18."/>
+;
+; Case 704: <L>27498<pc>1027-c<k1>SaMyu<k2>SaMyu
+231219 old <>4. 18.
+231219 new <><ls>Bk. 4. 18.</ls>
+;
+; Case 705: <L>27500<pc>1027-c<k1>SaMs<k2>SaMs
+231241 old <>{#SaMsatyAdaraM tvatprayatne#} <ls>M. 5. 8</ls>; <ls>Ki. 5.</ls>
+231241 new <>{#SaMsatyAdaraM tvatprayatne#} <ls>M. 5. 8</ls>;  <lbinfo n="ls:Ki. 5.+ 23"/>
+;
+; Case 706: <L>27500<pc>1027-c<k1>SaMs<k2>SaMs
+231242 old <>23, <ls>Ku. 2. 22.</ls> {@--4@} To repeat, <lbinfo n="re+cite"/>
+231242 new <><ls>Ki. 5. 23</ls>, <ls>Ku. 2. 22.</ls> {@--4@} To repeat, <lbinfo n="re+cite"/>
+;
+; Case 707: <L>27577<pc>1030-c<k1>SataM<k2>SataM
+232099 old <>1. epithets of Indra; <ls>Ki. 2. 23</ls>; <ls>Bk.</ls>
+232099 new <>1. epithets of Indra; <ls>Ki. 2. 23</ls>;  <lbinfo n="ls:Bk.+ 1. 5"/>
+;
+; Case 708: <L>27577<pc>1030-c<k1>SataM<k2>SataM
+232100 old <>1. 5; <ls>Ku. 2. 64</ls>; <ls>R. 9. 13.</ls> --2. an
+232100 new <><ls>Bk. 1. 5</ls>; <ls>Ku. 2. 64</ls>; <ls>R. 9. 13.</ls> --2. an
+;
+; Case 709: <L>27604<pc>1032-b<k1>Sap<k2>Sap
+232345 old <>accusative {#sahatraSo'sO SapaTAnaSapyat#} <ls>Bk. 3.</ls>
+232345 new <>accusative {#sahatraSo'sO SapaTAnaSapyat#}  <lbinfo n="ls:Bk. 3.+ 32."/>
+;
+; Case 710: <L>27604<pc>1032-b<k1>Sap<k2>Sap
+232346 old <>32. {@--3@} To blame, scold, revile, abuse
+232346 new <><ls>Bk. 3. 32.</ls> {@--3@} To blame, scold, revile, abuse
+;
+; Case 711: <L>27802<pc>1039-c<k1>SAtrava<k2>SAtrava
+233995 old <>18. 20; <ls>Ve. 5. 1</ls>; <ls>Bk. 5. 81</ls>; <ls>Ki.</ls>
+233995 new <>18. 20; <ls>Ve. 5. 1</ls>; <ls>Bk. 5. 81</ls>;  <lbinfo n="ls:Ki.+ 14. 2"/>
+;
+; Case 712: <L>27802<pc>1039-c<k1>SAtrava<k2>SAtrava
+233996 old <>14. 2; <ls>Mu. 2. 5.</ls> {#--vaM#} {@1@} A <lbinfo n="collec+tion"/>
+233996 new <><ls>Ki. 14. 2</ls>; <ls>Mu. 2. 5.</ls> {#--vaM#} {@1@} A <lbinfo n="collec+tion"/>
+;
+; Case 713: <L>27922<pc>1043-b<k1>SikzA<k2>SikzA
+234863 old <>anything, wish to prevail; <ls>Ki. 15.</ls>
+234863 new <>anything, wish to prevail;  <lbinfo n="ls:Ki. 15.+ 37."/>
+;
+; Case 714: <L>27922<pc>1043-b<k1>SikzA<k2>SikzA
+234864 old <>37. {@--3@} Teaching, instruction, <lbinfo n="train+ing"/>
+234864 new <><ls>Ki. 15. 37.</ls> {@--3@} Teaching, instruction, <lbinfo n="train+ing"/>
+;
+; Case 715: <L>27998<pc>1046-b<k1>Siva<k2>Siva
+235523 old <>{#SarIrayogaM vizamapadA padavI vivartanezu#} <ls>Ki. 5.</ls>
+235523 new <>{#SarIrayogaM vizamapadA padavI vivartanezu#}  <lbinfo n="ls:Ki. 5.+ 40."/>
+;
+; Case 716: <L>27998<pc>1046-b<k1>Siva<k2>Siva
+235524 old <>40. {#--vaM#} Prosperity, welfare, <lbinfo n="well+being"/>
+235524 new <><ls>Ki. 5. 40.</ls> {#--vaM#} Prosperity, welfare, <lbinfo n="well+being"/>
+;
+; Case 717: <L>28073<pc>1049-c<k1>Suci<k2>Suci
+236250 old <>clear; {#sakalahaMsaguRaM Suci mAnasaM#} <ls>Ki.</ls>
+236250 new <>clear; {#sakalahaMsaguRaM Suci mAnasaM#}  <lbinfo n="ls:Ki.+ 5. 13."/>
+;
+; Case 718: <L>28073<pc>1049-c<k1>Suci<k2>Suci
+236251 old <>5. 13. {@--2@} White; <ls>Ki. 18. 15.</ls> {@--3@}
+236251 new <><ls>Ki. 5. 13.</ls> {@--2@} White; <ls>Ki. 18. 15.</ls> {@--3@}
+;
+; Case 719: <L>28153<pc>1052-b<k1>SUnya<k2>SUnya
+236900 old <>{#BavanABimuKI kaTaMcita#} <ls>Ku. 3. 75</ls>; <ls>Ki.</ls>
+236900 new <>{#BavanABimuKI kaTaMcita#} <ls>Ku. 3. 75</ls>;  <lbinfo n="ls:Ki.+ 17. 39"/>
+;
+; Case 720: <L>28153<pc>1052-b<k1>SUnya<k2>SUnya
+236901 old <>17. 39 {@--6@} Utterly devoid or <lbinfo n="depriv+ed"/>
+236901 new <><ls>Ki. 17. 39</ls> {@--6@} Utterly devoid or <lbinfo n="depriv+ed"/>
+;
+; Case 721: <L>28490<pc>1063-c<k1>Svi<k2>Svi
+239472 old <>{#rudato'SiSviyaccakzurAsyaM hetostavASvayIt#} <ls>Bk.</ls>
+239472 new <>{#rudato'SiSviyaccakzurAsyaM hetostavASvayIt#}  <lbinfo n="ls:Bk.+ 6. 19"/>
+;
+; Case 722: <L>28490<pc>1063-c<k1>Svi<k2>Svi
+239473 old <>6. 19, 31; 14. 79, 15. 30. {@--2@} To
+239473 new <><ls>Bk. 6. 19</ls>, 31; 14. 79, 15. 30. {@--2@} To
+;
+; Case 723: <L>28622<pc>1069-a<k1>saMvalita<k2>saMvalita
+240567 old <>{#uditopalasKalanasaMvalitAH (DvanayaH)#} <ls>Ki.</ls>
+240567 new <>{#uditopalasKalanasaMvalitAH (DvanayaH)#}  <lbinfo n="ls:Ki.+ 6. 4."/>
+;
+; Case 724: <L>28622<pc>1069-a<k1>saMvalita<k2>saMvalita
+240568 old <>6. 4. {@--5@} Surrounded, <lbinfo n="encompas+sed"/>
+240568 new <><ls>Ki. 6. 4.</ls> {@--5@} Surrounded, <lbinfo n="encompas+sed"/>
+;
+; Case 725: <L>28638<pc>1069-b<k1>saMvittiH<k2>saMvittiH
+240669 old <>{#SvastvayA suKasaMvittiH smaraRIyA'DunAtanI#} <ls>Ki.</ls>
+240669 new <>{#SvastvayA suKasaMvittiH smaraRIyA'DunAtanI#}  <lbinfo n="ls:Ki.+ 11. 34"/>
+;
+; Case 726: <L>28638<pc>1069-b<k1>saMvittiH<k2>saMvittiH
+240670 old <>11. 34, 16. 32. {@--2@} Understanding,
+240670 new <><ls>Ki. 11. 34</ls>, 16. 32. {@--2@} Understanding,
+;
+; Case 727: <L>28658<pc>1070-a<k1>saMvf<k2>saMvf
+240808 old <>suppress, restrain, oppose; <ls>Bk. 9.</ls>
+240808 new <>suppress, restrain, oppose;  <lbinfo n="ls:Bk. 9.+ 27."/>
+;
+; Case 728: <L>28658<pc>1070-a<k1>saMvf<k2>saMvf
+240809 old <>27. {@--3@} To shut up, close. {@--4@} To
+240809 new <><ls>Bk. 9. 27.</ls> {@--3@} To shut up, close. {@--4@} To
+;
+; Case 729: <L>28714<pc>1071-c<k1>saMsad<k2>saMsad
+241230 old <>circle; {#saMsatsu jAte puruzADikAre#} <ls>Ki.</ls>
+241230 new <>circle; {#saMsatsu jAte puruzADikAre#}  <lbinfo n="ls:Ki.+ 3. 51"/>
+;
+; Case 730: <L>28714<pc>1071-c<k1>saMsad<k2>saMsad
+241231 old <>3. 51; {#CAtrasasadi labDakIrtiH#} <ls>Pt. 1</ls>;
+241231 new <><ls>Ki. 3. 51</ls>; {#CAtrasasadi labDakIrtiH#} <ls>Pt. 1</ls>;
+;
+; Case 731: <L>28777<pc>1074-b<k1>saMsmftiH<k2>saMsmftiH
+241800 old <>recollection; {#saMsmftirBava BavatyaBavAya#} <ls>Ki.</ls>
+241800 new <>recollection; {#saMsmftirBava BavatyaBavAya#}  <lbinfo n="ls:Ki.+ 18. 27."/>
+;
+; Case 732: <L>28777<pc>1074-b<k1>saMsmftiH<k2>saMsmftiH
+241801 old <>18. 27.
+241801 new <><ls>Ki. 18. 27.</ls>
+;
+; Case 733: <L>28782<pc>1074-c<k1>saMhatiH<k2>saMhatiH
+241849 old <>{#gurutAM nayaMti hi guRA na saMhatiH#} <ls>Ki. 12.</ls>
+241849 new <>{#gurutAM nayaMti hi guRA na saMhatiH#}  <lbinfo n="ls:Ki. 12.+ 10."/>
+;
+; Case 734: <L>28782<pc>1074-c<k1>saMhatiH<k2>saMhatiH
+241850 old <>10. {@--5@} Agreement, harmony. {@--6@}
+241850 new <><ls>Ki. 12. 10.</ls> {@--5@} Agreement, harmony. {@--6@}
+;
+; Case 735: <L>29078<pc>1085-a<k1>sad<k2>sad
+244271 old <>pained or afflicted, be helpless; <ls>Ki.</ls>
+244271 new <>pained or afflicted, be helpless;  <lbinfo n="ls:Ki.+ 13. 60"/>
+;
+; Case 736: <L>29078<pc>1085-a<k1>sad<k2>sad
+244272 old <>13. 60; <ls>Ms. 8. 21.</ls> {@--7@} To be <lbinfo n="imped+ed"/>
+244272 new <><ls>Ki. 13. 60</ls>; <ls>Ms. 8. 21.</ls> {@--7@} To be <lbinfo n="imped+ed"/>
+;
+; Case 737: <L>29197<pc>1089-a<k1>saMDiH<k2>saMDiH
+245171 old <>{#kzitISA vidaDati sopaDi saMDidUzaRAni#} <ls>Ki.</ls>
+245171 new <>{#kzitISA vidaDati sopaDi saMDidUzaRAni#}  <lbinfo n="ls:Ki.+ 1. 45."/>
+;
+; Case 738: <L>29197<pc>1089-a<k1>saMDiH<k2>saMDiH
+245172 old <>1. 45. {#--prabaMDanaM#} the ligament of a
+245172 new <><ls>Ki. 1. 45.</ls> {#--prabaMDanaM#} the ligament of a
+;
+; Case 739: <L>29213<pc>1089-c<k1>saMnam<k2>saMnam
+245319 old <>incline; {#saMnatAMgI#} <ls>Ku. 1. 34</ls>; <ls>Bk.</ls>
+245319 new <>incline; {#saMnatAMgI#} <ls>Ku. 1. 34</ls>;  <lbinfo n="ls:Bk.+ 2. 31"/>
+;
+; Case 740: <L>29213<pc>1089-c<k1>saMnam<k2>saMnam
+245320 old <>2. 31; {#parvasu saMnatA#} <ls>V. 4. 26.</ls> {@--2@} To
+245320 new <><ls>Bk. 2. 31</ls>; {#parvasu saMnatA#} <ls>V. 4. 26.</ls> {@--2@} To
+;
+; Case 741: <L>29230<pc>1090-b<k1>saMnipAtaH<k2>saMnipAtaH
+245475 old <>number; {#nAnAratnajyotizAM saMnipAtEH#} <ls>Ki.</ls>
+245475 new <>number; {#nAnAratnajyotizAM saMnipAtEH#}  <lbinfo n="ls:Ki.+ 5. 36"/>
+;
+; Case 742: <L>29230<pc>1090-b<k1>saMnipAtaH<k2>saMnipAtaH
+245476 old <>5. 36; {#eko hi dozo guRasaMnipAte #} <lbinfo n="ni#majjati"/>
+245476 new <><ls>Ki. 5. 36</ls>; {#eko hi dozo guRasaMnipAte #} <lbinfo n="ni#majjati"/>
+;
+; Case 743: <L>29303<pc>1093-c<k1>samaMjasa<k2>samaMjasa
+246157 old <>just; {#BfSADirUQasya samaMjasaM janaM#} <ls>Ki.</ls>
+246157 new <>just; {#BfSADirUQasya samaMjasaM janaM#}  <lbinfo n="ls:Ki.+ 14. 12."/>
+;
+; Case 744: <L>29303<pc>1093-c<k1>samaMjasa<k2>samaMjasa
+246158 old <>14. 12. {@--5@} Practised, experienced.
+246158 new <><ls>Ki. 14. 12.</ls> {@--5@} Practised, experienced.
+;
+; Case 745: <L>29326<pc>1094-a<k1>samayaH<k2>samayaH
+246299 old <>{#nirastanArIsamayA durADayaH#} <ls>Ki. 1.</ls>
+246299 new <>{#nirastanArIsamayA durADayaH#}  <lbinfo n="ls:Ki. 1.+ 28"/>
+;
+; Case 746: <L>29326<pc>1094-a<k1>samayaH<k2>samayaH
+246300 old <>28; <ls>U. 1.</ls> {@--7@} The <lbinfo n="conven+tion"/>
+246300 new <><ls>Ki. 1. 28</ls>; <ls>U. 1.</ls> {@--7@} The <lbinfo n="conven+tion"/>
+;
+; Case 747: <L>29343<pc>1095-a<k1>samavatAraH<k2>samavatAraH
+246451 old <>bathing place; {#samavatArasamErasamEstawEH#} <ls>Ki.</ls>
+246451 new <>bathing place; {#samavatArasamErasamEstawEH#}  <lbinfo n="ls:Ki.+ 5. 7."/>
+;
+; Case 748: <L>29343<pc>1095-a<k1>samavatAraH<k2>samavatAraH
+246452 old <>5. 7.
+246452 new <><ls>Ki. 5. 7.</ls>
+;
+; Case 749: <L>29459<pc>1098-c<k1>samAhf<k2>samAhf
+247315 old <>{#svayaMvarasamAhftarAjalokaM#} <ls>R. 5. 64</ls>; <ls>Bk. 8.</ls>
+247315 new <>{#svayaMvarasamAhftarAjalokaM#} <ls>R. 5. 64</ls>;  <lbinfo n="ls:Bk. 8.+ 63."/>
+;
+; Case 750: <L>29459<pc>1098-c<k1>samAhf<k2>samAhf
+247316 old <>63. {@--3@} To draw, attract. {@--4@} To
+247316 new <><ls>Bk. 8. 63.</ls> {@--3@} To draw, attract. {@--4@} To
+;
+; Case 751: <L>29556<pc>1100-c<k1>samudgakaH<k2>samudgakaH
+247868 old <>different in meaning; {%<ab>e. g.</ab>%} <ls>Ki. 15.</ls>
+247868 new <>different in meaning; {%<ab>e. g.</ab>%}  <lbinfo n="ls:Ki. 15.+ 16."/>
+;
+; Case 752: <L>29556<pc>1100-c<k1>samudgakaH<k2>samudgakaH
+247869 old <>16.
+247869 new <><ls>Ki. 15. 16.</ls>
+;
+; Case 753: <L>29637<pc>1103-a<k1>saMpIqaH<k2>saMpIqaH
+248406 old <>propelling; {#saMpIqakzuBitajalezu toyadezu#} <ls>Ki.</ls>
+248406 new <>propelling; {#saMpIqakzuBitajalezu toyadezu#}  <lbinfo n="ls:Ki.+ 7. 12."/>
+;
+; Case 754: <L>29637<pc>1103-a<k1>saMpIqaH<k2>saMpIqaH
+248407 old <>7. 12. {#--qA#} Torment.
+248407 new <><ls>Ki. 7. 12.</ls> {#--qA#} Torment.
+;
+; Case 755: <L>29645<pc>1103-a<k1>saMpfc<k2>saMpfc
+248447 old <>in contact with, join, unite; <ls>Bk.</ls>
+248447 new <>in contact with, join, unite;  <lbinfo n="ls:Bk.+ 17. 106."/>
+;
+; Case 756: <L>29645<pc>1103-a<k1>saMpfc<k2>saMpfc
+248448 old <>17. 106. {@--2@} To be united or mixed
+248448 new <><ls>Bk. 17. 106.</ls> {@--2@} To be united or mixed
+;
+; Case 757: <L>29748<pc>1105-c<k1>saMBAvanaM<k2>saMBAvanaM --nA
+249102 old <>Possibility. {@--6@} Fitness, adequacy; <ls>Ki. 3.</ls>
+249102 new <>Possibility. {@--6@} Fitness, adequacy;  <lbinfo n="ls:Ki. 3.+ 39."/>
+;
+; Case 758: <L>29748<pc>1105-c<k1>saMBAvanaM<k2>saMBAvanaM --nA
+249103 old <>39. {@--7@} Competency, ability. {@--8@}
+249103 new <><ls>Ki. 3. 39.</ls> {@--7@} Competency, ability. {@--8@}
+;
+; Case 759: <L>29754<pc>1106-a<k1>saMBf<k2>saMBf
+249145 old <>{#saMBftArTAnAM#} <ls>R. 1. 7</ls>; 5. 5; 8. 3; <ls>Bk. 6.</ls>
+249145 new <>{#saMBftArTAnAM#} <ls>R. 1. 7</ls>; 5. 5; 8. 3;  <lbinfo n="ls:Bk. 6.+ 80."/>
+;
+; Case 760: <L>29754<pc>1106-a<k1>saMBf<k2>saMBf
+249146 old <>80. {@--2@} To effect, produce, bring on,
+249146 new <><ls>Bk. 6. 80.</ls> {@--2@} To effect, produce, bring on,
+;
+; Case 761: <L>29867<pc>1109-c<k1>sarvatas<k2>sarvatas
+250007 old <>artificially arranged; {%<ab>e. g.</ab>%} see <ls>Ki. 15.</ls>
+250007 new <>artificially arranged; {%<ab>e. g.</ab>%} see  <lbinfo n="ls:Ki. 15.+ 25."/>
+;
+; Case 762: <L>29867<pc>1109-c<k1>sarvatas<k2>sarvatas
+250008 old <>25. --4. a temple or palace having
+250008 new <><ls>Ki. 15. 25.</ls> --4. a temple or palace having
+;
+; Case 763: <L>30039<pc>1115-a<k1>sADana<k2>sADana
+251262 old <>destroying; {#PalaM ca tasya pratisADanaM#} <ls>Ki.</ls>
+251262 new <>destroying; {#PalaM ca tasya pratisADanaM#}  <lbinfo n="ls:Ki.+ 14. 17."/>
+;
+; Case 764: <L>30039<pc>1115-a<k1>sADana<k2>sADana
+251263 old <>14. 17. {@--19@} Conciliating, <lbinfo n="propi+tiating"/>
+251263 new <><ls>Ki. 14. 17.</ls> {@--19@} Conciliating, <lbinfo n="propi+tiating"/>
+;
+; Case 765: <L>30066<pc>1116-b<k1>sAnu<k2>sAnu
+251521 old <><ls>Ku. 1. 9</ls>; <ls>Me. 2</ls>; <ls>Ku. 1. 5</ls>; <ls>Ki.</ls>
+251521 new <><ls>Ku. 1. 9</ls>; <ls>Me. 2</ls>; <ls>Ku. 1. 5</ls>;  <lbinfo n="ls:Ki.+ 5. 36."/>
+;
+; Case 766: <L>30066<pc>1116-b<k1>sAnu<k2>sAnu
+251522 old <>5. 36. {@--2@} A level ground on the top
+251522 new <><ls>Ki. 5. 36.</ls> {@--2@} A level ground on the top
+;
+; Case 767: <L>30083<pc>1116-c<k1>sAMDya<k2>sAMDya
+251631 old <>{#pratinavajavApuzparaktaM daDAnaH#} <ls>Me. 36</ls>; <ls>Ki.</ls>
+251631 new <>{#pratinavajavApuzparaktaM daDAnaH#} <ls>Me. 36</ls>;  <lbinfo n="ls:Ki.+ 5. 8"/>
+;
+; Case 768: <L>30083<pc>1116-c<k1>sAMDya<k2>sAMDya
+251632 old <>5. 8; <ls>R. 11. 60</ls>; <ls>Śi. 9. 15.</ls> {@--2@} <lbinfo n="Re+lating"/>
+251632 new <><ls>Ki. 5. 8</ls>; <ls>R. 11. 60</ls>; <ls>Śi. 9. 15.</ls> {@--2@} <lbinfo n="Re+lating"/>
+;
+; Case 769: <L>30140<pc>1118-b<k1>sAmyaM<k2>sAmyaM
+252044 old <>{#prApatsAmyamuvIMDarasya#} <ls>Śi. 18. 38</ls>; <ls>H. 1. 45</ls>; <ls>Ki.</ls>
+252044 new <>{#prApatsAmyamuvIMDarasya#} <ls>Śi. 18. 38</ls>; <ls>H. 1. 45</ls>;  <lbinfo n="ls:Ki.+ 17. 51."/>
+;
+; Case 770: <L>30140<pc>1118-b<k1>sAmyaM<k2>sAmyaM
+252045 old <>17. 51. {@--3@} Equability. {@--4@} <lbinfo n="Con+cord"/>
+252045 new <><ls>Ki. 17. 51.</ls> {@--3@} Equability. {@--4@} <lbinfo n="Con+cord"/>
+;
+; Case 771: <L>30167<pc>1119-b<k1>sArasa<k2>sArasa
+252259 old <>{#visasAra sArasAnudasya tIrezu taraMgasaMhatiH#} <ls>Ki.</ls>
+252259 new <>{#visasAra sArasAnudasya tIrezu taraMgasaMhatiH#}  <lbinfo n="ls:Ki.+ 8. 31"/>
+;
+; Case 772: <L>30167<pc>1119-b<k1>sArasa<k2>sArasa
+252260 old <>8. 31, <ls>Śi. 6. 75</ls>, 12. 44, <ls>Me. 31</ls>;
+252260 new <><ls>Ki. 8. 31</ls>, <ls>Śi. 6. 75</ls>, 12. 44, <ls>Me. 31</ls>;
+;
+; Case 773: <L>30246<pc>1121-c<k1>sAsusU<k2>sAsusU
+252826 old {#sAsusU#}¦ {%<ab>a.</ab>%} Having arrows; <ls>Ki.</ls>
+252826 new {#sAsusU#}¦ {%<ab>a.</ab>%} Having arrows;  <lbinfo n="ls:Ki.+ 15. 5."/>
+;
+; Case 774: <L>30246<pc>1121-c<k1>sAsusU<k2>sAsusU
+252827 old <>15. 5.
+252827 new <><ls>Ki. 15. 5.</ls>
+;
+; Case 775: <L>30340<pc>1125-b<k1>sImaMtita<k2>sImaMtita
+253642 old <>{#raTAMgasImaMtitasAMdrakardamAn (paTaH)#} <ls>Ki. 4.</ls>
+253642 new <>{#raTAMgasImaMtitasAMdrakardamAn (paTaH)#}  <lbinfo n="ls:Ki. 4.+ 18."/>
+;
+; Case 776: <L>30340<pc>1125-b<k1>sImaMtita<k2>sImaMtita
+253643 old <>18.
+253643 new <><ls>Ki. 4. 18.</ls>
+;
+; Case 777: <L>30342<pc>1125-b<k1>sImA<k2>sImA
+253663 old <>climax; {#sImeva padmAsanakOSalasTa#} <ls>Bk. 1.</ls>
+253663 new <>climax; {#sImeva padmAsanakOSalasTa#}  <lbinfo n="ls:Bk. 1.+ 6."/>
+;
+; Case 778: <L>30342<pc>1125-b<k1>sImA<k2>sImA
+253664 old <>6. {@--9@} A field. {@--10@} The nape of the
+253664 new <><ls>Bk. 1. 6.</ls> {@--9@} A field. {@--10@} The nape of the
+;
+; Case 779: <L>30353<pc>1126-a<k1>su<k2>su
+254315 old <>--3. disposed to, eager for; <ls>Ki. 6.</ls>
+254315 new <>--3. disposed to, eager for;  <lbinfo n="ls:Ki. 6.+ 42."/>
+;
+; Case 780: <L>30353<pc>1126-a<k1>su<k2>su
+254316 old <>42. ({#--KaH#}) 1. a learned man. --2. an
+254316 new <><ls>Ki. 6. 42.</ls> ({#--KaH#}) 1. a learned man. --2. an
+;
+; Case 781: <L>30380<pc>1131-b<k1>suDA<k2>suDA
+254770 old <>{#jagatISaraRe yukto harikAMtaH suDAsitaH#} <ls>Ki.</ls>
+254770 new <>{#jagatISaraRe yukto harikAMtaH suDAsitaH#}  <lbinfo n="ls:Ki.+ 15. 45."/>
+;
+; Case 782: <L>30380<pc>1131-b<k1>suDA<k2>suDA
+254771 old <>15. 45. (where it has senses {@1@} and
+254771 new <><ls>Ki. 15. 45.</ls> (where it has senses {@1@} and
+;
+; Case 783: <L>30751<pc>1144-b<k1>staMB<k2>staMB
+257760 old <>{#prARA daDvaMsire gAtraM tastaMBe ca hate priye#} <ls>Bk.</ls>
+257760 new <>{#prARA daDvaMsire gAtraM tastaMBe ca hate priye#}  <lbinfo n="ls:Bk.+ 14. 55."/>
+;
+; Case 784: <L>30751<pc>1144-b<k1>staMB<k2>staMB
+257761 old <>14. 55. {@--4@} To prop, support, <lbinfo n="up+hold"/>
+257761 new <><ls>Bk. 14. 55.</ls> {@--4@} To prop, support, <lbinfo n="up+hold"/>
+;
+; Case 785: <L>30752<pc>1144-c<k1>staMBaH<k2>staMBaH
+257777 old <>{#raMBA staMBaM Bajati#} <ls>Vikr. 18. 29</ls>; <ls>Ki.</ls>
+257777 new <>{#raMBA staMBaM Bajati#} <ls>Vikr. 18. 29</ls>;  <lbinfo n="ls:Ki.+ 12. 28"/>
+;
+; Case 786: <L>30752<pc>1144-c<k1>staMBaH<k2>staMBaH
+257778 old <>12. 28; {#gAtrastaMBaH stanamukulayorutprabaMDaH#}
+257778 new <><ls>Ki. 12. 28</ls>; {#gAtrastaMBaH stanamukulayorutprabaMDaH#}
+;
+; Case 787: <L>30775<pc>1145-b<k1>stu<k2>stu
+257938 old <>celebrate; <ls>Bv. 1. 41</ls>; <ls>Mu. 3. 16</ls>; <ls>Bk. 8.</ls>
+257938 new <>celebrate; <ls>Bv. 1. 41</ls>; <ls>Mu. 3. 16</ls>;  <lbinfo n="ls:Bk. 8.+ 92"/>
+;
+; Case 788: <L>30775<pc>1145-b<k1>stu<k2>stu
+257939 old <>92, 15. 70, 3. {@--2@} To celebrate or
+257939 new <><ls>Bk. 8. 92</ls>, 15. 70, 3. {@--2@} To celebrate or
+;
+; Case 789: <L>30846<pc>1147-c<k1>sTA<k2>sTA
+258514 old <>advice of; {#saMSayya karRAdizu tizWate yaH#} <ls>Ki.</ls>
+258514 new <>advice of; {#saMSayya karRAdizu tizWate yaH#}  <lbinfo n="ls:Ki.+ 3. 14."/>
+;
+; Case 790: <L>30846<pc>1147-c<k1>sTA<k2>sTA
+258515 old <>3. 14. {@--16@} (<ab>Atm.</ab>) To offer <lbinfo n="one+self"/>
+258515 new <><ls>Ki. 3. 14.</ls> {@--16@} (<ab>Atm.</ab>) To offer <lbinfo n="one+self"/>
+;
+; Case 791: <L>31013<pc>1154-c<k1>sPur<k2>sPur
+260046 old <>{#aBimataPalaSaMsI cAru pusPora vAhuH#} <ls>Bk.</ls>
+260046 new <>{#aBimataPalaSaMsI cAru pusPora vAhuH#}  <lbinfo n="ls:Bk.+ 1. 27"/>
+;
+; Case 792: <L>31013<pc>1154-c<k1>sPur<k2>sPur
+260047 old <>1. 27 ({%b%}) To shake, tremble, quiver,
+260047 new <><ls>Bk. 1. 27</ls> ({%b%}) To shake, tremble, quiver,
+;
+; Case 793: <L>31055<pc>1156-b<k1>smf<k2>smf
+260411 old <>{#smartuM disaMti na divaH surasuMdarIByaH#} <ls>Ki. 5.</ls>
+260411 new <>{#smartuM disaMti na divaH surasuMdarIByaH#}  <lbinfo n="ls:Ki. 5.+ 28"/>
+;
+; Case 794: <L>31055<pc>1156-b<k1>smf<k2>smf
+260412 old <>28; {#kaccidBartuH smarasi rasike tvaM hi tasya#}
+260412 new <><ls>Ki. 5. 28</ls>; {#kaccidBartuH smarasi rasike tvaM hi tasya#}
+;
+; Case 795: <L>31209<pc>1163-a<k1>svid<k2>svid
+261842 old <>‘or’, with {#nu, uta, vA#} &c.; see <ls>Ki.</ls>
+261842 new <>‘or’, with {#nu, uta, vA#} &c.; see  <lbinfo n="ls:Ki.+ 8. 35"/>
+;
+; Case 796: <L>31209<pc>1163-a<k1>svid<k2>svid
+261843 old <>8. 35, 12. 15, 13. 8, 14. 60; {#Aho#}
+261843 new <><ls>Ki. 8. 35</ls>, 12. 15, 13. 8, 14. 60; {#Aho#}
+;
+; Case 797: <L>31282<pc>1166-c<k1>harita<k2>harita
+262629 old <><ls>Ś. 4. 10</ls>; <ls>Ku. 4. 14</ls>; <ls>Me. 21</ls>; <ls>Ki. 5.</ls>
+262629 new <><ls>Ś. 4. 10</ls>; <ls>Ku. 4. 14</ls>; <ls>Me. 21</ls>;  <lbinfo n="ls:Ki. 5.+ 38."/>
+;
+; Case 798: <L>31282<pc>1166-c<k1>harita<k2>harita
+262630 old <>38. {@--2@} Tawny. {@--3@} Dark-blue.
+262630 new <><ls>Ki. 5. 38.</ls> {@--2@} Tawny. {@--3@} Dark-blue.
+;
+; Case 799: <L>31330<pc>1168-a<k1>has<k2>has
+262975 old <>resemble; {#SriyA hasadBiH kamalAni sasmitEH#} <ls>Ki.</ls>
+262975 new <>resemble; {#SriyA hasadBiH kamalAni sasmitEH#}  <lbinfo n="ls:Ki.+ 8. 44."/>
+;
+; Case 800: <L>31330<pc>1168-a<k1>has<k2>has
+262976 old <>8. 44. {@--5@} To jest, joke. {@--6@} To open,
+262976 new <><ls>Ki. 8. 44.</ls> {@--5@} To jest, joke. {@--6@} To open,
+;
+; Case 801: <L>31351<pc>1169-b<k1>hA<k2>hA
+263209 old <><ls>U. 3. 38</ls>; {#hA pitaH kvAsi he suBru#} <ls>Bk.</ls>
+263209 new <><ls>U. 3. 38</ls>; {#hA pitaH kvAsi he suBru#}  <lbinfo n="ls:Bk.+ 6. 11"/>
+;
+; Case 802: <L>31351<pc>1169-b<k1>hA<k2>hA
+263210 old <>6. 11; {#hA vatse mAlati kvAsi#} <ls>Māl. 10.</ls>
+263210 new <><ls>Bk. 6. 11</ls>; {#hA vatse mAlati kvAsi#} <ls>Māl. 10.</ls>
+;
+; Case 803: <L>31352<pc>1169-b<k1>hA<k2>hA
+263238 old <><ab>instr.</ab> or <ab>abl.</ab>); {#virUpAkzo jahe prAREH#} <ls>Bk.</ls>
+263238 new <><ab>instr.</ab> or <ab>abl.</ab>); {#virUpAkzo jahe prAREH#}  <lbinfo n="ls:Bk.+ 14. 35"/>
+;
+; Case 804: <L>31352<pc>1169-b<k1>hA<k2>hA
+263239 old <>14. 35; {#janayitvA sutaM tasyAM brAhmaRyAdeva#}
+263239 new <><ls>Bk. 14. 35</ls>; {#janayitvA sutaM tasyAM brAhmaRyAdeva#}
+;
+; Case 805: <L>31373<pc>1170-a<k1>hArdaM<k2>hArdaM
+263393 old <>{#jaMtunA na jAtahArdena na vidvizAdaraH#} <ls>Ki.</ls>
+263393 new <>{#jaMtunA na jAtahArdena na vidvizAdaraH#}  <lbinfo n="ls:Ki.+ 1. 33"/>
+;
+; Case 806: <L>31373<pc>1170-a<k1>hArdaM<k2>hArdaM
+263394 old <>1. 33; <ls>Śi. 9. 69</ls>; <ls>V. 5. 10.</ls> {@--2@}
+263394 new <><ls>Ki. 1. 33</ls>; <ls>Śi. 9. 69</ls>; <ls>V. 5. 10.</ls> {@--2@}
+;
+; Case 807: <L>31434<pc>1172-a<k1>hima<k2>hima
+263828 old <><ls>Ku. 1. 3</ls>, 11; <ls>R. 9. 28</ls>, 15. 66, 16. 44, <ls>Ki.</ls>
+263828 new <><ls>Ku. 1. 3</ls>, 11; <ls>R. 9. 28</ls>, 15. 66, 16. 44,  <lbinfo n="ls:Ki.+ 5. 12."/>
+;
+; Case 808: <L>31434<pc>1172-a<k1>hima<k2>hima
+263829 old <>5. 12. {@--3@} Cold, coldness. {@--4@} A lotus.
+263829 new <><ls>Ki. 5. 12.</ls> {@--3@} Cold, coldness. {@--4@} A lotus.
+;
+; Case 809: <L>31438<pc>1172-b<k1>himAnI<k2>himAnI
+263900 old <>{#nagamupari himAnIgOramAsAdya jizRuH#} <ls>Ki.</ls>
+263900 new <>{#nagamupari himAnIgOramAsAdya jizRuH#}  <lbinfo n="ls:Ki.+ 4. 38"/>
+;
+; Case 810: <L>31438<pc>1172-b<k1>himAnI<k2>himAnI
+263901 old <>4. 38; <ls>Bv. 1. 26.</ls> {@--2@} A kind of
+263901 new <><ls>Ki. 4. 38</ls>; <ls>Bv. 1. 26.</ls> {@--2@} A kind of
+;
+; Case 811: <L>31511<pc>1175-a<k1>hetiH<k2>hetiH
+264516 old <>{#hetidalitaH#} <ls>Bh. 2. 44</ls>; <ls>R. 10. 12</ls>; <ls>Ki. 3.</ls>
+264516 new <>{#hetidalitaH#} <ls>Bh. 2. 44</ls>; <ls>R. 10. 12</ls>;  <lbinfo n="ls:Ki. 3.+ 56"/>
+;
+; Case 812: <L>31511<pc>1175-a<k1>hetiH<k2>hetiH
+264517 old <>56, 14. 30. {@--2@} A stroke, injury. {@--3@}
+264517 new <><ls>Ki. 3. 56</ls>, 14. 30. {@--2@} A stroke, injury. {@--3@}
+;
+; Case 813: <L>31542<pc>1176-b<k1>hEma<k2>hEma
+264767 old <>{#pAdena hEmaM vilileKa pIWaM#} <ls>R. 6. 15</ls>; <ls>Bk.</ls>
+264767 new <>{#pAdena hEmaM vilileKa pIWaM#} <ls>R. 6. 15</ls>;  <lbinfo n="ls:Bk.+ 5. 89"/>
+;
+; Case 814: <L>31542<pc>1176-b<k1>hEma<k2>hEma
+264768 old <>5. 89; <ls>Ku. 6. 6.</ls> {@--3@} Of a golden
+264768 new <><ls>Bk. 5. 89</ls>; <ls>Ku. 6. 6.</ls> {@--3@} Of a golden
+;
+; Case 815: <L>31607<pc>1177-c<k1>hrI<k2>hrI
+265128 old <>{#svAmino hrepayaMti#} <ls>Śi. 18. 23</ls>; <ls>Ki. 11.</ls>
+265128 new <>{#svAmino hrepayaMti#} <ls>Śi. 18. 23</ls>;  <lbinfo n="ls:Ki. 11.+ 64"/>
+;
+; Case 816: <L>31607<pc>1177-c<k1>hrI<k2>hrI
+265129 old <>64; 13. 41; <ls>Ve. 1. 17.</ls>
+265129 new <><ls>Ki. 11. 64</ls>; 13. 41; <ls>Ve. 1. 17.</ls>
+;

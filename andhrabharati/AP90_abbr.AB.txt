@@ -1,0 +1,155 @@
+{&c.}
+{A. D.}
+{A. S.}
+{A.}
+{Adv. comp.}
+{Ait.}
+{App.}
+{Arith.}
+{Atm.}
+{Avyayī.}
+{B. C.}
+{Bah.}
+{Buddhistic phil.}
+{Caus.}
+{Com.}
+{Den. A.}
+{Den. P.}
+{Den. U.}
+{Den.}
+{Dr.}
+{Dravid.}
+{Eng.}
+{Ety.}
+{Ex.}
+{Germ.}
+{Goth.}
+{Gr.}
+{Gram.}
+{Imper.}
+{Instr.}
+{L.}
+{Lin.}
+{Lith.}
+{Mīm. phil.}
+{Mar.}
+{Math.}
+{Medic.}
+{Mr.}
+{N. B.}
+{N.}
+{Nom.}
+{Nyāya phil.}
+{Old Germ.}
+{P.}
+{Par.}
+{Paras.}
+{Perf.}
+{Pers.}
+{Phil.}
+{Prāk.}
+{Prep.}
+{Pres.}
+{Prov.}
+{Rhet.}
+{Roxb.}
+{Sān. phil.}
+{Sānkhya phil.}
+{Sans.}
+{Tat.}
+{U.}
+{Vaiś. phil.}
+{Vaiśeshika phil.}
+{Vedānta phil.}
+{Ved.}
+{Voc.}
+{Yoga phil.}
+{a. f.}
+{a.}
+{abl.}
+{acc.}
+{ad loc.}
+{adj.}
+{adv.}
+{alg.}
+{aor.}
+{arith.}
+{astr.}
+{astrol.}
+{astron.}
+{caus.}
+{cf.}
+{cl.}
+{comp.}
+{compar.}
+{comps.}
+{dat.}
+{denom.}
+{desid.}
+{du.}
+{e. g.}
+{epic.}
+{et seq.}
+{ety.}
+{etym.}
+{f. m.}
+{f. n.}
+{f.}
+{fem.}
+{fig.}
+{fr.}
+{freq.}
+{gen.}
+{geom.}
+{gram.}
+{i. e.}
+{ibid.}
+{imperat.}
+{ind.}
+{inf.}
+{infra.}
+{instr.}
+{inter alia}
+{irreg.}
+{l.}
+{lit.}
+{loc.}
+{m. f. n.}
+{m. f.}
+{m. n.}
+{m.}
+{mas.}
+{n.}
+{nom.}
+{num. a.}
+{oft.}
+{opp.}
+{p. p.}
+{pass.}
+{past part.}
+{pers.}
+{phil.}
+{pl.}
+{plu.}
+{pot. p.}
+{pot. pass.}
+{pot.}
+{prep.}
+{pres. a.}
+{pres. p.}
+{pres. part.}
+{pres.}
+{pron. a.}
+{pron.}
+{q. v.}
+{qq. vv.}
+{s. v.}
+{s.}
+{scil.}
+{sing.}
+{subst.}
+{super.}
+{superl.}
+{v. l.}
+{v.}
+{voc.}

@@ -1,7 +1,7 @@
 Andhrabharati's version of ap90.
 
 
-Ref #16
+Ref https://github.com/sanskrit-lexicon/AP90/issues/17
 
 * ap90ab.txt  Andhrabharati's initial commit.
   Copy of AP90_.v.1.for.Cologne.txt.

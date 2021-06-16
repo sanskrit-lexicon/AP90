@@ -1,0 +1,213 @@
+; Lines starting with a semicolon are comments
+; other lines should be slp1 transliteration of the items
+; in Apte.S2H-.Names.of.works.or.authors.pdf
+; Each line should have two parts, separated by a colon;
+; First part is the abbreviation, second part is the 'expansion'
+; extra spaces around the ':' are optional
+; periods are used to represent the Devanagari continuation (or
+; Devanagari 0)
+a. pu. : agni purARa
+a. Sa. : anyApadeSa Sataka
+a. saM : agastya saMhitA
+aTarva. : aTarva veda
+anarGa. : anarGarAGava
+anna. : annapUrRAzwaka
+amara. : amarakoSa
+amaru. : amaruSataka
+avi. : avimAraka
+Ananda. : Ananda laharI
+AryA. : AryA saptaSatI
+ASva. : ASvalAyanasUtra
+ISa. : ISopanizad
+u. dU. : udDava dUta
+u. saM. : udDava saMdeSa
+uRAdi. : uRAdi sUtra
+utta. : uttara rAmacarita
+fk. : fgveda
+ekArTa. : ekArTanAmamAlA
+Eta. u. : Etereya brAhmaRa
+kaWa. : kaWopanizad
+kaTA. : kaTAsaritsAgara
+kanaka. : kanakaDArAstava
+karpUra. : karpUra maMjarI
+;kali. : kaliviqaMbana nIlakaMWa dIkzita kfta
+kali. : kaliviqaMbana
+kavi. : kavirahasya
+kA. : kAdambarI
+kAtyA. : kAtyAyana
+kAma. : kAmandakI nIti
+kAvya. : kAvyaprakASa
+kASi. : kASikAvftti
+ki. : kirAtArjunIya
+kIrti. : kIrtikOmudI
+kumA. : kumAra saMBava
+kuva. : kuvalayAnanda
+kfzRa. : kfzRakarRAmfta
+kena. : kenopanizad
+kO. a. : kOwilya arTaSAstra
+koSa. : koSakalpataru
+kOSi. : kOSikasUtra
+kOzI. : kOzItakI upanizad
+ga. la. : gaMgA laharI
+;GozAla. : <Ghosal's System of Revenue>
+caRqa. : caRqa kOSika
+gaRa. : gaRaratnamahodaDi
+; varDamAna kfta
+candrA. : candrAloka
+cARa. : cARakya Sataka
+cAta. : cAtakAzwaka
+cola. : cola campU
+cOra. : cOrapaMcASikA
+Ca. : CandomaMjarI
+CA. : CAndogyopanizad
+jAnakI. : jAnakIharaRa
+jE. : jEminI sUtra
+jE. nyA. : jEminIya nyAyamAlA vistara
+jyo. :jyotiza
+ta. kO. : tarka kOmudI
+tArA. : tArAnATa vAcaspatyam
+tE. A. : tEttirIya AraRyaka
+tE. u. : tEttirIya upanizad
+trikA. : trikAMqa Seza
+tE. saM. : tEttirIya saMhitA
+taM. vA. : taMtravArtika
+dAya. : dAyaBAga
+du. sa. : durgAsaptaSatI
+dUta. : dUtavAkyam
+de. ma. : devI mahAtmya
+navaratna. : navaratnamAlA
+nA. BA. : nArAyaRa BAzya
+nAgA. : nAgAnanda
+nAnA. : nAnArTa maYjarI
+nABa. : nArAyaRa Bawwa
+nArA. : nArAyaRIya
+niGa. : niGaRwu
+nI. : nItisAra
+nIti. : nIti pradIpa
+nIla. : nIlakaRWa
+nEza. : nEzaDa
+paMca. : paMcatantra
+paYca. : paYcadaSI
+paYca. : paYcarAtram
+pA. : pARini kI azwADyAyI
+pA. yo. : pAtaMjala yogaSAstra
+puzpa. : puzpadanta
+pratApa. : pratAparudrIya
+prati. : pratimA
+praboDa. : praboDacandrodaya
+prasa. : prasannarAGava
+baM. Si. : baMgAla SilAleKa
+bAla. : bAlacarita
+bAla. rA. : bAlarAmAyaRa
+bu. : budDa sAhityaM
+; (budDista leKa)
+bu. ca. : budDacaritam
+bf. u. (bfhadA.) : bfhadAraRyaka upanizad
+bfhadA. : bfhadAraRyaka upanizad
+; two abbreviations
+bf. ka. : bfhat kaTA
+bf. saM. : bfhatsaMhitA_varAhamihira-kfta
+Ba. pu. : Bavizyottara purARa
+Baga. : BagavadgItA
+Bawwi. : BawwikAvya
+Bartf. : BartfhariSatakatrayam
+; 1. SrMgAra, 2. nIti, 3. vErAgya
+BA. : BArata maYjarI
+BA. pra. : BAvaprakASa
+BAga. : BAgavata
+BAmi. : BAminI vilAsa
+BAzA. : BAzA paricCeda
+Boja. : Boja carita
+ma. nA. : mahAnArAyaRa upanizad
+ma. pu. : matsya purARa
+manu. : manusmfti
+maBA. : mahABAzya
+mahABA. : mahABAzya
+; two abbreviations
+mahA. : mahABArata
+mahAvIra. : mahAvIra carita
+mA. : mAtaMgalIlA
+mAna. : mAnasAra
+mArka. : mArkaRqeya purARa
+mAla. : mAlatImADava
+mAlavi. : mAlavikAgnimitra
+mI. sU. : mImAMsA sUtra
+muMqa. : muMqakopanizad
+muKa. : muKapaYcaSatI
+mugDa. : mugDaboDa
+meGa. : meGadUta
+mfcCa. : mfcCakawika
+yAdYa. : yAdYavalkya smfti
+yAda.: yAdavAByudaya
+yoga. : yogasUtra
+ratnA. : ratnAvalI
+raGu. : raGuvaMSa
+rasa. : rasagaMgADara
+rasama. : rasamaMjarI
+rA. : rAmAyaRa
+rati. : ratimaMjarI
+rAja. : rAjapraSasti
+rAjata. : rAjataraMgiRI
+rAma. : rAmacaritam
+lalita. : lalita sahasranAma
+vana. : vanaspatiSAstra
+varAha. : varAhamihira kI bfhatsaMhitA
+vAja. : vAjasaniyi saMhitA
+vA. pa. : vAkpadIya
+vAsa. : vAsavadattA
+vi. : vikramorvaSIyam
+vi. pu. : vizRu purARa
+vikrama. : vikramAMkadevacarita
+viSva. : viSva guRAdarSa campU
+ve. de. : vedAnta sAra
+veRI. : veRIsaMhAra
+vedapA. : vedapAdastava
+vEja. : vEjayantI
+Sa. : SakuntalA nAwaka
+saMkara. : SaMkara digvijaya
+Sa. ci. : SabdArTa cintAmaRi
+Sata. : SatapaTa brAhmaRa
+Sata Slo. : Sata SlokI
+SArNga. : SArNgaDara
+Sabda. : Sabdakalpadruma
+SABA. : SArIra BAzya
+SAli. : SAlihotra
+Si. : SiSupAlavaDa
+Si. pu. : SivapurARa
+Si. ma. : Sivamahimna stotra
+Siva. : Siva BArata
+SivAnanda. : SivAnanda laharI
+SiSu.: SiSupAlavaDa
+Sukra. : SukranIti
+Su. : SulbasUtra
+SfNgAra. : SfNgAra tilaka
+SyAma. : SyAmalAdaRqaka
+Sruta. : SrutaboDa
+Sveta. : SvetASvataropanizad
+SvetA. : SvetASvataropanizad
+sara. kaM. : sarasvatI kaRWABaraRa
+suDA. : suDAlaharI
+svapna. : svapnavAsavadattam
+sarva. : sarvadarSana saMgraha
+sA. da. : sAhitya darpaRa
+sAM. kA. : sAMKya kArikA
+sA. pra. : sAMKyapravacana BAzya
+si. : sidDAnta kOmudI
+si. mu. : sidDAnta muktAvalI
+sAM. sU. : sAMKya sUtra
+si. saM. : sidDAntaleSa saMgraha
+su. : suSruta
+suSru. : suSruta
+suBA. : suBAzita ratnAkara
+suvAsava. : subanDu kI vAsavadattA
+suBAzita. : suBAzitaratnaBARqAgAra
+sU. si. : sUrya sidDAnta
+sO. : sOndarya laharI
+haMsa. : haMsadUta
+hanu. : hanumannAwaka
+hara. : haravijaya
+hari. : harivaMSapurARa
+halA. : halAyuDa
+harza. : harzacarita
+hi. : hitopadeSa
+hema. : hemacandra

@@ -1,0 +1,197 @@
+A. Pu. : Agni Purāṇa
+A. Śa. : Anyāpadeśa Śataka
+A. Saṃ : Agastya Saṃhitā
+Atharva. : Atharva Veda
+Anargha. : Anargharāghava
+Anna. : Annapūrṇāṣṭaka
+Amara. : Amarakośa
+Amaru. : Amaruśataka
+Avi. : Avimāraka
+Ānanda. : Ānanda Laharī
+Āryā. : Āryā Saptaśatī
+Āśva. : Āśvalāyanasūtra
+Īśa. : Īśopaniṣad
+U. Dū. : Uddhava Dūta
+U. Saṃ. : Uddhava Saṃdeśa
+Uṇādi. : Uṇādi Sūtra
+Utta. : Uttara Rāmacarita
+Ṛk. : Ṛgveda
+Ekārtha. : Ekārthanāmamālā
+Aita. U. : Aitereya Brāhmaṇa
+Kaṭha. : Kaṭhopaniṣad
+Kathā. : Kathāsaritsāgara
+Kanaka. : Kanakadhārāstava
+Karpūra. : Karpūra Maṃjarī
+Kali. : Kaliviḍaṃbana
+Kavi. : Kavirahasya
+Kā. : Kādambarī
+Kātyā. : Kātyāyana
+Kāma. : Kāmandakī Nīti
+Kāvya. : Kāvyaprakāśa
+Kāśi. : Kāśikāvṛtti
+Ki. : Kirātārjunīya
+Kīrti. : Kīrtikaumudī
+Kumā. : Kumāra Saṃbhava
+Kuva. : Kuvalayānanda
+Kṛṣṇa. : Kṛṣṇakarṇāmṛta
+Kena. : Kenopaniṣad
+Kau. A. : Kauṭilya Arthaśāstra
+Kośa. : Kośakalpataru
+Kauśi. : Kauśikasūtra
+Kauṣī. : Kauṣītakī Upaniṣad
+Ga. La. : Gaṃgā Laharī
+Caṇḍa. : Caṇḍa Kauśika
+Gaṇa. : Gaṇaratnamahodadhi
+Candrā. : Candrāloka
+Cāṇa. : Cāṇakya Śataka
+Cāta. : Cātakāṣṭaka
+Cola. : Cola Campū
+Caura. : Caurapaṃcāśikā
+Cha. : Chandomaṃjarī
+Chā. : Chāndogyopaniṣad
+Jānakī. : Jānakīharaṇa
+Jai. : Jaiminī Sūtra
+Jai. Nyā. : Jaiminīya Nyāyamālā Vistara
+Jyo. : Jyotiṣa
+Ta. Kau. : Tarka Kaumudī
+Tārā. : Tārānātha Vācaspatyam
+Tai. Ā. : Taittirīya Āraṇyaka
+Tai. U. : Taittirīya Upaniṣad
+Trikā. : Trikāṃḍa Śeṣa
+Tai. Saṃ. : Taittirīya Saṃhitā
+Taṃ. Vā. : Taṃtravārtika
+Dāya. : Dāyabhāga
+Du. Sa. : Durgāsaptaśatī
+Dūta. : Dūtavākyam
+De. Ma. : Devī Mahātmya
+Navaratna. : Navaratnamālā
+Nā. Bhā. : Nārāyaṇa Bhāṣya
+Nāgā. : Nāgānanda
+Nānā. : Nānārtha Mañjarī
+Nābha. : Nārāyaṇa Bhaṭṭa
+Nārā. : Nārāyaṇīya
+Nigha. : Nighaṇṭu
+Nī. : Nītisāra
+Nīti. : Nīti Pradīpa
+Nīla. : Nīlakaṇṭha
+Naiṣa. : Naiṣadha
+Paṃca. : Paṃcatantra
+Pañca. : Pañcadaśī
+Pañca. : Pañcarātram
+Pā. : Pāṇini Kī Aṣṭādhyāyī
+Pā. Yo. : Pātaṃjala Yogaśāstra
+Puṣpa. : Puṣpadanta
+Pratāpa. : Pratāparudrīya
+Prati. : Pratimā
+Prabodha. : Prabodhacandrodaya
+Prasa. : Prasannarāghava
+Baṃ. Śi. : Baṃgāla Śilālekha
+Bāla. : Bālacarita
+Bāla. Rā. : Bālarāmāyaṇa
+Bu. : Buddha Sāhityaṃ
+Bu. Ca. : Buddhacaritam
+Bṛ. U. (bṛhadā.) : Bṛhadāraṇyaka Upaniṣad
+Bṛhadā. : Bṛhadāraṇyaka Upaniṣad
+Bṛ. Ka. : Bṛhat Kathā
+Bṛ. Saṃ. : Bṛhatsaṃhitā_varāhamihira-kṛta
+Bha. Pu. : Bhaviṣyottara Purāṇa
+Bhaga. : Bhagavadgītā
+Bhaṭṭi. : Bhaṭṭikāvya
+Bhartṛ. : Bhartṛhariśatakatrayam
+Bhā. : Bhārata Mañjarī
+Bhā. Pra. : Bhāvaprakāśa
+Bhāga. : Bhāgavata
+Bhāmi. : Bhāminī Vilāsa
+Bhāṣā. : Bhāṣā Pariccheda
+Bhoja. : Bhoja Carita
+Ma. Nā. : Mahānārāyaṇa Upaniṣad
+Ma. Pu. : Matsya Purāṇa
+Manu. : Manusmṛti
+Mabhā. : Mahābhāṣya
+Mahābhā. : Mahābhāṣya
+Mahā. : Mahābhārata
+Mahāvīra. : Mahāvīra Carita
+Mā. : Mātaṃgalīlā
+Māna. : Mānasāra
+Mārka. : Mārkaṇḍeya Purāṇa
+Māla. : Mālatīmādhava
+Mālavi. : Mālavikāgnimitra
+Mī. Sū. : Mīmāṃsā Sūtra
+Muṃḍa. : Muṃḍakopaniṣad
+Mukha. : Mukhapañcaśatī
+Mugdha. : Mugdhabodha
+Megha. : Meghadūta
+Mṛccha. : Mṛcchakaṭika
+Yādña. : Yādñavalkya Smṛti
+Yāda. : Yādavābhyudaya
+Yoga. : Yogasūtra
+Ratnā. : Ratnāvalī
+Raghu. : Raghuvaṃśa
+Rasa. : Rasagaṃgādhara
+Rasama. : Rasamaṃjarī
+Rā. : Rāmāyaṇa
+Rati. : Ratimaṃjarī
+Rāja. : Rājapraśasti
+Rājata. : Rājataraṃgiṇī
+Rāma. : Rāmacaritam
+Lalita. : Lalita Sahasranāma
+Vana. : Vanaspatiśāstra
+Varāha. : Varāhamihira Kī Bṛhatsaṃhitā
+Vāja. : Vājasaniyi Saṃhitā
+Vā. Pa. : Vākpadīya
+Vāsa. : Vāsavadattā
+Vi. : Vikramorvaśīyam
+Vi. Pu. : Viṣṇu Purāṇa
+Vikrama. : Vikramāṃkadevacarita
+Viśva. : Viśva Guṇādarśa Campū
+Ve. De. : Vedānta Sāra
+Veṇī. : Veṇīsaṃhāra
+Vedapā. : Vedapādastava
+Vaija. : Vaijayantī
+Śa. : Śakuntalā Nāṭaka
+Saṃkara. : Śaṃkara Digvijaya
+Śa. Ci. : Śabdārtha Cintāmaṇi
+Śata. : Śatapatha Brāhmaṇa
+Śata Ślo. : Śata Ślokī
+Śārṅga. : Śārṅgadhara
+Śabda. : Śabdakalpadruma
+Śābhā. : Śārīra Bhāṣya
+Śāli. : Śālihotra
+Śi. : Śiśupālavadha
+Śi. Pu. : Śivapurāṇa
+Śi. Ma. : Śivamahimna Stotra
+Śiva. : Śiva Bhārata
+Śivānanda. : Śivānanda Laharī
+Śiśu. : Śiśupālavadha
+Śukra. : Śukranīti
+Śu. : Śulbasūtra
+Śṛṅgāra. : Śṛṅgāra Tilaka
+Śyāma. : Śyāmalādaṇḍaka
+Śruta. : Śrutabodha
+Śveta. (śvetā.) : Śvetāśvataropaniṣad
+Sara. Kaṃ. : Sarasvatī Kaṇṭhābharaṇa
+Sudhā. : Sudhālaharī
+Svapna. : Svapnavāsavadattam
+Sarva. : Sarvadarśana Saṃgraha
+Sā. Da. : Sāhitya Darpaṇa
+Sāṃ. Kā. : Sāṃkhya Kārikā
+Sā. Pra. : Sāṃkhyapravacana Bhāṣya
+Si. : Siddhānta Kaumudī
+Si. Mu. : Siddhānta Muktāvalī
+Sāṃ. Sū. : Sāṃkhya Sūtra
+Si. Saṃ. : Siddhāntaleśa Saṃgraha
+Su. : Suśruta
+Suśru. : Suśruta
+Subhā. : Subhāṣita Ratnākara
+Suvāsava. : Subandhu Kī Vāsavadattā
+Subhāṣita. : Subhāṣitaratnabhāṇḍāgāra
+Sū. Si. : Sūrya Siddhānta
+Sau. : Saundarya Laharī
+Haṃsa. : Haṃsadūta
+Hanu. : Hanumannāṭaka
+Hara. : Haravijaya
+Hari. : Harivaṃśapurāṇa
+Halā. : Halāyudha
+Harṣa. : Harṣacarita
+Hu. : Hitopadeśa
+Hema. : Hemacandra

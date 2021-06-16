@@ -144,7 +144,8 @@ Vi. : Vikramorvaśīyam
 Vi. Pu. : Viṣṇu Purāṇa
 Vikrama. : Vikramāṃkadevacarita
 Viśva. : Viśva Guṇādarśa Campū
-Ve. De. : Vedānta Sāra
+Ve. De. : Vedānta Deśikā
+Ve. Sā. : Vedānta Sāra
 Veṇī. : Veṇīsaṃhāra
 Vedapā. : Vedapādastava
 Vaija. : Vaijayantī
@@ -168,7 +169,8 @@ Saṃkara. : Śaṃkara Digvijaya
 Śṛṅgāra. : Śṛṅgāra Tilaka
 Śyāma. : Śyāmalādaṇḍaka
 Śruta. : Śrutabodha
-Śveta. (śvetā.) : Śvetāśvataropaniṣad
+Śveta. : Śvetāśvataropaniṣad
+Śvetā. : Śvetāśvataropaniṣad
 Sara. Kaṃ. : Sarasvatī Kaṇṭhābharaṇa
 Sudhā. : Sudhālaharī
 Svapna. : Svapnavāsavadattam
@@ -193,5 +195,5 @@ Hara. : Haravijaya
 Hari. : Harivaṃśapurāṇa
 Halā. : Halāyudha
 Harṣa. : Harṣacarita
-Hu. : Hitopadeśa
+Hi. : Hitopadeśa
 Hema. : Hemacandra

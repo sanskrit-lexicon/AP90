@@ -29,13 +29,58 @@ def init_recs(filein):
  print(len(recs),"Works read from",filein)
  return recs
 
-def capitalize_words(x):
+def wrong_capitalize_words(x):
+ """ This doesn't handle extended Ascii"""
+ parts = re.split(r'\b([a-zA-Z]+)\b',x)
+ newparts = []
+ for part in parts:
+  if re.search(r'^[a-zA-Z]+$',part):
+   newparts.append(part.capitalize())
+  else:
+   newparts.append(part)
+ z = ''.join(newparts)
+ return z
+
+def capitalize_words(x0):
+ x = x0.replace('(','( ')
+ #x = x.replace(')',' )')
  words = x.split(' ')
  y = [w.capitalize() for w in words]
  z = ' '.join(y)
+ z = z.replace('( ','(')
  return z
-     
+
+def transcode_abbrev(a,tranin,tranout):
+ a1 = transcode(a,tranin,tranout)
+ if tranout == 'roman':
+  # capitalize
+  a1 = capitalize_words(a1)
+ return a1
+
+def transcode_name(a,tranin,tranout):
+ """ Leave <X> as X (English text X unchanged)
+ """
+ parts = re.split(r'(<.*?>)',a)
+ newparts = []
+ for part in parts:
+  if part.startswith('<'):
+   newparts.append(part[1:-1])  # <X> -> X
+  else:
+   # same as for abbreviations
+   newpart = transcode_abbrev(part,tranin,tranout)
+   newparts.append(newpart)
+ # reconstruct
+ ans = ''.join(newparts)
+ return ans
+
 def transcode_rec(rec,tranin,tranout):
+ a,n = (rec.abbrev,rec.name)
+ a1 = transcode_abbrev(a,tranin,tranout)
+ n1 = transcode_name(n,tranin,tranout)
+ line = '%s : %s' %(a1,n1)
+ return line
+
+def transcode_rec_version0(rec,tranin,tranout):
  a,n = (rec.abbrev,rec.name)
  a1 = transcode(a,tranin,tranout)
  n1 = transcode(n,tranin,tranout)

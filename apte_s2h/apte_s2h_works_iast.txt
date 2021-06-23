@@ -17,17 +17,19 @@ Uṇādi. : Uṇādi Sūtra
 Utta. : Uttara Rāmacarita
 Ṛk. : Ṛgveda
 Ekārtha. : Ekārthanāmamālā
-Aita. U. : Aitereya Brāhmaṇa
+Aita. U. : Aitareya Upaniṣad
+Aita. Brā. : Aitareya Brāhmaṇa
 Kaṭha. : Kaṭhopaniṣad
 Kathā. : Kathāsaritsāgara
 Kanaka. : Kanakadhārāstava
 Karpūra. : Karpūra Maṃjarī
-Kali. : Kaliviḍaṃbana
+Kali. : Kaliviḍaṃbana (Nīlakaṇṭhadīkṣita Kṛta)
 Kavi. : Kavirahasya
 Kā. : Kādambarī
 Kātyā. : Kātyāyana
 Kāma. : Kāmandakī Nīti
 Kāvya. : Kāvyaprakāśa
+Kāvyā. : Kāvyādarśa
 Kāśi. : Kāśikāvṛtti
 Ki. : Kirātārjunīya
 Kīrti. : Kīrtikaumudī
@@ -40,14 +42,15 @@ Kośa. : Kośakalpataru
 Kauśi. : Kauśikasūtra
 Kauṣī. : Kauṣītakī Upaniṣad
 Ga. La. : Gaṃgā Laharī
+Ghoṣāla. : Ghosal's System of Revenue
 Caṇḍa. : Caṇḍa Kauśika
-Gaṇa. : Gaṇaratnamahodadhi
+Gaṇa. : Gaṇaratnamahodadhi (Vardhamāna Kṛta)
 Candrā. : Candrāloka
 Cāṇa. : Cāṇakya Śataka
 Cāta. : Cātakāṣṭaka
 Cola. : Cola Campū
 Caura. : Caurapaṃcāśikā
-Cha. : Chandomaṃjarī
+Chaṃ. : Chandomaṃjarī
 Chā. : Chāndogyopaniṣad
 Jānakī. : Jānakīharaṇa
 Jai. : Jaiminī Sūtra
@@ -63,7 +66,7 @@ Taṃ. Vā. : Taṃtravārtika
 Dāya. : Dāyabhāga
 Du. Sa. : Durgāsaptaśatī
 Dūta. : Dūtavākyam
-De. Ma. : Devī Mahātmya
+De. Ma. : Devī Māhātmya
 Navaratna. : Navaratnamālā
 Nā. Bhā. : Nārāyaṇa Bhāṣya
 Nāgā. : Nāgānanda
@@ -85,19 +88,19 @@ Pratāpa. : Pratāparudrīya
 Prati. : Pratimā
 Prabodha. : Prabodhacandrodaya
 Prasa. : Prasannarāghava
-Baṃ. Śi. : Baṃgāla Śilālekha
+Baṃ. Śi. : Baṃgāla Śilālekha (Bengal Inscr.)
 Bāla. : Bālacarita
 Bāla. Rā. : Bālarāmāyaṇa
-Bu. : Buddha Sāhityaṃ
+Bu. : Buddha Sāhityaṃ (Buddhist Lit.)
 Bu. Ca. : Buddhacaritam
-Bṛ. U. (bṛhadā.) : Bṛhadāraṇyaka Upaniṣad
+Bṛ. U. : Bṛhadāraṇyaka Upaniṣad
 Bṛhadā. : Bṛhadāraṇyaka Upaniṣad
 Bṛ. Ka. : Bṛhat Kathā
-Bṛ. Saṃ. : Bṛhatsaṃhitā_varāhamihira-kṛta
+Bṛ. Saṃ. : Bṛhatsaṃhitā (Varāhamihira Kṛta)
 Bha. Pu. : Bhaviṣyottara Purāṇa
 Bhaga. : Bhagavadgītā
 Bhaṭṭi. : Bhaṭṭikāvya
-Bhartṛ. : Bhartṛhariśatakatrayam
+Bhartṛ. : Bhartṛhariśatakatrayam (1. Śṛṃgāra, 2. Nīti, 3. Vairāgya)
 Bhā. : Bhārata Mañjarī
 Bhā. Pra. : Bhāvaprakāśa
 Bhāga. : Bhāgavata
@@ -122,7 +125,7 @@ Mukha. : Mukhapañcaśatī
 Mugdha. : Mugdhabodha
 Megha. : Meghadūta
 Mṛccha. : Mṛcchakaṭika
-Yādña. : Yādñavalkya Smṛti
+Yājña. : Yājñavalkya Smṛti
 Yāda. : Yādavābhyudaya
 Yoga. : Yogasūtra
 Ratnā. : Ratnāvalī
@@ -134,23 +137,23 @@ Rati. : Ratimaṃjarī
 Rāja. : Rājapraśasti
 Rājata. : Rājataraṃgiṇī
 Rāma. : Rāmacaritam
-Lalita. : Lalita Sahasranāma
+Lalita. : Lalitā Sahasranāma
 Vana. : Vanaspatiśāstra
 Varāha. : Varāhamihira Kī Bṛhatsaṃhitā
-Vāja. : Vājasaniyi Saṃhitā
-Vā. Pa. : Vākpadīya
+Vāja. : Vājasaneyi Saṃhitā
+Vā. Pa. : Vākyapadīya
 Vāsa. : Vāsavadattā
 Vi. : Vikramorvaśīyam
 Vi. Pu. : Viṣṇu Purāṇa
 Vikrama. : Vikramāṃkadevacarita
-Viśva. : Viśva Guṇādarśa Campū
-Ve. De. : Vedānta Deśikā
+Viśva. : Viśvaguṇādarśa Campū
+Ve. De. : Vedānta Deśika
 Ve. Sā. : Vedānta Sāra
 Veṇī. : Veṇīsaṃhāra
 Vedapā. : Vedapādastava
 Vaija. : Vaijayantī
 Śa. : Śakuntalā Nāṭaka
-Saṃkara. : Śaṃkara Digvijaya
+Śaṃkara. : Śaṃkara Digvijaya
 Śa. Ci. : Śabdārtha Cintāmaṇi
 Śata. : Śatapatha Brāhmaṇa
 Śata Ślo. : Śata Ślokī
@@ -159,7 +162,7 @@ Saṃkara. : Śaṃkara Digvijaya
 Śābhā. : Śārīra Bhāṣya
 Śāli. : Śālihotra
 Śi. : Śiśupālavadha
-Śi. Pu. : Śivapurāṇa
+Śi. Pu. : Śiva Purāṇa
 Śi. Ma. : Śivamahimna Stotra
 Śiva. : Śiva Bhārata
 Śivānanda. : Śivānanda Laharī
@@ -167,12 +170,12 @@ Saṃkara. : Śaṃkara Digvijaya
 Śukra. : Śukranīti
 Śu. : Śulbasūtra
 Śṛṅgāra. : Śṛṅgāra Tilaka
-Śyāma. : Śyāmalādaṇḍaka
+Śyāma. : Śyāmalā Daṇḍaka
 Śruta. : Śrutabodha
 Śveta. : Śvetāśvataropaniṣad
 Śvetā. : Śvetāśvataropaniṣad
 Sara. Kaṃ. : Sarasvatī Kaṇṭhābharaṇa
-Sudhā. : Sudhālaharī
+Sudhā. : Sudhā Laharī
 Svapna. : Svapnavāsavadattam
 Sarva. : Sarvadarśana Saṃgraha
 Sā. Da. : Sāhitya Darpaṇa

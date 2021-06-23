@@ -10,7 +10,8 @@ Transcoding:
 python transcode.py slp1 deva apte_s2h_works.txt apte_s2h_works_deva.txt
  The 'period' is changed to lAGava cihna (Devanagari abbreviation sign),
   \u0970.   Usually, period in slp1 represents danda.
-  
+ <X> is used for English text X, which is not to be transcoded
+ 
 python transcode.py slp1 roman apte_s2h_works.txt apte_s2h_works_iast.txt
   The 'words' (both in abbreviation and name fields) are capitalized.
   

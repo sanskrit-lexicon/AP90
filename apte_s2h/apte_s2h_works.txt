@@ -25,18 +25,20 @@ uRAdi. : uRAdi sUtra
 utta. : uttara rAmacarita
 fk. : fgveda
 ekArTa. : ekArTanAmamAlA
-Eta. u. : Etereya brAhmaRa
+Eta. u. : Etareya upanizad
+Eta. brA. : Etareya brAhmaRa
 kaWa. : kaWopanizad
 kaTA. : kaTAsaritsAgara
 kanaka. : kanakaDArAstava
 karpUra. : karpUra maMjarI
-;kali. : kaliviqaMbana nIlakaMWa dIkzita kfta
-kali. : kaliviqaMbana
+kali. : kaliviqaMbana (nIlakaRWadIkzita kfta)
+;kali. : kaliviqaMbana
 kavi. : kavirahasya
 kA. : kAdambarI
 kAtyA. : kAtyAyana
 kAma. : kAmandakI nIti
 kAvya. : kAvyaprakASa
+kAvyA. : kAvyAdarSa
 kASi. : kASikAvftti
 ki. : kirAtArjunIya
 kIrti. : kIrtikOmudI
@@ -49,16 +51,17 @@ koSa. : koSakalpataru
 kOSi. : kOSikasUtra
 kOzI. : kOzItakI upanizad
 ga. la. : gaMgA laharI
-;GozAla. : <Ghosal's System of Revenue>
+; special notation for leaving in English
+GozAla. : <Ghosal's System of Revenue>
 caRqa. : caRqa kOSika
-gaRa. : gaRaratnamahodaDi
+gaRa. : gaRaratnamahodaDi (varDamAna kfta)
 ; varDamAna kfta
 candrA. : candrAloka
 cARa. : cARakya Sataka
 cAta. : cAtakAzwaka
 cola. : cola campU
 cOra. : cOrapaMcASikA
-Ca. : CandomaMjarI
+CaM. : CandomaMjarI
 CA. : CAndogyopanizad
 jAnakI. : jAnakIharaRa
 jE. : jEminI sUtra
@@ -74,7 +77,8 @@ taM. vA. : taMtravArtika
 dAya. : dAyaBAga
 du. sa. : durgAsaptaSatI
 dUta. : dUtavAkyam
-de. ma. : devI mahAtmya
+; print change: mahAtmya -> mAhAtmya
+de. ma. : devI mAhAtmya
 navaratna. : navaratnamAlA
 nA. BA. : nArAyaRa BAzya
 nAgA. : nAgAnanda
@@ -96,22 +100,22 @@ pratApa. : pratAparudrIya
 prati. : pratimA
 praboDa. : praboDacandrodaya
 prasa. : prasannarAGava
-baM. Si. : baMgAla SilAleKa
+baM. Si. : baMgAla SilAleKa (<Bengal Inscr.>)
 bAla. : bAlacarita
 bAla. rA. : bAlarAmAyaRa
-bu. : budDa sAhityaM
+bu. : budDa sAhityaM (<Buddhist Lit.>)
 ; (budDista leKa)
 bu. ca. : budDacaritam
-bf. u. (bfhadA.) : bfhadAraRyaka upanizad
+bf. u.  : bfhadAraRyaka upanizad
 bfhadA. : bfhadAraRyaka upanizad
 ; two abbreviations
 bf. ka. : bfhat kaTA
-bf. saM. : bfhatsaMhitA_varAhamihira-kfta
+bf. saM. : bfhatsaMhitA (varAhamihira kfta)
 Ba. pu. : Bavizyottara purARa
 Baga. : BagavadgItA
 Bawwi. : BawwikAvya
-Bartf. : BartfhariSatakatrayam
-; 1. SrMgAra, 2. nIti, 3. vErAgya
+; periods put in <> so won't be transcoded in Devanagari
+Bartf. : BartfhariSatakatrayam (1<.> SfMgAra, 2<.> nIti, 3<.> vErAgya)
 BA. : BArata maYjarI
 BA. pra. : BAvaprakASa
 BAga. : BAgavata
@@ -133,11 +137,15 @@ mAla. : mAlatImADava
 mAlavi. : mAlavikAgnimitra
 mI. sU. : mImAMsA sUtra
 muMqa. : muMqakopanizad
+; Andhrabharata questions this:
+; (Should it be मूकपञ्चशती? AFAIK, there is no such work as मुखपञ्चशती
+; and the places where मुख॰ occurerd in the text, it is not indicating a work,
+; but is just a synonym for ‘face’)
 muKa. : muKapaYcaSatI
 mugDa. : mugDaboDa
 meGa. : meGadUta
 mfcCa. : mfcCakawika
-yAdYa. : yAdYavalkya smfti
+yAjYa. : yAjYavalkya smfti
 yAda.: yAdavAByudaya
 yoga. : yogasUtra
 ratnA. : ratnAvalI
@@ -149,23 +157,26 @@ rati. : ratimaMjarI
 rAja. : rAjapraSasti
 rAjata. : rAjataraMgiRI
 rAma. : rAmacaritam
-lalita. : lalita sahasranAma
+; print change: lalita sahasranAma -> lalitA sahasranAma
+lalita. : lalitA sahasranAma
 vana. : vanaspatiSAstra
 varAha. : varAhamihira kI bfhatsaMhitA
-vAja. : vAjasaniyi saMhitA
-vA. pa. : vAkpadIya
+vAja. : vAjasaneyi saMhitA
+; print change vAkpadIya -> vAkyapadIya
+vA. pa. : vAkyapadIya
 vAsa. : vAsavadattA
 vi. : vikramorvaSIyam
 vi. pu. : vizRu purARa
 vikrama. : vikramAMkadevacarita
-viSva. : viSva guRAdarSa campU
-ve. de. : vedAnta deSikA
+viSva. : viSvaguRAdarSa campU
+; print change: vedAnta deSikA -> vedAnta deSika
+ve. de. : vedAnta deSika
 ve. sA. : vedAnta sAra
 veRI. : veRIsaMhAra
 vedapA. : vedapAdastava
 vEja. : vEjayantI
 Sa. : SakuntalA nAwaka
-saMkara. : SaMkara digvijaya
+SaMkara. : SaMkara digvijaya
 Sa. ci. : SabdArTa cintAmaRi
 Sata. : SatapaTa brAhmaRa
 Sata Slo. : Sata SlokI
@@ -174,7 +185,8 @@ Sabda. : Sabdakalpadruma
 SABA. : SArIra BAzya
 SAli. : SAlihotra
 Si. : SiSupAlavaDa
-Si. pu. : SivapurARa
+; print change: SivapurARa -> Siva purARa
+Si. pu. : Siva purARa
 Si. ma. : Sivamahimna stotra
 Siva. : Siva BArata
 SivAnanda. : SivAnanda laharI
@@ -182,12 +194,14 @@ SiSu.: SiSupAlavaDa
 Sukra. : SukranIti
 Su. : SulbasUtra
 SfNgAra. : SfNgAra tilaka
-SyAma. : SyAmalAdaRqaka
+; print change: SyAmalAdaRqaka -> SyAmalA daRqaka
+SyAma. : SyAmalA daRqaka
 Sruta. : SrutaboDa
 Sveta. : SvetASvataropanizad
 SvetA. : SvetASvataropanizad
 sara. kaM. : sarasvatI kaRWABaraRa
-suDA. : suDAlaharI
+; print change: suDAlaharI -> suDA laharI
+suDA. : suDA laharI
 svapna. : svapnavAsavadattam
 sarva. : sarvadarSana saMgraha
 sA. da. : sAhitya darpaRa

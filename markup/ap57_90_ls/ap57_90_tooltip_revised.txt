@@ -1,0 +1,829 @@
+; Abhiṣekanāṭakam	?[ap57-extra-unknown-spelling] change to Abhiṣeka.
+; Amar.	Amarakoṣa, (Bombay).[ap57-extra-spelling] change to Ak.
+; BhagavatŚaraṇa S.	?[ap57-extra-unknown-spelling] change to 'Bhagavaccharaṇa S.'
+; Bhagawat S.	?[ap57-extra-unknown-extra] change to 'Bhagavaccharaṇa S.'
+; Bhartṛ.	?[ap57-extra-unknown]  change to Bh.
+; Bhaviṣya P.	?[ap57-extra-unknown] change to B. P.
+; Varāh. P.	?[ap57-extra-unknown] change to Varāha P.
+;x Abh. Ch.	Abhidhāna-Chintāmaṇi-Kośa.[ap57-extra-spell]
+A. R.	Anargharāghava (published in the Kāvyamālā)[ap90] ::: Anargharāghava (Published in the Kāvyamālā).[ap57]
+A. Rām.	Adhyātma Rāmayaṇa.[ap57]
+AVP.	Atharva Veda Prātiśakhya.[ap57][add]
+Abh. Chin.	Abhidhāna-Chintāmaṇi-Kośa.[ap57][add]
+Abhiṣeka.	Abhiṣekanāṭakam[ap57-extra]
+Adhikaraṇamālā	?[ap57-extra-unknown]
+Agni P.	Agni Purāṇa[ap57-extra]
+Ait. Anukr.	Aitareya Anukramaṇikā[ap57-extra]
+Ait. Br.	Aitareya Brāhmaṇa (Bombay)[ap90] ::: Aitareya Brāhmaṇa, (Bombay).[ap57]
+Ait. Up.	Aitareya Upaniṣad.[ap57][add]
+Ait. Ār.	Aitareya Āraṇyaka.[ap57][add]
+Ak.	Amarakoṣa[ap90] ::: Amarakoṣa, (Bombay).[ap57]
+Aman. Up.	Amanasopaniṣad.[ap57][add]
+Amaru.	Amaruśataka[ap90] ::: Amaruśataka, (Nirṇaya Sāgar, 1916).[ap57]
+Amṛt. Up.	Amṛtopaniṣad[ap57-extra]
+Av.	Atharva-veda[ap90] ::: Atharava--Veda. (ed. by Pandit Satavalekar).[ap57]
+Avimārakam	?[ap57-extra-unknown]
+Aśvad.	Aśvadhāṭī(published in the Subhāṣitaratnākara)[ap90] ::: Aśvadhāṭī (Published in the Subhāṣitaratnākara).[ap57]
+B. P.	Bhaviṣya Purāṇa.[ap57]
+B. R.	Bālarāmāyaṇa (Benares)[ap90] ::: Bālarāmāyaṇa, (Benaras).[ap57]
+B. and R.	Bothlingk and Roth[ap90] ::: Bothlingk and Roth.[ap57]
+Baudhāy.	Baudhāyana[ap90] ::: Baudhāyana.[ap57]
+Baudhāyana	?[ap57-extra-unknown]
+Bg.	Bhagavadgītā (Bombay)[ap90] ::: Bhagavadgītā (Tilak Edition).[ap57]
+Bh.	Bhartṛhari's three Śatakas (the figures 1., 2., 3. after Bh. denoting Śṛṅgāraº, Nītiº, and Vairāgyaº)[ap90] ::: Bhartṛhari's three śatakas (the figures 1. 2. 3. after Bh. denoting Śṛngāraº, Nītiº, and Vairāgyaº). Nīti and Vairāgya--Oriental Publishing Company (Bombay). Śṛgāra--Nirṇaya Sāgara, 1925.[ap57]
+Bhagavaccharaṇa S.	?[ap57-extra-unknown]
+Bharata	?[ap57-extra-unknown]
+Bhartṛ. Mbh.	?[ap57-extra-unknown]
+Bhav. P.	Bhaviṣyottara Purāṇa[ap90] ::: Bhaviṣyottara Purāṇa.[ap57]
+Bhojaprabandha	Bhojaprabandha[ap57-extra]
+Bhramarāṣṭakam	Bhramarāṣṭaka[ap57-extra-unknown]
+; Bhā.	Bhāratamañjarī[ap57-extra-s2h] Change to Bhāratam. (1)
+Bhāg.	Bhāgavata (Bombay)[ap90] ::: Bhāgawata, (V. Ramaswamy Sastrulu & Sons, Madras).[ap57]
+Bhār. Ch.	Bhāratacampū(Bombay)[ap90] ::: Bhāratachampū, (Bombay).[ap57]
+; Bhāratam.	Bhāratamañjarī.[ap57] change to Bm. (1) 
+;Bhāv. P.	Bhāvaprakāśa[ap57-extra-unknown] change to Bhāva P. (3)
+Bhāva P.	Bhāvaprakāśa[ap90] ::: Bhāvaprakāśa.[ap57]
+; Bhāva. P.	Bhāvaprakāśa[ap57-extra-unknown]  change to Bhāva P. (37)
+Bhāvanopaniṣad	Bhāvanopaniṣad[ap57-extra]
+;Bhāvapr.	Bhāvaprakāśa.[ap57-extra-spelling] Change to Bhāva P. (4)
+;Bhāvaprakāśa	Bhāvaprakāśa.[ap57-extra-spelling] Change to Bhāva P. (1)
+Bhāṣā P.	Bhāṣāpariccheda[ap90] ::: Bhāṣāparichchheda.[ap57]
+; Bhāṣā. P.	Bhāṣāparichchheda.[ap57-extra-spell] Change to Bhāṣā P. (25)
+; Bhāṣāparichcheda	?[ap57-extra-unknown] Change to Bhāṣā P. (1)
+; Bhāṣāparichchheda	Bhāṣāparichchheda.[ap57-extra-spell] Change to Bhāṣā P. (1)
+Bhūṣaṇā	?[ap57-extra-unknown]
+Big.	?[ap57-extra-unknown]
+Bil. Ch.	Bilhaṇacharitam.[ap57]
+Bk.	Bhaṭṭikāvya[ap90] ::: Bhaṭṭikāvya, (Nirṇaya Sāgara, 1928).[ap57]
+Bm.	Bhāratamañjarī.[ap57] 
+Bop.	Vopadeva[ap90] ::: Vopadeva.[ap57]
+Br.	?[ap57-extra-unknown]
+Br. Sūt.	Brahmasūtras[ap90] ::: Brahmasūtrās.[ap57]
+;Brahma Sūtra	Brahmasūtras[ap90] ::: Brahmasūtrās.[ap57] Change to Br. Sūt. (2)
+Brahmamet. Up.	?[ap57-extra-unknown]
+; Brahmavai. P.	Brahmavaivarta Purāṇa [ap57-extra] change to Brav. P. (1) 
+Brahmavaivasvata P.	?[ap57-extra-unknown-spelling]
+Brahmavidyā Up.	Brahmavidyopaniṣad[ap57-extra]
+Brahmāṇḍa P.	Brahmāṇḍa Purāṇa[ap57-extra]
+Brav. P.	Brahmavaivarta Purāṇa.[ap57]
+Bu. Ch.	Buddhacharitam, (A. C. Bhat & Co. 1911).[ap57]
+Buddh.	Buddhist literature.[ap57][add]
+Bv.	Bhāminīvilāsa (Bombay)[ap90] ::: Bhāminīvilāsa, (D. V. Sadhale & Co. Bombay).[ap57]
+Bād. Sūtras	Bādarāyaṇa Sūtras[ap57-extra]
+Bādarāyaṇa	Bādarāyaṇa[ap57-extra (author)]
+; Bālacharita	?[ap57-extra-unknown] Change to -unknown (1)
+Bālacharitam	Bālacharita[ap57-extra]
+Bīj.	Bījagaṇita[ap90] ::: Bījagaṇita.[ap57]
+Bṛ.	?[ap57-extra-unknown]
+Bṛ. Kath.	Bṛhatkathā[ap90] ::: Bṛhatkathā.[ap57]
+Bṛ. S.	Varāhamihira's Bṛhatsaṃhitā[ap90] ::: Varāhamihira's Bṛhatsamhitā, {#(lakSmIveGkaTezvara presa, kalyANa--muMbaI 1897).#}[ap57]
+Bṛ. Up.	Bṛhadāraṇyakopaniṣad[ap90] ::: Bṛhadāraṇyakopaniṣad, {#(sArtha upaniSatsaMgraha--ha. ra. bhAgavata, 1914).#}[ap57]
+; Bṛ. Ār.	Bṛhadāraṇyakopaniṣad[ap57-extra-spell] change to Bṛ. Up. (1)
+Bṛ. Ār. Up.	Bṛhadāraṇyakopaniṣad, {#(sArtha upaniSatsaMgraha--ha. ra. bhAgavata, 1914).#}[ap57]
+Bṛhadyogiyājñavalkya Smṛti	Bṛhadyogiyājñavalkyasmṛti[ap57-extra]
+Bṛhajjātaka	Bṛhajjātaka[ap57-extra]
+Bṛhaspati	[ap57-extra]
+Bṛt. S.	?[ap57-extra-unknown]
+CP.	Copper-plates.[ap57][add]
+Chand. M.	Chandomañjarī[ap90] ::: Chandomañjarī.[ap57]
+;Ch. M.	Chandomañjarī.[ap57-extra-spelling] change to Chand. M. (1)
+Ch. P.	Caurapañcāśikā[ap90] ::: Chaurapañchāśikā.[ap57]
+Ch. Up.	Chāndogyopaniṣad[ap90] ::: Chhāndogyopaniṣad, {#(sArtha upaniSatsaMgraha-ha. ra. bhAgavata, 1914.)#}[ap57]
+; Cha. Up.	?[ap57-extra-unknown-spelling] Change to Ch. Up. (1)
+; Chān. Up.	?[ap57-extra-unknown] Change to Ch. Up. (10)
+; Chānd. Up.	?[ap57-extra-unknown-spelling] Change to Ch. Up. (1)
+Chaitanyachandrodaya	Caitanyacandrodaya [ap57-extra]
+Chakrapāṇidatta	Cakrapāṇidatta [ap57-extra] (Author)
+; Chand. M.	Chhandomañjarī.[ap57] merged into ap90 abbreviation.
+Chandr.	Candrāloka[ap90] ::: Chandrāloka.[ap57]
+; Chandrāloka	Chandrāloka.[ap57-extra-spell] Change to Chandr. (1)
+Charaka.	Caraka[ap57-extra] (Author)
+; Charak.	?[ap57-extra-unknown] Change to Charaka. (8)
+Charaka-sūtrasthāna	?[ap57-extra-unknown]
+;Charpaṭa-Pañjarikā	Carpaṭapañjarikāstotra[ap57-extra] change to Charpaṭa. S. (1)
+Charpaṭa. S.	Carpaṭapañjarikāstotra[ap57-extra]
+; Chaṇḍ. K.	Chaṇḍakauśika.[ap57] merge into Caṇḍ. K.
+Caṇḍ. K.	Caṇḍakauśika[ap90] Chaṇḍakauśika.[ap57]
+Chaṇḍīpāṭha	Caṇḍīpāṭha[ap57-extra]
+Chhandogapaddhati	Chandogapaddhati[ap57-extra]
+Chola-Champū.	Edited by Dr. Raghavan.[ap57][add]
+Chola-Champū. P.	[ap57-extra-spelling]
+Cholachampūkāvya	?[ap57-extra-unknown]
+Chārudatta	?[ap57-extra-unknown]
+; Chārudattam	?[ap57-extra-unknown-spelling] change to Chārudatta (2)
+Chāt.	Cātakāṣṭaka (in two parts.)[ap90] ::: Chātakāṣtaka (In two parts.)[ap57]
+Chāṇ.	Cāṇakyaśataka[ap90] ::: Chāṇakyaśataka.[ap57]
+; Chān.	Chāṇakyaśataka.[ap57-extra-spell] Change to Chāṇ. (5)
+; Chāṇakya.	Chāṇakyaśataka.[ap57-extra-spell] Change to Chāṇ. (2)
+; Chāṇakyaśatakam	Chāṇakyaśataka.[ap57-extra-spell] Change to Chāṇ. (2)
+; Chāṇakyaśataka	?[ap57-extra-unknown] Change to Chāṇ. (1)
+Chāṇakyanīti	Chāṇakyanīti[ap57-extra]
+Chāṇakyanītidarpaṇa	Chāṇakyanītidarpaṇa[ap57-extra]
+Chāṇakyanītisāra	Chāṇakyanītisāra[ap57-extra]
+D.	?[ap57-extra-unknown]
+D. Bhāg.	Devībhāgavata[ap90] ::: Devībhāgavata.[ap57]
+; Devī Bhāg.	Devībhāgavata.[ap57-extra-spell] Change to D. Bhāg. (1)
+D. K.	?[ap57-extra-unknown]
+D. Purāṇa.	?[ap57-extra-unknown]
+D. R.	Daśarūpa (Hall's Edition)[ap90] ::: Daśarūpa (Hall's edition).[ap57]
+Dakṣa.	?[ap57-extra-unknown]
+Dakṣasaṃhitā	Dakṣasaṃhitā[ap57-extra]
+Daśarūpaka	Daśarūpaka[ap57-extra]
+Daṇḍaviveka	Daṇḍaviveka[ap57-extra]
+Deval Smṛti	Devalasmṛti[ap57-extra]
+Devī-stotram	Devīstotra[ap57-extra]
+Devī. P.	Devīpurāṇa[ap57-extra]
+; Devīpurāṇa	?[ap57-extra-unknown-spelling] change to Devī. P. (1)
+Devīmāhātmya	Devīmāhātmya[ap57-extra]
+; Devīmāhātmyam	?[ap57-extra-unknown-spell] change to Devīmāhātmya (2)
+Devīstuti	Devīstuti[ap57-extra]
+Dhan. V.	Dhanaṃjayavijaya[ap90] ::: Dhanañjayavijaya.[ap57]
+Dhanur.	Dhanurveda Samhita, {#(zrIveMkaTezvara presa, zake 1823).#}[ap57]
+Dharm.	Dharmaviveka[ap90] ::: Dharmaviveka.[ap57]
+Dharmābhyudayamahākāvya	Edited by Dr. Raghavan.[ap57][add]
+; Dharmābhyudayamahākāvyam	?[ap57-extra-unknown] change to Dharmābhyudayamahākāvya (3)
+Dhyān. Up.	Dhyānabindūpaniṣad.[ap57][add]
+; Dhyāna. Up.	?[ap57-extra-unknown] change to Dhyān. Up. (1)
+Dhātupāṭha	Dhātupāṭha[ap57-extra]
+Dhūrt.	Dhūrtasamāgama[ap90] ::: Dhūrtasamāgama.[ap57]
+; Dhūrtas.	Dhūrtasamāgama.[ap57-extra-spell] change to Dhūrt. (2)
+Divyāvadāna	Divyāvadāna[ap57-extra]
+Dk.	Daśakumāracarita (Bombay)[ap90] ::: Daśakumāracharita, (Bombay).[ap57]
+Durgāpūjāmantra	Durgāpūjāmantra[ap57-extra]
+Dānasāgara	Dānasāgara[ap57-extra]
+Dāy. B.	Dāyabhāga[ap90] ::: Dāyabhāga.[ap57]
+;Dāy.	Dāyabhāga[ap90] ::: Dāyabhāga.[ap57] change to Dāy. B. (2 ap57, 1 ap90)
+; Dāyabhāga	Dāyabhāga.[ap57-extra-spelling] change to Dāy. B. (1)
+Dīdhiti	Dīdhiti[ap57-extra]
+Dīpikā.	Dīpikā[ap57-extra]
+Dūtavākyam	Dūtavākya[ap57-extra]
+; Dūtavākya	Dūtavākya[ap57-extra] change to Dūtavākyam (2)
+Dṛ. Ś.	Dṛṣṭāntaśataka[ap90] ::: Dṛṣṭāntaśataka[ap57]
+EI.	Epigraphia Indica.[ap57][add]
+; Ep. Ind.	Epigraphia Indica.[ap57][add] change to EI. (1)
+Enm.	Ekārthanāmamālā of Saubhari.[ap57]
+; Ek.	Ekārthanāmamālā[ap57-extra] change to Enm. (4)
+; G. I.	Gupta Inscriptions by Fleet.[ap57][add]  No instances.  See 'GI.'
+GI.	Gupta Inscriptions by Fleet.[ap57-extra-spelling]
+G. L.	Gaṅgālaharī[ap90] ::: Gangālaharī.[ap57]
+G. M.	Gaṇaratnamahodadhi of Vardhamāna[ap90] ::: Gaṇaratnamahodadhi of Vardhamāna.[ap57]
+G. O. S.	?[ap57-extra-unknown]
+Gadādhara	Gadādhara[ap57-extra] (Author)
+Garbha. Up.	Garbhopaniṣad[ap57-extra]
+Garuḍa P.	Garuḍapurāṇa[ap57-extra-]
+Gaut. S.	Gautamasūtra[ap90] ::: Gautamasūtra.[ap57]
+; Gaut. Sūt.	Gautamasūtra[ap90] ::: Gautamasūtra.[ap57] Change to Gaut. S. (2 ap57, 2 ap90)
+; Gautama.	Gautamasūtra.[ap57-extra-spelling] Change to Gaut. S. (2)
+; Gautamasūtra	Gautamasūtra.[ap57-extra-spelling] Change to Gaut. S. (1)
+; Gautamasūtram	Gautamasūtra.[ap57-extra-spelling] Change to Gaut. S. (1)
+Gauḍ.	Gauḍapāda[ap57-extra] (Author)
+Gauḍapāda Kār.	Gauḍapāda Kārikā[ap57-extra]
+Gaṅgāṣṭaka	?[ap57-extra-unknown]
+Gaṇeśa P.	Gaṇeśapurāṇa[ap57-extra]
+; Gaṇeśa. P.	?[ap57-extra-unknown] change to Gaṇeśa P.(3)
+Gaṇeśa S.	?[ap57-extra-unknown]
+Gaṇitādhyāya	Gaṇitādhyāya [ap57-extra]
+Ghaṭ.	Ghaṭakarparakāvya[ap90] ::: Ghaṭakarparakāvya.[ap57]
+; Ghaṭakarpara.	Ghaṭakarparakāvya.[ap57-extra-spell] change to Ghaṭ. (1)
+Golādh.	Golādhyāya[ap90] ::: Golādhyāya.[ap57]
+Gopath. Br.	Gopathabrāhmaṇa[ap57-extra]
+Gorakṣa Śataka	Gorakṣaśataka [ap57-extra]
+Govardhanasaptaśatī	Govardhanasaptaśatī[ap57-extra]
+Govardhanāchārya	Govardhanāchārya[ap57-extra] (Author)
+Govindarāja	Govindarāja[ap57-extra] (Author)
+Gāyatrīmantra	Gāyatrīmantra[ap57-extra]
+; Gāyatrimantra	?[ap57-extra-unknown] change to Gāyatrīmantra (1)
+; Gāyatrī.	?[ap57-extra-unknown] change to Gāyatrīmantra (1)
+Gāyatryāvāhanamantra	?[ap57-extra-unknown]
+; Gīrvāṅa	?[ap57-extra-unknown] change to Gīrvāṇa. (1)
+Gīrvāṇa.	{#gIrvANa laghukoza.#}[ap57]
+; Gīrvāṇa	?[ap57-extra-unknown] change to Gīrvāṇa. (4)
+Gīt.	Gītagovinda[ap90] ::: Gītagovinda.[ap57]
+H.	Hitopadeśa (Nirṇaya Sāgara Edition)[ap90] ::: Hitopadesa, {#(AryabhUSaNa presa, puNeM, 1933).#}[ap57]
+H. D.	Haṃsadūta[ap90] ::: Hamsadūta.[ap57]
+H. Pr.	Hitopadeśa prastāvikā[ap90] ::: {#hitopadeza--prastAvikA.#}[ap57]
+Haima.	?[ap57-extra-unknown]
+Halāy.	Halāyudha[ap90] ::: Halāyudha.[ap57]
+Hanumannāṭaka	Hanumannāṭaka[ap57-extra]
+Haravijaya	Haravijaya[ap57-extra]
+Hariv.	Harivaṃśa[ap90] ::: Harivamśa, {#(citrazALA, puNeM, 1936).#}[ap57]
+; Hari.	?[ap57-extra-unknown] change to Hariv. (3)
+Hastāmalaka Stotra	?[ap57-extra-unknown]
+Haṃsa Up.	Haṃsopaniṣad [ap57-extra]
+Haṭhayogapradīpikā	Haṭhayogapradīpikā[ap57-extra]
+Hch.	Harṣacarita[ap90] ::: Harṣacharita.[ap57]
+; H. Ch.	Harṣacharita.[ap57-extra-spelling] change to Hch. (1)
+Hem.	Hemacandra[ap90] ::: Hemachandra.[ap57]
+; Hemachandra	Hemachandra.[ap57-extra-spelling] change to Hem. (4)
+Hemādri	Hemādri[ap57-extra] (Author)
+Hārita	?[ap57-extra-unknown]
+Hārāvali	?[ap57-extra-unknown]
+Hārīta	?[ap57-extra-unknown]
+I. B.	Inscriptions of Bengal, Vol. III by N. G. Mujumdar.[ap57][add]
+Ind. Ant.	?[ap57-extra-unknown]
+Inscr.	Inscriptions.[ap57][add]
+Iśop.	Īśopaniṣad[ap90]
+J. N. V.	Jaiminīyanyāyamālāvistara (Goldstu7cker's Edition)[ap90] ::: Jaiminīyanyāyamālāvistara, (Goldstūcker's Edition.)[ap57]
+Jag.	Jagannātha Pandit.[ap57][add]
+; Jagannātha	Jagannātha Pandit.[ap57-extra-spell] change to Jag. (6)
+; Jagannātha Paṇḍita	Jagannātha Pandit.[ap57-extra-spell] change to Jag. (2)
+Jagaddhara	Jagaddhara[ap57-extra] (Author)
+Jaimini S.	Jaiminisūtra[ap57-extra]
+; Jaiminisūtras	?[ap57-extra-unknown] change to Jaimini S. (1)
+Jyotissārasaṅgraha	Jyotissārasaṅgraha[ap57-extra]
+Jyotistattvam	Jyotistattvam[ap57-extra]
+Jyotiṣa	?[ap57-extra-unknown]
+Jābāla Up.	?[ap57-extra-unknown]
+; Jāb. Up.	?[ap57-extra-unknown] change to Jābāla Up. (1)
+Jānakīharaṇa	Jānakīharaṇa[ap57-extra]
+Jātak.	?[ap57-extra-unknown]
+; Jātakam	?[ap57-extra-unknown] change to Jātak. (1)
+K.	Kādambarī(Bombay)[ap90] ::: Kādambarī, (Bombay).[ap57]
+K. P.	Kāvyaprakāśa[ap90] ::: Kāvyaprakāśa.[ap57]
+K.R.	Kavirahasya[ap90] ::: KaviRahasya.[ap57][add]
+; Kavirahasya	Kavirahasya[ap57-extra-spelling] change to K.R. (4)
+Kaiyaṭa	Kaiyaṭa[ap57-extra] (Author)
+Kalhaṇa	Kalhaṇa[ap57-extra] (Author)
+Kalāvilāsa.	Kalāvilāsa[ap57-extra]
+Karka	Karka[ap57-extra] (Author)
+Karmapradīpa	Karmapradīpa[ap57-extra]
+Karpūr.	Karpūramañjarī(published in the Kāvyamālā)[ap90] ::: Karpūramañjarī (Published in Kāvyamālā.)[ap57]
+Karpūrastava	Karpūrastava[ap57-extra]
+Karṇabhāra	?[ap57-extra-unknown]
+Kau. A.	Kauṭilīya Arthaśāstra, by Dr. Shama Śastry, 1924.[ap57]
+; Kau.	Kauṭilīya Arthaśāstra.[ap57-extra-spell] change to 'Kau. A.' (3)
+; Kauṭilya	?[ap57-extra-unknown] change to 'Kau. A.' (1)
+; Kaumudī	Siddhānta-Kaumudī.[ap57-extra-spelling] change to Sk. (1)
+Kauś.	Kauśikasūtra[ap90] ::: Kauśikasūtra.[ap57]
+Kauṣ. Br.	Kauṣītaki Brāhmaṇa[ap90] ::: Kauṣītaki Brāhmaṇa.[ap57]
+Kauṣ. Up.	Kauṣītakyupaniṣad[ap90] ::: Kauṣītakyupaniṣhad.[ap57]
+Kavikalpalatā	Kavikalpalatā[ap57-extra]
+Kavirāja	?[ap57-extra-unknown]
+Kaṭh.	Kaṭhopaniṣad[ap90] ::: Kaṭhopaniṣad, {#(sArtha upaniSatsaMgraha--ha. ra. bhAgavata 1914.)#}[ap57]
+; Kaṭh. Up.	?[ap57-extra-unknown] change to Kaṭh. (15)
+; Kaṭha.	?[ap57-extra-unknown] change to Kaṭh. (3)
+; Kaṭha. Up.	?[ap57-extra-unknown] change to Kaṭh. (1)
+Kaṭhaśrutyupaniṣad	Kaṭhaśrutyupaniṣad [ap57-extra]
+Ken.	Kenopaniṣad[ap90] ::: Kenopaniṣad, {#(sArtha upaniSatsaMgraha--ha. ra. bhAgavata, 1914).#}[ap57]
+; Kena. Up.	Kenopaniṣad[ap57-extra-spelling] change to Ken. (2)
+Ki.	Kirātārjunīya[ap90] ::: Kirātārjunīya, (Nirṇaya Sāgara, 1922).[ap57]
+; Kir.	?[ap57-unknown-extra] change to Ki. (1)
+Kriyāyogasāra	Kriyāyogasāra[ap57-extra]
+Ks.	Kathāsaritsāgara[ap90] ::: Kathāsaritsāgara.[ap57]
+; Kathās.	Kathāsaritsāgara.[ap57-extra-spelling] change to Ks. (1)
+Ku.	Kumārasambhava (Bombay)[ap90] ::: Kumārasambhava, (Nirṇaya Sāgara, 1916).[ap57]
+Kull.	Kullūka[ap90] ::: Kullūka.[ap57]
+Kumārila	Kumārila[ap57-extra] (Author)
+Kusum.	Kusumāñjali[ap90] ::: Kusumāñjali.[ap57]
+Kuval.	Kuvalayānanda[ap90] ::: Kuvalayānanda.[ap57]
+Kuṭṭanīmata	Kuṭṭanīmata[ap57-extra]
+Kālikā P.	?[ap57-extra-unknown]
+; Kālikā Purāṇa	?[ap57-extra-unknown] change to Kālikā P. (1)
+Kālī. P.	?[ap57-extra-unknown]
+Kālītantram	Kālītantra[ap57-extra-unknown]
+Kām.	Kāmandakinītisāra[ap90] ::: Kāmandakinītisāra.[ap57]
+;Kāmandak.	Kāmandakinītisāra.[ap57-extra-spelling] change to Kām. (5)
+Kāmaśāstra	Kāmaśāstra[ap57-extra]
+Kāmikāgama	Kāmikāgama[ap57-extra]
+Kāty.	Kātyāyana[ap90] ::: Kātyāyana.[ap57]
+; Kātyāyana	Kātyāyana.[ap57-extra-spelling] change to Kāty. (3)
+; Kātyāyana S.	?[ap57-extra-unknown] change to Kāty. (1)
+;Kāty. ŚS.	?[ap57-extra-unknown] change to Kāty. (2)
+;Kāty. Śr.	?[ap57-extra-unknown] change to Kāty. (1)
+Kāv.	Kāvyādarśa[ap90] ::: Kāvyādarśa.[ap57]
+Kāvyamālā	?[ap57-extra-unknown]
+Kāvyāl.	Kāvyālaṃkāra (published in the Kāvyamālā)[ap90] ::: Kāvyālaṅkāra (Published in Kāvyamālā).[ap57]
+Kāvyālaṃkārasūtrāṇi	Kāvyālaṃkārasūtra[ap57-extra] 
+Kāvyālaṅkāravṛtti	Kāvyālaṅkāravṛtti[ap57-extra]
+Kāśi.	Kāśikāvṛtti (Benares)[ap90] ::: Kāśikāvṛtti, (Benares).[ap57]
+; Kāś.	Kāśikāvṛtti, (Benares).[ap57-extra-spelling] change to Kāśi. (5)
+; Kāś. V.	Kāśikāvṛtti, (Benares).[ap57-extra-spelling] change to Kāśi. (1)
+; Kāśikā	Kāśikāvṛtti, (Benares).[ap57-extra-spelling] change to Kāśi. (6)
+Kāśyapa	Kāśyapa[ap57-extra] (Author)
+Kāśīkhaṇḍa	Kāśīkhaṇḍa[ap57-extra] 
+; Kāśīkhaṇḍam	?[ap57-extra-unknown] change to Kāśīkhaṇḍa (2)
+Kīr. K.	Kīrtikaumudī(Bombay)[ap90] ::: Kīrtikaumudī, (Bombay).[ap57]
+Kūrma P.	Kūrmapurāṇa[ap57-extra]
+Kṛṣisaṃgraha	Kṛṣisaṃgraha[ap57-extra]
+L. D. B.	List of Prof. Dineshchandra Bhattacharya.[ap57]
+L. V.	Lalitavistara.[ap57]
+Laghu Yogavāsiṣṭha-sāra	Laghu Yogavāsiṣṭhasāra[ap57-extra]
+Lakṣmīcharitra	Lakṣmīcaritra [ap57-extra]
+Lakṣmīdhyānam	?[ap57-extra-unknown]
+Lakṣmīlaharī	Lakṣmīlaharī[ap57-extra]
+; Lakṣmīlaharī S.	?[ap57-extra-unknown] change to Lakṣmīlaharī (4)
+; Lakṣmīlaharī Stotra.	?[ap57-extra-unknown-spelling] change to Lakṣmīlaharī (1)
+Lm.	Laghu-mañjūṣā.[ap57][add]
+Lok. Tilak.	?[ap57-extra-unknown]
+Lv.	Lalitavistara.[ap57-extra-spelling]
+Lāṭyāyana	Lāṭyāyana[ap57-extra]
+Līlā.	Līlāvatī[ap90] ::: Līlāvatī.[ap57]
+Līlāvatī-ṭīkā	?[ap57-extra-unknown]
+M.	Mālavikāgnimitra (Bombay)[ap90] ::: Mālavikāgnimitra, (Prin. R. D. Karmarkar, 1933).[ap57]
+MW.	Monier Williams.[ap57-extra-spelling] 
+; M. W.	Monier Williams.[ap57] change to 'MW.' (17)
+MS.	?[ap57-extra-unknown] ??? 3 numbers;  Ms. (Manusmrti) 2 numbers
+Madhusūdana	Madhusūdana[ap57-extra] (Author)
+Madhyamavyāyoga	?[ap57-extra-unknown]
+Mahān.	Mahānāṭaka[ap90] ::: Mahānāṭaka.[ap57]
+Mahānār. Up.	Mahānārāyaṇopaniṣad.[ap57][add]
+; Mahānār.	Mahānārāyaṇopaniṣad.[ap57-extra-spelling] change to Mahānār. Up. (8)
+;Mahānārā.	Mahānārāyaṇopaniṣad.[ap57-extra-spelling] change to Mahānār. Up. (1)
+; Mahānārāyaṇa Up.	Mahānārāyaṇopaniṣad.[ap57-extra-spelling] change to Mahānār. Up. (1)
+Mahānār. Dīpikā.	?[ap57-extra-unknown]
+Mahānāṭaka	Mahānāṭaka[ap57-extra]
+Mahār.	?[ap57-extra-unknown]
+Maitr. Up.	Maitreyopaniṣad [ap57-extra]
+; Maitra. Up.	?[ap57-extra-unknown-spelling] Change to Maitr. Up. (2)
+Maitrā. S.	Maitrāyaṇī Saṃhitā[ap57-extra]
+; Maitrī.	?[ap57-extra-unknown-spelling] change to Maitr. Up. (1)
+; Maitrī. Up.	?[ap57-extra-unknown]  change to Maitr. Up. (5)
+Mallaśāstram	?[ap57-extra-unknown]
+Malli.	Mallinātha[ap90] ::: Mallinātha.[ap57]
+Manodūta	Manodūta[ap57-extra]
+Matsya P.	Matsya Purāṇa[ap57-extra]
+Mañjūṣā.	Mañjūṣā[ap57-extra]
+Maṅgal. S.	Maṅgalācaraṇasaptadaśaślokī ?[ap57-extra]
+; Maṅgalācharaṇa S.	?[ap57-extra-unknown] Change to Maṅgal. S. (1)
+; Maṅgalācharaṇam	?[ap57-extra-unknown] Change to Maṅgal. S. (1)
+Maṅkhaka	Maṅkhaka[ap57-extra] (Author)
+Maṇḍala Brā. Up.	Maṇḍalabrāhmaṇopaniṣad [ap57-extra]
+Maṇiratnamālā	Maṇiratnamālā[ap57-extra]
+Maṇḍūkī Śikṣā	Māṇḍūkīśikṣā [ap57-extra] (Spelling variance)
+Mb.	Mahābhārata (Bombay)[ap90] ::: Mahābhārata, {#(citrazALA, puNeM, 1929--33).#}[ap57]
+Mbh.	Mahābhāṣya (Bombay)[ap90] ::: Mahābhāṣya, (Bombay).[ap57]
+Me.	Meghadūta (Bombay)[ap90] ::: Meghadūta, (R. D. Karmarkar, 1938).[ap57]
+Med.	Medinīkośa[ap90] ::: Medinīkośa.[ap57]
+; Medinī.	Medinīkośa.[ap57-extra-spelling] Change to Med. (51) 
+Medhātithi	Medhātithi[ap57-extra] (Author)
+Mit.	Mitākṣarā (Bombay)[ap90] ::: Mitākśarā, (Bombay).[ap57]   
+; Mitā. change to Mit. to agree with ap90 abbreviation
+; Mitākṣarā.	?[ap57-extra-unknown] Change to Mit. (1)
+Mk.	Mṛcchakaṭikā[ap90] ::: Mṛchhakaṭika, (R. D. Karmarkar, 1937).[ap57]
+Moha M.	Mohamudgara[ap90] ::: Mohamudgara.[ap57]
+Ms.	Manusmṛti[ap90] ::: Manusmṛti, (J. M. Gurjar, Bombay, 1894).[ap57]
+Mu.	Mudrārākṣasa (Bombay),[ap90] ::: Mudrārākṣasa, (Royal Book Stall, Poona, 1948).[ap57]
+; Mudrā.	Mudrārākṣasa, (Royal Book Stall, Poona, 1948).[ap57-extra-spell] Change to Mu. (1)
+Mugdha.	Mugdhabodha[ap90] ::: Mugdhabodha.[ap57]
+Muhūrtachintāmaṇi	Muhūrtacintāmaṇi[ap57-extra]
+Mukti. Up.	Muktikopaniṣad [ap57-extra]
+Muktā.	Siddhāntamuktāvali.[ap57]
+; Muktāvalī	?[ap57-extra-unknown] Change to Muktā. (1)
+Mukunda-mālā	Mukundamālā[ap57-extra]
+Murārināṭakam	?[ap57-extra-unknown]
+;Murāri	?[ap57-extra-unknown] change to Murārināṭakam (1)
+Muṇḍ.	Muṇḍakopaniṣad[ap90] ::: Muṇḍakopaniṣad, {#(sArtha upaniSatsaMgraha--ha. ra. bhAgavata, 1914).#}[ap57]
+; Muṇḍ. Up.	Muṇḍakopaniṣad[ap57-extra-spelling] change to Muṇḍ. (11)
+; Muṇḍa.	Muṇḍakopaniṣad, {#(sArtha upaniSatsaMgraha--ha. ra. bhAgavata, 1914).#}[ap57]
+; Muṇḍa. change ap57 abbrev to Muṇḍ.  (11)
+Mv.	Mahāvīracarita (Borooah's Edition),[ap90] ::: Mahāvīracharita, (Nirṇaya Sāgara, 1926).[ap57]
+Mādh. N.	Mādhavanidāna[ap90] ::: Mādhavanidāna.[ap57]
+; Mādhavanidānam	Mādhavanidāna.[ap57-extra-spelling] change to Mādh. N. (1)
+Mādhava	Mādhava[ap57-extra] (Author)
+Mādhavakara	Mādhavakara[ap57-extra] (Author)
+Māhiṣaśataka	?[ap57-extra-unknown]
+Māl.	Mālatīmādhava (Bombay)[ap90] ::: Mālatīmādhava (Oriental Publishing Co. Bombay, 1913).[ap57]
+Māna.	Mānasāra, (ed. by Acharya).[ap57]
+; Mānasāra	Mānasāra, (ed. by Acharya).[ap57-extra-spell] change to Māna. (17)
+; Mār.	?[ap57-extra-unknown]  remove: abbreviation Mar.  (Marathi language)
+Mārk. P.	Mārkaṇḍeya Purāṇa[ap90] ::: Mārkaṇḍeya Purāṇa.[ap57]
+; Mārkaṇḍeya P.	Mārkaṇḍeya Purāṇa.[ap57-extra-spelling] change to Mārk. P. (1)
+Mātaṅga L.	Mātangalīlā of Nīlakaṇṭha.[ap57]
+; Mātaṅga. L.	Mātangalīlā of Nīlakaṇṭha.[ap57-extra-spelling] change to Mātaṅga L. (16)
+; Mātaṅgalīlā	Mātangalīlā of Nīlakaṇṭha.[ap57] change to Mātaṅga L. (1)
+Māṇḍ.	Māṇḍūkyopaniṣad[ap90] ::: Māṇḍūkyopaniṣad, {#(sArtha upaniSatsaMgraha-ha. ra. bhAgavata, 1914).#}[ap57]
+; Māṇḍ. Up.	Māṇḍūkyopaniṣad[ap57-extra-spelling] change to Māṇḍ. (2)
+; Māṇḍū.	Māṇḍūkyopaniṣad[ap57-extra-spelling] change to Māṇḍ. (1)
+Mīm.	Mīmāṃsā[ap90] ::: Mīmāmsā.[ap57] change to Mīm. (1)
+; Mīmāṃsā	Mīmāmsā.[ap57-extra-spelling]
+Mītā.	?[ap57-extra-unknown]
+N.	Naiṣadhacarita[ap90] ::: Naiṣadhacharita, (Nirṇaya Sāgara, 1933).[ap57]
+Naigh.	Naighanṭuka by Yāska.[ap57][add]
+Nala.	Nalopākhyāna (Bombay)[ap90] ::: Nalopākhyāna, (Bombay).[ap57]
+Nalachampū	Nalacampū[ap57-extra]
+Nalod.	Nalodaya[ap90] ::: Nalodaya.[ap57]
+Nandī P.	Nandīpurāṇa[ap57-extra]
+Narāyaṇapūrvatāpi. Up.	?[ap57-extra-unknown]
+Nigh.	Nighanṭa-Ratnākara.[ap57][add]
+;Nigh. Ratn.	Nighanṭa-Ratnākara.[ap57][add] Change to Nigh. (6)
+;Nigh. Ratna.	?[ap57-extra-unknown-spell] Change to Nigh. (1)
+;Nighaṇṭaratnākara	Nighanṭa-Ratnākara.[ap57-extra-spelling] Change to Nigh. (5)
+Nir.	Nirukta[ap90] ::: Nirukta.[ap57]
+Nm.	Nānārthamañjarī of Rāghava.[ap57]
+Ns.	?[ap57-extra-unknown]
+Nyāya S.	Nyāyasūtra by Gautama[ap90] ::: Nyāyasūtra by Gautama[ap57-extra]
+; Nyāya Sūtra	Nyāyasūtra by Gautama[ap57-extra-unknown] change to Nyāya S. (3)
+Nyāyamālā	Nyāyamālā[ap57-extra]
+Nāg.	Nāgānanda[ap90] ::: Nāgānanda.[ap57]
+Nārada P.	Nāradapurāṇa[ap57-extra]
+Nārada.	Nārada[ap57-extra] (Author)
+Nāradapari. Up.	Nāradaparivrājakopaniṣad[ap57-extra]
+Nārāyaṇa.	Nārāyaṇa[ap57-extra]
+Nārā. Up.	Nārāyaṇopaniṣad [ap57-extra]
+; Nārāyaṇa Up.	?[ap57-extra-unknown-spell] change to Nārā. Up. (1)
+Nāṭyaśāstra	Nāṭyaśāstra[ap57-extra]
+Nīlakaṇṭha	Nīlakaṇṭha[ap57-extra] (Author)
+Nīti.	Nītisāra[ap90] ::: Nītisāra.[ap57]
+Nītipr.	Nītipradīpa[ap90] ::: Nītipradīpa.[ap57]
+Nṛ. P. Up.	Nṛsimhapūrvatāpinyupaniṣad.[ap57][add]
+; Nṛ. P.	Nṛsimhapūrvatāpinyupaniṣad.[ap57-extra-spelling] change to Nṛ. P. Up. (1)
+; Nṛ. Up.	Nṛsimhapūrvatāpinyupaniṣad.[ap57-extra-spelling] change to Nṛ. P. Up. (1)
+P.	Pāṇini's Aṣṭādhyāyī[ap90] ::: Pāṇini's Aṣtādhyāyī.[ap57]
+PS.	Paṇinīya Śūtra.[ap57][add]
+P. P.	Pārvatīpariṇaya[ap90] ::: Pārvatīpariṇaya.[ap57]
+P. R.	Prasannarāghava[ap90] ::: Prasannarāghava.[ap57]
+Pad. D.	Padāṅkadūta[ap90] ::: Padānkadūta.[ap57]
+Padma P.	Padmapurāṇa [ap57-extra]
+; Padma Purāṇa	?[ap57-extra-unknown-spell] Change to Padma P (1)
+Pari Sik.	?[ap57-extra-unknown]
+Pari. Śekh.	Paribhāṣenduśekhara.[ap57][add]
+; Paribhāṣendu.	Paribhāṣenduśekhara.[ap57-extra-spell] Change to Pari. Śekh. (1)
+; Paribhāṣenduśekhara	Paribhāṣenduśekhara.[ap57-extra-spell] Change to Pari. Śekh. (1)
+Pbh.	Paribhāṣenduśekhara.[ap57][add] No instances
+Parāśara	Parāśara[ap57-extra] (Author)
+Parṇāl.	Parṇālaparvatagrahaṇākhyāna.[ap57]
+; Parnāl.	?[ap57-extra-unknown] change to Parṇāl. (1)
+Pañch.	Pañcharātra[ap57]
+; Pañcharātram	Pañcharātra.[ap57] change to Pañch. (11)
+Pañchadaśī	Pañchadaśī[ap57-extra]
+Paśupata. Up.	?[ap57-extra-unknown]
+Pb.	Paribhāṣā.[ap57][add]
+Prab.	Prabodhacandrodaya (Bombay)[ap90] ::: Prabodhachandrodaya, (Bombay).[ap57]
+Pradīp.	Mahābhāṣya-Pradīp (Kaiyaṭa).[ap57][add]
+Pras. Rāgh.	Prasannarāghava.[ap57-extra-spell]
+Pratijñā.	Pratijnā Yaugandharāyaṇa.[ap57]
+; Pratijñā. Y.	Pratijnā Yaugandharāyaṇa.[ap57-extra-spelling] change to Pratijñā. (5)
+; Pratijñāyau.	Pratijnā Yaugandharāyaṇa.[ap57-extra-spelling] change to Pratijñā. (1)
+Pratimā	?[ap57-extra-unknown]
+Pratāparudra	Pratāparudra[ap57-extra] (Author)
+Pravara	?[ap57-extra-unknown]
+Praśna. Up.	Praśnopaniṣad[ap90] ::: Praśnopaniṣad, {#(sArtha upaniSatsaMgraha--ha. ra. bhAgavata, 1914).#}[ap57]
+; Praśna	Praśnopaniṣad, 
+; Praśn. Up.	Praśnopaniṣad[ap57-extra] change to Praśna. Up. (3)
+Praṇava Up.	Praṇavopaniṣad [ap57-extra]
+Priy. D.	Priyadarśikā (Bombay)[ap90] ::: Priyadarśikā.[ap57]
+; Priya. Dar.	Priyadarśikā.[ap57-extra-spelling] change to Priy. D. (1)
+Prāchetasa.	?[ap57-extra-unknown]
+Pt.	Pañcatantra (Bombay)[ap90] ::: Pañchatantra. Chap, I, IV, V, {#(AryabhUSaNa presa, puNeM 1893);#} Chap. II and III, (Oriental Publishing Company, Bombay, 1912).[ap57]
+Pur. Pv.	Puruṣottama-Paribhāṣāvṛtti.[ap57][add]
+Purāṇam	Purāṇa[ap57-extra]
+; Purāṇa	?[ap57-extra-unknown-spelling] change to Purāṇam (1)
+Puṣpadanta	Puṣpadanta[ap57-extra] (Author?)
+Pālakāpyam	Pālakāpyam[ap57-extra] (Author)
+Pāraskara Gṛhyasūtra	Pāraskaragṛhyasūtra[ap57-extra]
+Pātañjala S.	Pātañjalasūtrabhāṣyavyakhyā [ap57-extra]
+; Pāt. Sūt.	?[ap57-extra-unknown-spelling] change to Pātañjala S. (1)
+; Pāt. Sūtra	?[ap57-extra-unknown-spelling] change to Pātañjala S. (2)
+; Pātañjala	?[ap57-extra-unknown] change to Pātañjala S. (2)
+Pātañjala Yogadarśana	?[ap57-extra-unknown]
+Pāṇini	Pāṇini's Aṣtādhyāyī.[ap57-extra]
+Pś.	Paṇinīya Śikṣā.[ap57][add]
+Pūjāmantra	?[ap57-extra-unknown]
+; Pūja Mantram	?[ap57-extra-unknown] change to Pūjāmantra (1)
+; Pūjā Mantra	?[ap57-extra-unknown] change to Pūjāmantra (2)
+R.	Raghuvaṃśa (Bombay)[ap90] ::: Raghuvamśa, (R. A. Sagoon, Bombay 1897).[ap57]
+R. G.	Rasagaṅgādhara (published in the Kāvyamālā)[ap90] ::: Rasagangādhara, (Prof. R. B. Athavale).[ap57]
+R. S.	Ṛtusamhāra, (V. R. Nerurkar, Bombay, 1916).[ap57]
+RT.	?[ap57-extra-unknown]
+Rakṣābandhanamantra	?[ap57-extra-unknown]
+Ras. M.	Rasamañjarī[ap90] ::: Rasamañjarī.[ap57]
+; Rasamañjarī	Rasamañjarī.[ap57-extra-spelling] change to Ras. M. (3)
+Raseśvaradarśanam	Raseśvaradarśana[ap57-extra]
+Ratimañjarī	Ratimañjarī [ap57-extra]
+Ratn.	Ratnāvalī(Bombay)[ap90] ::: Ratnāvalī, (Padhye, Yande, Manerikar & Co. Bombay, 1907).[ap57]
+Ratnamālā	Ratnamālā[ap57-extra]
+;Ratna.	?[ap57-extra-unknown] change to Ratnamālā (2)
+Rs.	Ṛtusaṃhāra (Bombay)[ap90]
+Rudrayāmala	Rudrayāmala[ap57-extra]
+Rv.	Ṛgveda (Max Mu7ller's Edition)[ap90] ::: Ṛgveda, (Pandita Satawalekar and V. S. Mandala, Poona).[ap57]
+Rv. Pr.	Ṛgveda Prātiśākhya.[ap57]
+Rāj. P.	Rājapraśasti[ap90] ::: Rājapraśasti.[ap57]
+Rāj. T.	Rājataraṅgiṇī[ap90] ::: Rājatarangiṇī.[ap57]
+Rāj. Tilak.	?[ap57-extra-unknown]
+Rājanighaṇṭu	Rājanighaṇṭu[ap57-extra]
+Rājapraśasti	Rājapraśastimahākāvya[ap57-extra]
+Rājavallabha	Rājavallabha[ap57-extra]
+Rājendrakarṇapūra	Rājendrakarṇapūra[ap57-extra]
+Rām.	Rāmāyaṇa (Bombay)[ap90] ::: Rāmāyaṇa, (Nirṇaya Sāgara, 1888).[ap57]
+Rām. Ch.	Rāmacharitam by Yuvarāja Kavi.[ap57]
+Rāmāyaṇachampū	Rāmāyaṇacampū[ap57-extra]
+; Rām. Champū.	 [ap57-extra] change to Rāmāyaṇachampū (3)
+Rām. Up.	Rāmopaniṣad[ap57-extran]
+Rāmarakṣā	?[ap57-extra-unknown-spelling]
+; Rāma-rakṣā	?[ap57-extra-unknown-spelling] change to Rāmarakṣā (9)
+; Rāma-rakṣā S.	?[ap57-extra-unknown] change to Rāmarakṣā (1)
+; Rāmarakṣā Stotra	?[ap57-extra-unknown] change to Rāmarakṣā (2)
+; Rāmaraṣā	?[ap57-extra-unknown =? Rāmarakṣā] change to Rāmarakṣā (1)
+Rāmakavacha	Rāmakavaca[ap57-extra]
+Rāmatāpanīya Upaniṣad	Rāmatāpanīyopaniṣad[ap57-extra]
+; Rāmat. Up.	?[ap57-extra-unknown] change to Rāmatāpanīya Upaniṣad (1)
+Rāmtā. Up.	?[ap57-extra-unknown]
+S. B.	Śārīrabhāṣya[ap90] ::: Śārīrabhāṣya[ap57]
+S. D.	Sāhityadarpaṇa[ap90] ::: Sāhityadarpaṇa.[ap57]
+S. L.	Sudhālaharī(published in the Kāvyamālā)[ap90] ::: Sudhālaharī (Published in the Kāvyamālā).[ap57]
+Samayapradīpa	Samayapradīpa[ap57-extra]
+Sandhyā.	?[ap57-extra-unknown]
+Sandhyā Mantra	Sandhyāmantra[ap57-extra]
+Sar. K.	Sarasvatīkaṇṭhābharaṇa[ap90] ::: Sarasvatīkaṇṭhābharaṇa.[ap57]
+Sarva. S.	Sarvadarśanasaṃgraha[ap90] ::: Sarvadarśanasamgraha.[ap57]
+; Sar. S.	Sarvadarśanasaṃgraha[ap90] ::: Sarvadarśanasamgraha.[ap57]  change to Sarva. S. (3) (3 ap90)
+; Sarva.	Sarvadarśanasaṃgraha[ap90-extra] change to Sarva. S. (1)
+Saralā	Saralā[ap57-extra]
+Saugandhikā-haraṇa	Saugandhikāharaṇa [ap57-extra]
+Saundaryalaharī	Saundaryalaharī [ap57-extra]
+Saṃgītasāra	Saṃgītasāra[ap57-extra]
+Saṅgītadāmodara	Saṅgītadāmodara[ap57-extra]
+Sid. Mukt.	Siddhāntamuktāvalī[ap90] ::: Siddhāntamuktāvali.[ap57]
+Sid. Śir.	Siddhāntaśiromaṇi[ap90] ::: Siddhāntaśiromaṇi[ap57-extra
+;Siddhāntaśiromaṇi	Siddhāntaśiromaṇi[ap57-extra] change to Sid. Śir. (1)
+Sinhās.	Sinhāsana-dvātrinśikā.[ap57][add]
+Sk.	Siddhānta-Kaumudī(Bombay)[ap90] ::: Siddhānta-Kaumudī.[ap57]
+Skanda P.	Skanda Purāṇa[ap90] ::: Skanda Purāṇa.[ap57]
+; Skanda. P.	Skanda Purāṇa[ap90] change to Skanda P. (1)
+; Skanda.	Skanda Purāṇa.[ap57-extra-spelling] change to Skanda P. (1)
+Smṛti.	?[ap57-extra-unknown]
+Subh.	Subhāṣitaratnākara (Bombay)[ap90] ::: Subhāṣitaratnākara, (Bombay).[ap57]
+Subh. Ratn.	Subhāṣitaratnabhāṇḍāgāra (Bombay)[ap90] ::: Subhāṣitaratnabhāṇḍāgāra, (Bombay).[ap57]
+Subha.	?[ap57-extra-unknown]
+; Subhāsh.	Subhāṣita[ap90] ; changed to Subhāṣ. (187 ap90)
+Subhāṣ.	Subhāṣita[ap90] ::: Subhāṣita.[ap57]
+; Subhāṣ. Ms.	Subhāṣita.[ap57-extra-spelling] change to Subhāṣ. (1)
+; Subhāṣita	Subhāṣita.[ap57-extra-spelling] change to Subhāṣ. (2)
+Sulhā.	?[ap57-extra-unknown]
+Sundaralaharī	Sundaralaharī[ap57-extra]
+Suprabhedāgama	?[ap57-extra-unknown]
+Suśr.	Suśruta[ap90] ::: Suśruta.[ap57]
+; Suśruta	Suśruta.[ap57-extra-spelling] change to Suśr. (8)
+; Suś.	Suśruta.[ap57-extra-spelling] change to Suśr. (3)
+Sv.	Sāmaveda[ap90] ::: Sāmaveda.[ap57]
+Svapna.	Svapnavāsavadatta.[ap57][add]
+Sādhanapañchaka Stotra	Sādhanapañcaka [ap57-extra]
+Sānti.	?[ap57-extra-unknown]
+Sāv.	Sāvitryupākhyāna[ap90-extra] ::: Sāvitryupākhyāna[ap57-extra]
+; Sāvk.	?Sāvitryupākhyāna[ap57-extra] change to Sāv. (1)
+Sāy.	Sāyaṇa[ap90] ::: Sāyaṇa.[ap57]
+Sāyaṇa Bhāṣya	?[ap57-extra-unknown]
+Sāṅ. K.	Sāṃkhyakārikā[ap57-extra-spelling]
+; Sāṅkhya. K.	Sānkhyakārikā.[ap57-extra-spelling] change to Sāṅ. K. (10)
+; S. K.	Sāṅkhyakārikā.[ap57-extra?] change to Sāṅ. K. (1)
+; Sāṅkhya.	Sānkhyakārikā.[ap57-extra-spelling] change to Sāṅ. K. (1)
+; Sānkhya. K.	Sānkhyakārikā.[ap57-extra-spelling] change to Sāṅ. K. (1)
+; Sān. K.	Sāṃkhyakārikā[ap90] change to Sāṅ. K. (6)  (ap90 21)
+; Sāṃkhya K.	Sāṃkhyakārikā[ap90] change to Sāṅ. K. (2)  (ap90 3)
+Sāṅ. S.	Sāṃkhyasūtra[ap90] ::: Sānkhyasūtra.[ap57]
+; Sāṅkhya S.	?[ap57-extra-unknown] change to Sāṅ. S. (1)
+Sāṅk. Bhāṣ.	?[ap57-extra-unknown]
+Sāṅkhyapravachanabhāṣya	Sāṅkhyapravachanabhāṣya[ap57-extra]
+Sāṅ. Gṛ. Sūtras	Sāṃkhyāyanagṛhya [ap57-extra]
+; Sāṅkhyāyana Gr. Sūtra	?[ap57-extra-unknown] change to Sāṅ. Gṛ. Sūtras (1)
+Sīr. Pv.	Sīrdeva's Paribhāṣāvṛtti.[ap57][add]
+Sūkti.	Sūktisundara.[ap57]
+; Sūktisundara	Sūktisundara.[ap57] change to Sūkti. (6)
+Sūrya S.	Sūryasiddhānta[ap90] ::: Sūryasiddhānta.[ap57]
+; Sūryasiddhānta	Sūryasiddhānta.[ap57-extra-spelling] change to Sūrya S. (2)
+; Sūrya.	Sūryasiddhānta.[ap57-extra-spelling] change to Sūrya S. (1)
+Sūryaprajñapti	Sūryaprajñapti[ap57-extra]
+Sūryaśatakam	Sūryaśataka[ap57-extra]
+T.	?[ap57-extra-unknown]
+T. S.	Tarkasaṃgraha (Bombay)[ap90] ::: Tarkasamgraha, (Bombay).[ap57]
+; TS.	?[ap57-extra-unknown] change to T. S. (1)
+T. Br.	Taittirīya Brāhmaṇa.[ap57]
+T. Ār.	Taittirīya Āraṇyaka.[ap57]
+Tait.	?[ap57-extra-unknown-spelling]
+T. Up.	Taittirīya Upaniṣad[ap90] ::: Taittirīya Upaniṣad.[ap57]
+; Taitt. Up.	Taittirīya Upaniṣad[ap90]  change to T. Up. (3 ap57) 6 (ap90)
+; Tait. Up.	Taittirīya Upaniṣad[ap57-extra-spell] change to T. Up. (17)
+Ts.	Taittirīya Samhitā.[ap57]
+; Taitt. Sam.	Taittirīya Samhitā.[ap57][add] change to Ts. (2)
+; Taitt. Samhitā.	Taittirīya Samhitā.[ap57][add] change to Ts. (0)
+; Tait. S.	?[ap57-extra-unknown] change to Ts. (1)
+; T. Saṃhitā.	?[ap57-extra-unknown] change to Ts. (1)
+Tantrasāra	Tantrasāra[ap57-extra] 
+Taraṅga	?[ap57-extra-unknown]
+Tarka K.	Tarkakaumudī(Bombay)[ap90] ::: Tarkakaumudī, (Bombay).[ap57]
+; Tarka. K.	Tarkakaumudī, (Bombay).[ap57] change to Tarka K. (6) (1 ap90)
+Tarkasaṃgraha	 Tarkasaṃgraha, (Bombay).[ap57-extra-spelling]
+Tarpaṇamantra	Tarpaṇamantra[ap57-extra-unknown]
+Tattvamasi Stotra	?[ap57-extra-unknown]
+Tejobindu Up.	Tejobindūpaniṣad[ap57-extra]
+Tithyādi	?[ap57-extra-unknown]
+Tp.	Taittirīya Prātiśākhya.[ap57][add]
+Trik.	Trikāṇḍaśeṣa[ap90] ::: Trikāṇḍaśeṣa.[ap57]
+; Trikāṇdaśeṣa	?[ap57-extra-unknown] change to Trik. (1)
+; Trikāṇḍaśeṣa	Trikāṇḍaśeṣa.[ap57-extra-spelling]  change to Trik. (2)
+Trisuparṇa	Trisuparṇa[ap57-extra]
+Trivikramabhaṭṭa	Trivikramabhaṭṭa[ap57-extra]
+Tsy.	?[ap57-extra-unknown]
+Tulasī. Up.	Tulasyupaniṣad[ap57-extra]
+Tv.	Tārānātha's Vācaspatyam[ap90] ::: Tārānātha's Vāchaspatyam.[ap57]
+Tāṇḍya Br.	Tāṇḍyabrāhmaṇa [ap57-extra]
+; Tāṇḍya.	?[ap57-extra-unknown-spelling] change to Tāṇḍya Br. (2)
+U.	Uttararāmacarita[ap90] ::: Uttararāmacharita, (P. V. Kane, Bombay, 1915).[ap57]
+Ud. D.	Uddhavadūta[ap90] ::: Uddhavadūta.[ap57]
+Ud. S.	Uddhavasaṃdeśa[ap90] ::: Uddhavasandeśa.[ap57]
+Udb.	Udbhaṭa[ap90] ::: Udbhaṭa.[ap57]
+; Udbhaṭa.	Udbhaṭa.[ap57-extra-spelling] change to Udb. (5)
+Ujjval.	Ujjvaladatta[ap90] ::: Ujjvaladatta.[ap57]
+Ujjvalamaṇi	?[ap57-extra-unknown]
+Ulkādānamantra	?[ap57-extra-unknown]
+Up.	Praśnopaniṣad, {#(sArtha upaniSatsaMgraha--ha. ra. bhAgavata, 1914).#}[ap57] ::: Upaniṣad[ap90] ::: Upaniṣad.[ap57]
+; Upan.	Upaniṣad[ap90] change to Up. (1 ap90)
+Utkalakhaṇḍa	Utkalakhaṇḍa[ap57-extra]
+Utpattitantra	Utpattitantra[ap57-extra]
+Uśanāh Dharmaśāstra	?[ap57-extra-unknown]
+Uṇ.	Uṇādisūtras[ap90] ::: Uṇādisūtras.[ap57]
+Uṇādikośa	Uṇādikośa[ap57-extra-unknown]
+V.	Vikramorvaśīyam (Bombay)[ap90] ::: Vikramorvaśīyam, (R. D. Karmarkar, 1932).[ap57]
+V. May.	Vyavahāramayūkha (Mr. Mandlik's Edition)[ap90] ::: Vyavahāramayūkha, (Mr. Mandalik's Edition).[ap57]
+V. P.	Viṣṇu Purāṇa[ap90] ::: Viṣhṇu Purāṇa.[ap57]
+; Viṣṇu P.	Viṣhṇu Purāṇa.[ap57-extra-spelling] change to V. P. (6)
+V. Ratn.	Vṛttaratnākara[ap90] ::: Vṛttaratnākara.[ap57]
+; V. Ratna.	Vṛttaratnākara.[ap57]  change to V. Ratn. (16)
+V. Sah.	Viṣṇusahasranāman[ap90] ::: Viṣhṇusahasranāma.[ap57]
+; Viṣṇusahasranāma	?[ap57-extra-unknown] change to V. Sah.  (2)
+Vahni P.	Vahnipurāṇa [ap57-extra-unknown]
+; Vahni Purāṇa	?[ap57-extra-unknown] change to Vahni P. (1)
+Vai. Bhū. {#(vai. bhU.)#}	Vaiyākaraṇabhūṣaṇasāra.[ap57][add]
+Vaidyajīvanam	vaidyajīvana [ap57-extra]
+Vaidyaka	Vaidyaka[ap57-extra]
+; Vaidyakam	?[ap57-extra-unknown] change to Vaidyaka (3)
+Vaijayantī	Vaijayantī[ap57-extra]
+Vaiś.	Vaiśeṣika[ap90] ::: Vaiśeṣika.[ap57]
+Vaiś. Sūt.	Vaiśeṣikasūtras[ap90] ::: Vaiśeṣikasūtras,[ap57]
+Vaiśvadeva	Vaiśvadeva[ap57-extra]
+Vall. Subh.	Vallabhadeva's Subhāṣitāvali (Bombay)[ap90] ::: Vallabhadeva's Subhāṣitāvali, (Bombay).[ap57]
+Varāha P.	Varāhapurāṇa[ap57-extra]
+Vasiṣṭha	Vasiṣṭha[ap57-extra]
+Vasiṣṭhasmṛti	Vasiṣṭhasmṛti[ap57-extra]
+Vb.	Viddhaśālabhañjikā (Bombay)[ap90] ::: Viddhaśālabhañjikā, (Bombay).[ap57]
+Vbh.	Vaidikābharaṇa (a commentary on {#taiº prAtizAkhya#})[ap57][add]
+Ve.	Veṇīsaṃhāra[ap90] ::: Veṇīsamhāra, (A. B. Gajendragadkar. 1941).[ap57]
+Ved.	?[ap57-extra-unknown-spelling]
+Ved. Sūtra.	?[ap57-extra-unknown-spelling]
+Veda-Vyāsāṣṭaka	?[ap57-extra-unknown]
+;Vedavyāsāṣṭakam	?[ap57-extra-unknown] change to Veda-Vyāsāṣṭaka (1)
+Vedānta	?[ap57-extra-unknown]
+Vedānta P.	Vedāntaparibhāṣā[ap90] ::: Vedāntaparibhāṣā.[ap57]
+; Vedānta. P.	?[ap57-extra-unknown] change to Vedānta P. (1)
+Vedānta S.	?[ap57-extra-unknown]
+Vedāntasāra	Vedāntasāra[ap57-extra]
+Vet.	Vetālapañca vimśati[ap90] ::: Vetālapañchavimśati.[ap57]
+Vid.	Vidagdhamukhamaṇḍana[ap90] ::: Vidagdhamukhamaṇḍana.[ap57]
+Viduranīti	Viduranīti[ap57-extra-unknown]
+Vikr.	Vikramāṅkadevacarita (Bombay)[ap90] ::: Vikramānkadevacharita, (Bombay).[ap57]
+; Vikra.	?[ap57-extra-unknown] change to Vikr. (2)
+Vivaraṇaprameya-saṃgraha	Vivaraṇaprameyasaṃgraha [ap57-extra]
+Vivekachūḍāmaṇi	Vivekacūḍāmaṇi[ap57-extra]
+Viś. Guṇā.	Viśvaguṇādarśachampū, (Nirṇaya Sāgara, 1915).[ap57]
+Viśva.	?[ap57-extra-unknown]
+Viśvalochana	Viśvalocana[ap57-extra]
+Viṣṇu Smṛti	Viṣṇusmṛti[ap57-extra]
+Viṣṇu.	?[ap57-extra-unknown]
+Viṣṇudhyānam	Viṣṇudhyānastotrādi[ap57-extra?]
+Viṣṇumahimna	Viṣṇumahimnaḥstava[ap57-extra]
+; Viṣṇumahimna S.	?[ap57-extra-unknown-spelling] change to Viṣṇumahimna (3)
+Viṣṇupāda. S.	Viṣṇupādādikeśāntastuti[ap57-extra?]
+; Viṣṇupāda. Stotra	?[ap57-extra-unknown-spelling] change to Viṣṇupāda. S. (4)
+; Viṣṇupādādi Stotra	?[ap57-extra-unknown-spelling] change to Viṣṇupāda. S. (1)
+Viṣṇustotra	?[ap57-extra-unknown]
+Vop.	Vopadeva[ap90] ::: Vopadeva.[ap57]
+Vp.	Vājasaneyī Prātiśakhya.[ap57][add]
+Vyāsa.	?[ap57-extra-unknown]
+Vāgb.	Vāgbhaṭa[ap90] ::: Vāgbhaṭa.[ap57]
+Vāj.	Vājasaneyi Saṃhitā[ap90] ::: Vājasaneyi Samhitā, {#(manohara graMthamAlA, puNeM, 1942).#}[ap57]
+Vāk. P.	Vākyapadīya[ap90] ::: Vākyapadīya.[ap57]
+Vāmana P.	Vāmanapurāṇa [ap57-extra]
+Vār.	?[ap57-extra-unknown]
+Vās.	Vāsavadattā (Hall's Edition)[ap90] ::: Vāsavadattā, (Nirṇaya Sāgara, 1940).[ap57]
+Vāstuvidyā	Vāstuvidyā[ap57-extra]
+Vātsy.	Vātsyāyana Kāmasūtra.[ap57]
+Vātsyāyana Bhāṣya	Vātsyāyanabhāṣya[ap57-extra]
+Vāyu P.	Vāyupurāṇa [ap57-extra]
+; Vāyu. P.	?[ap57-extra-unknown] change to Vāyu P. (3)
+Vīr. M.	Vīramitrodaya[ap90] ::: Vīramitrodaya.[ap57]
+Vīrachandrodaya	?[ap57-extra-unknown]
+Vīramitrodaya	Vīramitrodaya[ap57-extra]
+Vṛddhamanu	Vṛddhamanu[ap57-extra]
+Vṛnd. Ś.	Vṛndāvanaśataka[ap90] ::: Vṛndāvanaśataka.[ap57]
+Vṛttaratnākara	Vṛttaratnākara.[ap57]
+Y.	Yājñavalkya (Mr. Mandlik's Edition)[ap90] ::: Yājñavalkya Smṛti, (Nirṇaya Sāgara, 1926).[ap57]
+Yaj.	Yajurveda[ap90] ::: Yajurveda (Pandit Satevalekared.)[ap57]
+Yama Smṛti	Yamasmṛti[ap57-extra]
+; Yama	?[ap57-extra-unknown-spell] change to Yama Smṛti (1)
+Yavaneśvara	Yavaneśvara[ap57-extra] (Author)
+Yaśastilaka	?[ap57-extra-unknown]
+Yoga S.	Yogasūtras[ap90] ::: Yogasūtras.[ap57]
+; Yoga Sūtra	?[ap57-extra-unknown] change to Yoga S. (1)
+Yogadarśana	?[ap57-extra-unknown]
+Yogagrantha	Yogagrantha[ap57-extra]
+Yogasūtrabhāṣya	Yogasūtrabhāṣya[ap57-extra]
+Yogaśikhopaniṣad	Yogaśikhopaniṣad[ap57-extra]
+Yogiyājñavalkya	Yogiyājñavalkya [ap57-extra]
+Yuktikalpataru	Yuktikalpataru[ap57-extra]
+Yv.	Yajurveda[ap90] ::: Yajurveda (Pandit Satevalekared.)[ap57]
+Yādava	Yādava[ap57-extra] (Author)
+Yādavābhyudaya	Yādavābhyudaya[ap57-extra]
+Yāj. Ts.	?[ap57-extra-unknown]
+Ā. L.	Ānandalaharī[ap90] ::: Ānandalaharī.[ap57]
+Āchārya-Ṣaṭpadī	?[ap57-extra-unknown]
+Ādipurāṇa	Ādipurāṇa[ap57-extra]
+Āgama Pr.	?[ap57-extra-unknown]
+Āgama.	?[ap57-extra-unknown]
+Ānandalaharī	Ānandalaharī[ap57-extra]
+Āpast.	Āpastamba[ap90] ::: Āpastamba.[ap57]
+Āry. S.	Āryavidyāsudhākara (Bombay)[ap90] ::: Āryavidyāsudhākara, (Bombay).[ap57]
+Āryabhaṭṭa	Āryabhaṭṭa[ap57-extra] (Indian astronomer)
+Āryā. S.	Āryāsaptaśatī(published in the Kāvyamālā)[ap90] ::: Aryāsaptaśatī (Published in the Kāvyamālā).[ap57]
+; Āryā-saptaśatī	Aryāsaptaśatī change to Āryā. S. (3)
+Ārṣeya Br.	Ārṣeyabrāhmaṇa[ap57-extra]
+Āyurvedaśāstra	?[ap57-extra-unknown]
+Āśval.	Āśvalāyana's Sūtras[ap90] ::: Āśavalāyana's Sūtras.[ap57]
+; Āśvalāyana	?[ap57-extra-unknown] change to Āśval. (1)
+Āśīrvādamantra	Āśīrvādamantrāḥ[ap57-extra]
+Īśop.	Īśopaniṣad, {#(sArtha upaniSatsaMgraha, ha. ra. bhAgavata, 1914).#}[ap57]
+; Īśa. Up.	Īśopaniṣad[ap57-extra-spelling] change to Īśop. (5)
+Īśvarasaṃhitā	Īśvarasaṃhitā[ap57-extra]
+Ś.	Śakuntalā (Bombay)[ap90] ::: Śakuntalam, (Shiralkar & Co. Poona, 1902).[ap57]
+Ś. B.	Śārīrabhāṣya.[ap57]
+Ś. Til.	Śṛṅgāratilaka[ap90] ::: Śṛngāratilaka.[ap57]
+; Śṛ. Til.	Śṛngāratilaka.[ap57-extra] change to Ś. Til. (1)
+ŚB. on MS.	Śābarabhāṣya on Mīmānsā Sūtras.[ap57][add]
+; ŚB.	Śābarabhāṣya on Mīmānsā Sūtras.[ap57-extra-spelling] change to ŚB. on MS.(15)
+Śab. Kau.	?[ap57-extra-unknown]
+Śabda Ch.	Śabdachintamani (Sanskrit-Gujrati Dictionary by Ramanabhai Nilkanth, 1899).[ap57-extra-spelling]
+; Śabda. Ch.	Śabdachintamani .[ap57] change to Śabda Ch. (5)
+Śabdak.	Śabdakalpadruma[ap90] ::: Śabdakalpadruma.[ap57]
+; Śabda K.	Śabdakalpadruma.[ap57-extra-spell] change to Śabdak. (1)
+Śabdachandrikā	Śabdacandrikā[ap57-extra-unknown]
+; Śabda-chandrikā	?[ap57-extra-unknown] change to Śabdachandrikā (1)
+Śabdamālā	Śabdamālā[ap57-extra]
+Śabdaratnākara	Śabdaratnākara[ap57-extra]
+Śabdaratnāvalī	?[ap57-extra-unknown]
+; Śabdaratnāvali	? change to Śabdaratnāvalī (1)
+Śabdenduśekhara	Śabdenduśekhara[ap57-extra]
+Śabdārṇava	Śabdārṇava[ap57-extra]
+Śāraṅg. S.	Śārangdhara Samhitā[ap57][add]
+; Śaraṅg. S.	?[ap57-extra-unknown] change to Śāraṅg. S. (1)
+; Śāraṅgdhara	Śārangdhara Samhitā[ap57-extra-spelling] change to Śāraṅg. S. ()
+; Śārṅg. S.	?[ap57-extra-unknown] change to Śāraṅg. S. ()
+Śārṅg. P.	?[ap57-extra-unknown]
+Śat. Br.	ŚatapathaBrāhmaṇa[ap90] ::: Śatapatha Brāhmaṇa.[ap57]
+; Śaṭ. Bṛ. Up.	?[ap57-extra-unknown] change to Śat. Br. (1)
+Śataślokī	Śataślokī[ap57-extra]
+Śaṅkara.	Śaṅkarāchārya[ap57-extra-unknown]
+; Śaṅkarāchārya	?[ap57-extra-unknown] change to Śaṅkara. (5)
+Śekhara	Śekhara[ap57-extra]
+Śi.	Śiśupālavadha[ap90] ::: Śiśupālavadha, (Nirṇaya Sāgara, 1902).[ap57]
+Śik.	Śikṣā[ap90] ::: Śikṣā.[ap57]
+; Śikṣā	Śikṣā.[ap57-extra-spelling] change to Śik. (2)
+Śik. s.	Śikṣā-Sangraha.[ap57][add]
+Śiva Sūtra	Śivasūtra [ap57-extra]
+; Śiv. Sū.	[ap57-extra-unknown] change to Śiva Sūtra (1)
+Śiva B.	Śivabhārata by Paramānanda.[ap57]
+; Śiva. B.	Śivabhārata by Paramānanda.[ap57-extra-spelling] change to Śiva B. (189)
+; Śivabhārata	Śivabhārata by Paramānanda.[ap57-extra-spelling] change to Śiva B. (6)
+Śiva P.	Śivapurāṇa[ap90] ::: Śiva Purāṇa.[ap57]
+Śivamahimna	Sivamahimnaḥstotra[ap57-extra]
+; Śivamahimna Stotra	[ap57-extra-unknown-spelling] change to Śivamahimna (2)
+; Śivamahimnastotra	Śiva-Mahimna-stotra[ap57-extra-unknown-spelling] change to Śivamahimna (1)
+; Śiva-Mahimna S.	Śiva-Mahimna-stotra[ap57-extra-unknown-spelling] change to Śivamahimna (2)
+; Śiva-Mahimna-stotra	Śiva-Mahimna-stotra[ap57-extra-unknown] change to Śivamahimna (1)
+; Śiva-Mahimna.	Śiva-Mahimna-stotra[ap57-extra-unknown-spelling] change to Śivamahimna (9)
+; Śiva-mahimna.	Śiva-Mahimna-stotra[ap57-extra-unknown-spelling] change to Śivamahimna (19)
+; Śiva-stotra	?[ap57-extra-unknown] change to Śivamahimna (1)
+; Mahimna.	Śiva-Mahimna-stotra[ap57-extra-unknown-spelling] change to Śivamahimna (12)
+Śivakavacha	Śivakavaca[ap57-extra]
+Śivatāṇḍavastotra	Śivatāṇḍavastotra[ap57-extra]
+Śrīkaṇṭhacharitam	Śrīkaṇṭhacarita[ap57-extra]
+Śrut.	Śrutabodha[ap90] ::: Śrutabodha.[ap57]
+Śruti.	?[ap57-extra-unknown]
+Śrāddha Mantra	?[ap57-extra-unknown]
+Śrāvaṇī Mantra	?[ap57-extra-unknown]
+; Śrāvaṇī-mantra	?[ap57-extra-unknown] change to Śrāvaṇī Mantra (1)
+Śrīdhara	Śrīdhara[ap57-extra] (Author)
+Śrīkaṇṭhacharita	Śrīkaṇṭhacarita[ap57-extra]
+Śs.	Śrauta-sūtra.[ap57][add]
+Śuka. Up.	Śukarahasyopaniṣad [ap57-extra?]
+; Śuka.	?[ap57-extra-unknown] change to Śuka. Up.
+Śukra.	Śukranīti, {#(rA. go. zAstrI, alIbAga chApakhAnA).#}[ap57]
+; Śukra N.	Śukranītisāra[ap90] Change to Śukra. (1 ap90)
+; Śukranīti	Śukranīti, [ap57-extra-spell] Change to Śukra. (2)
+Śulba. S.	Śulbasūtra [ap57-extra]
+Śvet. Up.	Śvetāśvataropaniṣad[ap90] ::: Śvetāśvataropaniṣad.[ap57]
+; Śveta. Up.	Śvetāśvataropaniṣad.[ap57-extra-spelling] change to Śvet. Up. (1)
+Śvet.	Śvetāśvataropaniṣad.[ap57-extra-spelling] change to Śvet. Up. (12)
+Śyāmāstava	?[ap57-extra-unknown]
+Śāhendra.	Śāhendravilāsa, edited by Dr. Raghavan.[ap57][add]
+; Śāhendravilāsa	Śāhendravilāsa change to Śāhendra. (3)
+Śālihotra	Śalihotra of Bhoja, edited by Dr. E. D. Kulkarni.[ap57][add]
+Śāṇḍilya Up.	Śāṇḍilyopaniṣad [ap57-extra]
+Śānti.	Śāntiśataka.[ap57][add] ::: Śāntiśataka by Śilhaṇa[ap90]
+Śāntilakṣaṇa	?[ap57-extra-unknown]
+Śāradātilakam	Śāradātilaka [ap57-extra]
+Śāṅ. K.	Śāṃkhyakārikā[ap57]
+; Śānkhya. K.	Sānkhyakārikā.[ap57] no instances
+Śāṅkarabhāṣya	?[ap57-extra-unknown]
+Śāṅkaradigvijaya	Śaṃkaradigvijaya[ap57-extra]
+; Śāṅ. Digv.	?[ap57-extra-unknown] change to Śāṅkaradigvijaya (1)
+Ṛgvedabhāṣya	Ṛgvedabhāṣya[ap57-extra]
+Ṛs.	Ṛtusamhāra.[ap57][add]

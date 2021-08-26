@@ -1,0 +1,82 @@
+* TODO A. (1) -> Ak. (cf. ap57)
+* TODO Ait Br. (1)  -> Ait. Br.
+* TODO Aitareya Brāhmaṇa (5) Remove <> markup?
+* TODO Au. (1) -> Ku. (cf ap57)
+* TODO B. (1) -> R. (cf ap57)
+* TODO Bhartṛi. (2) -> Bhartṛ. 
+* TODO Bhāsha P. (1) -> Bhāṣā P.
+* TODO Bhāshā P. (39) -> Bhāṣā P.
+* TODO Bhasha P. (1) -> Bhāṣā P.
+* TODO Bhāv. P. (1) ->  Bhāva P.
+* TODO Bopadeva (2)  Mark a 3rd ? under aDiH
+* TODO Bṛi. Up. (3) -> Bṛ. Up.
+* TODO Bṛi. Ār. Up. (15) -> Bṛ. Ār. Up.
+* TODO Bṛi. Kath. (1) -> Bṛ. Kath.
+* TODO Bṛi. S. (29) -> Bṛ. S.
+* TODO Bṛihaspati (1) -> Bṛhaspati
+* TODO Bṛihat Samhitā (1) -> Bṛhat Saṃhitā
+* TODO Bṛihat-Saṃhitā (1) ->? Bṛhat Saṃhitā
+* TODO <Com.> (1) ->? {Com.} (Commentary or Commentator)
+* TODO Daksha. (2) -> Dakṣa.
+* TODO Dhātup. (1) ->? {Dhātup.} 
+* TODO Dṛi. Ś. (2) -> Dṛ. Ś.
+* TODO Gaṅgāshṭaka -> Gaṅgāṣṭaka
+* TODO Gaudapāda (1) -> Gauḍapāda (print change)
+* TODO <Gītā> (2)  ->? {Gītā} 
+* TODO Gītagovinda (4)  Remove <> markup?
+* TODO Hārāvalī) (1)   should remove ')'
+* TODO Hari (3) -> (cf ap57)  akarmaka Bhartṛhari; aDikaraRaM, apAdAnaM Hariv.
+* TODO Hari. (1) -> Hariv. (ap57)
+* TODO Harsha Carita (1) -> Harṣa Carita  (remove <> markup?)
+* TODO Hemachandra (1) -> Hemacandra
+* TODO Hind. (1) <Hind.> -> {Hind.} (abbrev for Hindi)
+* TODO Jyotisha. (3) -> Jyotiṣa
+* TODO Kāmandaka (2) Another one under cAraH
+* TODO Kath. (1)  Print error for Kaṭh. (Kaṭhopaniṣad) ?
+* TODO Kaus. Br. (1) ->  Kauṣ. Br.
+* TODO Kāvyādarśa (2) -> ? Remove <> markup
+* TODO Kāvyapradīpa (1) -> ? Remove <> markup 
+* TODO Kāvyaprakāśa (3) -> ? Remove <> markup
+* TODO Kirātārjunīya (2) -> ? Remove <> markup
+* TODO Kirātārjunīyam (1) -> ? Remove <> markup 
+* TODO Mahimna stotra (1)  -> ? Remove <> markup
+* TODO Mc. (1) ->  Ms. (cf. ap57)
+* TODO Medhātithi (1) -> Additional instance under upaniDiH
+* TODO Medinī (1) ? 2 more could be marked.
+* TODO Naishadha (1) -> Naiṣadha
+* TODO Naishadha Carita (1) -> Naiṣadha Carita
+* TODO Naishadha. (1) -> Naiṣadha.
+* TODO Nyāya sūtra. (1) ->? Nyāya Sūtra.
+* TODO Pad. (1)  -> 'Pad. D.' (cf. ap57)
+* TODO Padma Purāṇa (1) -> no <> markup
+* TODO Paribhāshenduśekhara. (1) -> Paribhāṣenduśekhara.
+* TODO Pushpadanta. (1) -> Puṣpadanta.
+* TODO Raghuvaṃśa (1) -> no <> markup 
+* TODO Rasagangādhara (1)Rāghavānanda
+* TODO Rasamanjarī (5) -> Rasamañjarī
+* TODO Rat. (1) -> Ratn. (cf. ap57) 
+* TODO Ratimanjarī (7) -> Ratimañjarī
+* TODO S. M. (1) Remove <> markup, change to {S. M.} ?
+* TODO Sān. K. (14) -> Sāṅ. K. (Sāṃkhyakārikā)
+* TODO Sān. S. (1) -> Sāṅ. S. 
+* TODO Śankara. (1) -> Śaṅkara.
+* TODO Sānkhya (2) -> Sāṅkhya
+* TODO Sānkhya K. (3) -> Sāṅkhya K.
+* TODO Sānkhyapravacanabhāshya. (1) -> Sāṅkhyapravacanabhāshya
+* TODO Śanti. (1) -> Śānti.
+* TODO Śikshā (1) -> Śikṣā
+* TODO Śk. (1)  -> Sk.
+* TODO Smṛiti. (2) -> Smṛti
+* TODO Subhāsh. (195) -> Subhāṣ.
+* TODO Subhāshita. (2) -> Subhāṣita
+* TODO Tarka K. P. (1)  -> Tarka K.  ('P.' is page?)
+* TODO Ujjvalamaṇi (1) -> A 2nd instance under 'su' (-jalpaH)
+* TODO V. Paribhāshā (1) -> V. Paribhāṣā 
+* TODO Vaijayantī (2) also 1 under niryUhaH ?
+* TODO Vājasaneyi Saṃhitā (1) ->  no <> markup 
+* TODO Vārt. (13) -> ? a Common abbreviation of Vārttikā
+* TODO Vasishṭha. (2) -> Vasiṣṭha
+* TODO Vāyu P. (1) ->  no <> markup
+* TODO Vishṇu P. (1) ->  Viṣṇu P
+* TODO Vishṇu Smṛiti (2) -> Viṣṇu Smṛti
+* TODO Vishṇu. (2) -> Viṣṇu.

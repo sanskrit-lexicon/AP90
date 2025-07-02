@@ -1,0 +1,982 @@
+Sanskrit Lexicon Correction Form History for AP90
+As of January 14, 2025
+143 correction records, with 143 PENDING
+
+Case 1001: 01/14/2025 dict=AP90, L=1430, hw=animitta, user=srhodes
+old = illomen
+new = ill-omen
+status = PENDING
+------------------------------------------------------------------------
+
+Case 988: 01/13/2025 dict=AP90, L=1415, hw=nitya, user=srhodes
+old = -datrimaḥ
+new = -dattrimaḥ
+comment = Typo – I am wondering if this correction would be the better choice based upon the Headword : "dattrima", which apparently NO ONE spells "datrima". Please comment, Jim and Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 987: 01/13/2025 dict=AP90, L=1415, hw=nitya, user=srhodes
+old = — karmankriyā
+new = — karman-kriyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 984: 01/13/2025 dict=AP90, L=1406, hw=anāhūta, user=srhodes
+old = uncalledfor speaker
+new = uncalled-for speaker
+comment = Typo – Please note that here the "hyphen" is probably the better choice. Otherwise, for example, one may say, "That was uncalled for." When "uncalled-for" is used as a modifier as it is here, then the hyphenation appears to be better than printing: "uncalledfor".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 983: 01/13/2025 dict=AP90, L=1389, hw=anāśramin, user=srhodes
+old = any of the LB 4 orders of life
+new = any of the 4 orders of life
+comment = Typo – Please keep this line continuous and unbroken as far as possible; also, remove the extra line space that shows in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 976: 01/12/2025 dict=AP90, L=1380, hw=anāvṛttiḥ, user=srhodes
+old = 1 Non-return, absence of repetition or recurrence. LB 2 Nonreturn 
+new = 1 Non-return, absence of repetition or recurrence. LB 2 Non-return 
+comment = Typo – Please note that the first instance is correct: "Non-return", while the second instance is incorrect: "Nonreturn".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 975: 01/12/2025 dict=AP90, L=1366, hw=anārya, user=srhodes
+old =  ( LB — jaṃ)
+new =  — (jaṃ)
+comment = Typo – If you would like to "get radical" you could make this target correction across all dictionaries (the carriage return being a target for removal as well as the repositioning of the dash and parenthesis):  LB "( LB — "        ——becomes——    "— (" .  This "radical" correction would clean things up faster than a sneeze!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 974: 01/12/2025 dict=AP90, L=1361, hw=anārabhya, user=srhodes
+old = Alphabetical Placement?
+new = Please note that the Alphabetical Placement here is very strange. The preceding Headword is: "anāraṃbhaḥ [ID=1360]"  AND the subsequent Headword is: "anāraṃbhaṇa [ID=1362]". SO THE "anusvāra" BOTH precedes and follows the Headword: "anārabhya" which contains no anusvāra. How is this possible? Also, please note that MW dictionary does NOT follow this ordering of words.
+comment = Alphabetical Placement?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 973: 01/12/2025 dict=AP90, L=1359, hw=anārata, user=srhodes
+old = non-entity
+new = nonentity
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 972: 01/12/2025 dict=AP90, L=1357, hw=anāyāsa, user=srhodes
+old = ( LB — taṃ)
+new = — (taṃ)
+comment = Typo – If you would like to "get radical" you could make this target correction across all dictionaries (the carriage return being a target for removal as well as the repositioning of the dash and parenthesis):  LB "( LB — "        ——becomes——    "— (" .  This "radical" correction would clean things up faster than a sneeze!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 971: 01/12/2025 dict=AP90, L=1346, hw=anāmā, user=srhodes
+old = ring-finger
+new = ring finger
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 967: 01/12/2025 dict=AP90, L=1344, hw=anāman, user=srhodes
+old = ringfinger
+new = ring finger
+comment = Typo – please note that this is properly two words without a hyphen. Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 957: 01/11/2025 dict=AP90, L=1321, hw=anādi, user=srhodes
+old = ( LB — taḥ) N. of Śiva.
+new = — (taḥ) N. of Śiva.
+comment = Typo – If you would like to "get radical" you could make this target correction across all dictionaries (the carriage return being a target for removal as well as the repositioning of the dash and parenthesis):  LB "( LB — "        ——becomes——    "— (" .  This "radical" correction would clean things up faster than a sneeze!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 955: 01/11/2025 dict=AP90, L=1317, hw=anātha, user=srhodes
+old = poor-house
+new = poorhouse
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 954: 01/11/2025 dict=AP90, L=1317, hw=anātha, user=srhodes
+old = poor-house
+new = poorhouse
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 952: 01/11/2025 dict=AP90, L=1311, hw=anātman, user=srhodes
+old = selfpossessed
+new = self-possessed
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 950: 01/11/2025 dict=AP90, L=1299, hw=anāgata, user=srhodes
+old = afuture
+new = a-future
+status = PENDING
+------------------------------------------------------------------------
+
+Case 947: 01/10/2025 dict=AP90, L=1274, hw=anavānaṃ, user=srhodes
+old = uno tenore
+new = ?
+comment = Typo – I am uncertain of the following meaning: "uno tenore". Is Jim able to offer a translation of this into English?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 936: 01/09/2025 dict=AP90, L=1268, hw=anavaskara, user=srhodes
+old = dirt pure
+new = dirt, pure
+comment = Typo – 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 935: 01/09/2025 dict=AP90, L=1265, hw=anavasara, user=srhodes
+old = Illtimed
+new = Ill-timed
+comment = Typo – Of course the previous TWO corrections could be targeted GLOBALLY.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 934: 01/09/2025 dict=AP90, L=1265, hw=anavasara, user=srhodes
+old = Illtimed
+new = Ill-timed
+status = PENDING
+------------------------------------------------------------------------
+
+Case 933: 01/09/2025 dict=AP90, L=1265, hw=anavasara, user=srhodes
+old = Illtimedness
+new = Ill-timedness
+status = PENDING
+------------------------------------------------------------------------
+
+Case 922: 01/08/2025 dict=AP90, L=1216, hw=anabhiśasta, user=srhodes
+old = °śastenī leading to perfection or to heaven.
+new = °śastenya leading to perfection or to heaven.
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Jim or Andhrabharati. There are two pieces of supporting evidence for this correction: 1) APTE in his FULL dictionary prints, "°śastenya Yv. 5.5." ; 2) MW Dictionary prints this Headword as well: "an-abhiśastenyá [VS.]".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 919: 01/08/2025 dict=AP90, L=1200, hw=anapasara, user=srhodes
+old = An usurper
+new = A usurper
+comment = Typo – Please note that "usurper" begins with a long u sound (like the word 'you'), so only "a usurper" is correct in the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 898: 01/06/2025 dict=AP90, L=1189, hw=anapakāraḥ, user=srhodes
+old = — a.,
+new = DELETE
+comment = Typo – Please note that this is a suggested "print change" because frankly, it serves no purpose! The following compound identifies itself: "— kārin a. Harmless, innocent. ". Also, I am still waiting to here Jim explain why he does not consider there to be any "adjectives" in the Sanskrit Language.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 897: 01/06/2025 dict=AP90, L=1171, hw=anaṃta, user=srhodes
+old = ( LB — rṣā)
+new = — (rṣā)
+comment = Typo – If you would like to "get radical" you could make this target correction across all dictionaries (the carriage return being a target for removal as well as the reversal of position in regards to the dash and parenthesis):  LB "( LB — "        ——becomes——    "— (" .  This "radical" correction would clean things up faster than a sneeze!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 896: 01/06/2025 dict=AP90, L=1171, hw=anaṃta, user=srhodes
+old = Śrīraṅgapaṭṭaṇa (?)
+new = Śrīraṅgapaṭṭaṇa (because there are temples of Viṣṇu reclining on Ananta Serpent).
+comment = Typo – Please note that this is a VERY interesting print change. This comes from APTE himself in his FULLER Sanskrit-English Dictionary. He must have discovered this piece of information subsequently. Andhrabharati has commented that Scott likes to compare dictionaries, and indeed I do! This is a good example of how I gain knowledge from such an approach. Dictionaries are tombs of information and a great source of learning. Now I am curious if you edity APTE by APTE himself! Or do you choose to retain ignorance in the form give here: "(?)" • über-Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 895: 01/06/2025 dict=AP90, L=1169, hw=ananubhāvuka, user=srhodes
+old = ananubhāvuka
+new = ananubhāvaka
+comment = Typo – Please note that this is a serious "print change". You may confirm this correction by looking up the word "anubhāvaka" without the negative particle. The word "bhāvuka" does not fit the sense given. Also check MW: "ananubhāvaka". • über-Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 864: 01/05/2025 dict=AP90, L=1158, hw=anati, user=srhodes
+old = anatipraśna not to be asked to excess
+new = anatipraśnya not to be asked to excess
+comment = Typo – Please note that this is a suggested "print change". MW seems to agree, as well as Vācaspatyam. • Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 863: 01/05/2025 dict=AP90, L=1158, hw=anati, user=srhodes
+old = real true
+new = real, true
+status = PENDING
+------------------------------------------------------------------------
+
+Case 858: 01/04/2025 dict=AP90, L=1134, hw=anaṃśa, user=srhodes
+old = Without parts, LB (pb) undivided,
+new = Without parts, undivided,
+comment = Typo – Please note that there is no need to include "(pb)" for "page break". Even an idiot can see the page break clearly on the printed page, and of course there is no "page break" online. Also, if you consider "(pb)" to be useful as a "pointer", please consider that there is no "pointer" to the location of the Headword itself on the printed page - an intelligent and discerning eye is required, no training wheels necessary. "(pb)" is simply a nuisance and it should be removed globally from all online dictionaries. There is no page break online! Please make the correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 856: 01/04/2025 dict=AP90, L=1125, hw=adhvara, user=srhodes
+old = [adhvaraṃ gacchati] LB (pb) intended for a sacrifice.
+new = [adhvaraṃ gacchati] intended for a sacrifice.
+comment = Typo – Please note that there is no need to include "(pb)" for "page break". Even an idiot can see the page break clearly on the printed page, and of course there is no "page break" online. Also, if you consider "(pb)" to be useful as a "pointer", please consider there is not "pointer" to the location of the Headword itself on the printed page. An intelligent and discerning eye is required. No training wheels necessary. "(pb)" is simply a nuisance and it should be removed globally from all online dictionaries. There is no page break online! Please make the correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 855: 01/04/2025 dict=AP90, L=1124, hw=adhvanīna, user=srhodes
+old = — naḥnyaḥ 
+new = — naḥ–nyaḥ 
+comment = Typo – please adjust to your taste.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 854: 01/04/2025 dict=AP90, L=1124, hw=adhvanīna, user=srhodes
+old = — naḥnyaḥ 
+new = — naḥ  AND  — naḥnyaḥ 
+comment = Typo – please adjust to your taste.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 853: 01/04/2025 dict=AP90, L=1124, hw=adhvanīna, user=srhodes
+old = Headword Missing
+new = You may choose to add to the Hierarchy List, the Headword: "adhvanya" which is referenced here.
+comment = Headword Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 852: 01/04/2025 dict=AP90, L=1124, hw=adhvanīna, user=srhodes
+old = way-farer
+new = wayfarer
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed (and incorrect) in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 851: 01/04/2025 dict=AP90, L=1123, hw=adhvan, user=srhodes
+old = way-farer
+new = wayfarer
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed (and incorrect) in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 839: 01/04/2025 dict=AP90, L=1108, hw=adhyās, user=srhodes
+old = lie down, LB (pb) settle upon; 
+new = lie down, settle upon; 
+comment = Typo – In my opinion including "(pb)" for "page break" is a bit of a nuisance. If someone capable of locating the initial listing on the printed page, then the "Page Break" itself is obvious. Why are we stating the obvious? when in fact it is just a disruption to the definitions be given? I consider this to be worthy of reconsideration: eliminating all such "(pb)" references.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 838: 01/04/2025 dict=AP90, L=1101, hw=adhyāruh, user=srhodes
+old = 2 ( LB — ropayati)
+new = —2 (-ropayati)
+comment = Typo – Of course you can adjust it to your liking.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 815: 01/02/2025 dict=AP90, L=1083, hw=adhyardha, user=srhodes
+old = tamāna °śāṇa
+new = tamāna, °śāṇa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 814: 01/02/2025 dict=AP90, L=1074, hw=adhyakṣa, user=srhodes
+old = eye-witness
+new = eyewitness
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 813: 01/02/2025 dict=AP90, L=1072, hw=adhairya, user=srhodes
+old = selfpossession
+new = self-possession
+comment = Typo – Please note that this is a suggested correction across all dictionaries. I always insert a hyphen that is required by the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 812: 01/02/2025 dict=AP90, L=1056 , hw=adhīna, user=srhodes
+old =                [ID=1056]
+new = [ID=1056]
+comment = Typo – Please removing empty spacing.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 811: 01/02/2025 dict=AP90, L=1049, hw=adhyāpakaḥ, user=srhodes
+old = an adhyāpaka is of LB 2 kinds:
+new = an adhyāpaka is of 2 kinds:
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 810: 01/02/2025 dict=AP90, L=1050, hw=adhyāpanaṃ, user=srhodes
+old = one of the LB (pb) six 
+new = one of the (pb) six 
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 809: 01/02/2025 dict=AP90, L=1049, hw=adhyāpakaḥ, user=srhodes
+old = an adhyāpaka is of LB 2 kinds:
+new = an adhyāpaka is of 2 kinds:
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 808: 01/02/2025 dict=AP90, L=1048, hw=adhyayanaṃ, user=srhodes
+old = to the first LB 3 classes,
+new = to the first 3 classes,
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 791: 01/01/2025 dict=AP90, L=1032, hw=adhiśrayaṇaṃ, user=srhodes
+old = fire-place
+new = fireplace
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 788: 12/31/2024 dict=AP90, L=997, hw=adhiratha, user=srhodes
+old = cart-load
+new = cartload
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 787: 12/31/2024 dict=AP90, L=997, hw=adhiratha, user=srhodes
+old = foster-father
+new = foster father
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Please note that as evidence for this correction I cite the following two words: "foster parent", in English these two are note hyphenated. Therefore, I stand by this correction. Also, "foster child, foster care, foster home" No Hyphen!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 786: 12/31/2024 dict=AP90, L=970, hw=adhipaḥ, user=srhodes
+old = comp
+new = comp.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 785: 12/31/2024 dict=AP90, L=956, hw=adhijya, user=srhodes
+old = bow-string
+new = bowstring
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 782: 12/30/2024 dict=AP90, L=936, hw=adhikāritā, user=srhodes
+old = Headword Missing
+new = You may choose to add to the Hierarchy List, the Headword: "adhikāritva" which is referenced here.
+comment = Headword Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 773: 12/30/2024 dict=AP90, L=926, hw=adhika, user=srhodes
+old = out-doing
+new = outdoing
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 772: 12/30/2024 dict=AP90, L=926, hw=adhika, user=srhodes
+old = 100 plus LB 8 = 108
+new = 100 plus 8 = 108
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 767: 12/29/2024 dict=AP90, L=918, hw=adhas, user=srhodes
+old = nakshatra
+new = nakṣatra
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction: "ksh" ——becomes—— "kṣ" (with proper transliteration).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 766: 12/29/2024 dict=AP90, L=918, hw=adhas, user=srhodes
+old = head-long
+new = headlong
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 765: 12/29/2024 dict=AP90, L=918, hw=adhas, user=srhodes
+old = ( LB — 
+new = — (
+comment = Typo – I hope that you can make this a Global Correction to ATPE. This type of error occurs often in the listing of compounds and it will be a headache to correct each instance on an individual basis.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 755: 12/28/2024 dict=AP90, L=906, hw=adhara, user=srhodes
+old = Line Break Needed
+new = Mb. LB 4.  nearer and further.
+comment = Line Break Needed; Please note that the number "4" is a listing of another numbered definition and needs to be placed on a new line in the window display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 754: 12/28/2024 dict=AP90, L=893, hw=advayat, user=srhodes
+old = Headword Missing
+new = You may choose to add to the Hierarchy List, the Headword: "advayas" which is referenced here.
+comment = Headword Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 753: 12/28/2024 dict=AP90, L=890, hw=adrohaḥ, user=srhodes
+old = illfeeling
+new = ill-feeling
+status = PENDING
+------------------------------------------------------------------------
+
+Case 752: 12/28/2024 dict=AP90, L=888, hw=adruh, user=srhodes
+old = Headword Missing
+new = You may choose to add to the Hierarchy List, the Headword: "adruhvan" which is referenced here.
+comment = Headword Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 747: 12/27/2024 dict=AP90, L=886, hw=adriḥ, user=srhodes
+old = Hamsa
+new = Haṃsa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 746: 12/27/2024 dict=AP90, L=886, hw=adriḥ, user=srhodes
+old = mountain side
+new = mountainside
+comment = Typo – Please note that I have made this correction for my own dictionary according to the current standard of the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 745: 12/27/2024 dict=AP90, L=886, hw=adriḥ, user=srhodes
+old = ( LB — laḥ) N.
+new = — (laḥ) N.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 744: 12/27/2024 dict=AP90, L=886, hw=adriḥ, user=srhodes
+old = 8 The number LB 7
+new = 8 The number 7
+status = PENDING
+------------------------------------------------------------------------
+
+Case 734: 12/26/2024 dict=AP90, L=864, hw=adreśya, user=srhodes
+old = Invisible(adṛśya)
+new = Invisible (adṛśya)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 717: 12/26/2024 dict=AP90, L=857, hw=adṛṣṭa, user=srhodes
+old = peace-making
+new = peacemaking
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 710: 12/25/2024 dict=AP90, L=853, hw=adūṣita, user=srhodes
+old = unspotted
+new = unspoiled
+comment = Typo – Please note that Scott has "spotted" the "unspotted" and it is seen to be "unspoiled". Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 700: 12/24/2024 dict=AP90, L=821, hw=adadhryaṃc, user=srhodes
+old = adadhryaṃc [amuṃ aṃcati adas-aṃc kvip adhryāgamaḥ
+new = adadryaṃc [amuṃ aṃcati adas-aṃc kvip adryāgamaḥ
+comment = Typo – Please note that this correction is based upon a combination of MW dictionary and Vācaspatyam. I hope that Andhrabharati will have a look into this. I do not find the word "adadhryaṃc" or "adadhryañc" (with the letter dh) anywhere else. MW gives the Headword "adadryañc" and Vācaspatyam prints, " अमुमञ्चति अदस् + अन्च--क्विप् अद्र्यागमः". This correction is a Super Kaching (pending confirmation by Jim or Andhrabharati).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 689: 12/23/2024 dict=AP90, L=786, hw=atra, user=srhodes
+old = lady-ship
+new = Ladyship
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, note that I have chose to use the capital letter "L" as this appears to be the standard for this usage of this term in the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 688: 12/23/2024 dict=AP90, L=779, hw=atyuktā, user=srhodes
+old = of LB 4 lines, each of LB 2 syllables.
+new = of 4 lines, each of 2 syllables.
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 687: 12/23/2024 dict=AP90, L=761, hw=atyamla, user=srhodes
+old = °paṇīṃ
+new = °parṇī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 675: 12/22/2024 dict=AP90, L=758, hw=atyaṃta, user=srhodes
+old = co-existence
+new = coexistence
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 673: 12/22/2024 dict=AP90, L=758, hw=atyaṃta, user=srhodes
+old = ( LB — raḥ) a kind of grain. 
+new = — (raḥ) a kind of grain. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 672: 12/22/2024 dict=AP90, L=758, hw=atyaṃta, user=srhodes
+old = non-entity
+new = nonentity
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 666: 12/22/2024 dict=AP90, L=745, hw=atkaḥ, user=srhodes
+old = 1 LB 1 A traveller.
+new = 1 A traveller.
+comment = Typo – Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 665: 12/22/2024 dict=AP90, L=741, hw=atṛṇādaḥ, user=srhodes
+old = new-born
+new = newborn
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 663: 12/21/2024 dict=AP90, L=18693, hw=pāpa, user=srhodes
+old = ( LB — niḥ f.)
+new = — (niḥ f.)
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 655: 12/21/2024 dict=AP90, L=723, hw=atisparśa, user=srhodes
+old = niggardly
+new = ungenerous, stingy
+comment = Typo – Please note that this is a very "Radical Print Change" suggested across all dictionaries. I have employed this print change in my own dictionary. Maybe it is just an "American thing", but due to America's history of slavery in regards to the African Americans, the word "niggardly" is a bit outdated and perhaps carries a tinge of "bad taste" in the etiquette of our modern day. I hope that you will give this some serious consideration. Bear in mind that words do change and acquire shades of meaning over time; in this perhaps rare case, some special consideration should be given. Namaste to all beings.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 652: 12/21/2024 dict=AP90, L=705, hw=atisaktiḥ, user=srhodes
+old = contact, or proximity
+new = contact or proximity
+status = PENDING
+------------------------------------------------------------------------
+
+Case 650: 12/21/2024 dict=AP90, L=692, hw=atiśayaḥ, user=srhodes
+old = 2 a figure of speech, (corr. to hyperbole) said to be of LB 5 kinds in S. D., but of LB 4 in K. P.; 
+new = 2 a figure of speech, (corr. to hyperbole) said to be of 5 kinds in S. D., but of 4 in K. P.; 
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 649: 12/21/2024 dict=AP90, L=691, hw=atiśī, user=srhodes
+old = — Caus. ( LB — śāyayati)
+new = — Caus. (śāyayati)
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 645: 12/20/2024 dict=AP90, L=655, hw=atiromaśa, user=srhodes
+old = pot-herb
+new = potherb
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 644: 12/20/2024 dict=AP90, L=655, hw=atiromaśa, user=srhodes
+old = ati-lo-romaśa
+new = atilomaśa or atiromaśa
+comment = Typo – This is a suggested "print change" based upon the possible confusion of what this means: "ati-lo-romaśa" ;  Also, you may choose to add the Headword "atilomaśa" which is indicated here, but not listed in the Hierarchy.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 643: 12/20/2024 dict=AP90, L=650, hw=atirucira, user=srhodes
+old = cūḍi-li-kā
+new = cuḍikā or culikā
+comment = Typo – This is a suggested "print change" based upon the possible confusion of what this means: "cūḍi-li-kā"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 642: 12/20/2024 dict=AP90, L=642, hw=atirabhasaḥ, user=srhodes
+old = head-long
+new = headlong
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 641: 12/20/2024 dict=AP90, L=642, hw=atirabhasaḥ, user=srhodes
+old = head-long
+new = headlong
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 640: 12/20/2024 dict=AP90, L=642, hw=atirabhasaḥ, user=srhodes
+old = head-long
+new = headlong
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 639: 12/20/2024 dict=AP90, L=642, hw=atirabhasaḥ, user=srhodes
+old = head-long
+new = headlong
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 638: 12/20/2024 dict=AP90, L=638, hw=atiyogaḥ, user=srhodes
+old = Over-flow
+new = Overflow
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 636: 12/20/2024 dict=AP90, L=623, hw=atimartya, user=srhodes
+old = Headword Missing
+new = You may choose to add the Headword: "atimānuṣa" which is referenced here.
+comment = Headword Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 633: 12/19/2024 dict=AP90, L=609, hw=atiprauḍhā, user=srhodes
+old = grownup
+new = grown-up
+comment = Typo – Please note that this is a suggested correction based on what I consider to be the more correct form. In English as well as Sanskrit some words become "ok" through usage, even though grammatically being incorrect.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 632: 12/19/2024 dict=AP90, L=606, hw=atipraśnaḥ, user=srhodes
+old = Vālāki's question to Yājñavalkya about Brahma in bṛhadāraṇyakopaniṣad
+new = Bālāki's question to Yājñavalkya about Brahma in Bṛhadāraṇyakopaniṣad
+comment = Typo – Please note that the correction 1) "Bālāki" is according to all dictionaries (including APTE!);  LB 2) The capital letter "B" is for the purpose of a TITLE. For example, if you purchase the book: "Bṛhadāraṇyakopaniṣad", I am certain that the first letter "B" of this Book Title will confirm this correction, so take it up with the publisher (if you disagree). For example, you could write to the publisher and say, "There are no capital letters in Sanskrit" (LOL). Since I do not take breaks from study, I need to at least have a laugh now and then!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 622: 12/19/2024 dict=AP90, L=596, hw=atipattiḥ, user=srhodes
+old = foot-soldier
+new = foot soldier
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 621: 12/19/2024 dict=AP90, L=579, hw=atipattiḥ, user=srhodes
+old = foot-soldier
+new = foot soldier
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 619: 12/19/2024 dict=AP90, L=579, hw=atidhṛtiḥ, user=srhodes
+old = aticchadaṃs
+new = aticchandas
+comment = Typo – Also please note that it is slightly confusing to see the vertical column of numbers on the left: "1 4 2". This could be remedied in two ways: 1) Move the number "4" to the previous line; 2) spell out the number "four" so as to break the vertical column of digits.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 617: 12/19/2024 dict=AP90, L=566, hw=atithiḥ, user=srhodes
+old = hospitality attention to the guests
+new = hospitality, attention to the guests
+status = PENDING
+------------------------------------------------------------------------
+
+Case 614: 12/19/2024 dict=AP90, L=560, hw=atitarāṃ, user=srhodes
+old = Missing Headword
+new = You may choose to add the Headword: "atitamām" which is mentioned here. Also please note MY spelling with the final letter "m". It is worth mentioning that in the Sanskrit Language a word never ends in "ṃ" unless followed by a ANOTHER WORD that allows that SANDHI transformation. But a solitary listing of a Headword in a dictionary should NEVER end in the anusvāra. This comment is LONG overdo; now please DO something about it! (i.e. make the correction globally in this APTE dictionary).
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 602: 12/18/2024 dict=AP90, L=551, hw=aticchatraḥ, user=srhodes
+old = Anesum
+new = Anisum
+status = PENDING
+------------------------------------------------------------------------
+
+Case 601: 12/18/2024 dict=AP90, L=542, hw=atigha, user=srhodes
+old = Worth
+new = Wrath
+comment = Typo – Please note that this is a suggested "Print Change" based upon MW as well as the context of the current definition. "Weapon and Wrath" seem more closely related than "Weapon and Worth".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 600: 12/18/2024 dict=AP90, L=538, hw=atiguhā, user=srhodes
+old = pṛśriparṇī
+new = pṛśniparṇī
+comment = Typo – Please note that this correction has been established on two accounts: 1) MW declares it to be so; 2) Shabda also declares it to be so (go ahead and look up the word). Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 598: 12/18/2024 dict=AP90, L=535, hw=atigahana, user=srhodes
+old = Missing Headword
+new = Please consider adding the Headword: "atigavhara" which is cited here in the window display.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 594: 12/18/2024 dict=AP90, L=528, hw=atikhaṭva, user=srhodes
+old = bedstead, able to dispense with a bed-stead
+new = bedstead, able to dispense with a bedstead
+comment = Typo – Please note that the word "bedstead" has been spelled two ways! Please consider this as a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 592: 12/18/2024 dict=AP90, L=518, hw=atikṛtiḥ, user=srhodes
+old = 2 N. of a metre of LB 4 lines, each line containing 25 syllables
+new = 2 N. of a metre of 4 lines, each line containing 25 syllables
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 589: 12/17/2024 dict=AP90, L=26621, hw=viṣayaḥ, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – This appears to  be properly TWO words without hyphenation. Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 584: 12/17/2024 dict=AP90, L=491, hw=atanaṃ, user=srhodes
+old = passer-by
+new = passerby
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 583: 12/17/2024 dict=AP90, L=490, hw=atakaḥ, user=srhodes
+old = passer-by
+new = passerby
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 556: 12/15/2024 dict=AP90, L=459, hw=aṭṭa, user=srhodes
+old = horse-laugh
+new = horselaugh
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, in regard to this correction, please ask yourself, "Do horses laugh?"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 537: 12/14/2024 dict=AP90, L=433, hw=aṃjanā, user=srhodes
+old = Kunjara
+new = Kuñjara
+comment = Typo – Typo – Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction: "nj" ——becomes—— "ñj", as this is required by the rule of Sanskrit Sandhi.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 532: 12/13/2024 dict=AP90, L=406, hw=ajīva, user=srhodes
+old = i. e.
+new = i.e.
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. This is an abbreviation which in a dictionary listing does not contain a space in the middle. I eliminate any "space" that is not needed in the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 531: 12/13/2024 dict=AP90, L=403, hw=ajīta, user=srhodes
+old = two-fold
+new = twofold
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, if you would like to "get radical" you could make this target correction: "-fold" ——becomes—— "fold". Generally the definition of "-fold" is in regard to an amount or number; in either case the word preceding "-fold" will VERY likely be a number. And in all such cases the "hyphen" is simply not needed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 527: 12/13/2024 dict=AP90, L=390, hw=ajānika, user=srhodes
+old = goat-herd
+new = goatherd
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 505: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 504: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 503: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 502: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 501: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 491: 12/10/2024 dict=AP90, L=350, hw=acyuta, user=srhodes
+old = fig-tree
+new = fig tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. My reasoning is simple: We do not write "apple-tree", "orange-tree", "citrus-tree"; and "fig" is not an exception!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 484: 12/10/2024 dict=AP90, L=331, hw=aciṣṇu, user=srhodes
+old = every where
+new = everywhere
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 483: 12/10/2024 dict=AP90, L=331, hw=aciṣṇu, user=srhodes
+old = allpervading
+new = all-pervading
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 482: 12/10/2024 dict=AP90, L=329, hw=acitvas, user=srhodes
+old = acitvas
+new = acikitvas
+comment = Typo – Please note that this is a very serious "print change" based upon the citation given in APTE's FULL DICTIONARY as follows: "अचिकित्वाञ् चिकितुषश्चितदत्र Rv. 1.164.6." MW Dictionary seems to agree, and for my own dictionary I am listing this word as "acikitvas".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 468: 12/09/2024 dict=AP90, L=304, hw=aṃguliḥ, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 432: 12/07/2024 dict=AP90, L=281, hw=aṃganā, user=srhodes
+old = ( LB — yaḥ)
+new = — (yaḥ)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 431: 12/07/2024 dict=AP90, L=281, hw=aṃganā, user=srhodes
+old = woman-kind
+new = womankind
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 423: 12/06/2024 dict=AP90, L=243, hw=aghoṣa, user=srhodes
+old = cow-herds
+new = cow-herds
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, it may be prudent to apply the correction to the singular form: "cow-herd" which will also conveniently take care of the plural form as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 416: 12/05/2024 dict=AP90, L=224, hw=agra, user=srhodes
+old = pot-herb
+new = potherb
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Please keep in mind that a dictionary should serve the Current Era, we are not in business to produce dictionaries that would please the 19th century or a mad-house (I used the hyphen here is as a joke to make the point clear).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 415: 12/05/2024 dict=AP90, L=224, hw=agra, user=srhodes
+old = fore-part
+new = forepart
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Please keep in mind that a dictionary should serve the Current Era, we are not in business to produce dictionaries that would please the 19th century or a mad-house (I used the hyphen here is as a joke to make the point clear).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 414: 12/05/2024 dict=AP90, L=224, hw=agra, user=srhodes
+old = first-born
+new = firstborn
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Please keep in mind that a dictionary should serve the Current Era, we are not in business to produce dictionaries that would please the 19th century or a mad-house (I used the hyphen here is as a joke to make the point clear).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 381: 12/01/2024 dict=AP90, L=181, hw=aga, user=srhodes
+old = the animal śarabha supposed to have LB 8 legs.
+new = the animal śarabha supposed to have 8 legs.
+comment = Line Break Error – Please make the above as one continuous line. Also, the dangling parenthesis here could be fixed as well: "( LB — jaṃ) bitumen. "
+status = PENDING
+------------------------------------------------------------------------
+
+Case 379: 12/01/2024 dict=AP90, L=13240, hw=cāpaḥ, user=srhodes
+old = rain-bow
+new = rainbow
+comment = Typo – Please consider this as a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 376: 12/01/2024 dict=AP90, L=152, hw=akṣuṇṇa, user=srhodes
+old = Unbroken uncurtailed
+new = Unbroken, uncurtailed
+status = PENDING
+------------------------------------------------------------------------
+
+Case 367: 11/30/2024 dict=AP90, L=144, hw=akṣita, user=srhodes
+old = — ūti-vasu (tā°) N. of Indra, giving permanent help, or having unfailing wealth (?) 
+new = — ūti  N. of Indra, giving permanent help, LB — vasu (tā°) N. of Indra, having unfailing wealth (?) 
+comment = Typo – Please note this listing is a point of confusion. MW dictionary seems to make the point clear: There are TWO compounds here, not one: 1) "akṣitoti" and 2) "akṣitāvasu". This deserves to be clarified and marked as a print change. Super-Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 314: 11/24/2024 dict=AP90, L=4, hw=aṃśaḥ, user=srhodes
+old = — avatāraḥ LB — taraṇaṃ
+new = — avatāraḥ LB — avataraṇam
+comment = Typo – Please note that the second compound cite above is properly: "aṁśāvataraṇam" and NOT "aṁśataraṇam" as it is currently listed. In other words the second compound cited above is a "continuation and variation", so to speak, of the first compound "aṁśāvatāraḥ". Also, Please consider this suggestion as a Global Correction: all words in APTE dictionary given as ending in the letter "ṃ" are INCORRECT. No word is allowed to end in the anusvāra unless a word follows which "invokes" the anusvāra (so to speak). Therefore, for any solitary word given in a dictionary, the final letter must be "m" and NOT "ṃ". How is that for a "Jackpot Print Change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 293: 11/20/2024 dict=AP90, L=30870, hw=sthāsnu, user=srhodes
+old = immoveable
+new = immovable
+comment = Typo – Please note that this is a suggested Global "print change" (across all dictionaries). We are "saving" one letter, in the Spirit of Sanskrit.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 193: 11/12/2024 dict=AP90, L=29065, hw=satya, user=srhodes
+old = The abode of Brahman
+new = The abode of Brahmā
+comment = Typo – Please note that this is a suggested "print change". The reasoning is that "Brahman" neuter gender does not have an abode. Therefore the "Brahman" cited here is specifically the masculine gender which refers to "Brahmā (the creator)", so to speak. I have made this correction to my own dictionary just to make things CLEAR, which is the point of a dictionary to begin with. Another option, would be to add "(Brahmā)" in parenthesis.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 146: 11/10/2024 dict=AP90, L=21861, hw=brahmaṃ, user=srhodes
+old = UPDATED CORRECTION
+new = PLEASE IGNORE MY LAST SUBMISSION. I WAS IN FACT INCORRECT!
+comment = Aumsanskrit Error!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 145: 11/10/2024 dict=AP90, L=21861, hw=brahmaṃ, user=srhodes
+old = brahmaṃ
+new = brahma
+comment = Typo – Please note that this Headword Typo follows the printed text. Also, please confer with this statement found in MW dictionary which seems to clarify the matter: "n. (Brahma) is used for the impersonal Spirit". The point is that there is no prātipadika = "brahma"; the prātipadika is "brahman" and the neuter form for nominative and accusative is: "brahma", which apparently is being stated here by APTE. BUT the Headword "brahma" does not exist as a prātipadika, and the form listed as "brahmam" is incorrect.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 46: 11/04/2024 dict=AP90, L=6115, hw=ātman, user=srhodes
+old = pauruṣamātmaśattayā
+new = pauruṣamātmaśaktyā
+comment = Typo – UPDATED CORRECTION; This follows the printed text, and of course has the feminine instrumental singular case ending.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 45: 11/04/2024 dict=AP90, L=6115, hw=ātman, user=srhodes
+old = — mukha a. self-delighted. ( LB — khaṃ) the highest bliss.
+new = — mukha a. self-delighted. LB — (khaṃ) the highest bliss.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 44: 11/04/2024 dict=AP90, L=6115, hw=ātman, user=srhodes
+old = pauruṣamātmaśattayā
+new = pauruṣamātmaśaktayā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 10/31/2024 dict=AP90, L=9956, hw=kaṃkaḥ, user=srhodes
+old = A Vṛ hṇi
+new = A Vṛṣṇi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 10/19/2024 dict=AP90, L=5765, hw=ākūtiḥ, user=srhodes
+old = °para a. accomplishing one's own intentions. 
+new = °pra a. accomplishing one's own intentions. 
+comment = Typo – Please note that this is a possible "print change" that needs confirmation one way or the other. MW dictionary gives this word as "ākūtipra" (where the word 'pra' has been confirmed in this usage). However, I am uncertain if the word 'para' can be used in the sense of  'accomplishing' (unless this is an extension of the authorized sense of the word para: 'following'). Also, have you considered adding all of the APTE compounds as "searchable" Headwords. Of course this would be a HUGE undertaking, but possibly very worthwhile.
+status = PENDING
+------------------------------------------------------------------------
+

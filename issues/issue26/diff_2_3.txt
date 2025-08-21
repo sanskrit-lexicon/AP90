@@ -1,0 +1,2804 @@
+4253a4254,4256
+> <L>294.1<pc>0020-c<k1>aMgiras<k2>aMgiras
+> {{Lbody=294}}
+> <LEND>
+5988a5992,5994
+> <L>481.1<pc>0028-b<k1>aRizWa<k2>aRizWa
+> {{Lbody=481}}
+> <LEND>
+8207a8214,8216
+> <L>762.1<pc>0037-c<k1>atyayika<k2>atyayika
+> {{Lbody=762}}
+> <LEND>
+8667a8677,8679
+> <L>808.1<pc>0039-c<k1>aTo<k2>aTo
+> {{Lbody=808}}
+> <LEND>
+9565a9578,9580
+> <L>902.1<pc>0043-c<k1>aDA<k2>aDA
+> {{Lbody=902}}
+> <LEND>
+9882a9898,9900
+> <L>918.1<pc>0044-c<k1>aDaH<k2>aDaH
+> {{Lbody=918}}
+> <LEND>
+10315a10334,10336
+> <L>935.1<pc>0047-c<k1>aDikAravat<k2>aDikAravat
+> {{Lbody=935}}
+> <LEND>
+11414a11436,11438
+> <L>1082.1<pc>0052-b<k1>aDyayanaM<k2>aDyayanaM
+> {{Lbody=1082}}
+> <LEND>
+11845a11870,11872
+> <L>1124.1<pc>0054-b<k1>aDvanya<k2>aDvanya
+> {{Lbody=1124}}
+> <LEND>
+11877a11905,11907
+> <L>1126.1<pc>0054-c<k1>aDvaryati<k2>aDvaryati
+> {{Lbody=1126}}
+> <LEND>
+12085a12116,12118
+> <L>1152.1<pc>0055-b<k1>anajikA<k2>anajikA
+> {{Lbody=1152}}
+> <LEND>
+12197a12231,12233
+> <L>1168.1<pc>0056-a<k1>anaDyayanaM<k2>anaDyayanaM
+> {{Lbody=1168}}
+> <LEND>
+12804a12841,12843
+> <L>1237.1<pc>0058-c<k1>anarTaka<k2>anarTaka
+> {{Lbody=1237}}
+> <LEND>
+13593a13633,13635
+> <L>1346.1<pc>0062-a<k1>anAmikA<k2>anAmikA
+> {{Lbody=1346}}
+> <LEND>
+14315a14358,14360
+> <L>1443.1<pc>0065-a<k1>anirdaSAha<k2>anirdaSAha
+> {{Lbody=1443}}
+> <LEND>
+14481a14527,14529
+> <L>1467.1<pc>0065-c<k1>anizeDra<k2>anizeDra
+> {{Lbody=1467}}
+> <LEND>
+15853a15902,15904
+> <L>1639.1<pc>0071-c<k1>anudyama<k2>anudyama
+> {{Lbody=1639}}
+> <LEND>
+16143a16195,16197
+> <L>1680.1<pc>0073-a<k1>pAtaH<k2>pAtaH
+> {{Lbody=1680}}
+> <LEND>
+17434a17489,17491
+> <L>1841.1<pc>0078-c<k1>anurAgavat<k2>anurAgavat
+> {{Lbody=1841}}
+> <LEND>
+18834a18892,18894
+> <L>2003.1<pc>0085-a<k1>anusAreRa<k2>anusAreRa
+> {{Lbody=2003}}
+> <LEND>
+19017a19078,19080
+> <L>2035.1<pc>0085-c<k1>anUcAna<k2>anUcAna
+> {{Lbody=2035}}
+> <LEND>
+19059a19123,19125
+> <L>2042.1<pc>0085-c<k1>anUdita<k2>anUdita
+> {{Lbody=2042}}
+> <LEND>
+20584a20651,20653
+> <L>2109.1<pc>0093-c<k1>aMtarAlakaM<k2>aMtarAlakaM
+> {{Lbody=2109}}
+> <LEND>
+23168a23238,23240
+> <L>2340.1<pc>0106-a<k1>tika<k2>tika
+> {{Lbody=2340}}
+> <LEND>
+24211a24284,24286
+> <L>2476.1<pc>0110-c<k1>aparihArya<k2>aparihArya
+> {{Lbody=2476}}
+> <LEND>
+24336a24412,24414
+> <L>2496.1<pc>0111-a<k1>apalApaH<k2>apalApaH
+> {{Lbody=2496}}
+> <LEND>
+25332a25411,25413
+> <L>2633.1<pc>0115-b<k1>apAkftiH<k2>apAkftiH
+> {{Lbody=2633}}
+> <LEND>
+25404a25486,25488
+> <L>2641.1<pc>0115-c<k1>apAMc<k2>apAMc
+> {{Lbody=2641}}
+> <LEND>
+26103a26188,26190
+> <L>2732.1<pc>0118-c<k1>apUpya<k2>apUpya
+> {{Lbody=2732}}
+> <LEND>
+26461a26549,26551
+> <L>2763.1<pc>0120-b<k1>apohanIya<k2>apohanIya
+> {{Lbody=2763}}
+> <LEND>
+26520a26611,26613
+> <L>2772.1<pc>0120-c<k1>apnas<k2>apnas
+> {{Lbody=2772}}
+> <LEND>
+26534a26628,26630
+> <L>2775.1<pc>0120-c<k1>appittaM<k2>appittaM
+> {{Lbody=2775}}
+> <LEND>
+26679a26776,26778
+> <L>2802.1<pc>0121-b<k1>aprajAta<k2>aprajAta
+> {{Lbody=2802}}
+> <LEND>
+27047a27147,27149
+> <L>2863.1<pc>0122-c<k1>apramUrcCita<k2>apramUrcCita
+> {{Lbody=2863}}
+> <LEND>
+27127a27230,27232
+> <L>2875.1<pc>0123-a<k1>apravartin<k2>apravartin
+> {{Lbody=2875}}
+> <LEND>
+27964a28070,28072
+> <L>2988.1<pc>0126-c<k1>aBAvya<k2>aBAvya
+> {{Lbody=2988}}
+> <LEND>
+28266a28375,28377
+> <L>3031.1<pc>0128-a<k1>aBigarjitaM<k2>aBigarjitaM
+> {{Lbody=3031}}
+> <LEND>
+30600a30712,30714
+> <L>3327.1<pc>0138-a<k1>aBivAnyavatsA<k2>aBivAnyavatsA
+> {{Lbody=3327}}
+> <LEND>
+31807a31922,31924
+> <L>3518.1<pc>0142-c<k1>aBIpsu<k2>aBIpsu
+> {{Lbody=3518}}
+> <LEND>
+32016a32134,32136
+> <L>3555.1<pc>0143-b<k1>aBEdika<k2>aBEdika
+> {{Lbody=3555}}
+> <LEND>
+32202a32323,32325
+> <L>3582.1<pc>0144-b<k1>aByAMta<k2>aByAMta
+> {{Lbody=3582}}
+> <LEND>
+33554a33678,33680
+> <L>3776.1<pc>0150-a<k1>amarta<k2>amarta
+> {{Lbody=3776}}
+> <LEND>
+35834a35961,35963
+> <L>4026.1<pc>0160-b<k1>aramamARa<k2>aramamARa
+> {{Lbody=4026}}
+> <LEND>
+35928a36058,36060
+> <L>4040.1<pc>0160-c<k1>arAgin<k2>arAgin
+> {{Lbody=4040}}
+> <LEND>
+36083a36216,36218
+> <L>4058.1<pc>0161-b<k1>arikTIya<k2>arikTIya
+> {{Lbody=4058}}
+> <LEND>
+36214a36350,36352
+> <L>4077.1<pc>0162-a<k1>arucya<k2>arucya
+> {{Lbody=4077}}
+> <LEND>
+36315a36454,36456
+> <L>4082.1<pc>0162-b<k1>aruRIkfta<k2>aruRIkfta
+> {{Lbody=4082}}
+> <LEND>
+36427a36569,36571
+> <L>4096.1<pc>0162-c<k1>arUkzRa<k2>arUkzRa
+> {{Lbody=4096}}
+> <LEND>
+36642a36787,36789
+> <L>4119.1<pc>0163-c<k1>arkya<k2>arkya
+> {{Lbody=4119}}
+> <LEND>
+36791a36939,36941
+> <L>4136.1<pc>0164-b<k1>arcya<k2>arcya
+> {{Lbody=4136}}
+> <LEND>
+40494a40645,40647
+> <L>4545.1<pc>0181-a<k1>avattin<k2>avattin
+> {{Lbody=4545}}
+> <LEND>
+40885a41039,41041
+> <L>4601.1<pc>0182-c<k1>avaDarya<k2>avaDarya
+> {{Lbody=4601}}
+> <LEND>
+41468a41625,41627
+> <L>4688.1<pc>0185-a<k1>avamAnya<k2>avamAnya
+> {{Lbody=4688}}
+> <LEND>
+41968a42128,42130
+> <L>4757.1<pc>0187-b<k1>avarzaRaM<k2>avarzaRaM
+> {{Lbody=4757}}
+> <LEND>
+43515a43678,43680
+> <L>4981.1<pc>0193-c<k1>avArayitavya<k2>avArayitavya
+> {{Lbody=4981}}
+> <LEND>
+45091a45257,45259
+> <L>5220.1<pc>0200-b<k1>aSanAyuka<k2>aSanAyuka
+> {{Lbody=5220}}
+> <LEND>
+45133a45302,45304
+> <L>5229.1<pc>0200-b<k1>aSaMkita<k2>aSaMkita
+> {{Lbody=5229}}
+> <LEND>
+45607a45779,45781
+> <L>5290.1<pc>0202-b<k1>aSmavat<k2>aSmavat
+> {{Lbody=5290}}
+> <LEND>
+46563a46738,46740
+> <L>5361.1<pc>0207-a<k1>azwakin<k2>azwakin
+> {{Lbody=5361}}
+> <LEND>
+46940a47118,47120
+> <L>5386.1<pc>0209-a<k1>astA<k2>astA
+> {{Lbody=5386}}
+> <LEND>
+47298a47479,47481
+> <L>5436.1<pc>0210-b<k1>asatkriyA<k2>asatkriyA
+> {{Lbody=5436}}
+> <LEND>
+47636a47820,47822
+> <L>5487.1<pc>0211-c<k1>asaMBAvin<k2>asaMBAvin
+> {{Lbody=5487}}
+> <LEND>
+47646a47833,47835
+> <L>5489.1<pc>0211-c<k1>asaMBAvya<k2>asaMBAvya
+> {{Lbody=5489}}
+> <LEND>
+47845a48035,48037
+> <L>5522.1<pc>0212-b<k1>asADya<k2>asADya
+> {{Lbody=5522}}
+> <LEND>
+48263a48456,48458
+> <L>5562.1<pc>0214-b<k1>asUtika<k2>asUtika
+> {{Lbody=5562}}
+> <LEND>
+48452a48648,48650
+> <L>5590.1<pc>0215-b<k1>astu<k2>astu
+> {{Lbody=5590}}
+> <LEND>
+48829a49028,49030
+> <L>5647.1<pc>0216-c<k1>astreDat<k2>astreDat
+> {{Lbody=5647}}
+> <LEND>
+48975a49177,49179
+> <L>5672.1<pc>0217-b<k1>ahaMtiH<k2>ahaMtiH
+> {{Lbody=5672}}
+> <LEND>
+49132a49337,49339
+> <L>5679.1<pc>0218-a<k1>ahArya<k2>ahArya
+> {{Lbody=5679}}
+> <LEND>
+49505a49713,49715
+> <L>5714.1<pc>0220-b<k1>ahrayARa<k2>ahrayARa
+> {{Lbody=5714}}
+> <LEND>
+49633a49844,49846
+> <L>5727.1<pc>0220-1<k1>AkaMpra<k2>AkaMpra
+> {{Lbody=5727}}
+> <LEND>
+49895a50109,50111
+> <L>5752.1<pc>0222-a<k1>AkASya<k2>AkASya
+> {{Lbody=5752}}
+> <LEND>
+49899a50116,50118
+> <L>5753.1<pc>0222-a<k1>AkiMcanyaM<k2>AkiMcanyaM
+> {{Lbody=5753}}
+> <LEND>
+50625a50845,50847
+> <L>5838.1<pc>0225-a<k1>AKanaH<k2>AKanaH
+> {{Lbody=5838}}
+> <LEND>
+50979a51202,51204
+> <L>5870.1<pc>0226-c<k1>AgAmin<k2>AgAmin
+> {{Lbody=5870}}
+> <LEND>
+52162a52388,52390
+> <L>6042.1<pc>0231-c<k1>Awikya<k2>Awikya
+> {{Lbody=6042}}
+> <LEND>
+52225a52454,52456
+> <L>6051.1<pc>0231-c<k1>AQakIna<k2>AQakIna
+> {{Lbody=6051}}
+> <LEND>
+52958a53190,53192
+> <L>6117.1<pc>0235-b<k1>AtmIya<k2>AtmIya
+> {{Lbody=6117}}
+> <LEND>
+53002a53237,53239
+> <L>6123.1<pc>0235-b<k1>Atmanvin<k2>Atmanvin
+> {{Lbody=6123}}
+> <LEND>
+53128a53366,53368
+> <L>6141.1<pc>0236-a<k1>AdarSa<k2>AdarSa
+> {{Lbody=6141}}
+> <LEND>
+53203a53444,53446
+> <L>6145.1<pc>0236-b<k1>Atta<k2>Atta
+> {{Lbody=6145}}
+> <LEND>
+53363a53607,53609
+> <L>6157.1<pc>0237-a<k1>AdO<k2>AdO
+> {{Lbody=6157}}
+> <LEND>
+53565a53812,53814
+> <L>6177.1<pc>0238-a<k1>AdIpta<k2>AdIpta
+> {{Lbody=6177}}
+> <LEND>
+53615a53865,53867
+> <L>6181.1<pc>0238-b<k1>Adartavya<k2>Adartavya
+> {{Lbody=6181}}
+> <LEND>
+53686a53939,53941
+> <L>6193.1<pc>0238-c<k1>Aduri<k2>Aduri
+> {{Lbody=6193}}
+> <LEND>
+54467a54723,54725
+> <L>6301.1<pc>0242-a<k1>AnayanaM<k2>AnayanaM
+> {{Lbody=6301}}
+> <LEND>
+54737a54996,54998
+> <L>6350.1<pc>0243-a<k1>AMtaryaM<k2>AMtaryaM
+> {{Lbody=6350}}
+> <LEND>
+55292a55554,55556
+> <L>6422.1<pc>0245-b<k1>ApIna<k2>ApIna
+> {{Lbody=6422}}
+> <LEND>
+55419a55684,55686
+> <L>6444.1<pc>0245-c<k1>Apya<k2>Apya
+> {{Lbody=6444}}
+> <LEND>
+55813a56081,56083
+> <L>6502.1<pc>0247-b<k1>ABicArika<k2>ABicArika
+> {{Lbody=6502}}
+> <LEND>
+55868a56139,56141
+> <L>6512.1<pc>0247-c<k1>ABirUpyaM<k2>ABirUpyaM
+> {{Lbody=6512}}
+> <LEND>
+56254a56528,56530
+> <L>6567.1<pc>0249-b<k1>AmikzIyaM<k2>AmikzIyaM
+> {{Lbody=6567}}
+> <LEND>
+57012a57289,57291
+> <L>6676.1<pc>0252-b<k1>AyuDIya<k2>AyuDIya
+> {{Lbody=6676}}
+> <LEND>
+57439a57719,57721
+> <L>6727.1<pc>0254-b<k1>ArADya<k2>ArADya
+> {{Lbody=6727}}
+> <LEND>
+58127a58410,58412
+> <L>6808.1<pc>0257-b<k1>AryikA<k2>AryikA
+> {{Lbody=6808}}
+> <LEND>
+58803a59089,59091
+> <L>6909.1<pc>0260-a<k1>AvaraRa<k2>AvaraRa
+> {{Lbody=6909}}
+> <LEND>
+59053a59342,59344
+> <L>6946.1<pc>0261-a<k1>AviDa<k2>AviDa
+> {{Lbody=6946}}
+> <LEND>
+59576a59868,59870
+> <L>7013.1<pc>0263-b<k1>ASaMsin<k2>ASaMsin
+> {{Lbody=7013}}
+> <LEND>
+59771a60066,60068
+> <L>7039.1<pc>0264-b<k1>ASin<k2>ASin
+> {{Lbody=7039}}
+> <LEND>
+60427a60725,60727
+> <L>7111.1<pc>0267-a<k1>AH<k2>AH
+> {{Lbody=7111}}
+> <LEND>
+60523a60824,60826
+> <L>7118.1<pc>0267-c<k1>AsaH<k2>AsaH
+> {{Lbody=7118}}
+> <LEND>
+60705a61009,61011
+> <L>7134.1<pc>0268-c<k1>AsAdya<k2>AsAdya
+> {{Lbody=7134}}
+> <LEND>
+61981a62288,62290
+> <L>7302.1<pc>0274-b<k1>iMK<k2>iMK
+> {{Lbody=7302}}
+> <LEND>
+62054a62364,62366
+> <L>7311.1<pc>0274-c<k1>icCA<k2>icCA
+> {{Lbody=7311}}
+> <LEND>
+62200a62513,62515
+> <L>7330.1<pc>0275-a<k1>itaratra<k2>itaratra
+> {{Lbody=7330}}
+> <LEND>
+62487a62803,62805
+> <L>7353.1<pc>0276-c<k1>idDa<k2>idDa
+> {{Lbody=7353}}
+> <LEND>
+63173a63492,63494
+> <L>7397.1<pc>0279-c<k1>iyattvaM<k2>iyattvaM
+> {{Lbody=7397}}
+> <LEND>
+63346a63668,63670
+> <L>7428.1<pc>0280-c<k1>illiSaH<k2>illiSaH
+> {{Lbody=7428}}
+> <LEND>
+63817a64142,64144
+> <L>7487.1<pc>0282-1<k1>IMK<k2>IMK
+> {{Lbody=7487}}
+> <LEND>
+64009a64337,64339
+> <L>7517.1<pc>0283-b<k1>Irkzy<k2>Irkzy
+> {{Lbody=7517}}
+> <LEND>
+64181a64512,64514
+> <L>7536.1<pc>0284-b<k1>izARan<k2>izARan
+> {{Lbody=7536}}
+> <LEND>
+64322a64656,64658
+> <L>7552.1<pc>0285-a<k1>ukti<k2>ukti
+> {{Lbody=7552}}
+> <LEND>
+64423a64760,64762
+> <L>7564.1<pc>0285-b<k1>uMK<k2>uMK
+> {{Lbody=7564}}
+> <LEND>
+64440a64780,64782
+> <L>7567.1<pc>0285-b<k1>uKalaH<k2>uKalaH
+> {{Lbody=7567}}
+> <LEND>
+65831a66174,66176
+> <L>7760.1<pc>0291-b<k1>tAM<k2>tAM
+> {{Lbody=7760}}
+> <LEND>
+68034a68380,68382
+> <L>8008.1<pc>0301-b<k1>udaMc<k2>udaMc
+> {{Lbody=8008}}
+> <LEND>
+68242a68591,68593
+> <L>8032.1<pc>0302-b<k1>udayana<k2>udayana
+> {{Lbody=8032}}
+> <LEND>
+68757a69109,69111
+> <L>8083.1<pc>0304-c<k1>udIcya<k2>udIcya
+> {{Lbody=8083}}
+> <LEND>
+68923a69278,69280
+> <L>8104.1<pc>0305-c<k1>udgAra<k2>udgAra
+> {{Lbody=8104}}
+> <LEND>
+69093a69451,69453
+> <L>8125.1<pc>0306-b<k1>udgrIvin<k2>udgrIvin
+> {{Lbody=8125}}
+> <LEND>
+69481a69842,69844
+> <L>8180.1<pc>0308-a<k1>udDAra<k2>udDAra
+> {{Lbody=8180}}
+> <LEND>
+69659a70023,70025
+> <L>8201.1<pc>0308-c<k1>udDAraka<k2>udDAraka
+> {{Lbody=8201}}
+> <LEND>
+69818a70185,70187
+> <L>8224.1<pc>0309-b<k1>udBAvanA<k2>udBAvanA
+> {{Lbody=8224}}
+> <LEND>
+69836a70206,70208
+> <L>8227.1<pc>0309-c<k1>udBAsura<k2>udBAsura
+> {{Lbody=8227}}
+> <LEND>
+70201a70574,70576
+> <L>8282.1<pc>0311-a<k1>udvAMtiH<k2>udvAMtiH
+> {{Lbody=8282}}
+> <LEND>
+70756a71132,71134
+> <L>8359.1<pc>0313-b<k1>unnAyaH<k2>unnAyaH
+> {{Lbody=8359}}
+> <LEND>
+70810a71189,71191
+> <L>8367.1<pc>0313-c<k1>unmaMT<k2>unmaMT
+> {{Lbody=8367}}
+> <LEND>
+71565a71947,71949
+> <L>8463.1<pc>0317-a<k1>upakramya<k2>upakramya
+> {{Lbody=8463}}
+> <LEND>
+72242a72627,72629
+> <L>8546.1<pc>0320-a<k1>upajalpitaM<k2>upajalpitaM
+> {{Lbody=8546}}
+> <LEND>
+73451a73839,73841
+> <L>8701.1<pc>0325-b<k1>upapfc<k2>upapfc
+> {{Lbody=8701}}
+> <LEND>
+74599a74990,74992
+> <L>8859.1<pc>0330-b<k1>upavasaTya<k2>upavasaTya
+> {{Lbody=8859}}
+> <LEND>
+76328a76722,76724
+> <L>9104.1<pc>0337-c<k1>upAyana<k2>upAyana
+> {{Lbody=9104}}
+> <LEND>
+76739a77136,77138
+> <L>9167.1<pc>0339-b<k1>upozitaM<k2>upozitaM
+> {{Lbody=9167}}
+> <LEND>
+76776a77176,77178
+> <L>9173.1<pc>0339-c<k1>uMB<k2>uMB
+> {{Lbody=9173}}
+> <LEND>
+77025a77428,77430
+> <L>9204.1<pc>0340-c<k1>urasila<k2>urasila
+> {{Lbody=9204}}
+> <LEND>
+77611a78017,78019
+> <L>9292.1<pc>0343-a<k1>ulluMWA<k2>ulluMWA
+> {{Lbody=9292}}
+> <LEND>
+77631a78040,78042
+> <L>9297.1<pc>0343-a<k1>ulvaRa<k2>ulvaRa
+> {{Lbody=9297}}
+> <LEND>
+77785a78197,78199
+> <L>9320.1<pc>0343-c<k1>uzmakaH<k2>uzmakaH
+> {{Lbody=9320}}
+> <LEND>
+77907a78322,78324
+> <L>9336.1<pc>0344-c<k1>uzpa<k2>uzpa
+> {{Lbody=9336}}
+> <LEND>
+77944a78362,78364
+> <L>9342.1<pc>0344-c<k1>uhaha<k2>uhaha
+> {{Lbody=9342}}
+> <LEND>
+78560a78981,78983
+> <L>9416.1<pc>0347-1<k1>fkvan<k2>fkvan
+> {{Lbody=9416}}
+> <LEND>
+78664a79088,79090
+> <L>9427.1<pc>0348-a<k1>fgmin<k2>fgmin
+> {{Lbody=9427}}
+> <LEND>
+78749a79176,79178
+> <L>9441.1<pc>0348-b<k1>fjuka<k2>fjuka
+> {{Lbody=9441}}
+> <LEND>
+79074a79504,79506
+> <L>9475.1<pc>0349-c<k1>ftvya<k2>ftvya
+> {{Lbody=9475}}
+> <LEND>
+80226a80659,80661
+> <L>9549.1<pc>0356-a<k1>ekaRaH<k2>ekaRaH
+> {{Lbody=9549}}
+> <LEND>
+80454a80890,80892
+> <L>9583.1<pc>0357-a<k1>ervArukaH<k2>ervArukaH
+> {{Lbody=9583}}
+> <LEND>
+80712a81151,81153
+> <L>9621.1<pc>0358-a<k1>EkasvaryaM<k2>EkasvaryaM
+> {{Lbody=9621}}
+> <LEND>
+81220a81662,81664
+> <L>9707.1<pc>0360-b<k1>ojasya<k2>ojasya
+> {{Lbody=9707}}
+> <LEND>
+81226a81671,81673
+> <L>9708.1<pc>0360-b<k1>ojasvin<k2>ojasvin
+> {{Lbody=9708}}
+> <LEND>
+81251a81699,81701
+> <L>9714.1<pc>0360-b<k1>oqI<k2>oqI
+> {{Lbody=9714}}
+> <LEND>
+81310a81761,81763
+> <L>9723.1<pc>0360-c<k1>odman<k2>odman
+> {{Lbody=9723}}
+> <LEND>
+81511a81965,81967
+> <L>9751.1<pc>0361-1<k1>OkzaM<k2>OkzaM
+> {{Lbody=9751}}
+> <LEND>
+81536a81993,81995
+> <L>9755.1<pc>0361-1<k1>ocitI<k2>ocitI
+> {{Lbody=9755}}
+> <LEND>
+81752a82212,82214
+> <L>9796.1<pc>0362-c<k1>OdAsyaM<k2>OdAsyaM
+> {{Lbody=9796}}
+> <LEND>
+82283a82746,82748
+> <L>9891.1<pc>0364-c<k1>OSanasa<k2>OSanasa
+> {{Lbody=9891}}
+> <LEND>
+82356a82822,82824
+> <L>9904.1<pc>0365-a<k1>Ozika<k2>Ozika
+> {{Lbody=9904}}
+> <LEND>
+82387a82856,82858
+> <L>9910.1<pc>0365-c<k1>OzmyaM<k2>OzmyaM
+> {{Lbody=9910}}
+> <LEND>
+82803a83275,83277
+> <L>9957.1<pc>0367-a<k1>kaMkawakaH<k2>kaMkawakaH
+> {{Lbody=9957}}
+> <LEND>
+83173a83648,83650
+> <L>10008.1<pc>0368-c<k1>kaculI<k2>kaculI
+> {{Lbody=10008}}
+> <LEND>
+83198a83676,83678
+> <L>10013.1<pc>0368-c<k1>kaMjAraH<k2>kaMjAraH
+> {{Lbody=10013}}
+> <LEND>
+83209a83690,83692
+> <L>10016.1<pc>0368-c<k1>kaMw<k2>kaMw
+> {{Lbody=10016}}
+> <LEND>
+85015a85499,85501
+> <L>10241.1<pc>0376-c<k1>kanyikA<k2>kanyikA
+> {{Lbody=10241}}
+> <LEND>
+85069a85556,85558
+> <L>10251.1<pc>0377-a<k1>kapardakaH<k2>kapardakaH
+> {{Lbody=10251}}
+> <LEND>
+85241a85731,85733
+> <L>10268.1<pc>0377-c<k1>kapuzwakA<k2>kapuzwakA
+> {{Lbody=10268}}
+> <LEND>
+85317a85810,85812
+> <L>10278.1<pc>0378-a<k1>kaPoRiH<k2>kaPoRiH
+> {{Lbody=10278}}
+> <LEND>
+85871a86367,86369
+> <L>10341.1<pc>0380-b<k1>karaMbita<k2>karaMbita
+> {{Lbody=10341}}
+> <LEND>
+86161a86660,86662
+> <L>10380.1<pc>0381-c<k1>karkaSI<k2>karkaSI
+> {{Lbody=10380}}
+> <LEND>
+86460a86962,86964
+> <L>10405.1<pc>0383-a<k1>kartarI<k2>kartarI
+> {{Lbody=10405}}
+> <LEND>
+87883a88388,88390
+> <L>10560.1<pc>0389-c<k1>kA<k2>kA
+> {{Lbody=10560}}
+> <LEND>
+88330a88838,88840
+> <L>10619.1<pc>0391-b<k1>kAkiRikA<k2>kAkiRikA
+> {{Lbody=10619}}
+> <LEND>
+88448a88959,88961
+> <L>10637.1<pc>0392-a<k1>kAcanakaM<k2>kAcanakaM
+> {{Lbody=10637}}
+> <LEND>
+88890a89404,89406
+> <L>10701.1<pc>0393-c<k1>kApAlika<k2>kApAlika
+> {{Lbody=10701}}
+> <LEND>
+89518a90035,90037
+> <L>10753.1<pc>0396-c<k1>kArayizRu<k2>kArayizRu
+> {{Lbody=10753}}
+> <LEND>
+91381a91901,91903
+> <L>10964.1<pc>0405-a<k1>kIdfSa<k2>kIdfSa
+> {{Lbody=10964}}
+> <LEND>
+91943a92466,92468
+> <L>11042.1<pc>0407-b<k1>kuwuMbakaM<k2>kuwuMbakaM
+> {{Lbody=11042}}
+> <LEND>
+91961a92487,92489
+> <L>11043.1<pc>0407-c<k1>kuwuMbin<k2>kuwuMbin
+> {{Lbody=11043}}
+> <LEND>
+92316a92845,92847
+> <L>11105.1<pc>0409-a<k1>kutUH<k2>kutUH
+> {{Lbody=11105}}
+> <LEND>
+92363a92895,92897
+> <L>11111.1<pc>0409-b<k1>kutsA<k2>kutsA
+> {{Lbody=11111}}
+> <LEND>
+92695a93230,93232
+> <L>11159.1<pc>0410-b<k1>kumArI<k2>kumArI
+> {{Lbody=11159}}
+> <LEND>
+92897a93435,93437
+> <L>11178.1<pc>0411-b<k1>kuraMkuraH<k2>kuraMkuraH
+> {{Lbody=11178}}
+> <LEND>
+93044a93585,93587
+> <L>11208.1<pc>0412-a<k1>kurdana<k2>kurdana
+> {{Lbody=11208}}
+> <LEND>
+93701a94245,94247
+> <L>11297.1<pc>0414-c<k1>kusIdin<k2>kusIdin
+> {{Lbody=11297}}
+> <LEND>
+93852a94399,94401
+> <L>11317.1<pc>0415-b<k1>kuhUH<k2>kuhUH
+> {{Lbody=11317}}
+> <LEND>
+93884a94434,94436
+> <L>11324.1<pc>0415-c<k1>kucI<k2>kucI
+> {{Lbody=11324}}
+> <LEND>
+94997a95550,95552
+> <L>11423.1<pc>0420-c<k1>kfmila<k2>kfmila
+> {{Lbody=11423}}
+> <LEND>
+95995a96551,96553
+> <L>11539.1<pc>0425-b<k1>koMkaRaH<k2>koMkaRaH
+> {{Lbody=11539}}
+> <LEND>
+96037a96596,96598
+> <L>11546.1<pc>0425-b<k1>kowavI<k2>kowavI
+> {{Lbody=11546}}
+> <LEND>
+96210a96772,96774
+> <L>11570.1<pc>0426-a<k1>koyazwikaH<k2>koyazwikaH
+> {{Lbody=11570}}
+> <LEND>
+96463a97028,97030
+> <L>11604.1<pc>0427-b<k1>kOMkaRaH<k2>kOMkaRaH
+> {{Lbody=11604}}
+> <LEND>
+96487a97055,97057
+> <L>11607.1<pc>0427-b<k1>kOwikaH<k2>kOwikaH
+> {{Lbody=11607}}
+> <LEND>
+96712a97283,97285
+> <L>11640.1<pc>0428-b<k1>kOmodI<k2>kOmodI
+> {{Lbody=11640}}
+> <LEND>
+96861a97435,97437
+> <L>11661.1<pc>0428-c<k1>kOSalI<k2>kOSalI
+> {{Lbody=11661}}
+> <LEND>
+97200a97777,97779
+> <L>11699.1<pc>0430-b<k1>kramukaH<k2>kramukaH
+> {{Lbody=11699}}
+> <LEND>
+97945a98525,98527
+> <L>11797.1<pc>0433-c<k1>kloman<k2>kloman
+> {{Lbody=11797}}
+> <LEND>
+98040a98623,98625
+> <L>11811.1<pc>0434-a<k1>kzaj<k2>kzaj
+> {{Lbody=11811}}
+> <LEND>
+98501a99087,99089
+> <L>11869.1<pc>0436-a<k1>kzavaTuH<k2>kzavaTuH
+> {{Lbody=11869}}
+> <LEND>
+98904a99493,99495
+> <L>11920.1<pc>0437-c<k1>kzIba<k2>kzIba
+> {{Lbody=11920}}
+> <LEND>
+98954a99546,99548
+> <L>11921.1<pc>0437-c<k1>raM<k2>raM
+> {{Lbody=11921}}
+> <LEND>
+99224a99819,99821
+> <L>11965.1<pc>0439-a<k1>kzurI<k2>kzurI
+> {{Lbody=11965}}
+> <LEND>
+99410a100008,100010
+> <L>11987.1<pc>0440-a<k1>kzoRI<k2>kzoRI
+> {{Lbody=11987}}
+> <LEND>
+99760a100361,100363
+> <L>12037.1<pc>0441-c<k1>KawI<k2>KawI
+> {{Lbody=12037}}
+> <LEND>
+99808a100412,100414
+> <L>12047.1<pc>0441-c<k1>KawvikA<k2>KawvikA
+> {{Lbody=12047}}
+> <LEND>
+99819a100426,100428
+> <L>12050.1<pc>0441-c<k1>KaqI<k2>KaqI
+> {{Lbody=12050}}
+> <LEND>
+99965a100575,100577
+> <L>12063.1<pc>0442-b<k1>KaMqayitavya<k2>KaMqayitavya
+> {{Lbody=12063}}
+> <LEND>
+100227a100840,100842
+> <L>12109.1<pc>0443-b<k1>KarparI<k2>KarparI
+> {{Lbody=12109}}
+> <LEND>
+100460a101076,101078
+> <L>12149.1<pc>0444-b<k1>KAMqikaH<k2>KAMqikaH
+> {{Lbody=12149}}
+> <LEND>
+100463a101082,101084
+> <L>12150.1<pc>0444-b<k1>KAtra<k2>KAtra
+> {{Lbody=12150}}
+> <LEND>
+101130a101752,101754
+> <L>12242.1<pc>0447-b<k1>gaqayitnuH<k2>gaqayitnuH
+> {{Lbody=12242}}
+> <LEND>
+102243a102868,102870
+> <L>12336.1<pc>0452-c<k1>gaMBArI<k2>gaMBArI
+> {{Lbody=12336}}
+> <LEND>
+102259a102887,102889
+> <L>12339.1<pc>0452-c<k1>gaMBIrikA<k2>gaMBIrikA
+> {{Lbody=12339}}
+> <LEND>
+102427a103058,103060
+> <L>12361.1<pc>0453-b<k1>garjiH<k2>garjiH
+> {{Lbody=12361}}
+> <LEND>
+102488a103122,103124
+> <L>12370.1<pc>0453-c<k1>garDita<k2>garDita
+> {{Lbody=12370}}
+> <LEND>
+102824a103461,103463
+> <L>12394.1<pc>0455-b<k1>galaMtI<k2>galaMtI
+> {{Lbody=12394}}
+> <LEND>
+103229a103869,103871
+> <L>12458.1<pc>0457-a<k1>gATaka<k2>gATaka
+> {{Lbody=12458}}
+> <LEND>
+103255a103898,103900
+> <L>12461.1<pc>0457-a<k1>gADin<k2>gADin
+> {{Lbody=12461}}
+> <LEND>
+103765a104411,104413
+> <L>12524.1<pc>0459-b<k1>giliH<k2>giliH
+> {{Lbody=12524}}
+> <LEND>
+104766a105415,105417
+> <L>12621.1<pc>0464-a<k1>gurvI<k2>gurvI
+> {{Lbody=12621}}
+> <LEND>
+104790a105442,105444
+> <L>12628.1<pc>0464-a<k1>guluMCaH<k2>guluMCaH
+> {{Lbody=12628}}
+> <LEND>
+105000a105655,105657
+> <L>12658.1<pc>0464-c<k1>gfMj<k2>gfMj
+> {{Lbody=12658}}
+> <LEND>
+106986a107644,107646
+> <L>12830.1<pc>0474-b<k1>grEzmika<k2>grEzmika
+> {{Lbody=12830}}
+> <LEND>
+108370a109031,109033
+> <L>12998.1<pc>0481-a<k1>cakrAMkI<k2>cakrAMkI
+> {{Lbody=12998}}
+> <LEND>
+108599a109263,109265
+> <L>13029.1<pc>0482-a<k1>cawikA<k2>cawikA
+> {{Lbody=13029}}
+> <LEND>
+108629a109296,109298
+> <L>13033.1<pc>0482-a<k1>cawullola<k2>cawullola
+> {{Lbody=13033}}
+> <LEND>
+109343a110013,110015
+> <L>13101.1<pc>0485-c<k1>capewikA<k2>capewikA
+> {{Lbody=13101}}
+> <LEND>
+109731a110404,110406
+> <L>13144.1<pc>0487-b<k1>carcarI<k2>carcarI
+> {{Lbody=13144}}
+> <LEND>
+109744a110420,110422
+> <L>13146.1<pc>0487-b<k1>carcikA<k2>carcikA
+> {{Lbody=13146}}
+> <LEND>
+109848a110527,110529
+> <L>13163.1<pc>0487-c<k1>carmAraH<k2>carmAraH
+> {{Lbody=13163}}
+> <LEND>
+110146a110828,110830
+> <L>13199.1<pc>0489-a<k1>kaM<k2>kaM
+> {{Lbody=13199}}
+> <LEND>
+111541a112226,112228
+> <L>13364.1<pc>0495-b<k1>ciriMwI<k2>ciriMwI
+> {{Lbody=13364}}
+> <LEND>
+111771a112459,112461
+> <L>13403.1<pc>0496-b<k1>cukrikA<k2>cukrikA
+> {{Lbody=13403}}
+> <LEND>
+111933a112624,112626
+> <L>13434.1<pc>0497-a<k1>bA<k2>bA
+> {{Lbody=13434}}
+> <LEND>
+112068a112762,112764
+> <L>13460.1<pc>0497-b<k1>cUcUkaM<k2>cUcUkaM
+> {{Lbody=13460}}
+> <LEND>
+112105a112802,112804
+> <L>13465.1<pc>0497-b<k1>cUqin<k2>cUqin
+> {{Lbody=13465}}
+> <LEND>
+112681a113381,113383
+> <L>13559.1<pc>0500-a<k1>CatrAkaH<k2>CatrAkaH
+> {{Lbody=13559}}
+> <LEND>
+113343a114046,114048
+> <L>13653.1<pc>0502-c<k1>Cekila<k2>Cekila
+> {{Lbody=13653}}
+> <LEND>
+113410a114116,114118
+> <L>13667.1<pc>0503-a<k1>jakziH<k2>jakziH
+> {{Lbody=13667}}
+> <LEND>
+113594a114303,114305
+> <L>13689.1<pc>0504-a<k1>jaMj<k2>jaMj
+> {{Lbody=13689}}
+> <LEND>
+113833a114545,114547
+> <L>13719.1<pc>0505-a<k1>jatUkA<k2>jatUkA
+> {{Lbody=13719}}
+> <LEND>
+114260a114975,114977
+> <L>13759.1<pc>0507-a<k1>jaMB<k2>jaMB
+> {{Lbody=13759}}
+> <LEND>
+114887a115605,115607
+> <L>13812.1<pc>0509-c<k1>jalejAtaM<k2>jalejAtaM
+> {{Lbody=13812}}
+> <LEND>
+114975a115696,115698
+> <L>13829.1<pc>0510-a<k1>javanI<k2>javanI
+> {{Lbody=13829}}
+> <LEND>
+115142a115866,115868
+> <L>13859.1<pc>0510-c<k1>jAMgalikaH<k2>jAMgalikaH
+> {{Lbody=13859}}
+> <LEND>
+115152a115879,115881
+> <L>13861.1<pc>0510-c<k1>jAMgulikaH<k2>jAMgulikaH
+> {{Lbody=13861}}
+> <LEND>
+116111a116841,116843
+> <L>13974.1<pc>0515-a<k1>jIraRaH<k2>jIraRaH
+> {{Lbody=13974}}
+> <LEND>
+116410a117143,117145
+> <L>13999.1<pc>0516-b<k1>jugupsA<k2>jugupsA
+> {{Lbody=13999}}
+> <LEND>
+116649a117385,117387
+> <L>14040.1<pc>0517-b<k1>jfMB<k2>jfMB
+> {{Lbody=14040}}
+> <LEND>
+116818a117557,117559
+> <L>14067.1<pc>0518-a<k1>jozit<k2>jozit
+> {{Lbody=14067}}
+> <LEND>
+116877a117619,117621
+> <L>14071.1<pc>0518-b<k1>jYapta<k2>jYapta
+> {{Lbody=14071}}
+> <LEND>
+117234a117979,117981
+> <L>14110.1<pc>0520-a<k1>jyotizkaH<k2>jyotizkaH
+> {{Lbody=14110}}
+> <LEND>
+117307a118055,118057
+> <L>14120.1<pc>0520-b<k1>jvarin<k2>jvarin
+> {{Lbody=14120}}
+> <LEND>
+117392a118143,118145
+> <L>14132.1<pc>0520-1<k1>JaMkftaM<k2>JaMkftaM
+> {{Lbody=14132}}
+> <LEND>
+117457a118211,118213
+> <L>14144.1<pc>0521-a<k1>JaMpA<k2>JaMpA
+> {{Lbody=14144}}
+> <LEND>
+117918a118675,118677
+> <L>14237.1<pc>0523-a<k1>qallakaM<k2>qallakaM
+> {{Lbody=14237}}
+> <LEND>
+117993a118753,118755
+> <L>14250.1<pc>0523-b<k1>qiMp<k2>qiMp
+> {{Lbody=14250}}
+> <LEND>
+119573a120336,120338
+> <L>14428.1<pc>0531-c<k1>tamA<k2>tamA
+> {{Lbody=14428}}
+> <LEND>
+119642a120408,120410
+> <L>14440.1<pc>0531-c<k1>taMbikA<k2>taMbikA
+> {{Lbody=14440}}
+> <LEND>
+119770a120539,120541
+> <L>14461.1<pc>0532-b<k1>tarAluH<k2>tarAluH
+> {{Lbody=14461}}
+> <LEND>
+119774a120546,120548
+> <L>14462.1<pc>0532-b<k1>tarIzaH<k2>tarIzaH
+> {{Lbody=14462}}
+> <LEND>
+119964a120739,120741
+> <L>14490.1<pc>0533-a<k1>tarRakaH<k2>tarRakaH
+> {{Lbody=14490}}
+> <LEND>
+119998a120776,120778
+> <L>14500.1<pc>0533-b<k1>tarzaRaM<k2>tarzaRaM
+> {{Lbody=14500}}
+> <LEND>
+120217a120998,121000
+> <L>14538.1<pc>0534-a<k1>tAkzRaH<k2>tAkzRaH
+> {{Lbody=14538}}
+> <LEND>
+120242a121026,121028
+> <L>14544.1<pc>0534-b<k1>tAqanaM<k2>tAqanaM
+> {{Lbody=14544}}
+> <LEND>
+120267a121054,121056
+> <L>14547.1<pc>0534-b<k1>tAqapatraM<k2>tAqapatraM
+> {{Lbody=14547}}
+> <LEND>
+120425a121215,121217
+> <L>14571.1<pc>0535-a<k1>tAMtavAyyaH<k2>tAMtavAyyaH
+> {{Lbody=14571}}
+> <LEND>
+120953a121746,121748
+> <L>14634.1<pc>0537-b<k1>tAvatka<k2>tAvatka
+> {{Lbody=14634}}
+> <LEND>
+121072a121868,121870
+> <L>14654.1<pc>0537-c<k1>tittiraH<k2>tittiraH
+> {{Lbody=14654}}
+> <LEND>
+121259a122058,122060
+> <L>14681.1<pc>0538-b<k1>tiraskftiH<k2>tiraskftiH
+> {{Lbody=14681}}
+> <LEND>
+121341a122143,122145
+> <L>14693.1<pc>0538-c<k1>tiryaMcI<k2>tiryaMcI
+> {{Lbody=14693}}
+> <LEND>
+121943a122748,122750
+> <L>14772.1<pc>0541-b<k1>tuMdikA<k2>tuMdikA
+> {{Lbody=14772}}
+> <LEND>
+122107a122915,122917
+> <L>14801.1<pc>0542-a<k1>turParItu<k2>turParItu
+> {{Lbody=14801}}
+> <LEND>
+122472a123283,123285
+> <L>14850.1<pc>0543-c<k1>tUrRi<k2>tUrRi
+> {{Lbody=14850}}
+> <LEND>
+122482a123296,123298
+> <L>14852.1<pc>0543-c<k1>tUrvi<k2>tUrvi
+> {{Lbody=14852}}
+> <LEND>
+122793a123610,123612
+> <L>14899.1<pc>0545-a<k1>tarzula<k2>tarzula
+> {{Lbody=14899}}
+> <LEND>
+123027a123847,123849
+> <L>14934.1<pc>0546-a<k1>tejanaM<k2>tejanaM
+> {{Lbody=14934}}
+> <LEND>
+123087a123910,123912
+> <L>14937.1<pc>0546-b<k1>tejovat<k2>tejovat
+> {{Lbody=14937}}
+> <LEND>
+123228a124054,124056
+> <L>14962.1<pc>0546-c<k1>tElin<k2>tElin
+> {{Lbody=14962}}
+> <LEND>
+123334a124163,124165
+> <L>14977.1<pc>0547-b<k1>tolanaM<k2>tolanaM
+> {{Lbody=14977}}
+> <LEND>
+123337a124169,124171
+> <L>14978.1<pc>0547-b<k1>tozaRa<k2>tozaRa
+> {{Lbody=14978}}
+> <LEND>
+123363a124198,124200
+> <L>14984.1<pc>0547-b<k1>tOlikikaH<k2>tOlikikaH
+> {{Lbody=14984}}
+> <LEND>
+123614a124452,124454
+> <L>15016.1<pc>0548-b<k1>trasnu<k2>trasnu
+> {{Lbody=15016}}
+> <LEND>
+123648a124489,124491
+> <L>15022.1<pc>0548-c<k1>trAta<k2>trAta
+> {{Lbody=15022}}
+> <LEND>
+124320a125164,125166
+> <L>15066.1<pc>0552-a<k1>trEvizwapeyaH<k2>trEvizwapeyaH
+> {{Lbody=15066}}
+> <LEND>
+124471a125318,125320
+> <L>15094.1<pc>0552-c<k1>tvariH<k2>tvariH
+> {{Lbody=15094}}
+> <LEND>
+124500a125350,125352
+> <L>15097.1<pc>0552-c<k1>tvAdfSa<k2>tvAdfSa
+> {{Lbody=15097}}
+> <LEND>
+124572a125425,125427
+> <L>15112.1<pc>0553-c<k1>TUtkftaM<k2>TUtkftaM
+> {{Lbody=15112}}
+> <LEND>
+124890a125746,125748
+> <L>15142.1<pc>0554-c<k1>dakziRya<k2>dakziRya
+> {{Lbody=15142}}
+> <LEND>
+125376a126235,126237
+> <L>15182.1<pc>0557-a<k1>daMtin<k2>daMtin
+> {{Lbody=15182}}
+> <LEND>
+125423a126285,126287
+> <L>15189.1<pc>0557-a<k1>daMB<k2>daMB
+> {{Lbody=15189}}
+> <LEND>
+125919a126784,126786
+> <L>15252.1<pc>0559-b<k1>daliH<k2>daliH
+> {{Lbody=15252}}
+> <LEND>
+126778a127646,127648
+> <L>15353.1<pc>0563-a<k1>dAMtiH<k2>dAMtiH
+> {{Lbody=15353}}
+> <LEND>
+126785a127656,127658
+> <L>15355.1<pc>0563-a<k1>dApita<k2>dApita
+> {{Lbody=15355}}
+> <LEND>
+126929a127803,127805
+> <L>15375.1<pc>0563-c<k1>dAridraM<k2>dAridraM
+> {{Lbody=15375}}
+> <LEND>
+127169a128046,128048
+> <L>15413.1<pc>0564-c<k1>diMqiraH<k2>diMqiraH
+> {{Lbody=15413}}
+> <LEND>
+127676a128556,128558
+> <L>15453.1<pc>0567-a<k1>dIditiH<k2>dIditiH
+> {{Lbody=15453}}
+> <LEND>
+129351a130234,130236
+> <L>15566.1<pc>0575-b<k1>dUlI<k2>dUlI
+> {{Lbody=15566}}
+> <LEND>
+129535a130421,130423
+> <L>15588.1<pc>0576-b<k1>darpin<k2>darpin
+> {{Lbody=15588}}
+> <LEND>
+129893a130782,130784
+> <L>15619.1<pc>0578-a<k1>dfMh<k2>dfMh
+> {{Lbody=15619}}
+> <LEND>
+130241a131133,131135
+> <L>15629.1<pc>0579-c<k1>devakya<k2>devakya
+> {{Lbody=15629}}
+> <LEND>
+130356a131251,131253
+> <L>15643.1<pc>0580-b<k1>devin<k2>devin
+> {{Lbody=15643}}
+> <LEND>
+130801a131699,131701
+> <L>15695.1<pc>0582-b<k1>dolikA<k2>dolikA
+> {{Lbody=15695}}
+> <LEND>
+130816a131717,131719
+> <L>15698.1<pc>0582-b<k1>dolita<k2>dolita
+> {{Lbody=15698}}
+> <LEND>
+130820a131724,131726
+> <L>15699.1<pc>0582-b<k1>dolI<k2>dolI
+> {{Lbody=15699}}
+> <LEND>
+131010a131917,131919
+> <L>15734.1<pc>0583-a<k1>dOhfdaM<k2>dOhfdaM
+> {{Lbody=15734}}
+> <LEND>
+131040a131950,131952
+> <L>15742.1<pc>0583-a<k1>dOzWavaM<k2>dOzWavaM
+> {{Lbody=15742}}
+> <LEND>
+131245a132158,132160
+> <L>15772.1<pc>0584-a<k1>dragaqaH<k2>dragaqaH
+> {{Lbody=15772}}
+> <LEND>
+131311a132227,132229
+> <L>15780.1<pc>0584-b<k1>dravaRa<k2>dravaRa
+> {{Lbody=15780}}
+> <LEND>
+131584a132503,132505
+> <L>15820.1<pc>0585-b<k1>drutiH<k2>drutiH
+> {{Lbody=15820}}
+> <LEND>
+131715a132637,132639
+> <L>15839.1<pc>0586-a<k1>druhiRaH<k2>druhiRaH
+> {{Lbody=15839}}
+> <LEND>
+132036a132961,132963
+> <L>15868.1<pc>0587-b<k1>dvArin<k2>dvArin
+> {{Lbody=15868}}
+> <LEND>
+132395a133323,133325
+> <L>15890.1<pc>0589-b<k1>dvezwf<k2>dvezwf
+> {{Lbody=15890}}
+> <LEND>
+132641a133572,133574
+> <L>15927.1<pc>0590-c<k1>DawI<k2>DawI
+> {{Lbody=15927}}
+> <LEND>
+132780a133714,133716
+> <L>15940.1<pc>0591-a<k1>DanIkA<k2>DanIkA
+> {{Lbody=15940}}
+> <LEND>
+133687a134624,134626
+> <L>16008.1<pc>0595-c<k1>DAtreyI<k2>DAtreyI
+> {{Lbody=16008}}
+> <LEND>
+133728a134668,134670
+> <L>16017.1<pc>0595-c<k1>DAnuzkaH<k2>DAnuzkaH
+> {{Lbody=16017}}
+> <LEND>
+133763a134706,134708
+> <L>16021.1<pc>0596-a<k1>DAnyAkaM<k2>DAnyAkaM
+> {{Lbody=16021}}
+> <LEND>
+133798a134744,134746
+> <L>16025.1<pc>0596-a<k1>DAmanI<k2>DAmanI
+> {{Lbody=16025}}
+> <LEND>
+133944a134893,134895
+> <L>16038.1<pc>0596-c<k1>DArAvat<k2>DArAvat
+> {{Lbody=16038}}
+> <LEND>
+134406a135358,135360
+> <L>16096.1<pc>0598-c<k1>DurIya<k2>DurIya
+> {{Lbody=16096}}
+> <LEND>
+134550a135505,135507
+> <L>16115.1<pc>0599-b<k1>DUpAyita<k2>DUpAyita
+> {{Lbody=16115}}
+> <LEND>
+134892a135850,135852
+> <L>16148.1<pc>0601-a<k1>DfMj<k2>DfMj
+> {{Lbody=16148}}
+> <LEND>
+135208a136169,136171
+> <L>16198.1<pc>0602-a<k1>Dyeya<k2>Dyeya
+> {{Lbody=16198}}
+> <LEND>
+135242a136206,136208
+> <L>16202.1<pc>0602-b<k1>DraMj<k2>DraMj
+> {{Lbody=16202}}
+> <LEND>
+135569a136536,136538
+> <L>16243.1<pc>0603-c<k1>Dvasti<k2>Dvasti
+> {{Lbody=16243}}
+> <LEND>
+136190a137160,137162
+> <L>16314.1<pc>0606-c<k1>nanAMdf<k2>nanAMdf
+> {{Lbody=16314}}
+> <LEND>
+136556a137529,137531
+> <L>16353.1<pc>0608-b<k1>namasyita<k2>namasyita
+> {{Lbody=16353}}
+> <LEND>
+137116a138092,138094
+> <L>16410.1<pc>0611-a<k1>navya<k2>navya
+> {{Lbody=16410}}
+> <LEND>
+137551a138530,138532
+> <L>16447.1<pc>0613-a<k1>nAgarika<k2>nAgarika
+> {{Lbody=16447}}
+> <LEND>
+137838a138820,138822
+> <L>16489.1<pc>0614-b<k1>nAMdin<k2>nAMdin
+> {{Lbody=16489}}
+> <LEND>
+138196a139181,139183
+> <L>16522.1<pc>0616-a<k1>nArAcI<k2>nArAcI
+> {{Lbody=16522}}
+> <LEND>
+138545a139533,139535
+> <L>16579.1<pc>0617-b<k1>niSvAsaH<k2>niSvAsaH
+> {{Lbody=16579}}
+> <LEND>
+138849a139840,139842
+> <L>16624.1<pc>0618-c<k1>nikvARaH<k2>nikvARaH
+> {{Lbody=16624}}
+> <LEND>
+138982a139976,139978
+> <L>16646.1<pc>0619-a<k1>nigAdaH<k2>nigAdaH
+> {{Lbody=16646}}
+> <LEND>
+139042a140039,140041
+> <L>16655.1<pc>0619-b<k1>nigAraH<k2>nigAraH
+> {{Lbody=16655}}
+> <LEND>
+139167a140167,140169
+> <L>16671.1<pc>0620-a<k1>niGarzaRaM<k2>niGarzaRaM
+> {{Lbody=16671}}
+> <LEND>
+139192a140195,140197
+> <L>16677.1<pc>0620-a<k1>niGarzaRaM<k2>niGarzaRaM
+> {{Lbody=16677}}
+> <LEND>
+139519a140525,140527
+> <L>16720.1<pc>0621-b<k1>nidiDyAsanaM<k2>nidiDyAsanaM
+> {{Lbody=16720}}
+> <LEND>
+139696a140705,140707
+> <L>16741.1<pc>0622-a<k1>nidiDyAsanaM<k2>nidiDyAsanaM
+> {{Lbody=16741}}
+> <LEND>
+139792a140804,140806
+> <L>16760.1<pc>0622-b<k1>niMdA<k2>niMdA
+> {{Lbody=16760}}
+> <LEND>
+140295a141310,141312
+> <L>16822.1<pc>0624-c<k1>nimIlikA<k2>nimIlikA
+> {{Lbody=16822}}
+> <LEND>
+141568a142586,142588
+> <L>16889.1<pc>0631-b<k1>nirIkzA<k2>nirIkzA
+> {{Lbody=16889}}
+> <LEND>
+141858a142879,142881
+> <L>16931.1<pc>0632-b<k1>nirJarI<k2>nirJarI
+> {{Lbody=16931}}
+> <LEND>
+142092a143116,143118
+> <L>16971.1<pc>0633-b<k1>nirDAraRaM<k2>nirDAraRaM
+> {{Lbody=16971}}
+> <LEND>
+142473a143500,143502
+> <L>17031.1<pc>0635-a<k1>nirvAsanaM<k2>nirvAsanaM
+> {{Lbody=17031}}
+> <LEND>
+142821a143851,143853
+> <L>17070.1<pc>0636-c<k1>niliMpikA<k2>niliMpikA
+> {{Lbody=17070}}
+> <LEND>
+143150a144183,144185
+> <L>17112.1<pc>0638-a<k1>nivAraRaM<k2>nivAraRaM
+> {{Lbody=17112}}
+> <LEND>
+143407a144443,144445
+> <L>17142.1<pc>0639-a<k1>niSITyA<k2>niSITyA
+> {{Lbody=17142}}
+> <LEND>
+143693a144732,144734
+> <L>17187.1<pc>0640-b<k1>nizevA<k2>nizevA
+> {{Lbody=17187}}
+> <LEND>
+143777a144819,144821
+> <L>17200.1<pc>0640-c<k1>nizkozaRaM<k2>nizkozaRaM
+> {{Lbody=17200}}
+> <LEND>
+144038a145083,145085
+> <L>17237.1<pc>0641-c<k1>nizRAta<k2>nizRAta
+> {{Lbody=17237}}
+> <LEND>
+144131a145179,145181
+> <L>17252.1<pc>0642-a<k1>nizpezaRaM<k2>nizpezaRaM
+> {{Lbody=17252}}
+> <LEND>
+144588a145639,145641
+> <L>17275.1<pc>0644-b<k1>nisrAvaH<k2>nisrAvaH
+> {{Lbody=17275}}
+> <LEND>
+145216a146270,146272
+> <L>17344.1<pc>0647-a<k1>nUtna<k2>nUtna
+> {{Lbody=17344}}
+> <LEND>
+145370a146427,146429
+> <L>17356.1<pc>0647-c<k1>nftyaM<k2>nftyaM
+> {{Lbody=17356}}
+> <LEND>
+145554a146614,146616
+> <L>17381.1<pc>0648-c<k1>nEHsvyaM<k2>nEHsvyaM
+> {{Lbody=17381}}
+> <LEND>
+145781a146844,146846
+> <L>17425.1<pc>0649-b<k1>nEruktikaH<k2>nEruktikaH
+> {{Lbody=17425}}
+> <LEND>
+146008a147074,147076
+> <L>17464.1<pc>0650-b<k1>nyakkAraH<k2>nyakkAraH
+> {{Lbody=17464}}
+> <LEND>
+146587a147656,147658
+> <L>17523.1<pc>0653-c<k1>nyAsin<k2>nyAsin
+> {{Lbody=17523}}
+> <LEND>
+147565a148637,148639
+> <L>17599.1<pc>0658-b<k1>paMcASatiH<k2>paMcASatiH
+> {{Lbody=17599}}
+> <LEND>
+148212a149287,149289
+> <L>17676.1<pc>0661-a<k1>patasaH<k2>patasaH
+> {{Lbody=17676}}
+> <LEND>
+148840a149918,149920
+> <L>17723.1<pc>0664-b<k1>padAtiH<k2>padAtiH
+> {{Lbody=17723}}
+> <LEND>
+148848a149929,149931
+> <L>17725.1<pc>0664-b<k1>padAtIyaH<k2>padAtIyaH
+> {{Lbody=17725}}
+> <LEND>
+148871a149955,149957
+> <L>17731.1<pc>0664-b<k1>padraTa<k2>padraTa
+> {{Lbody=17731}}
+> <LEND>
+149084a150171,150173
+> <L>17750.1<pc>0665-b<k1>pannaga<k2>pannaga
+> {{Lbody=17750}}
+> <LEND>
+149491a150581,150583
+> <L>17767.1<pc>0667-b<k1>paraMjayaH<k2>paraMjayaH
+> {{Lbody=17767}}
+> <LEND>
+149801a150894,150896
+> <L>17791.1<pc>0669-a<k1>parasmEBAzA<k2>parasmEBAzA
+> {{Lbody=17791}}
+> <LEND>
+150621a151717,151719
+> <L>17916.1<pc>0672-b<k1>parigamanaM<k2>parigamanaM
+> {{Lbody=17916}}
+> <LEND>
+151077a152176,152178
+> <L>17977.1<pc>0674-b<k1>parijYAnaM<k2>parijYAnaM
+> {{Lbody=17977}}
+> <LEND>
+151493a152595,152597
+> <L>18035.1<pc>0676-a<k1>paridev<k2>paridev
+> {{Lbody=18035}}
+> <LEND>
+151796a152901,152903
+> <L>18084.1<pc>0677-a<k1>paripIqA<k2>paripIqA
+> {{Lbody=18084}}
+> <LEND>
+151817a152925,152927
+> <L>18088.1<pc>0677-b<k1>paripUjA<k2>paripUjA
+> {{Lbody=18088}}
+> <LEND>
+152597a153708,153710
+> <L>18220.1<pc>0680-a<k1>pariviMdat<k2>pariviMdat
+> {{Lbody=18220}}
+> <LEND>
+152837a153951,153953
+> <L>18253.1<pc>0681-a<k1>parivedinI<k2>parivedinI
+> {{Lbody=18253}}
+> <LEND>
+152948a154065,154067
+> <L>18273.1<pc>0681-b<k1>pariSoDanaM<k2>pariSoDanaM
+> {{Lbody=18273}}
+> <LEND>
+153030a154150,154152
+> <L>18289.1<pc>0681-c<k1>parizecanaM<k2>parizecanaM
+> {{Lbody=18289}}
+> <LEND>
+153213a154336,154338
+> <L>18316.1<pc>0682-b<k1>parisamAptiH<k2>parisamAptiH
+> {{Lbody=18316}}
+> <LEND>
+153601a154727,154729
+> <L>18376.1<pc>0684-a<k1>paredyus<k2>paredyus
+> {{Lbody=18376}}
+> <LEND>
+153808a154937,154939
+> <L>18407.1<pc>0685-a<k1>paryawitaM<k2>paryawitaM
+> {{Lbody=18407}}
+> <LEND>
+153901a155033,155035
+> <L>18423.1<pc>0685-b<k1>paryavasTAnaM<k2>paryavasTAnaM
+> {{Lbody=18423}}
+> <LEND>
+154082a155217,155219
+> <L>18446.1<pc>0686-a<k1>paryAvartanaM<k2>paryAvartanaM
+> {{Lbody=18446}}
+> <LEND>
+154489a155627,155629
+> <L>18512.1<pc>0687-c<k1>pallavayati<k2>pallavayati
+> {{Lbody=18512}}
+> <LEND>
+155033a156174,156176
+> <L>18568.1<pc>0690-a<k1>pAMktya<k2>pAMktya
+> {{Lbody=18568}}
+> <LEND>
+155078a156222,156224
+> <L>18575.1<pc>0690-b<k1>pAciH<k2>pAciH
+> {{Lbody=18575}}
+> <LEND>
+155733a156880,156882
+> <L>18665.1<pc>0693-a<k1>pAtrya<k2>pAtrya
+> {{Lbody=18665}}
+> <LEND>
+156456a157606,157608
+> <L>18752.1<pc>0696-b<k1>pAraSvaDikaH<k2>pAraSvaDikaH
+> {{Lbody=18752}}
+> <LEND>
+156525a157678,157680
+> <L>18767.1<pc>0696-c<k1>pArASaryaH<k2>pArASaryaH
+> {{Lbody=18767}}
+> <LEND>
+156570a157726,157728
+> <L>18775.1<pc>0696-c<k1>pArijAtakaH<k2>pArijAtakaH
+> {{Lbody=18775}}
+> <LEND>
+156624a157783,157785
+> <L>18786.1<pc>0697-a<k1>pAripArSvikaH<k2>pAripArSvikaH
+> {{Lbody=18786}}
+> <LEND>
+156710a157872,157874
+> <L>18803.1<pc>0697-b<k1>pArivetryaM<k2>pArivetryaM
+> {{Lbody=18803}}
+> <LEND>
+156715a157880,157882
+> <L>18804.1<pc>0697-b<k1>pArivrAjyaM<k2>pArivrAjyaM
+> {{Lbody=18804}}
+> <LEND>
+157329a158497,158499
+> <L>18894.1<pc>0699-c<k1>pAzaMqin<k2>pAzaMqin
+> {{Lbody=18894}}
+> <LEND>
+158149a159320,159322
+> <L>18993.1<pc>0703-b<k1>pipIlI<k2>pipIlI
+> {{Lbody=18993}}
+> <LEND>
+159105a160279,160281
+> <L>19102.1<pc>0707-c<k1>puttalikA<k2>puttalikA
+> {{Lbody=19102}}
+> <LEND>
+159989a161166,161168
+> <L>19165.1<pc>0712-a<k1>puroDas<k2>puroDas
+> {{Lbody=19165}}
+> <LEND>
+160091a161271,161273
+> <L>19182.1<pc>0712-c<k1>puliMdakaH<k2>puliMdakaH
+> {{Lbody=19182}}
+> <LEND>
+161164a162347,162349
+> <L>19267.1<pc>0717-c<k1>pUlakaH<k2>pUlakaH
+> {{Lbody=19267}}
+> <LEND>
+161180a162366,162368
+> <L>19272.1<pc>0717-c<k1>pUzakaH<k2>pUzakaH
+> {{Lbody=19272}}
+> <LEND>
+161280a162469,162471
+> <L>19284.1<pc>0718-b<k1>pfR<k2>pfR
+> {{Lbody=19284}}
+> <LEND>
+161707a162899,162901
+> <L>19332.1<pc>0720-a<k1>pewI<k2>pewI
+> {{Lbody=19332}}
+> <LEND>
+161766a162961,162963
+> <L>19344.1<pc>0720-b<k1>pelin<k2>pelin
+> {{Lbody=19344}}
+> <LEND>
+161855a163053,163055
+> <L>19363.1<pc>0720-c<k1>pEMqinyaM<k2>pEMqinyaM
+> {{Lbody=19363}}
+> <LEND>
+161889a163090,163092
+> <L>19368.1<pc>0720-c<k1>pEtfzvasrIyaH<k2>pEtfzvasrIyaH
+> {{Lbody=19368}}
+> <LEND>
+162003a163207,163209
+> <L>19388.1<pc>0721-b<k1>powwalI<k2>powwalI
+> {{Lbody=19388}}
+> <LEND>
+162071a163278,163280
+> <L>19400.1<pc>0721-b<k1>polI<k2>polI
+> {{Lbody=19400}}
+> <LEND>
+162104a163314,163316
+> <L>19408.1<pc>0721-c<k1>pozwf<k2>pozwf
+> {{Lbody=19408}}
+> <LEND>
+162210a163423,163425
+> <L>19430.1<pc>0722-a<k1>pOnaruktyaM<k2>pOnaruktyaM
+> {{Lbody=19430}}
+> <LEND>
+162386a163602,163604
+> <L>19454.1<pc>0722-c<k1>pOrRamI<k2>pOrRamI
+> {{Lbody=19454}}
+> <LEND>
+162892a164111,164113
+> <L>19524.1<pc>0725-a<k1>prakaraRI<k2>prakaraRI
+> {{Lbody=19524}}
+> <LEND>
+163297a164519,164521
+> <L>19564.1<pc>0726-c<k1>prakvARaH<k2>prakvARaH
+> {{Lbody=19564}}
+> <LEND>
+163670a164895,164897
+> <L>19624.1<pc>0728-b<k1>praGawwakaH<k2>praGawwakaH
+> {{Lbody=19624}}
+> <LEND>
+164340a165568,165570
+> <L>19726.1<pc>0731-a<k1>prajYin<k2>prajYin
+> {{Lbody=19726}}
+> <LEND>
+164589a165820,165822
+> <L>19761.1<pc>0732-a<k1>praRipAtaH<k2>praRipAtaH
+> {{Lbody=19761}}
+> <LEND>
+165420a166654,166656
+> <L>19818.1<pc>0736-a<k1>pratikroDaH<k2>pratikroDaH
+> {{Lbody=19818}}
+> <LEND>
+165453a166690,166692
+> <L>19825.1<pc>0736-b<k1>pratikzepaRaM<k2>pratikzepaRaM
+> {{Lbody=19825}}
+> <LEND>
+165622a166862,166864
+> <L>19855.1<pc>0737-a<k1>praticCaMdakaH<k2>praticCaMdakaH
+> {{Lbody=19855}}
+> <LEND>
+166509a167752,167754
+> <L>19987.1<pc>0740-c<k1>pratimokzaRaM<k2>pratimokzaRaM
+> {{Lbody=19987}}
+> <LEND>
+166560a167806,167808
+> <L>19997.1<pc>0740-c<k1>pratiyoDanaM<k2>pratiyoDanaM
+> {{Lbody=19997}}
+> <LEND>
+166719a167968,167970
+> <L>20028.1<pc>0741-b<k1>prativAraRaM<k2>prativAraRaM
+> {{Lbody=20028}}
+> <LEND>
+166865a168117,168119
+> <L>20056.1<pc>0741-c<k1>pratiSrutiH<k2>pratiSrutiH
+> {{Lbody=20056}}
+> <LEND>
+166901a168156,168158
+> <L>20061.1<pc>0742-a<k1>pratizedDf<k2>pratizedDf
+> {{Lbody=20061}}
+> <LEND>
+166910a168168,168170
+> <L>20063.1<pc>0742-a<k1>pratizkasaH<k2>pratizkasaH
+> {{Lbody=20063}}
+> <LEND>
+167172a168433,168435
+> <L>20106.1<pc>0743-a<k1>pratisvaraH<k2>pratisvaraH
+> {{Lbody=20106}}
+> <LEND>
+167355a168619,168621
+> <L>20132.1<pc>0743-c<k1>pratIkzA<k2>pratIkzA
+> {{Lbody=20132}}
+> <LEND>
+167667a168934,168936
+> <L>20176.1<pc>0745-a<k1>pratyac<k2>pratyac
+> {{Lbody=20176}}
+> <LEND>
+167710a168980,168982
+> <L>20186.1<pc>0745-b<k1>pratyaBivAdanaM<k2>pratyaBivAdanaM
+> {{Lbody=20186}}
+> <LEND>
+167860a169133,169135
+> <L>20208.1<pc>0746-a<k1>pratyavekzA<k2>pratyavekzA
+> {{Lbody=20208}}
+> <LEND>
+167903a169179,169181
+> <L>20217.1<pc>0746-a<k1>pratyAgamanaM<k2>pratyAgamanaM
+> {{Lbody=20217}}
+> <LEND>
+168437a169716,169718
+> <L>20295.1<pc>0748-b<k1>pradfptiH<k2>pradfptiH
+> {{Lbody=20295}}
+> <LEND>
+168500a169782,169784
+> <L>20307.1<pc>0748-b<k1>pradAyaka<k2>pradAyaka
+> {{Lbody=20307}}
+> <LEND>
+168503a169788,169790
+> <L>20308.1<pc>0748-b<k1>pradeyaH<k2>pradeyaH
+> {{Lbody=20308}}
+> <LEND>
+168796a170084,170086
+> <L>20348.1<pc>0749-c<k1>pradvAraM<k2>pradvAraM
+> {{Lbody=20348}}
+> <LEND>
+168807a170098,170100
+> <L>20351.1<pc>0749-c<k1>pradvezaRaM<k2>pradvezaRaM
+> {{Lbody=20351}}
+> <LEND>
+169793a171087,171089
+> <L>20497.1<pc>0753-c<k1>praBAvana<k2>praBAvana
+> {{Lbody=20497}}
+> <LEND>
+171351a172648,172650
+> <L>20722.1<pc>0760-a<k1>pravArakaH<k2>pravArakaH
+> {{Lbody=20722}}
+> <LEND>
+171881a173181,173183
+> <L>20807.1<pc>0762-b<k1>praSaMsin<k2>praSaMsin
+> {{Lbody=20807}}
+> <LEND>
+172056a173359,173361
+> <L>20830.1<pc>0763-a<k1>praSis<k2>praSis
+> {{Lbody=20830}}
+> <LEND>
+172121a173427,173429
+> <L>20841.1<pc>0763-b<k1>praSrita<k2>praSrita
+> {{Lbody=20841}}
+> <LEND>
+172381a173690,173692
+> <L>20864.1<pc>0764-b<k1>prasAdin<k2>prasAdin
+> {{Lbody=20864}}
+> <LEND>
+172423a173735,173737
+> <L>20870.1<pc>0764-c<k1>prasamIkzA<k2>prasamIkzA
+> {{Lbody=20870}}
+> <LEND>
+173907a175222,175224
+> <L>21068.1<pc>0770-b<k1>prAMc<k2>prAMc
+> {{Lbody=21068}}
+> <LEND>
+174075a175393,175395
+> <L>21090.1<pc>0771-c<k1>prAMjalin<k2>prAMjalin
+> {{Lbody=21090}}
+> <LEND>
+174738a176059,176061
+> <L>21172.1<pc>0774-c<k1>prAptavya<k2>prAptavya
+> {{Lbody=21172}}
+> <LEND>
+174793a176117,176119
+> <L>21183.1<pc>0774-c<k1>prABftakaM<k2>prABftakaM
+> {{Lbody=21183}}
+> <LEND>
+174906a176233,176235
+> <L>21194.1<pc>0775-b<k1>prAyaScittiH<k2>prAyaScittiH
+> {{Lbody=21194}}
+> <LEND>
+174941a176271,176273
+> <L>21200.1<pc>0775-b<k1>prAyAtrika<k2>prAyAtrika
+> {{Lbody=21200}}
+> <LEND>
+175170a176503,176505
+> <L>21240.1<pc>0776-b<k1>prAvfzIRa<k2>prAvfzIRa
+> {{Lbody=21240}}
+> <LEND>
+175210a176546,176548
+> <L>21247.1<pc>0776-b<k1>prAvrAjyaM<k2>prAvrAjyaM
+> {{Lbody=21247}}
+> <LEND>
+175571a176910,176912
+> <L>21291.1<pc>0778-a<k1>priyaMBAvuka<k2>priyaMBAvuka
+> {{Lbody=21291}}
+> <LEND>
+176148a177490,177492
+> <L>21370.1<pc>0780-b<k1>proQi<k2>proQi
+> {{Lbody=21370}}
+> <LEND>
+178050a179395,179397
+> <L>21591.1<pc>0789-a<k1>barhas<k2>barhas
+> {{Lbody=21591}}
+> <LEND>
+178435a179783,179785
+> <L>21621.1<pc>0791-a<k1>baliBa<k2>baliBa
+> {{Lbody=21621}}
+> <LEND>
+178510a179861,179863
+> <L>21636.1<pc>0791-b<k1>balhIkAH<k2>balhIkAH
+> {{Lbody=21636}}
+> <LEND>
+179391a180745,180747
+> <L>21712.1<pc>0795-b<k1>bAlukaM<k2>bAlukaM
+> {{Lbody=21712}}
+> <LEND>
+179659a181016,181018
+> <L>21750.1<pc>0796-b<k1>biMd<k2>biMd
+> {{Lbody=21750}}
+> <LEND>
+180268a181628,181630
+> <L>21814.1<pc>0799-b<k1>buMD<k2>buMD
+> {{Lbody=21814}}
+> <LEND>
+180599a181962,181964
+> <L>21855.1<pc>0800-c<k1>bodDavya<k2>bodDavya
+> {{Lbody=21855}}
+> <LEND>
+181356a182722,182724
+> <L>21886.1<pc>0804-c<k1>bruvARa<k2>bruvARa
+> {{Lbody=21886}}
+> <LEND>
+182437a183806,183808
+> <L>22001.1<pc>0809-c<k1>BartsanA<k2>BartsanA
+> {{Lbody=22001}}
+> <LEND>
+182481a183853,183855
+> <L>22010.1<pc>0810-a<k1>BallAtakaH<k2>BallAtakaH
+> {{Lbody=22010}}
+> <LEND>
+183041a184416,184418
+> <L>22081.1<pc>0812-b<k1>BAwakaM<k2>BAwakaM
+> {{Lbody=22081}}
+> <LEND>
+183154a184532,184534
+> <L>22098.1<pc>0813-a<k1>BAdrapadaH<k2>BAdrapadaH
+> {{Lbody=22098}}
+> <LEND>
+183158a184539,184541
+> <L>22099.1<pc>0813-a<k1>BAdrI<k2>BAdrI
+> {{Lbody=22099}}
+> <LEND>
+183261a184645,184647
+> <L>22111.1<pc>0813-b<k1>BArin<k2>BArin
+> {{Lbody=22111}}
+> <LEND>
+184666a186053,186055
+> <L>22236.1<pc>0819-c<k1>BurBurI<k2>BurBurI
+> {{Lbody=22236}}
+> <LEND>
+184710a186100,186102
+> <L>22241.1<pc>0820-a<k1>Buvas<k2>Buvas
+> {{Lbody=22241}}
+> <LEND>
+185664a187057,187059
+> <L>22292.1<pc>0825-a<k1>BfMgArI<k2>BfMgArI
+> {{Lbody=22292}}
+> <LEND>
+185845a187241,187243
+> <L>22318.1<pc>0825-c<k1>Bedura<k2>Bedura
+> {{Lbody=22318}}
+> <LEND>
+185917a187316,187318
+> <L>22330.1<pc>0826-a<k1>BEkzukaM<k2>BEkzukaM
+> {{Lbody=22330}}
+> <LEND>
+186603a188005,188007
+> <L>22410.1<pc>0829-a<k1>BrAtreya<k2>BrAtreya
+> {{Lbody=22410}}
+> <LEND>
+187018a188423,188425
+> <L>22471.1<pc>0830-c<k1>maGavat<k2>maGavat
+> {{Lbody=22471}}
+> <LEND>
+187404a188812,188814
+> <L>22515.1<pc>0832-c<k1>mawatI<k2>mawatI
+> {{Lbody=22515}}
+> <LEND>
+187437a188848,188850
+> <L>22522.1<pc>0832-c<k1>maqqukaH<k2>maqqukaH
+> {{Lbody=22522}}
+> <LEND>
+188047a189461,189463
+> <L>22572.1<pc>0835-c<k1>matsyaMqI<k2>matsyaMqI
+> {{Lbody=22572}}
+> <LEND>
+188310a189727,189729
+> <L>22585.1<pc>0837-a<k1>madayaMtI<k2>madayaMtI
+> {{Lbody=22585}}
+> <LEND>
+189600a191020,191022
+> <L>22665.1<pc>0843-b<k1>maT<k2>maT
+> {{Lbody=22665}}
+> <LEND>
+190121a191544,191546
+> <L>22727.1<pc>0845-c<k1>marizRu<k2>marizRu
+> {{Lbody=22727}}
+> <LEND>
+190178a191604,191606
+> <L>22736.1<pc>0846-a<k1>marIcimat<k2>marIcimat
+> {{Lbody=22736}}
+> <LEND>
+190531a191960,191962
+> <L>22781.1<pc>0847-c<k1>marzaRaM<k2>marzaRaM
+> {{Lbody=22781}}
+> <LEND>
+190897a192329,192331
+> <L>22826.1<pc>0849-b<k1>masArakaH<k2>masArakaH
+> {{Lbody=22826}}
+> <LEND>
+191172a192607,192609
+> <L>22860.1<pc>0850-b<k1>mahallikaH<k2>mahallikaH
+> {{Lbody=22860}}
+> <LEND>
+191195a192633,192635
+> <L>22863.1<pc>0850-b<k1>mahasvin<k2>mahasvin
+> {{Lbody=22863}}
+> <LEND>
+192352a193793,193795
+> <L>22896.1<pc>0856-c<k1>mAgaDikA<k2>mAgaDikA
+> {{Lbody=22896}}
+> <LEND>
+192511a193955,193957
+> <L>22927.1<pc>0857-b<k1>mARimaMTaM<k2>mARimaMTaM
+> {{Lbody=22927}}
+> <LEND>
+192594a194041,194043
+> <L>22940.1<pc>0857-c<k1>mAtuluMgaH<k2>mAtuluMgaH
+> {{Lbody=22940}}
+> <LEND>
+192981a194431,194433
+> <L>22976.1<pc>0859-b<k1>mADyasTyaM<k2>mADyasTyaM
+> {{Lbody=22976}}
+> <LEND>
+193247a194700,194702
+> <L>23001.1<pc>0860-c<k1>mAnuzyakaM<k2>mAnuzyakaM
+> {{Lbody=23001}}
+> <LEND>
+193266a194722,194724
+> <L>23006.1<pc>0860-c<k1>mAMdAravaH<k2>mAMdAravaH
+> {{Lbody=23006}}
+> <LEND>
+193577a195036,195038
+> <L>23044.1<pc>0862-b<k1>mArkaMqeyaH<k2>mArkaMqeyaH
+> {{Lbody=23044}}
+> <LEND>
+193662a195124,195126
+> <L>23050.1<pc>0862-c<k1>mArgaSiras<k2>mArgaSiras
+> {{Lbody=23050}}
+> <LEND>
+193666a195131,195133
+> <L>23051.1<pc>0862-c<k1>mArgaSIrzI<k2>mArgaSIrzI
+> {{Lbody=23051}}
+> <LEND>
+194886a196354,196356
+> <L>23221.1<pc>0868-a<k1>mukuzWakaH<k2>mukuzWakaH
+> {{Lbody=23221}}
+> <LEND>
+195200a196671,196673
+> <L>23237.1<pc>0869-b<k1>muKyayaH<k2>muKyayaH
+> {{Lbody=23237}}
+> <LEND>
+195339a196813,196815
+> <L>23248.1<pc>0870-a<k1>muMj<k2>muMj
+> {{Lbody=23248}}
+> <LEND>
+195461a196938,196940
+> <L>23266.1<pc>0870-c<k1>mudA<k2>mudA
+> {{Lbody=23266}}
+> <LEND>
+196442a197922,197924
+> <L>23380.1<pc>0875-a<k1>mUzikA<k2>mUzikA
+> {{Lbody=23380}}
+> <LEND>
+196724a198207,198209
+> <L>23408.1<pc>0876-b<k1>mfRAlI<k2>mfRAlI
+> {{Lbody=23408}}
+> <LEND>
+196825a198311,198313
+> <L>23420.1<pc>0876-c<k1>mftsna<k2>mftsna
+> {{Lbody=23420}}
+> <LEND>
+196965a198454,198456
+> <L>23435.1<pc>0877-b<k1>mfdvIkA<k2>mfdvIkA
+> {{Lbody=23435}}
+> <LEND>
+197183a198675,198677
+> <L>23460.1<pc>0878-b<k1>meq<k2>meq
+> {{Lbody=23460}}
+> <LEND>
+197199a198694,198696
+> <L>23463.1<pc>0878-b<k1>meTiH<k2>meTiH
+> {{Lbody=23463}}
+> <LEND>
+197214a198712,198714
+> <L>23466.1<pc>0878-c<k1>meMqaH<k2>meMqaH
+> {{Lbody=23466}}
+> <LEND>
+197217a198718,198720
+> <L>23467.1<pc>0878-c<k1>meMQaMkaH<k2>meMQaMkaH
+> {{Lbody=23467}}
+> <LEND>
+197369a198873,198875
+> <L>23489.1<pc>0879-a<k1>meMDI<k2>meMDI
+> {{Lbody=23489}}
+> <LEND>
+197450a198957,198959
+> <L>23504.1<pc>0879-b<k1>mezI<k2>mezI
+> {{Lbody=23504}}
+> <LEND>
+197711a199221,199223
+> <L>23542.1<pc>0880-c<k1>mowanakaM<k2>mowanakaM
+> {{Lbody=23542}}
+> <LEND>
+197756a199269,199271
+> <L>23549.1<pc>0880-c<k1>modayaMtI<k2>modayaMtI
+> {{Lbody=23549}}
+> <LEND>
+198156a199672,199674
+> <L>23613.1<pc>0882-b<k1>mluMc<k2>mluMc
+> {{Lbody=23613}}
+> <LEND>
+198781a200300,200302
+> <L>23671.1<pc>0885-b<k1>yatna<k2>yatna
+> {{Lbody=23671}}
+> <LEND>
+199382a200904,200906
+> <L>23689.1<pc>0888-c<k1>yaMtriRI<k2>yaMtriRI
+> {{Lbody=23689}}
+> <LEND>
+199709a201234,201236
+> <L>23716.1<pc>0890-b<k1>yavanI<k2>yavanI
+> {{Lbody=23716}}
+> <LEND>
+199725a201253,201255
+> <L>23719.1<pc>0890-b<k1>yavAnI<k2>yavAnI
+> {{Lbody=23719}}
+> <LEND>
+199798a201329,201331
+> <L>23728.1<pc>0890-c<k1>yaSaskAmyati<k2>yaSaskAmyati
+> {{Lbody=23728}}
+> <LEND>
+200313a201847,201849
+> <L>23795.1<pc>0893-a<k1>yAminI<k2>yAminI
+> {{Lbody=23795}}
+> <LEND>
+201478a203015,203017
+> <L>23893.1<pc>0898-b<k1>yozit<k2>yozit
+> {{Lbody=23893}}
+> <LEND>
+201897a203437,203439
+> <L>23937.1<pc>0900-b<k1>rakzin<k2>rakzin
+> {{Lbody=23937}}
+> <LEND>
+202639a204182,204184
+> <L>24000.1<pc>0904-a<k1>radin<k2>radin
+> {{Lbody=24000}}
+> <LEND>
+202651a204197,204199
+> <L>24001.1<pc>0904-a<k1>raMD<k2>raMD
+> {{Lbody=24001}}
+> <LEND>
+202669a204218,204220
+> <L>24005.1<pc>0904-b<k1>raMDiH<k2>raMDiH
+> {{Lbody=24005}}
+> <LEND>
+202725a204277,204279
+> <L>24012.1<pc>0904-b<k1>raMP<k2>raMP
+> {{Lbody=24012}}
+> <LEND>
+202973a204528,204530
+> <L>24041.1<pc>0905-c<k1>rasanA<k2>rasanA
+> {{Lbody=24041}}
+> <LEND>
+203465a205023,205025
+> <L>24073.1<pc>0908-a<k1>rAgavat<k2>rAgavat
+> {{Lbody=24073}}
+> <LEND>
+203956a205517,205519
+> <L>24109.1<pc>0910-b<k1>rAtriMdivA<k2>rAtriMdivA
+> {{Lbody=24109}}
+> <LEND>
+204377a205941,205943
+> <L>24146.1<pc>0912-b<k1>rAsevAsaH<k2>rAsevAsaH
+> {{Lbody=24146}}
+> <LEND>
+204495a206062,206064
+> <L>24161.1<pc>0913-a<k1>riMgaRaM<k2>riMgaRaM
+> {{Lbody=24161}}
+> <LEND>
+204645a206215,206217
+> <L>24190.1<pc>0913-b<k1>rihvan<k2>rihvan
+> {{Lbody=24190}}
+> <LEND>
+204797a206370,206372
+> <L>24209.1<pc>0914-a<k1>rucA<k2>rucA
+> {{Lbody=24209}}
+> <LEND>
+204899a206475,206477
+> <L>24218.1<pc>0914-b<k1>rujA<k2>rujA
+> {{Lbody=24218}}
+> <LEND>
+204964a206543,206545
+> <L>24230.1<pc>0914-c<k1>ruditaM<k2>ruditaM
+> {{Lbody=24230}}
+> <LEND>
+205100a206682,206684
+> <L>24245.1<pc>0915-b<k1>ruzA<k2>ruzA
+> {{Lbody=24245}}
+> <LEND>
+205104a206689,206691
+> <L>24246.1<pc>0915-b<k1>ruzwa<k2>ruzwa
+> {{Lbody=24246}}
+> <LEND>
+205134a206722,206724
+> <L>24249.1<pc>0915-c<k1>ruha<k2>ruha
+> {{Lbody=24249}}
+> <LEND>
+205575a207166,207168
+> <L>24307.1<pc>0917-b<k1>rezA<k2>rezA
+> {{Lbody=24307}}
+> <LEND>
+205604a207198,207200
+> <L>24313.1<pc>0917-c<k1>rEtya<k2>rEtya
+> {{Lbody=24313}}
+> <LEND>
+206065a207662,207664
+> <L>24382.1<pc>0919-1<k1>lakucaH<k2>lakucaH
+> {{Lbody=24382}}
+> <LEND>
+206358a207958,207960
+> <L>24399.1<pc>0921-a<k1>laMK<k2>laMK
+> {{Lbody=24399}}
+> <LEND>
+206697a208300,208302
+> <L>24428.1<pc>0922-c<k1>laMGya<k2>laMGya
+> {{Lbody=24428}}
+> <LEND>
+206856a208462,208464
+> <L>24455.1<pc>0923-b<k1>laqqukaH<k2>laqqukaH
+> {{Lbody=24455}}
+> <LEND>
+207729a209338,209340
+> <L>24561.1<pc>0927-b<k1>lAMj<k2>lAMj
+> {{Lbody=24561}}
+> <LEND>
+207797a209409,209411
+> <L>24568.1<pc>0927-c<k1>lAwI<k2>lAwI
+> {{Lbody=24568}}
+> <LEND>
+207823a209438,209440
+> <L>24575.1<pc>0927-c<k1>lAbakaH<k2>lAbakaH
+> {{Lbody=24575}}
+> <LEND>
+207998a209616,209618
+> <L>24603.1<pc>0928-b<k1>lAvaRyavat<k2>lAvaRyavat
+> {{Lbody=24603}}
+> <LEND>
+208067a209688,209690
+> <L>24616.1<pc>0928-c<k1>liKyA<k2>liKyA
+> {{Lbody=24616}}
+> <LEND>
+208316a209940,209942
+> <L>24640.1<pc>0929-c<k1>liptikA<k2>liptikA
+> {{Lbody=24640}}
+> <LEND>
+208733a210360,210362
+> <L>24696.1<pc>0931-c<k1>lulAyaH<k2>lulAyaH
+> {{Lbody=24696}}
+> <LEND>
+209387a211017,211019
+> <L>24764.1<pc>0934-c<k1>loDraH<k2>loDraH
+> {{Lbody=24764}}
+> <LEND>
+209428a211061,211063
+> <L>24767.1<pc>0934-c<k1>lopAmudrA<k2>lopAmudrA
+> {{Lbody=24767}}
+> <LEND>
+209431a211067,211069
+> <L>24768.1<pc>0934-c<k1>lopApakaH<k2>lopApakaH
+> {{Lbody=24768}}
+> <LEND>
+209434a211073,211075
+> <L>24769.1<pc>0934-c<k1>lopASakaH<k2>lopASakaH
+> {{Lbody=24769}}
+> <LEND>
+209464a211106,211108
+> <L>24774.1<pc>0935-a<k1>loBya<k2>loBya
+> {{Lbody=24774}}
+> <LEND>
+209775a211420,211422
+> <L>24810.1<pc>0936-c<k1>lyI<k2>lyI
+> {{Lbody=24810}}
+> <LEND>
+210073a211721,211723
+> <L>24837.1<pc>0938-a<k1>vakraya<k2>vakraya
+> {{Lbody=24837}}
+> <LEND>
+210111a211762,211764
+> <L>24844.1<pc>0938-a<k1>vaMK<k2>vaMK
+> {{Lbody=24844}}
+> <LEND>
+210543a212197,212199
+> <L>24890.1<pc>0940-a<k1>vawArakaH<k2>vawArakaH
+> {{Lbody=24890}}
+> <LEND>
+210640a212297,212299
+> <L>24910.1<pc>0940-b<k1>vaRijyA<k2>vaRijyA
+> {{Lbody=24910}}
+> <LEND>
+211320a212980,212982
+> <L>24985.1<pc>0943-b<k1>vanIyakaH<k2>vanIyakaH
+> {{Lbody=24985}}
+> <LEND>
+212663a214326,214328
+> <L>25150.1<pc>0949-b<k1>varDakin<k2>varDakin
+> {{Lbody=25150}}
+> <LEND>
+212734a214400,214402
+> <L>25159.1<pc>0949-c<k1>varDrI<k2>varDrI
+> {{Lbody=25159}}
+> <LEND>
+212759a214428,214430
+> <L>25163.1<pc>0949-c<k1>varmin<k2>varmin
+> {{Lbody=25163}}
+> <LEND>
+213078a214750,214752
+> <L>25207.1<pc>0951-a<k1>valiBa<k2>valiBa
+> {{Lbody=25207}}
+> <LEND>
+213199a214874,214876
+> <L>25231.1<pc>0951-c<k1>valmiki<k2>valmiki
+> {{Lbody=25231}}
+> <LEND>
+213314a214992,214994
+> <L>25248.1<pc>0952-a<k1>valhIka<k2>valhIka
+> {{Lbody=25248}}
+> <LEND>
+213465a215146,215148
+> <L>25268.1<pc>0952-c<k1>vazkayiRI<k2>vazkayiRI
+> {{Lbody=25268}}
+> <LEND>
+215136a216820,216822
+> <L>25457.1<pc>0960-b<k1>vAyavya<k2>vAyavya
+> {{Lbody=25457}}
+> <LEND>
+215537a217224,217226
+> <L>25502.1<pc>0962-a<k1>vArDrI<k2>vArDrI
+> {{Lbody=25502}}
+> <LEND>
+215993a217683,217685
+> <L>25562.1<pc>0963-c<k1>vAsukeyaH<k2>vAsukeyaH
+> {{Lbody=25562}}
+> <LEND>
+216454a218147,218149
+> <L>25634.1<pc>0965-c<k1>vikAlakaH<k2>vikAlakaH
+> {{Lbody=25634}}
+> <LEND>
+216819a218515,218517
+> <L>25679.1<pc>0967-b<k1>vikrayin<k2>vikrayin
+> {{Lbody=25679}}
+> <LEND>
+217586a219285,219287
+> <L>25791.1<pc>0970-b<k1>vicCaMdakaH<k2>vicCaMdakaH
+> {{Lbody=25791}}
+> <LEND>
+217935a219637,219639
+> <L>25839.1<pc>0972-a<k1>vijAnat<k2>vijAnat
+> {{Lbody=25839}}
+> <LEND>
+218144a219849,219851
+> <L>25872.1<pc>0972-c<k1>viqAlaka<k2>viqAlaka
+> {{Lbody=25872}}
+> <LEND>
+218748a220456,220458
+> <L>25952.1<pc>0975-b<k1>videSIya<k2>videSIya
+> {{Lbody=25952}}
+> <LEND>
+218959a220670,220672
+> <L>25977.1<pc>0976-b<k1>vidvezwf<k2>vidvezwf
+> {{Lbody=25977}}
+> <LEND>
+219168a220882,220884
+> <L>25994.1<pc>0977-b<k1>viDitaH<k2>viDitaH
+> {{Lbody=25994}}
+> <LEND>
+219465a221182,221184
+> <L>26032.1<pc>0978-c<k1>vinAqikA<k2>vinAqikA
+> {{Lbody=26032}}
+> <LEND>
+219995a221715,221717
+> <L>26105.1<pc>0981-a<k1>vipaMcI<k2>vipaMcI
+> {{Lbody=26105}}
+> <LEND>
+220016a221739,221741
+> <L>26109.1<pc>0981-a<k1>vipaRanaM<k2>vipaRanaM
+> {{Lbody=26109}}
+> <LEND>
+220095a221821,221823
+> <L>26119.1<pc>0981-b<k1>vipariRAmaH<k2>vipariRAmaH
+> {{Lbody=26119}}
+> <LEND>
+220263a221992,221994
+> <L>26138.1<pc>0982-a<k1>vipASA<k2>vipASA
+> {{Lbody=26138}}
+> <LEND>
+221304a223036,223038
+> <L>26275.1<pc>0986-b<k1>vimiSrita<k2>vimiSrita
+> {{Lbody=26275}}
+> <LEND>
+221614a223349,223351
+> <L>26322.1<pc>0987-c<k1>virajaska<k2>virajaska
+> {{Lbody=26322}}
+> <LEND>
+221874a223612,223614
+> <L>26356.1<pc>0988-c<k1>viriMcanaH<k2>viriMcanaH
+> {{Lbody=26356}}
+> <LEND>
+222765a224506,224508
+> <L>26476.1<pc>0992-c<k1>vivAsanaM<k2>vivAsanaM
+> {{Lbody=26476}}
+> <LEND>
+223462a225206,225208
+> <L>26553.1<pc>0995-c<k1>viSezaRIya<k2>viSezaRIya
+> {{Lbody=26553}}
+> <LEND>
+223562a225309,225311
+> <L>26569.1<pc>0996-b<k1>viSrARataM<k2>viSrARataM
+> {{Lbody=26569}}
+> <LEND>
+224490a226240,226242
+> <L>26667.1<pc>1000-b<k1>vizvaMc<k2>vizvaMc
+> {{Lbody=26667}}
+> <LEND>
+224506a226259,226261
+> <L>26669.1<pc>1000-b<k1>vizvARaH<k2>vizvARaH
+> {{Lbody=26669}}
+> <LEND>
+224744a226500,226502
+> <L>26705.1<pc>1001-b<k1>visarpikA<k2>visarpikA
+> {{Lbody=26705}}
+> <LEND>
+224980a226739,226741
+> <L>26740.1<pc>1002-b<k1>visraMBa<k2>visraMBa
+> {{Lbody=26740}}
+> <LEND>
+224988a226750,226752
+> <L>26742.1<pc>1002-b<k1>visrAvaH<k2>visrAvaH
+> {{Lbody=26742}}
+> <LEND>
+225022a226787,226789
+> <L>26749.1<pc>1002-c<k1>vihaMgikA<k2>vihaMgikA
+> {{Lbody=26749}}
+> <LEND>
+226546a228314,228316
+> <L>26915.1<pc>1009-b<k1>ven<k2>ven
+> {{Lbody=26915}}
+> <LEND>
+226838a228609,228611
+> <L>26938.1<pc>1010-c<k1>vedanA<k2>vedanA
+> {{Lbody=26938}}
+> <LEND>
+227196a228970,228972
+> <L>26997.1<pc>1012-b<k1>vezyaH<k2>vezyaH
+> {{Lbody=26997}}
+> <LEND>
+227257a229034,229036
+> <L>27010.1<pc>1012-b<k1>vEkakzikaM<k2>vEkakzikaM
+> {{Lbody=27010}}
+> <LEND>
+227343a229123,229125
+> <L>27025.1<pc>1012-c<k1>vEklavyaM<k2>vEklavyaM
+> {{Lbody=27025}}
+> <LEND>
+227558a229341,229343
+> <L>27063.1<pc>1013-c<k1>vEduzyaM<k2>vEduzyaM
+> {{Lbody=27063}}
+> <LEND>
+227662a229448,229450
+> <L>27079.1<pc>1014-a<k1>vEDfti<k2>vEDfti
+> {{Lbody=27079}}
+> <LEND>
+227753a229542,229544
+> <L>27098.1<pc>1014-b<k1>vEmAtreyaH<k2>vEmAtreyaH
+> {{Lbody=27098}}
+> <LEND>
+227780a229572,229574
+> <L>27104.1<pc>1014-b<k1>vEyagryaM<k2>vEyagryaM
+> {{Lbody=27104}}
+> <LEND>
+227867a229662,229664
+> <L>27118.1<pc>1015-a<k1>vErAgin<k2>vErAgin
+> {{Lbody=27118}}
+> <LEND>
+228396a230194,230196
+> <L>27200.1<pc>1017-a<k1>vyaqaMbanaH<k2>vyaqaMbanaH
+> {{Lbody=27200}}
+> <LEND>
+229135a230936,230938
+> <L>27293.1<pc>1020-a<k1>vyavasTitiH<k2>vyavasTitiH
+> {{Lbody=27293}}
+> <LEND>
+229665a231469,231471
+> <L>27358.1<pc>1022-b<k1>vyADAvaH<k2>vyADAvaH
+> {{Lbody=27358}}
+> <LEND>
+229812a231619,231621
+> <L>27376.1<pc>1023-a<k1>vyApAdanaM<k2>vyApAdanaM
+> {{Lbody=27376}}
+> <LEND>
+229896a231706,231708
+> <L>27386.1<pc>1023-b<k1>vyAmanaM<k2>vyAmanaM
+> {{Lbody=27386}}
+> <LEND>
+229993a231806,231808
+> <L>27402.1<pc>1024-a<k1>byAvaBAzI<k2>byAvaBAzI
+> {{Lbody=27402}}
+> <LEND>
+230259a232075,232077
+> <L>27437.1<pc>1025-a<k1>vyutTitiH<k2>vyutTitiH
+> {{Lbody=27437}}
+> <LEND>
+230986a232805,232807
+> <L>27527.1<pc>1028-b<k1>SakkariH<k2>SakkariH
+> {{Lbody=27527}}
+> <LEND>
+232350a234172,234174
+> <L>27650.1<pc>1034-c<k1>SayunaH<k2>SayunaH
+> {{Lbody=27650}}
+> <LEND>
+232825a234650,234652
+> <L>27708.1<pc>1037-a<k1>SalkalaM<k2>SalkalaM
+> {{Lbody=27708}}
+> <LEND>
+232828a234656,234658
+> <L>27709.1<pc>1037-a<k1>Salkin<k2>Salkin
+> {{Lbody=27709}}
+> <LEND>
+233273a235104,235106
+> <L>27764.1<pc>1038-c<k1>SAkuMtaleyaH<k2>SAkuMtaleyaH
+> {{Lbody=27764}}
+> <LEND>
+233305a235139,235141
+> <L>27770.1<pc>1039-a<k1>SAktyaH<k2>SAktyaH
+> {{Lbody=27770}}
+> <LEND>
+233372a235209,235211
+> <L>27779.1<pc>1039-b<k1>SAKowakaH<k2>SAKowakaH
+> {{Lbody=27779}}
+> <LEND>
+233395a235235,235237
+> <L>27785.1<pc>1039-b<k1>SAwI<k2>SAwI
+> {{Lbody=27785}}
+> <LEND>
+235136a236979,236981
+> <L>28004.1<pc>1046-c<k1>Sivira<k2>Sivira
+> {{Lbody=28004}}
+> <LEND>
+235219a237065,237067
+> <L>28009.1<pc>1047-b<k1>SistaM<k2>SistaM
+> {{Lbody=28009}}
+> <LEND>
+235269a237118,237120
+> <L>28015.1<pc>1047-b<k1>SihlakaH<k2>SihlakaH
+> {{Lbody=28015}}
+> <LEND>
+235687a237539,237541
+> <L>28061.1<pc>1049-b<k1>Sukiya<k2>Sukiya
+> {{Lbody=28061}}
+> <LEND>
+235767a237622,237624
+> <L>28072.1<pc>1049-c<k1>SucA<k2>SucA
+> {{Lbody=28072}}
+> <LEND>
+236346a238204,238206
+> <L>28143.1<pc>1052-a<k1>SUkin<k2>SUkin
+> {{Lbody=28143}}
+> <LEND>
+236395a238256,238258
+> <L>28149.1<pc>1052-b<k1>SUdI<k2>SUdI
+> {{Lbody=28149}}
+> <LEND>
+236522a238386,238388
+> <L>28162.1<pc>1053-a<k1>SUrmiH<k2>SUrmiH
+> {{Lbody=28162}}
+> <LEND>
+236608a238475,238477
+> <L>28175.1<pc>1053-b<k1>SfgAlI<k2>SfgAlI
+> {{Lbody=28175}}
+> <LEND>
+236834a238704,238706
+> <L>28202.1<pc>1054-b<k1>Sepas<k2>Sepas
+> {{Lbody=28202}}
+> <LEND>
+237359a239232,239234
+> <L>28276.1<pc>1056-c<k1>SOkteyaM<k2>SOkteyaM
+> {{Lbody=28276}}
+> <LEND>
+237422a239298,239300
+> <L>28288.1<pc>1056-c<k1>SOMqin<k2>SOMqin
+> {{Lbody=28288}}
+> <LEND>
+237505a239384,239386
+> <L>28304.1<pc>1057-a<k1>SOlkikaH<k2>SOlkikaH
+> {{Lbody=28304}}
+> <LEND>
+237937a239819,239821
+> <L>28366.1<pc>1059-a<k1>SrayaRaM<k2>SrayaRaM
+> {{Lbody=28366}}
+> <LEND>
+238787a240672,240674
+> <L>28459.1<pc>1062-c<k1>SlezmAtakaH<k2>SlezmAtakaH
+> {{Lbody=28459}}
+> <LEND>
+238827a240715,240717
+> <L>28466.1<pc>1063-a<k1>SvaMc<k2>SvaMc
+> {{Lbody=28466}}
+> <LEND>
+238887a240778,240780
+> <L>28473.1<pc>1063-b<k1>SvayanaM<k2>SvayanaM
+> {{Lbody=28473}}
+> <LEND>
+239050a240944,240946
+> <L>28501.1<pc>1064-a<k1>Svitna<k2>Svitna
+> {{Lbody=28501}}
+> <LEND>
+239056a240953,240955
+> <L>28503.1<pc>1064-a<k1>Svitnya<k2>Svitnya
+> {{Lbody=28503}}
+> <LEND>
+239535a241435,241437
+> <L>28546.1<pc>1066-c<k1>zWevanaM<k2>zWevanaM
+> {{Lbody=28546}}
+> <LEND>
+241321a243224,243226
+> <L>28778.1<pc>1074-b<k1>saMsrAvaH<k2>saMsrAvaH
+> {{Lbody=28778}}
+> <LEND>
+241535a243441,243443
+> <L>28803.1<pc>1075-b<k1>sakaMpana<k2>sakaMpana
+> {{Lbody=28803}}
+> <LEND>
+242753a244662,244664
+> <L>28966.1<pc>1080-c<k1>sajAtIya<k2>sajAtIya
+> {{Lbody=28966}}
+> <LEND>
+243208a245120,245122
+> <L>29033.1<pc>1082-b<k1>sawA<k2>sawA
+> {{Lbody=29033}}
+> <LEND>
+243461a245376,245378
+> <L>29052.1<pc>1083-c<k1>satIrTyaH<k2>satIrTyaH
+> {{Lbody=29052}}
+> <LEND>
+244057a245975,245977
+> <L>29117.1<pc>1086-b<k1>sanAmaka<k2>sanAmaka
+> {{Lbody=29117}}
+> <LEND>
+244074a245995,245997
+> <L>29120.1<pc>1086-b<k1>sanizWevaM<k2>sanizWevaM
+> {{Lbody=29120}}
+> <LEND>
+244963a246887,246889
+> <L>29228.1<pc>1090-b<k1>saMniDiH<k2>saMniDiH
+> {{Lbody=29228}}
+> <LEND>
+246350a248277,248279
+> <L>29390.1<pc>1096-c<k1>samADimat<k2>samADimat
+> {{Lbody=29390}}
+> <LEND>
+246621a248551,248553
+> <L>29428.1<pc>1097-c<k1>samAlaMBanaM<k2>samAlaMBanaM
+> {{Lbody=29428}}
+> <LEND>
+246718a248651,248653
+> <L>29443.1<pc>1098-a<k1>samAvfttakaH<k2>samAvfttakaH
+> {{Lbody=29443}}
+> <LEND>
+247268a249204,249206
+> <L>29538.1<pc>1100-b<k1>samutpiMjala<k2>samutpiMjala
+> {{Lbody=29538}}
+> <LEND>
+247592a249531,249533
+> <L>29593.1<pc>1101-b<k1>samupasTAnaM<k2>samupasTAnaM
+> {{Lbody=29593}}
+> <LEND>
+247940a249882,249884
+> <L>29641.1<pc>1103-a<k1>saMpuwikA<k2>saMpuwikA
+> {{Lbody=29641}}
+> <LEND>
+248483a250428,250430
+> <L>29735.1<pc>1105-a<k1>saMBAzaRaM<k2>saMBAzaRaM
+> {{Lbody=29735}}
+> <LEND>
+248829a250777,250779
+> <L>29778.1<pc>1106-c<k1>saMmiSrita<k2>saMmiSrita
+> {{Lbody=29778}}
+> <LEND>
+249250a251201,251203
+> <L>29844.1<pc>1108-b<k1>tvaM<k2>tvaM
+> {{Lbody=29844}}
+> <LEND>
+249673a251627,251629
+> <L>29891.1<pc>1110-b<k1>savikalpaka<k2>savikalpaka
+> {{Lbody=29891}}
+> <LEND>
+249687a251644,251646
+> <L>29894.1<pc>1110-b<k1>savimarSa<k2>savimarSa
+> {{Lbody=29894}}
+> <LEND>
+251326a253286,253288
+> <L>30111.1<pc>1117-b<k1>sAmnI<k2>sAmnI
+> {{Lbody=30111}}
+> <LEND>
+252545a254508,254510
+> <L>30268.1<pc>1122-c<k1>sikatAvat<k2>sikatAvat
+> {{Lbody=30268}}
+> <LEND>
+252858a254824,254826
+> <L>30294.1<pc>1124-b<k1>siDman<k2>siDman
+> {{Lbody=30294}}
+> <LEND>
+252863a254832,254834
+> <L>30295.1<pc>1124-b<k1>siDmavat<k2>siDmavat
+> {{Lbody=30295}}
+> <LEND>
+252900a254872,254874
+> <L>30303.1<pc>1124-b<k1>siMduvAraH<k2>siMduvAraH
+> {{Lbody=30303}}
+> <LEND>
+252952a254927,254929
+> <L>30309.1<pc>1124-c<k1>siMDuvAraH<k2>siMDuvAraH
+> {{Lbody=30309}}
+> <LEND>
+253022a255000,255002
+> <L>30325.1<pc>1124-c<k1>sihlAM<k2>sihlAM
+> {{Lbody=30325}}
+> <LEND>
+253099a255080,255082
+> <L>30331.1<pc>1125-a<k1>sItkftiH<k2>sItkftiH
+> {{Lbody=30331}}
+> <LEND>
+255549a257533,257535
+> <L>30516.1<pc>1137-a<k1>sfMB<k2>sfMB
+> {{Lbody=30516}}
+> <LEND>
+255851a257838,257840
+> <L>30558.1<pc>1138-b<k1>sEMhikeyaH<k2>sEMhikeyaH
+> {{Lbody=30558}}
+> <LEND>
+255936a257926,257928
+> <L>30569.1<pc>1138-c<k1>sEriMDraH<k2>sEriMDraH
+> {{Lbody=30569}}
+> <LEND>
+255947a257940,257942
+> <L>30570.1<pc>1138-c<k1>sEriMDrI<k2>sEriMDrI
+> {{Lbody=30570}}
+> <LEND>
+255994a257990,257992
+> <L>30578.1<pc>1139-a<k1>sotkaMWa<k2>sotkaMWa
+> {{Lbody=30578}}
+> <LEND>
+256258a258257,258259
+> <L>30609.1<pc>1140-a<k1>solluMWanaM<k2>solluMWanaM
+> {{Lbody=30609}}
+> <LEND>
+256293a258295,258297
+> <L>30615.1<pc>1140-b<k1>sOKaSAyikaH<k2>sOKaSAyikaH
+> {{Lbody=30615}}
+> <LEND>
+256350a258355,258357
+> <L>30625.1<pc>1140-b<k1>sOcikaH<k2>sOcikaH
+> {{Lbody=30625}}
+> <LEND>
+256477a258485,258487
+> <L>30646.1<pc>1141-a<k1>sObaleyI<k2>sObaleyI
+> {{Lbody=30646}}
+> <LEND>
+256492a258503,258505
+> <L>30650.1<pc>1141-a<k1>sOBadreyaH<k2>sOBadreyaH
+> {{Lbody=30650}}
+> <LEND>
+256684a258698,258700
+> <L>30672.1<pc>1142-a<k1>sOraBeyI<k2>sOraBeyI
+> {{Lbody=30672}}
+> <LEND>
+256801a258818,258820
+> <L>30696.1<pc>1142-b<k1>sOvidallaH<k2>sOvidallaH
+> {{Lbody=30696}}
+> <LEND>
+257427a259447,259449
+> <L>30771.1<pc>1145-a<k1>stIm<k2>stIm
+> {{Lbody=30771}}
+> <LEND>
+257564a259587,259589
+> <L>30792.1<pc>1145-c<k1>stFh<k2>stFh
+> {{Lbody=30792}}
+> <LEND>
+257823a259849,259851
+> <L>30821.1<pc>1146-c<k1>strItarA<k2>strItarA
+> {{Lbody=30821}}
+> <LEND>
+258708a260737,260739
+> <L>30897.1<pc>1151-a<k1>sTOReyakaH<k2>sTOReyakaH
+> {{Lbody=30897}}
+> <LEND>
+258839a260871,260873
+> <L>30915.1<pc>1151-c<k1>snAvan<k2>snAvan
+> {{Lbody=30915}}
+> <LEND>
+259245a261280,261282
+> <L>30964.1<pc>1153-b<k1>spfzwikA<k2>spfzwikA
+> {{Lbody=30964}}
+> <LEND>
+259323a261361,261363
+> <L>30978.1<pc>1153-c<k1>sPawikArikA<k2>sPawikArikA
+> {{Lbody=30978}}
+> <LEND>
+260388a262429,262431
+> <L>31120.1<pc>1158-b<k1>srotasvinI<k2>srotasvinI
+> {{Lbody=31120}}
+> <LEND>
+260974a263018,263020
+> <L>31157.1<pc>1161-b<k1>svargya<k2>svargya
+> {{Lbody=31157}}
+> <LEND>
+260978a263025,263027
+> <L>31158.1<pc>1161-b<k1>svarjin<k2>svarjin
+> {{Lbody=31158}}
+> <LEND>
+261112a263162,263164
+> <L>31175.1<pc>1161-c<k1>svasreyI<k2>svasreyI
+> {{Lbody=31175}}
+> <LEND>
+261160a263213,263215
+> <L>31182.1<pc>1162-a<k1>svAdanaM<k2>svAdanaM
+> {{Lbody=31182}}
+> <LEND>
+261315a263371,263373
+> <L>31204.1<pc>1162-c<k1>svArocis<k2>svArocis
+> {{Lbody=31204}}
+> <LEND>
+261601a263660,263662
+> <L>31233.1<pc>1164-a<k1>haMsI<k2>haMsI
+> {{Lbody=31233}}
+> <LEND>
+261624a263686,263688
+> <L>31236.1<pc>1164-b<k1>haMje<k2>haMje
+> {{Lbody=31236}}
+> <LEND>
+261688a263753,263755
+> <L>31246.1<pc>1164-c<k1>haMqI<k2>haMqI
+> {{Lbody=31246}}
+> <LEND>
+262979a265047,265049
+> <L>31379.1<pc>1170-b<k1>hAlA<k2>hAlA
+> {{Lbody=31379}}
+> <LEND>
+263247a265318,265320
+> <L>31420.1<pc>1171-b<k1>hijjalaH<k2>hijjalaH
+> {{Lbody=31420}}
+> <LEND>
+263352a265426,265428
+> <L>31433.1<pc>1172-a<k1>hiMdolA<k2>hiMdolA
+> {{Lbody=31433}}
+> <LEND>
+264472a266549,266551
+> <L>31569.1<pc>1177-a<k1>homya<k2>homya
+> {{Lbody=31569}}
+> <LEND>
+264496a266576,266578
+> <L>31573.1<pc>1177-a<k1>holI<k2>holI
+> {{Lbody=31573}}
+> <LEND>
+264500a266583,266585
+> <L>31574.1<pc>1177-a<k1>hO<k2>hO
+> {{Lbody=31574}}
+> <LEND>
+264697a266783,266785
+> <L>31611.1<pc>1177-c<k1>hrIta<k2>hrIta
+> {{Lbody=31611}}
+> <LEND>
+264712a266801,266803
+> <L>31615.1<pc>1177-c<k1>hrUq<k2>hrUq
+> {{Lbody=31615}}
+> <LEND>
+264722a266814,266816
+> <L>31618.1<pc>1177-c<k1>hrezitaM<k2>hrezitaM
+> {{Lbody=31618}}
+> <LEND>
+264750a266845,266847
+> <L>31625.1<pc>1178-a<k1>hlAdakaH<k2>hlAdakaH
+> {{Lbody=31625}}
+> <LEND>
+264763a266861,266863
+> <L>31629.1<pc>1178-a<k1>hlIku<k2>hlIku
+> {{Lbody=31629}}
+> <LEND>
+265483a267584,267586
+> <LEND>
+> <L>32159.1<pc>1195-b<k1>vAhIka<k2>vAhIka
+> {{Lbody=32159}}

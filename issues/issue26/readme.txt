@@ -122,12 +122,25 @@ csl-orig  # git pull
 # regenerate displays
 
 # sync this repo
-# this repo
 cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
 git pull
 git add .
 git commit -m "#26 - part 2"
 git push
+
+
+=======================================================
+Part 3: althw_1,   temp_ap90_3.txt
+see readme_althw_1.txt.
+  # includes sync to Github and Cologne
+  
+# sync this repo
+cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
+git pull
+git add .
+git commit -m "#26 - althw_1"
+git push
+
 
 =======================================================
 

@@ -1,0 +1,60 @@
+
+
+* DONE Case 853: 01/04/2025 dict=AP90, L=1124, hw=adhvanīna, user=srhodes
+old = Headword Missing
+new = You may choose to add to the Hierarchy List, the Headword: "adhvanya" which is referenced here.
+comment = Headword Missing
+status = TODO : ADD ALTERNATE HEADWORD 
+
+------------------------------------------------------------------------
+
+* TODO Case 782: 12/30/2024 dict=AP90, L=936, hw=adhikāritā, user=srhodes
+old = Headword Missing
+new = You may choose to add to the Hierarchy List, the Headword: "adhikāritva" which is referenced here.
+comment = Headword Missing
+status = TODO : ADD ALTERNATE HEADWORD
+------------------------------------------------------------------------
+
+* TODO Case 754: 12/28/2024 dict=AP90, L=893, hw=advayat, user=srhodes
+old = Headword Missing
+new = You may choose to add to the Hierarchy List, the Headword: "advayas" which is referenced here.
+comment = Headword Missing
+status = TODO : ADD ALTERNATE HEADWORD
+------------------------------------------------------------------------
+
+* TODO Case 752: 12/28/2024 dict=AP90, L=888, hw=adruh, user=srhodes
+old = Headword Missing
+new = You may choose to add to the Hierarchy List, the Headword: "adruhvan" which is referenced here.
+comment = Headword Missing
+status = TODO : ADD ALTERNATE HEADWORD
+------------------------------------------------------------------------
+ 
+* TODO Case 644: 12/20/2024 dict=AP90, L=655, hw=atiromaśa, user=srhodes
+old = ati-lo-romaśa
+new = atilomaśa or atiromaśa
+comment = Typo –This is a suggested "print change" based upon the possible confusion of what this means: "ati-lo-romaśa" ;  Also, you may choose to add the Headword "atilomaśa" which is indicated here, but not listed in the Hierarchy.
+status = TO DO : VARIANT HEADWORDS
+------------------------------------------------------------------------
+
+* TODO Case 636: 12/20/2024 dict=AP90, L=623, hw=atimartya, user=srhodes
+old = Headword Missing
+new = You may choose to add the Headword: "atimānuṣa" which is referenced here.
+comment = Headword Missing
+status = TO DO : VARIANT HEADWORDS
+------------------------------------------------------------------------
+
+* TODO Case 614: 12/19/2024 dict=AP90, L=560, hw=atitarāṃ, user=srhodes
+old = Missing Headword
+new = You may choose to add the Headword: "atitamām" which is mentioned here. Also please note MY spelling with the final letter "m". It is worth mentioning that in the Sanskrit Language a word never ends in "ṃ" unless followed by a ANOTHER WORD that allows that SANDHI transformation. But a solitary listing of a Headword in a dictionary should NEVER end in the anusvāra. This comment is LONG overdo; now please DO something about it! (i.e. make the correction globally in this APTE dictionary).
+comment = Missing Headword
+status = TODO : ADD ALTERNATE HEADWORD
+4148 anusvAra cases in all. (Searched with - "M<k2")
+Not changing anusvAra to m in these cases. 
+------------------------------------------------------------------------
+
+* TODO Case 598: 12/18/2024 dict=AP90, L=535, hw=atigahana, user=srhodes
+old = Missing Headword
+new = Please consider adding the Headword: "atigavhara" which is cited here in the window display.
+comment = Missing Headword
+status = TODO : ADD ALTERNATE HEADWORD
+------------------------------------------------------------------------

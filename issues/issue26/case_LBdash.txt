@@ -1,0 +1,85 @@
+
+See LBdash.png  anArya jaM  example
+
+* Case 975: 01/12/2025 dict=AP90, L=1366, hw=anārya, user=srhodes
+old =  ( LB — jaṃ)
+new =  — (jaṃ)
+comment = Typo – If you would like to "get radical" you could make this target correction across all dictionaries (the carriage return being a target for removal as well as the repositioning of the dash and parenthesis):  LB "( LB — "        ——becomes——    "— (" .  This "radical" correction would clean things up faster than a sneeze!
+status = CHANGE DONE, TO BE CHECKED  
+({#--jaM#}) -> {#--(jaM)#}
+ [Jim check of display shows this correction is good]
+------------------------------------------------------------------------
+
+* Case 957: 01/11/2025 dict=AP90, L=1321, hw=anādi, user=srhodes
+old = ( LB — taḥ) N. of Śiva.
+new = — (taḥ) N. of Śiva.
+comment = Typo – If you would like to "get radical" you could make this target correction across all dictionaries (the carriage return being a target for removal as well as the repositioning of the dash and parenthesis):  LB "( LB — "        ——becomes——    "— (" .  This "radical" correction would clean things up faster than a sneeze!
+status = PENDING : WILL BE HANDLED LATER
+------------------------------------------------------------------------
+
+* Case 897: 01/06/2025 dict=AP90, L=1171, hw=anaṃta, user=srhodes
+old = ( LB — rṣā)
+new = — (rṣā)
+comment = Typo – If you would like to "get radical" you could make this target correction across all dictionaries (the carriage return being a target for removal as well as the reversal of position in regards to the dash and parenthesis):  LB "( LB — "        ——becomes——    "— (" .  This "radical" correction would clean things up faster than a sneeze!
+status = PENDING : WILL BE HANDLED LATER
+------------------------------------------------------------------------
+
+
+* Case 838: 01/04/2025 dict=AP90, L=1101, hw=adhyāruh, user=srhodes
+old = 2 ( LB — ropayati)
+new = —2 (-ropayati)
+comment = Typo – Of course you can adjust it to your liking.
+status = DONE : ({#--ropayati#}) -> ({#-ropayati#})
+------------------------------------------------------------------------
+* Case 972: 01/12/2025 dict=AP90, L=1357, hw=anāyāsa, user=srhodes
+old = ( LB — taṃ)
+new = — (taṃ)
+comment = Typo – If you would like to "get radical" you could make this target correction across all dictionaries (the carriage return being a target for removal as well as the repositioning of the dash and parenthesis):  LB "( LB — "        ——becomes——    "— (" .  This "radical" correction would clean things up faster than a sneeze!
+status = PENDING : WILL BE HANDLED LATER
+------------------------------------------------------------------------
+
+* Case 765: 12/29/2024 dict=AP90, L=918, hw=adhas, user=srhodes
+old = ( LB — 
+new = — (
+comment = Typo –I hope that you can make this a Global Correction to ATPE. This type of error occurs often in the listing of compounds and it will be a headache to correct each instance on an individual basis.
+status = PENDING : WILL BE HANDLED LATER
+------------------------------------------------------------------------
+
+* Case 745: 12/27/2024 dict=AP90, L=886, hw=adriḥ, user=srhodes
+old = ( LB — laḥ) N.
+new = — (laḥ) N.
+status = DONE : REPLACED THE PARENTHESES
+
+({#--laH#}) -> {#--(laH)#}
+------------------------------------------------------------------------
+
+* Case 673: 12/22/2024 dict=AP90, L=758, hw=atyaṃta, user=srhodes
+old = ( LB — raḥ) a kind of grain. 
+new = — (raḥ) a kind of grain. 
+status = CHANGED
+({#--raH#}) -> {#--(raH)#}
+------------------------------------------------------------------------
+
+* Case 649: 12/21/2024 dict=AP90, L=691, hw=atiśī, user=srhodes
+old = — Caus. ( LB — śāyayati)
+new = — Caus. (śāyayati)
+comment = Typo –Please keep the line continuous and unbroken.
+status = CHANGED
+
+({#--SAyayati#}) -> {#--(SAyayati)#}
+------------------------------------------------------------------------
+
+* Case 432: 12/07/2024 dict=AP90, L=281, hw=aṃganā, user=srhodes
+old = ( LB — yaḥ)
+new = — (yaḥ)
+status = DONE
+
+({#--yaH#}) -> {#--(yaH)#}
+------------------------------------------------------------------------
+
+* Case 45: 11/04/2024 dict=AP90, L=6115, hw=ātman, user=srhodes
+old = — mukha a. self-delighted. ( LB — khaṃ) the highest bliss.
+new = — mukha a. self-delighted. LB — (khaṃ) the highest bliss.
+status = DONE : CHANGED
+({#--KaM#}) -> {#--(KaM)#}
+------------------------------------------------------------------------

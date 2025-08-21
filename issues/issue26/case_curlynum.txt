@@ -1,0 +1,143 @@
+
+case_curlnum.txt
+Correct inappropriate line break before a number.
+
+* Case 983: 01/13/2025 dict=AP90, L=1389, hw=anāśramin, user=srhodes
+old = any of the LB 4 orders of life
+new = any of the 4 orders of life
+comment = Typo – Please keep this line continuous and unbroken as far as possible; also, remove the extra line space that shows in the Window Display.
+status = CURLY BRACKETS AROUND 4 REMOVED, DONE
+------------------------------------------------------------------------
+
+
+* Case 811: 01/02/2025 dict=AP90, L=1049, hw=adhyāpakaḥ, user=srhodes
+old = an adhyāpaka is of LB 2 kinds:
+new = an adhyāpaka is of 2 kinds:
+comment = Typo –Please keep the line continuous and unbroken.
+status = DONE : {2} -> 2
+------------------------------------------------------------------------
+
+
+* Case 809: 01/02/2025 dict=AP90, L=1049, hw=adhyāpakaḥ, user=srhodes
+old = an adhyāpaka is of LB 2 kinds:
+new = an adhyāpaka is of 2 kinds:
+comment = Typo –Please keep the line continuous and unbroken.
+status = DONE : {2} -> 2
+------------------------------------------------------------------------
+
+
+* Case 808: 01/02/2025 dict=AP90, L=1048, hw=adhyayanaṃ, user=srhodes
+old = to the first LB 3 classes,
+new = to the first 3 classes,
+comment = Typo –Please keep the line continuous and unbroken.
+status = DONE : {3} -> 3
+------------------------------------------------------------------------
+
+* Case 772: 12/30/2024 dict=AP90, L=926, hw=adhika, user=srhodes
+old = 100 plus LB 8 = 108
+new = 100 plus 8 = 108
+comment = Typo –Please keep the line continuous and unbroken.
+status = DONE
+
+100 plus {8} = 108; -> 100 plus 8 = 108;
+------------------------------------------------------------------------
+
+* Case 744: 12/27/2024 dict=AP90, L=886, hw=adriḥ, user=srhodes
+old = 8 The number LB 7
+new = 8 The number 7
+status = DONE : REMOVED THE CURLY BRACKETS
+------------------------------------------------------------------------
+
+* Case 688: 12/23/2024 dict=AP90, L=779, hw=atyuktā, user=srhodes
+old = of LB 4 lines, each of LB 2 syllables.
+new = of 4 lines, each of 2 syllables.
+comment = Typo –Please keep the line continuous and unbroken.
+status = DONE {4} -> 4 ; {2} -> 2 
+------------------------------------------------------------------------
+
+* Case 650: 12/21/2024 dict=AP90, L=692, hw=atiśayaḥ, user=srhodes
+old = 2 a figure of speech, (corr. to hyperbole) said to be of LB 5 kinds in S. D., but of LB 4 in K. P.; 
+new = 2 a figure of speech, (corr. to hyperbole) said to be of 5 kinds in S. D., but of 4 in K. P.; 
+comment = Typo –Please keep the line continuous and unbroken.
+status = CHANGED : REMOVED THE CURLY BRACKETS
+
+{5} kinds in <ls>S. D.</ls>, but of {4} -> 5 kinds in <ls>S. D.</ls>, but of 4
+------------------------------------------------------------------------
+
+
+* Case 592: 12/18/2024 dict=AP90, L=518, hw=atikṛtiḥ, user=srhodes
+old = 2 N. of a metre of LB 4 lines, each line containing 25 syllables
+new = 2 N. of a metre of 4 lines, each line containing 25 syllables
+comment = Typo – Please keep the line continuous and unbroken.
+status = REMOVED CURLY BRACKETS. CHANGED GLOBALLY  (some still remain)
+
+	Line   6309: of a metre of {4} lines, each line <lbinfo n="con+taining"/>
+	Line   7605: containing {4} lines, with 15 syllables
+	Line   9420: Pārvatī. {2} <ab>N.</ab> of a metre of {4} lines,
+Also-	
+	Line   1461: having {5} syllables ({#paMkti#} = <ab>Gr.</ab> pentas five)
+	Line  18539: Pādas of {8} syllables each, the whole
+	Line  18546: {8} syllables in each foot (the highest
+	Line  77884: two containing {8} syllables each, and
+Also- REMOVED CURLY BRACKETS PRECEDING A PLURAL ; OTHERWISE DIDNOT REMOVE CURLY BRACKETS
+	Line   3839: is of {5} sorts: {#samiDo yajati, tanUnapAtaM yajati#},
+	Line   6769: {#atideSa#} is of {5} kinds: {#SAstra°, kArya°#}, <lbinfo n="ni#mitta"/>
+	Line   6821: metre of {3} Pādas, the number of
+	Line   6958: Vedic Metre of {3} pādas, the <lbinfo n="num+ber"/>
+	Line   8227: {#zoqaSAkzarapAdAM vfttiM ekAkzarADikyAt#}] A metre of {4}
+	Line   8291: <ls>P. III. 4. 57</ls> after an interval of {2} days
+	Line  16631: of {5} kinds; ({%a%}) {#Ceka°#} or single
+	Line  17844: It is of {3} kinds:--{#BUtArTa°#} ({#sadeva#} <lbinfo n="sOmye#damagra"/>
+	Line  21788: this {#anyaTA°#} is said to be of {3}
+	Line  24023: {#°ta#} above. {@--5@} A kind of metre of {4}
+	Line  26603: to be kept secret (one of {9} such
+	Line  27215: {#prastutASrayA#} <ls>K. P. 10.</ls> It is of {5} kinds: {#--kArye#}
+	Line  32459: <ls n="K.">200</ls>; <ls>Ms. 5. 4</ls>; {#veda°#} is of {5} kinds:  <lbinfo n="--"/>
+	Line  34167: moonlight. {#--tilakA#} <ab>N.</ab> of a metre of {4}
+	Line  37116: signification, import; {#arTa#} is of {3} kinds:
+	Line  37157: (said to be of {3} kinds: {#--Sukla#} <lbinfo n="honest+ly"/>
+	Line  37934: the eye (said to be of {5} kinds).
+	Line  46381: enjoyment of {8} kinds’; the eight
+	Line  46387: consisting of {8} Adhyāyas or <lbinfo n="chap+ters"/>
+	Line  46413: a flock of {8} cows. {#--gAQ#} {%<ab>m.</ab>%} {1} a <lbinfo n="fabu+lous"/>
+	Line  46499: the title of a collection of {8}
+	Line  46509: a class of {8} metals; {#suvarRaM rajataM tAmraM#} <lbinfo n="sI#sakaM"/>
+	Line  46527: Consisting of {8} parts, eight-fold;  <lbinfo n="kroDa#jo"/>
+	Line  46546: consisting of {8} parts. {@--2@} The {8} chapters
+	Line  53995: {#ADAro'DikaraRaM#}; ({#ADAra#} is of {3} kinds:  <lbinfo n="--OpaSlezi#ka"/>
+	Line  56987: weapon, shield &c.; it is of {3} kinds (1)
+	Line  57202: <ls>Ms. 10. 48</ls>; ({#AraRyapaSu#} is of {7} kinds:
+	Line  72751: ({#DarmAdyEryatparIkzaRaM#}); (said to be of {4}
+	Line  77883: Vedic metre of {3} Pādas, the first
+	Line  81210: also; said to be of {5} kinds in  <lbinfo n="ls:R.+G."/>
+	Line  94800: of {6} stars) the Pleiades. {@--2@} The
+	Line 101709: mixture of {8} fragrant substances
+	Line 123958: (consisting of {3} watches or {%praharas%},
+	Line 123982: three worlds’ an epithet of {1}
+	Line 130187: of {1} Bhīṣma. {2} Kārtikeya.  <lbinfo n="--Sa#truH"/>
+	Line 130193: {#--SrutaH#} an epithet of {1} Viṣṇu. {2}
+	Line 132153: an epithet of {1} the planet Jupiter. {2}
+	Line 133291: epithet of {1} Yama. {2} Jina. {3} {#yuDizWira#}.
+	Line 143349: thief. {#°patiH#} {1} an epithet of {1} Śiva.
+	Line 147217: consisting of {5} ingredients. ({#--taM#}) {1}
+	Line 184607: of snakes. {#--ISaH#} an epithet of {1}
+	Line 184612: of {1} Garuḍa. {2} a peacock. {#--latA#}
+	Line 185295: sense of {1} very much, in a high 
+	Line 186117: {#--aDipaH#} an epithet of {1} Kaṃsa. {2}
+	Line 186848: epithet of {1} the god of love. {2} the
+	Line 187872: sense of {1} knowingly, <lbinfo n="intentional+ly"/>
+	Line 202950: a ruby. {#--locanaH#} <ab>N.</ab> of {1} Viṣṇu.
+	Line 236915: adverbially in the sense of {1} at
+	Line 241594: in the sense of {1} near. {2} from
+	Line 265029: and of {7} or {8} other works. He is generally	
+	
+------------------------------------------------------------------------
+
+
+* Case 381: 12/01/2024 dict=AP90, L=181, hw=aga, user=srhodes
+old = the animal śarabha supposed to have LB 8 legs.
+new = the animal śarabha supposed to have 8 legs.
+comment = Line Break Error –Please make the above as one continuous line. Also, the dangling parenthesis here could be fixed as well: "( LB — jaṃ) bitumen. "
+status = DONE : (Removed the curly brackets around 8)
+({#--jaM#}) -> {#--(jaM)#}
+------------------------------------------------------------------------

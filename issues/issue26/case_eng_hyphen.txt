@@ -1,0 +1,751 @@
+
+Cases involving hyphenation of english words.
+
+* Case 1001: 01/14/2025 dict=AP90, L=1430, hw=animitta, user=srhodes
+old = illomen
+new = ill-omen
+status = DONE : APTE 90 CONSISTENCY
+
+------------------------------------------------------------------------
+* Case 984: 01/13/2025 dict=AP90, L=1406, hw=anāhūta, user=srhodes
+old = uncalledfor speaker
+new = uncalled-for speaker
+comment = Typo – Please note that here the "hyphen" is probably the better choice. Otherwise, for example, one may say, "That was uncalled for." When "uncalled-for" is used as a modifier as it is here, then the hyphenation appears to be better than printing: "uncalledfor".
+status = DONE : WITH SPACE ACC. GEMINI
+------------------------------------------------------------------------
+
+* Case 976: 01/12/2025 dict=AP90, L=1380, hw=anāvṛttiḥ, user=srhodes
+old = 1 Non-return, absence of repetition or recurrence. LB 2 Nonreturn 
+new = 1 Non-return, absence of repetition or recurrence. LB 2 Non-return 
+comment = Typo – Please note that the first instance is correct: "Non-return", while the second instance is incorrect: "Nonreturn".
+status = HYPHEN INTRODUCED, DONE
+------------------------------------------------------------------------
+
+* Case 973: 01/12/2025 dict=AP90, L=1359, hw=anārata, user=srhodes
+old = non-entity
+new = nonentity
+comment = Typo –Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = NO CHANGE : CF. WEBSTER 1828 
+ALSO CHANGED 1
+	Line  31973: nonentity. {@--2@} Want of power. {@--3@} <lbinfo n="Po+verty"/> 
+	-> Line  31973: non-entity. {@--2@} Want of power. {@--3@} <lbinfo n="Po+verty"/> 
+
+------------------------------------------------------------------------
+* Case 971: 01/12/2025 dict=AP90, L=1346, hw=anāmā, user=srhodes
+old = ring-finger
+new = ring finger
+comment = Typo –Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = DONE : CHANGED 3 OTHERS : CF. WEBSTER CURRENT 
+
+	Line   4318: ring-finger, and {#kanizWA#} or {#kanizWikA#} the
+	Line 105518: ring-finger). {5} <ab>N.</ab> of a place of
+	Line 180692: cut down by Śiva with the ring-finger
+------------------------------------------------------------------------
+
+* Case 967: 01/12/2025 dict=AP90, L=1344, hw=anāman, user=srhodes
+old = ringfinger
+new = ring finger
+comment = Typo – please note that this is properly two words without a hyphen. Please consider this to be a Global Correction across all dictionaries.
+status = DONE 
+------------------------------------------------------------------------
+
+* Case 955: 01/11/2025 dict=AP90, L=1317, hw=anātha, user=srhodes
+old = poor-house
+new = poorhouse
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = DONE : CF. WEBSTER CURRENT
+------------------------------------------------------------------------
+
+* Case 954: 01/11/2025 dict=AP90, L=1317, hw=anātha, user=srhodes
+old = poor-house
+new = poorhouse
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = DONE (DUPLICATE)
+------------------------------------------------------------------------
+
+* Case 952: 01/11/2025 dict=AP90, L=1311, hw=anātman, user=srhodes
+old = selfpossessed
+new = self-possessed
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = DONE : 2 OTHERS : CF. WEBSTER CURRENT
+
+	Line  11344: self-possession, courage &c., swayed by
+	Line  13377: self-possessed; {#na tvevAnAtmasaMpannAd vfttimIheta#}	
+	Line  48455: self-possessed, confused; {#°tvaM#} want of	
+------------------------------------------------------------------------
+
+* Case 950: 01/11/2025 dict=AP90, L=1299, hw=anāgata, user=srhodes
+old = afuture
+new = a-future
+status = DONE  special text "Provider-against-a-future-evil"
+------------------------------------------------------------------------
+
+* Case 935: 01/09/2025 dict=AP90, L=1265, hw=anavasara, user=srhodes
+old = Illtimed
+new = Ill-timed
+comment = Typo – Of course the previous TWO corrections could be targeted GLOBALLY.
+status = DONE : CF. WEBSTER CURRENT 
+------------------------------------------------------------------------
+
+* Case 934: 01/09/2025 dict=AP90, L=1265, hw=anavasara, user=srhodes
+old = Illtimed
+new = Ill-timed
+status = DUPLICATE
+------------------------------------------------------------------------
+
+* Case 933: 01/09/2025 dict=AP90, L=1265, hw=anavasara, user=srhodes
+old = Illtimedness
+new = Ill-timedness
+status = DONE : CF. WEBSTER CURRENT
+------------------------------------------------------------------------
+
+* Case 852: 01/04/2025 dict=AP90, L=1124, hw=adhvanīna, user=srhodes
+old = way-farer
+new = wayfarer
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed (and incorrect) in the English Language according to current standards.
+status = DONE : CF. WEBSTER 1828 : CHANGED GLOBALLY
+
+	Line  11815: a traveller, way-farer;  <lbinfo n="saMtAnakataru#cCAyAsuptavidyADarADvagaM"/>
+	Line  11844: {#--naH, --nyaH#} A traveller going fast, way-farer.
+	Line 148522: {#paTikaH#}¦ {@1@} A traveller, way-farer;
+	Line 148561: {#paTilaH#}¦ A traveller, way-farer.
+	Line 156023: {#paMTAdeSaH#}] {@1@} A traveller, a way-farer; {#re pAMTa#}
+	Line 200096: {#yAtuH#}¦ {@1@} A traveller, a way-farer.
+	Line 200112: {#yAtfkaH#}¦ A traveller, way-farer.
+------------------------------------------------------------------------
+
+* Case 851: 01/04/2025 dict=AP90, L=1123, hw=adhvan, user=srhodes
+old = way-farer
+new = wayfarer
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed (and incorrect) in the English Language according to current standards.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 814: 01/02/2025 dict=AP90, L=1074, hw=adhyakṣa, user=srhodes
+old = eye-witness
+new = eyewitness
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = NO CHANGE : CF. WEBSTER 1828 (WEBSTER CURRENT HAS EYEWITNESS )
+CHANGED 2 : eyewitness -> eye-witness
+	Line  86803: eye-witness; <ls>Ku. 7. 83.</ls> {2} one who
+	Line 228316: eye-witness, a witness in general. {#--rASiH#}
+------------------------------------------------------------------------
+
+* Case 813: 01/02/2025 dict=AP90, L=1072, hw=adhairya, user=srhodes
+old = selfpossession
+new = self-possession
+comment = Typo – Please note that this is a suggested correction across all dictionaries. I always insert a hyphen that is required by the English Language.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER CURRENT
+
+	Line  11344: selfpossession, courage &c., swayed by
+	Line  48455: selfpossessed, confused; {#°tvaM#} want of
+	Line  13377: selfpossessed; {#na tvevAnAtmasaMpannAd vfttimIheta#}
+------------------------------------------------------------------------
+
+* Case 791: 01/01/2025 dict=AP90, L=1032, hw=adhiśrayaṇaṃ, user=srhodes
+old = fire-place
+new = fireplace
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER-1828
+
+	Line   2524: Agni. {2} fire-place. {3} <ab>N.</ab> of a plant.
+	Line  10951: {#lyuw NIp#}] An oven, a fire-place.
+	Line  20905: oven, fire-place. {@--3@} <ab>N.</ab> of a plant
+	Line  20960: {#aMtI#}¦ An oven, fire-place.
+	Line  21096: {#aMdikA#}¦ {@1@} An oven, fire-place. {@--2@}
+	Line  45631: {#SakaM° pararUpam#}] {@1@} A fire-place. {@--2@} A
+	Line  45635: {#aSmaMtakaH --kaM#}¦ {@1@} A fire-place. {@--2@}
+	Line  48864: Death. {#--taM#} Fire-place ({#aSmaMta#} <ab>q. v.</ab>).
+	Line  51125: to the fire-place.
+	Line  51154: {#AgnIDra#}. {@--2@} The fire-place within the
+	Line  60411: A kitchen, fire-place.
+	Line  64428: fire-place at a sacrifice. {@--3@} A part of
+	Line  69251: waist. {@--4@} A fire-place. {@--5@} The <lbinfo n="sub+marine"/>
+	Line  69681: plant {#guqUcI#}. {#--raM#} A fire-place.
+	Line  69727: {#udDmAnaM#}¦ A fire-place, stove.
+	Line 112051: {#culliH#}¦ A fire-place.
+	Line 112054: {#cullI#}¦ {@1@} A fire-place. {@--2@} A funeral
+	Line 115273: <ab>cf.</ab> <ls>K. P. 2.</ls> {@--7@} A fire-place. {@--8@}
+	Line 123120: {#--nI#} A fire-place.
+	Line 146722: ash-pit of a fire-place. {@--30@}
+	Line 195745: {#murmiRI#}¦ A small fire-place.
+	Line 262255: <ls>Ku. 6. 42.</ls> {@--2@} An oven, a fire-place,
+	Line 262513: {#hasanI#}¦ A portable fire-place.
+	Line 262517: {#hasaMtikA#}¦ A portable fire-place.
+	Line 262520: {#hasaMtI#}¦ {@1@} A portable fire-place. {@--2@}
+------------------------------------------------------------------------
+
+* Case 788: 12/31/2024 dict=AP90, L=997, hw=adhiratha, user=srhodes
+old = cart-load
+new = cartload
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = NO CHANGE : CF. WEBSTER-1828
+
+	Line   1202: {#--BAraH#} [{#za#}. {#ta#}.] a cart-load.
+	Line  10703: cart-load.
+	Line  51731: Bhāras or cart-loads (80, 000 Tolas);
+	Line 230817: A measure of capacity, cart-load
+	Line 233201: {#SAkawInaH#}¦ A cart-load, a measure
+
+1 case- changed to 'with hyphen'-	
+	Line  51730: cartload. {@--2@} ({%<ab>n.</ab>%} also) A measure of 10
+------------------------------------------------------------------------
+
+* Case 787: 12/31/2024 dict=AP90, L=997, hw=adhiratha, user=srhodes
+old = foster-father
+new = foster father
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Please note that as evidence for this correction I cite the following two words: "foster parent", in English these two are note hyphenated. Therefore, I stand by this correction. Also, "foster child, foster care, foster home" No Hyphen!
+status = NO CHANGE : CF. WEBSTER-1828  
+STANDARD STANCE FOR FURTHER CASES
+
+foster-father
+foster-mother
+foster-brother
+foster-sister
+foster-child
+
+All cases with hyphen-
+	Line  10702: foster-father of Karṇa. {#--TaM#} <ab>Ved.</ab> A
+	Line  84167: renowned sage, foster-father of <lbinfo n="Śa+kuntalā"/>
+	Line 113957: foster-father of Sītā. He was <lbinfo n="re+markable"/>
+	Line 130133: clouds as foster-mother,’ watered
+	Line 133679: foster-brother. {2} an actor. {#--PalaM#}
+	Line 133683: {#DAtreyikA, DAtreyI#}¦ {@1@} A foster-sister;
+	Line 136244: husband of Yaśodā and foster-father
+	Line 136268: Nanda, the foster-father of Kṛṣṇa.
+	Line 149094: {%<ab>f.</ab>%} A foster-mother.
+	Line 153042: another. {#--RRaH#} A foster-child, one
+	Line 153050: another. {#--daH#} {@1@} A foster-child. {@--2@} A
+	Line 157063: {@--6@} A foster-father. {@--7@} Protection.
+	Line 199773: foster-mother of Kṛṣṇa. {#--Dana#}
+	Line 204040: wife of Adhiratha and foster-mother
+------------------------------------------------------------------------
+
+* Case 785: 12/31/2024 dict=AP90, L=956, hw=adhijya, user=srhodes
+old = bow-string
+new = bowstring
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = NO CHANGE : CF. WEBSTER-1828
+
+Also changed bowstring -> bow-string in these 4 cases-
+	Line 117720: bowstring. {@--2@} A howl, cry, shout. {@--3@}
+	Line 167075: bowstring.)
+	Line 196272: bowstrings and the girdle of Kṣatriyas
+	Line 258317: bowstring. {@--3@} Immoveable property,
+
+
+------------------------------------------------------------------------
+
+* Case 773: 12/30/2024 dict=AP90, L=926, hw=adhika, user=srhodes
+old = out-doing
+new = outdoing
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : CHANGED : CF, WEBSTER-1828
+
+Changed 1 more
+out-do -> outdo (line no. 7896) - 
+out-do. {@--5@} To walk by, walk past,
+
+------------------------------------------------------------------------
+
+* Case 766: 12/29/2024 dict=AP90, L=918, hw=adhas, user=srhodes
+old = head-long
+new = headlong
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE
+
+Globally Changed :
+	Line   7227: precipitateness, head-long speed, <lbinfo n="rash+ness"/>
+	Line   9854: <ls>R. 3. 57.</ls> {2} head-long, precipitate, flying
+------------------------------------------------------------------------
+
+* Case 753: 12/28/2024 dict=AP90, L=890, hw=adrohaḥ, user=srhodes
+old = illfeeling
+new = ill-feeling
+status = CHANGED : ill feeling : CF. WEBSTER CURRENT
+------------------------------------------------------------------------
+
+* Case 746: 12/27/2024 dict=AP90, L=886, hw=adriḥ, user=srhodes
+old = mountain side
+new = mountainside
+comment = Typo –Please note that I have made this correction for my own dictionary according to the current standard of the English Language.
+status = CHANGED : CF. WEBSTER CURRENT
+------------------------------------------------------------------------
+
+* Case 717: 12/26/2024 dict=AP90, L=857, hw=adṛṣṭa, user=srhodes
+old = peace-making
+new = peacemaking
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 689: 12/23/2024 dict=AP90, L=786, hw=atra, user=srhodes
+old = lady-ship
+new = Ladyship
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, note that I have chose to use the capital letter "L" as this appears to be the standard for this usage of this term in the English Language.
+status = CHANGED : CF. WEBSTER 1828
+------------------------------------------------------------------------
+
+* Case 675: 12/22/2024 dict=AP90, L=758, hw=atyaṃta, user=srhodes
+old = co-existence
+new = coexistence
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER 1828
+
+Also changed -
+	Line   8178: Inseparable co-existence. {#--saMparkaH#} excessive
+	Line 183512: {#--saMDiH#} the union or co-existence of
+	Line 240918: or co-existence of two or more <lbinfo n="in+dependent"/>
+------------------------------------------------------------------------
+
+* Case 672: 12/22/2024 dict=AP90, L=758, hw=atyaṃta, user=srhodes
+old = non-entity
+new = nonentity
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = NO CHANGE : CF. WEBSTER 1828
+Also -
+	Line   8153: absolute nonentity, a thing which
+------------------------------------------------------------------------
+
+* Case 665: 12/22/2024 dict=AP90, L=741, hw=atṛṇādaḥ, user=srhodes
+old = new-born
+new = newborn
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = CHANGED GLOBALLY : CF. WEBSTER CURRENT
+
+	Line   8045: eating grass’, a new-born calf; {#aTa#}
+	Line  21385: a new-born child food to eat for
+	Line 102668: of pregnant women and new-born
+	Line 115246: produced. {#--kaH#} {@1@} A new-born infant. 
+	Line 145905: performed when a new-born child is
+	Line 188553: honey into the mouth of a new-born
+------------------------------------------------------------------------
+
+* Case 645: 12/20/2024 dict=AP90, L=655, hw=atiromaśa, user=srhodes
+old = pot-herb
+new = potherb
+comment = Typo –Please consider this to be a Global Correction across all dictionaries.
+status = DONE : GLOBALY CHANGED
+
+	Line   3063: A kind of pot-herb ({#cillISAka#}). {#--saMKyA#}
+	Line   4781: {#yasyAH#}] <ab>N.</ab> of a pot-herb Convolvulus
+	Line   7330: large monkey. {#--SA#} A pot-herb
+	Line   7372: <ab>N.</ab> of a grain or pot-herb ({#kalAyaviSeza#}.)
+	Line  34781: commonly used as a pot-herb. ({#--kaM#}) = {#vfkzAmlaM#},
+	Line  81411: {#--RI#} A pot-herb.
+	Line  83688: (of a pot-herb). {@--2@} The end or
+	Line  92997: {#kuruwaH#}¦ A kind of pot-herb.
+	Line  98992: {#kzavakaM#}¦ A kind of pot-herb. {#--vikA#}
+	Line 218345: {#vitunnaM#}¦ {@1@} The pot-herb called  <lbinfo n="su#nizaRRaka"/>
+	Line 233158: pot-herb, herb, any edible leaf, fruit
+	Line 262156: {#haritakaM#}¦ {1} A pot-herb, green grass;
+------------------------------------------------------------------------
+
+* Case 642: 12/20/2024 dict=AP90, L=642, hw=atirabhasaḥ, user=srhodes
+old = head-long
+new = headlong
+comment = Typo –Please consider this to be a Global Correction across all dictionaries.
+status = ALREADY CHANGED : DUPLICATE : CASE 766 
+------------------------------------------------------------------------
+
+* Case 641: 12/20/2024 dict=AP90, L=642, hw=atirabhasaḥ, user=srhodes
+old = head-long
+new = headlong
+comment = Typo –Please consider this to be a Global Correction across all dictionaries.
+status = ALREADY CHANGED : DUPLICATE : CASE 766 
+------------------------------------------------------------------------
+
+* Case 640: 12/20/2024 dict=AP90, L=642, hw=atirabhasaḥ, user=srhodes
+old = head-long
+new = headlong
+comment = Typo –Please consider this to be a Global Correction across all dictionaries.
+status = ALREADY CHANGED : DUPLICATE : CASE 766 
+------------------------------------------------------------------------
+
+* Case 639: 12/20/2024 dict=AP90, L=642, hw=atirabhasaḥ, user=srhodes
+old = head-long
+new = headlong
+comment = Typo –Please consider this to be a Global Correction across all dictionaries.
+status = ALREADY CHANGED : DUPLICATE : CASE 766 
+------------------------------------------------------------------------
+
+* Case 638: 12/20/2024 dict=AP90, L=638, hw=atiyogaḥ, user=srhodes
+old = Over-flow
+new = Overflow
+comment = Typo –Please consider this to be a Global Correction across all dictionaries.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 633: 12/19/2024 dict=AP90, L=609, hw=atiprauḍhā, user=srhodes
+old = grownup
+new = grown-up
+comment = Typo – Please note that this is a suggested correction based on what I consider to be the more correct form. In English as well as Sanskrit some words become "ok" through usage, even though grammatically being incorrect.
+status = DONE : CHANGED
+------------------------------------------------------------------------
+
+* Case 622: 12/19/2024 dict=AP90, L=596, hw=atipattiḥ, user=srhodes
+old = foot-soldier
+new = foot soldier
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : GLOBALLY CHANGED
+
+	Line   6929: foot-soldier.
+	Line 109554: A foot-soldier. {@--2@} A ray of light.
+	Line 110586: on. {%--<ab>m.</ab>%} A foot-soldier.
+	Line 148364: foot-soldier; <ls>R. 7. 37.</ls> {@--2@} A <lbinfo n="pedes+trian"/>
+	Line 148368: horsemen and five foot-soldiers. {@--2@}
+	Line 148379: {#pattin#}¦ {%<ab>m.</ab>%} A foot-soldier, foot-man.
+	Line 148607: foot-soldier, footman. {#--SabdaH#} noise
+	Line 148759: a kick. {#--AjiH#} a foot-soldier.  <lbinfo n="--A#diH"/>
+	Line 148774: {#--gaH#} a foot-soldier. {#--gatiH#} {%<ab>f.</ab>%} gait,
+	Line 148836: {@1@} A foot-soldier; <ls>R. 7. 37.</ls> {@--2@} A
+	Line 148842: {#padAtin#}¦ {%<ab>a.</ab>%} {@1@} Having foot-soldiers
+	Line 148844: on foot. {%--<ab>m.</ab>%} A foot-soldier.
+	Line 155862: pedestrian. {2} a foot-soldier. {#--jaH#}
+	Line 155924: {#pAdAt#}¦ {%<ab>m.</ab>%} A foot-soldier, a <lbinfo n="foot+man"/>
+	Line 155928: {#pAdAtaH#}¦ A foot-soldier; <ls>Śi. 18. 4.</ls>
+	Line 156189: {#pAyikaH#}¦ A foot-soldier.
+------------------------------------------------------------------------
+
+* Case 621: 12/19/2024 dict=AP90, L=579, hw=atipattiḥ, user=srhodes
+old = foot-soldier
+new = foot soldier
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DUPLICATE
+------------------------------------------------------------------------
+
+* Case 594: 12/18/2024 dict=AP90, L=528, hw=atikhaṭva, user=srhodes
+old = bedstead, able to dispense with a bed-stead
+new = bedstead, able to dispense with a bedstead
+comment = Typo – Please note that the word "bedstead" has been spelled two ways! Please consider this as a Global Correction across all dictionaries.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER 1828
+	Line   6460: able to dispense with a bed-stead.
+	Line  99210: {@--5@} The foot of a bed-stead.
+	Line  99769: {#KawwA#}¦ {@1@} A bed-stead. {@--2@} A kind
+	Line  99780: fowler. {#--kA#} {@1@} A small bed-stead, a
+	Line  99788: {@1@} A bed-stead, couch, cot. {@--2@} A
+	Line  99807: {#KawvAkA, KawvikA#}¦ A small bed-stead.
+	Line 100435: a bed-stead on which dead bodies
+	Line 100545: foot of a bed-stead.
+	Line 100672: a bed-stead. {@--Comp.@} {#--AGAtaH, --kzepaH#}
+	Line 113577: of a bed-stead. {@--Comp.@} {#--karaH, --karikaH#},
+	Line 244459: {#saMdI#}¦ A small bed-stead, cot,
+------------------------------------------------------------------------
+
+* Case 589: 12/17/2024 dict=AP90, L=26621, hw=viṣayaḥ, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – This appears to  be properly TWO words without hyphenation. Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER CURRENT
+
+	Line  27201: belonging to the subject-matter, <lbinfo n="irrele+vant"/>
+	Line  27212: is not the subject-matter) conveys
+	Line  27218: the subject-matter is viewed ({%a%}) as
+	Line  27248: belonging to the subject-matter;  <lbinfo n="aprA#karaRikasyABiDAnena"/>
+	Line  28927: subject-matter; {#ihABiDeyaM saprayojanaM#}  <lbinfo n="ls:K.+P. 1"/>
+	Line  37143: interest in <ls>M.</ls> ({%c%}) Subject-matter,
+	Line 169387: subject-matter of a composition or
+	Line 213739: the subject-matter of any poetic
+	Line 224139: subject, subject-matter, topic; {#ayi#}
+	Line 238413: {#SrutivizayamApatitameva#} <ls>K.</ls> {3} the subject-matter of
+------------------------------------------------------------------------
+* Case 584: 12/17/2024 dict=AP90, L=491, hw=atanaṃ, user=srhodes
+old = passer-by
+new = passerby
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE. CF Webster current
+------------------------------------------------------------------------
+
+* Case 583: 12/17/2024 dict=AP90, L=490, hw=atakaḥ, user=srhodes
+old = passer-by
+new = passerby
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER CURRENT (LINES 6050, 6054)
+------------------------------------------------------------------------
+
+* Case 556: 12/15/2024 dict=AP90, L=459, hw=aṭṭa, user=srhodes
+old = horse-laugh
+new = horselaugh
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, in regard to this correction, please ask yourself, "Do horses laugh?"
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER 1828
+	Line   5814: laughter, a horse-laugh, cachinnation,
+	Line  40092: horse-laugh.
+	Line  51817: finger-nail. {@--2@} A horse-laugh.
+------------------------------------------------------------------------
+
+* Case 531: 12/13/2024 dict=AP90, L=403, hw=ajīta, user=srhodes
+old = two-fold
+new = twofold
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, if you would like to "get radical" you could make this target correction: "-fold" ——becomes—— "fold". Generally the definition of "-fold" is in regard to an amount or number; in either case the word preceding "-fold" will VERY likely be a number. And in all such cases the "hyphen" is simply not needed.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER 1828
+
+	Line   2543: instructing him in the two-fold knowledge
+	Line   5274: {#--punarvaRyaM#} <ab>N.</ab> of a two-fold rite to be <lbinfo n="per+formed"/>
+	Line 131956: two-fold nature. {#--vAdin#} {%<ab>a.</ab>%} <lbinfo n="double+tongued"/>
+	Line 132495: {#--DaM#} {@1@} Duality, two-fold nature or
+	Line 132600: {#dvEviDyaM#}¦ {@1@} Duality, two-fold <lbinfo n="na+ture"/>
+	Line 146393: something which serves a two-fold
+Also-	
+	Line 131941: {#dvaya#}¦ {%<ab>a.</ab>%} ({#yI#} {%<ab>f.</ab>%}) Two-fold, double,
+	Line 132250: {#dvika#}¦ {%<ab>a.</ab>%} {@1@} Two-fold, forming a
+	Line 132494: {#dvEDa#}¦ {%<ab>a.</ab>%} ({#DI#} {%<ab>f.</ab>%}) Two-fold, double.
+	Line 199505: Twinborn, twin. {@--2@} Two-fold, double.
+------------------------------------------------------------------------
+
+* Case 527: 12/13/2024 dict=AP90, L=390, hw=ajānika, user=srhodes
+old = goat-herd
+new = goatherd
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : CHANGED : CF. WEBSTER 1828
+
+	Line   4807: {#ajA eva jIvikA yasya vA#}] a goat-herd;
+	Line   4895: <ls>Bṛ. S. 65. 3</ls>. {#--jIvaH, --pAlakaH#} a goat-herd, See
+	Line   5154: goat-herd.
+	Line 115440: {#jAbAlaH#}¦ A goat-herd.
+
+------------------------------------------------------------------------
+
+* Case 505: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : CHANGED : CF. WEBSTER 1828
+
+	Line   4996: to mankind, such as earth-quake.
+	Line  36149: (such as earth-quake). {@--3@} <lbinfo n="Unfavoura+ble"/>
+	Line  98654: an earth-quake. {#--kzit#} {%<ab>m.</ab>%} a king,
+	Line 141804: An earth-quake. {@--5@} A <lbinfo n="thunder+stroke"/>
+------------------------------------------------------------------------
+
+* Case 504: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DUPLICATE
+------------------------------------------------------------------------
+
+* Case 503: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DUPLICATE
+------------------------------------------------------------------------
+
+* Case 502: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DUPLICATE
+------------------------------------------------------------------------
+
+* Case 501: 12/11/2024 dict=AP90, L=371, hw=ajanya, user=srhodes
+old = earth-quake
+new = earthquake
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DUPLICATE
+------------------------------------------------------------------------
+
+* Case 491: 12/10/2024 dict=AP90, L=350, hw=acyuta, user=srhodes
+old = fig-tree
+new = fig tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. My reasoning is simple: We do not write "apple-tree", "orange-tree", "citrus-tree"; and "fig" is not an exception!
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER 1828
+Webster 1828 has fig-tree (with hyphen) and Webster Current has fig tree.
+
+Search "fig-tree" (97 hits in 1 file of 1 searched) [Normal]
+Changed others-
+	Line  26079: fig tree ({#uduMbara#}).
+	Line 144970: Sapphire. {@--3@} The Indian fig tree. {@--4@}
+	Line 228070: the fig-tree. {#--udayaH#} the fig tree.
+Also-	
+		Line  46118: figtree; {#UrDvamUlo'vAkSAKa ezo'SvatTaH#} <lbinfo n="sa#nAtanaH"/>
+	Line 101010: figtree ({#aSvatTa#}). ({#--naM#}) the root of a
+	Line 113677: figtree. {@--2@} Bdellium.
+	Line 129440: figtree. {#--prahArin#} {%<ab>a.</ab>%} {1} striking hard.
+	Line 135312: figtree. {@--5@} A post, stake. {@--6@} The stem
+	Line 136357: figtree. {#--nI#} {@1@} A daughter; <ls>U. 1. 9.</ls>
+	Line 137478: figtree. {#--balaH#} an epithet of Bhīma.
+	Line 146036: figtree. {@--2@} A fathom (measured by the
+	Line 155371: figtree. {#--muktaM#} a missile thrown with
+	Line 187756: figtree. {@--8@} The ruler of a province.
+	Line 198317: figtree. {#--kardamaH#} an ointment <lbinfo n="con+sisting"/>
+	Line 198495: figtree ({#uduMbara#}). {2} the Khadira tree.
+	Line 201733: figtree. {#--BavaM#} flesh. {#--BAva#} {%<ab>a.</ab>%} {1} red.
+------------------------------------------------------------------------
+
+* Case 484: 12/10/2024 dict=AP90, L=331, hw=aciṣṇu, user=srhodes
+old = every where
+new = everywhere
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER 1828
+
+	Line   4555: {#izRu-zwu-c#}] Going every where, <lbinfo n="all+pervading"/>
+	Line  28735: {#yasyABitaH#} <ls>U. 6. 36</ls>; every where <ls>Ki. 8. 10.</ls>
+	Line  51979: earns his livelihood every where.
+------------------------------------------------------------------------
+
+* Case 483: 12/10/2024 dict=AP90, L=331, hw=aciṣṇu, user=srhodes
+old = allpervading
+new = all-pervading
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER CURRENT
+WEBSTER CURRENT has "all-pervasive"
+	Line   4556: allpervading. 
+	Line 220951: allpervading, pervading all material
+------------------------------------------------------------------------
+
+* Case 468: 12/09/2024 dict=AP90, L=304, hw=aṃguliḥ, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE GLOBALLY : CF. WEBSTER CURRENT
+
+	Line   4350: on the finger. ({#--taH#}) a finger-nail.
+	Line  18270: instrument, such as a finger-nail; a
+	Line  37681: impression of a finger-nail, <lbinfo n="crescent+shaped"/>
+	Line  51811: finger-nails by rubbing them on
+	Line  51817: finger-nail. {@--2@} A horselaugh.
+	Line  67168: caused by a female's finger-nail,
+	Line  83834: hair, thrill. {@--7@} A finger-nail. {@--8@} A
+	Line  85628: a finger-nail. {#--kamalaM, --paMkajaM, --padmaM#} a
+	Line  85686: <ls>Gīt. 1</ls>, <ls>Śi. 13. 60.</ls> {2} a finger-nail. {#--BAraH#}
+	Line  85688: finger-nail. {#--BUzaRaM#} an ornament
+	Line  85692: finger-nail; {#anAGrAtaM puzpaM kisalayamalUnaM#}
+	Line  85703: elephant's trunk. {#--SUkaH#} a finger-nail.
+	Line  85930: caused by a finger-nail.
+	Line  86028: {#karewaH#}¦ A finger-nail. 
+	Line  88992: {#--aMkuSaH#} {1} a finger-nail. {2} the male
+	Line 109237: in a peacock's tail. {@--3@} A finger-nail.
+	Line 135820: {#uRA° ara vA#}] A finger-nail, claw,
+	Line 155373: {#--ruh#} {%<ab>m.</ab>%}, {#ruhaH#} a finger-nail. {#--vAdaH#} {1}
+	Line 159301: and again’, a finger-nail. {#--dArakriyA#}
+	Line 159311: finger-nail. {#--Bavin#} {%<ab>m.</ab>%} the sentient
+	Line 184626: Winding. {@--Comp.@} {#--kaMwaH#} a finger-nail.
+	Line 188261: penis. {2} a finger-nail, or a wound
+	Line 214666: finger-nails on the person of a lover
+	Line 229579: finger-nail. {#--nAyakaH#} a jackal. {#--pAda#}
+	Line 232965: a scratch with a finger-nail. {#--Bft#} {%<ab>m.</ab>%}
+	Line 236495: {#naKA#}) ‘having finger-nails like <lbinfo n="win+nowing"/>
+	Line 253838: finger-nail. ({#--KA, --KI#}) {1} a <lbinfo n="hand+some"/>
+	Line 259783: {@--Comp.@} {#--aMkuSaH#} {1} a finger-nail.
+
+
+------------------------------------------------------------------------
+
+* Case 431: 12/07/2024 dict=AP90, L=281, hw=aṃganā, user=srhodes
+old = woman-kind
+new = womankind
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = DONE : CHANGED GLOBALLY : CF. WEBSTER 1828
+
+	Line   4049: sex, woman-kind. {2} women. {#--priya#}
+	Line 257745: daughters. {#--jAtiH#} {%<ab>f.</ab>%} woman-kind,
+------------------------------------------------------------------------
+
+* Case 423: 12/06/2024 dict=AP90, L=243, hw=aghoṣa, user=srhodes
+old = cow-herds
+new = cow-herds
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, it may be prudent to apply the correction to the singular form: "cow-herd" which will also conveniently take care of the plural form as well.
+status = DONE GLOBALLY : CF. WEBSTER 1828
+
+	Line   3354: of cow-herds. {#--zaH#} The hard sound of a
+	Line  23655: cow-herds &c. (in kāvyas); (in <lbinfo n="Śās+tras"/>
+	Line  58118: grand-father. {@--3@} <ab>N.</ab> of a cow-herd
+	Line 157792: or beggar. {@--2@} A cow-herd. {@--3@} A
+------------------------------------------------------------------------
+
+* Case 416: 12/05/2024 dict=AP90, L=224, hw=agra, user=srhodes
+old = pot-herb
+new = potherb
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Please keep in mind that a dictionary should serve the Current Era, we are not in business to produce dictionaries that would please the 19th century or a mad-house (I used the hyphen here is as a joke to make the point clear).
+status = DUPLICATE
+------------------------------------------------------------------------
+
+* Case 415: 12/05/2024 dict=AP90, L=224, hw=agra, user=srhodes
+old = fore-part
+new = forepart
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Please keep in mind that a dictionary should serve the Current Era, we are not in business to produce dictionaries that would please the 19th century or a mad-house (I used the hyphen here is as a joke to make the point clear).
+status = DONE GLOBALLY : CF. WEBSTER 1828
+
+	Line   1172: the fore-part of the pole of a car.
+	Line   3029: remainder ({#SezaBAga#}). {3} fore-part, tip,
+	Line   3061: opening, fore-part; {#nAsA°#} <ls>Māl. 1. 1.</ls>
+	Line 125322: fore-part of an elephant's head
+	Line 134683: {#DUrvI#}¦ The fore-part or pole of a
+	Line 160976: the fore-part of the body of <lbinfo n="ani+mals"/>
+	Line 161026: fore-part or side. {2} the first half
+	Line 173875: {#prAgBAgaH#}) {1} the front. {2} the fore-part.
+	Line 173878: {2} the front part, fore-part or end
+------------------------------------------------------------------------
+
+* Case 414: 12/05/2024 dict=AP90, L=224, hw=agra, user=srhodes
+old = first-born
+new = firstborn
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Please keep in mind that a dictionary should serve the Current Era, we are not in business to produce dictionaries that would please the 19th century or a mad-house (I used the hyphen here is as a joke to make the point clear).
+status = NO CHANGE : CF. WEBSTER 1828
+Also hyphen added in-
+Line 168324: firstborn. {2} original, primary. {#--darSanaM#}
+------------------------------------------------------------------------
+
+* Case 379: 12/01/2024 dict=AP90, L=13240, hw=cāpaḥ, user=srhodes
+old = rain-bow
+new = rainbow
+comment = Typo – Please consider this as a Global Correction across all dictionaries.
+status = DONE GLOBALLY : CF. WEBSTER 1828
+
+	Line  62749: the rain-bow, and his sword, Parañja].
+	Line 110395: {@--2@} The rain-bow. {@--3@} (In geom.)
+	Line 191312: rain-bow. {#°nagarI#} <ab>N.</ab> of Amarāvatī,
+	Line 205945: rain-bow. {@--Comp.@} {#--aSvaH#} fire.
+	Line 215178: hail. {2} the rain-bow. {#--BakzaH, --BakzaRaH#},
+	Line 231141: {#--Danus#} {%<ab>n.</ab>%}, {#SarAsanaM#} the rain-bow.
+	Line 254396: {#--kArmukaM#} rain-bow. {#--gaRaH#} {1} <ab>N.</ab> of
+	Line 262073: the rain-bow; {#kaTamavalokayeyamaDunA#}
+------------------------------------------------------------------------
+
+* Case 293: 11/20/2024 dict=AP90, L=30870, hw=sthāsnu, user=srhodes
+old = immoveable
+new = immovable
+comment = Typo – Please note that this is a suggested Global "print change" (across all dictionaries). We are "saving" one letter, in the Spirit of Sanskrit.
+status = DONE GLOBALLY : CF. WEBSTER BOTH
+
+	Line   1689: {#karmaRi yat#}. {#na#}. {#ta#}.] Immoveable, <lbinfo n="im+perturbable"/>
+	Line   4423: Immoveable. {@--3@} Not wavering.
+	Line   4440: {#acara#}¦ {%<ab>a.</ab>%} {@1@} Immoveable; {#carAcaraM#} <lbinfo n="vi#SvaM"/>
+	Line   4450: {#acala#}¦ {%<ab>a.</ab>%} Steady, immoveable,
+	Line   4455: {#sTARurivAcalaH#} <ls>Ś. 7. 11</ls> immoveable. {#--laH#} {@1@}
+	Line   4462: immoveable according to one view,
+	Line  93911: {#pUrvasAkziRaH#} <ls>Y. 2. 80.</ls> {@--2@} Immoveable,
+	Line  93984: the Supreme Soul (immoveable,
+	Line 109521: immoveable; {#carAcarARAM BUtAnAM ku#} <lbinfo n="kzi#rADAratAM"/>
+	Line 109958: {%<ab>a.</ab>%} {1} moveable and immoveable. {2}
+	Line 113547: immoveable {#sTAvara#}); {#citAgniriva jaMgamaH#}  <lbinfo n="ls:R.+ 15. 16"/>
+	Line 113552: {#--itara#} {%<ab>a.</ab>%} immoveable. {#--kuwI#} an
+	Line 119494: become immoveable. {@--5@} To wish,
+	Line 120211: {#tasTu#}¦ {%<ab>a.</ab>%} Stationary, immoveable,
+	Line 135294: immoveable, stable, permanent, <lbinfo n="con+stant"/>
+	Line 140115: fixed, immoveable, motionless;  <lbinfo n="ls:Ś.+ 1. 8."/>
+	Line 140925: {#--iMga#} {%<ab>a.</ab>%} immoveable, stationary.
+	Line 143419: {#niScala#}¦ {%<ab>a.</ab>%} {@1@} Immoveable, steady,
+	Line 144087: immoveable, fixed.
+	Line 144162: immoveable; {#nizkaMpacAmaraSiKAH#} <ls>Ś. 1. 8</ls>;
+	Line 144302: immoveable, motionless. {#--prakAraka#} ( <lbinfo n="ni#zprakAraka"/>
+	Line 144556: {#nispaMda#}¦ {%<ab>a.</ab>%} Immoveable, steady.
+	Line 145860: {#nEScalyaM#}¦ Fixedness, <lbinfo n="immoveable+ness"/>
+	Line 145861: immoveableness, fixity.
+	Line 241076: <ls>U. 4.</ls> {@--4@} To make firm or immoveable;
+	Line 245973: fixed, stand immoveable; stand still.
+	Line 257214: immoveable. {@--4@} Fixed, firm, hard,
+	Line 257229: immoveableness. {@--3@} Stupor, <lbinfo n="insen+sibility"/>
+	Line 257280: or stiff, to make immoveable. {@--3@}
+	Line 257286: rigid or immoveable. {@--6@} To be
+	Line 257426: immoveable, be rigid.
+	Line 258060: fixed, steady, stable, immoveable,
+	Line 258305: immoveable, inanimate (<ab>opp.</ab> {#jaMgama#});  <lbinfo n="SarI#riRAM"/>
+	Line 258317: bow-string. {@--3@} Immoveable property,
+	Line 258320: immoveable property. {2} animate 
+	Line 258323: of immoveable form; <ls>Ku. 6. 67.</ls>
+	Line 258341: to stand, firm, immoveable. {@--2@} <lbinfo n="Per+manent"/>
+	Line 258490: <ls>Ku. 1. 30</ls>; <ls>R. 11. 19.</ls> {@--2@} Immoveable, still,
+
+------------------------------------------------------------------------

@@ -1,0 +1,294 @@
+
+
+* Case 987: 01/13/2025 dict=AP90, L=1415, hw=nitya, user=srhodes
+old = — karmankriyā
+new = — karman-kriyā
+status = CHANGED, DONE
+------------------------------------------------------------------------
+
+* Case 936: 01/09/2025 dict=AP90, L=1268, hw=anavaskara, user=srhodes
+old = dirt pure
+new = dirt, pure
+comment = Typo – 
+status = DONE
+
+* Case 919: 01/08/2025 dict=AP90, L=1200, hw=anapasara, user=srhodes
+old = An usurper
+new = A usurper
+comment = Typo – Please note that "usurper" begins with a long u sound (like the word 'you'), so only "a usurper" is correct in the English Language.
+status = DONE : CHANGED AFTER CONF. FROM GEMINI
+------------------------------------------------------------------------
+
+* Case 898: 01/06/2025 dict=AP90, L=1189, hw=anapakāraḥ, user=srhodes
+old = — a.,
+new = DELETE
+comment = Typo – Please note that this is a suggested "print change" because frankly, it serves no purpose! The following compound identifies itself: "— kārin a. Harmless, innocent. ". Also, I am still waiting to here Jim explain why he does not consider there to be any "adjectives" in the Sanskrit Language.
+status = DONE : CF. AP57 
+comment = TODO
+Jim.  This is a print change.
+-* Case 863: 01/05/2025 dict=AP90, L=1158, hw=anati, user=srhodes
+old = real true
+new = real, true
+status = DONE
+------------------------------------------------------------------------
+
+* Case 863: 01/05/2025 dict=AP90, L=1158, hw=anati, user=srhodes
+old = real true
+new = real, true
+status = DONE
+------------------------------------------------------------------------
+
+* Case 855: 01/04/2025 dict=AP90, L=1124, hw=adhvanīna, user=srhodes
+old = — naḥnyaḥ 
+new = — naḥ–nyaḥ 
+comment = Typo – please adjust to your taste.
+status = CHANGED : {#--naHnyaH#} -> {#--naH, --nyaH#}  
+------------------------------------------------------------------------
+
+* Case 815: 01/02/2025 dict=AP90, L=1083, hw=adhyardha, user=srhodes
+old = tamāna °śāṇa
+new = tamāna, °śāṇa
+status = DONE
+------------------------------------------------------------------------
+
+* Case 786: 12/31/2024 dict=AP90, L=970, hw=adhipaḥ, user=srhodes
+old = comp
+new = comp.
+status = DONE : PRINT CHANGE
+------------------------------------------------------------------------
+
+* Case 767: 12/29/2024 dict=AP90, L=918, hw=adhas, user=srhodes
+old = nakshatra
+new = nakṣatra
+comment = Typo –Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction: "ksh" ——becomes—— "kṣ" (with proper transliteration).
+status = DONE
+
+Globally changed : 
+Search "ksh" (77 hits in 1 file of 1 searched) [Normal]
+  D:\Dropbox\My Work Files\Now Working\ap90.txt (81 hits)
+	Line   1306: {#jAtirvA yatra, na#}. {#ba#}.] Devoid of the <lbinfo n="Ksha+triya"/>
+	Line   1307: Kshatriya caste; {#nAbrahma kzatramfDnoti nAkzatraM#}
+	Line   4100: gave him a secret lore called chākshushī
+	Line   8765: his teeth at the destruction of <lbinfo n="Da+ksha"/>
+	Line  12353: {#anaMtaravarRAyA mAtuH jAyate#}] the child of a <lbinfo n="Ksha+triyā"/>
+	Line  12354: Kshatriyā or Vaiśyā mother, by a father
+	Line  37795: Hari having a form half like <lbinfo n="Laksh+mī"/>
+	Line  37796: Lakshmī. {#--visargaH, --visarjanIyaH#} the Visarga
+	Line  46097: Nakshatra or lunar mansion ({#aSvinI#}).
+	Line  46261: Nakshatras or lunar mansions <lbinfo n="(con+sisting"/>
+	Line  48208: Rākshasas. ({#--saM#}) a demoniacal being <lbinfo n="par+taking"/>
+	Line  55997: completion; {#vizayABogezu nEvAdaraH#} <lbinfo n="Śān+tilakshaṇa"/>
+	Line  62066: of the gods. {@--3@} The Puṣya <lbinfo n="Na+kshatra"/>
+	Line  62067: Nakshatra. {@--4@} The Supreme being. {@--5@}
+	Line  68134: Lakshmī; and of Dvārakā, the capital of
+	Line  78340: {#UrmilA#}¦ <ab>N.</ab> of the wife of <lbinfo n="Lakshma+ṇa"/>
+	Line  78341: Lakshmaṇa; {#pArTivImudavahadraGUdvaho#} <lbinfo n="lakzmaRastadanujA#maTormilAM"/>
+	Line  82941: no Brāhmaṇa, but would become a <lbinfo n="Ksha+triya"/>
+	Line  82942: Kshatriya's wife.] {#--cA#} {@1@} A female <lbinfo n="ele+phant"/>
+	Line  98188: a governor, satrap. {#--baMDuH#} {1} a <lbinfo n="Ksha+triya"/>
+	Line  98189: Kshatriya by caste; <ls>Ms. 2. 38.</ls> {2} a mere
+	Line  98190: Kṣatriya, a vile or wretched <lbinfo n="Ksha+triya"/>
+	Line  98191: Kshatriya; (as a term of abuse); <ab>cf.</ab>
+	Line  98203: {#--yaM#} The rank or power of the <lbinfo n="Ksha+triya"/>
+	Line  98204: Kshatriya class. {@--Comp.@} {#--hanaH#} ({#RaH#}) an
+	Line  98212: {#kzatriyARI#}¦ {@1@} A woman of the <lbinfo n="Ksha+triya"/>
+	Line  98213: Kshatriya caste. {@--2@} The wife of a <lbinfo n="Ksha+triya"/>
+	Line  98214: Kshatriya.
+	Line 114003: king of Hastināpura, son of <lbinfo n="Parī+kshit"/>
+	Line 114004: Parīkshit, the grandson of Arjuna.
+	Line 114381: {#jaMBalaH#}¦ = {#jaMBaraH#}. {#--lA#} A female <lbinfo n="Rā+kshasī"/>
+	Line 114382: Rākshasī (by meditating on whom
+	Line 124263: {#trEmAturaH#}¦ An epithet of <lbinfo n="Laksh+maṇa"/>
+	Line 124264: Lakshmaṇa.
+	Line 141653: word. {@--Comp.@} {#--lakzaRA#} a {%lakshaṇā%}
+	Line 141655: is based not on the {%vivakshā%} or
+	Line 146683: (there are two such {%pakshas%}, {#SuklapakzaH#}
+	Line 148904: sexual enjoyment. {#--dmA#} {@1@} <ab>N.</ab> of <lbinfo n="La+kshmī"/>
+	Line 148905: Lakshmī, the goddess of fortune, and
+	Line 148947: {#--guRA, --gfhA#} {1} an epithet of <lbinfo n="Laksh+mī"/>
+	Line 148948: Lakshmī, the goddess of wealth. {2}
+	Line 148996: {#padmAvatI#}¦ {@1@} An epithet of <lbinfo n="Laksh+mī"/>
+	Line 148997: Lakshmī. {@--2@} <ab>N.</ab> of a river; <ls>Māl. 9. 1.</ls>
+	Line 187129: occasions. {#--CAyaH#} the {%plaksha%} tree. {#--tUryaM#},
+	Line 187509: Lakshmī. {5} <ab>N.</ab> of a metre. {#--meKala#}
+	Line 189920: wood apple. {#--TA#} <ab>N.</ab> of <lbinfo n="Dākshāya+ṇī"/>
+	Line 189921: Dākshāyaṇī. {@--Comp.@} {#--AnaMdaH#} a kind of
+	Line 192604: Lakshmī. {@--5@} An epithet of Durgā. {@--6@}
+	Line 196239: consecrated king. {2} a man of the <lbinfo n="Ksha+triya"/>
+	Line 196240: Kshatriya caste. {3} a minister. {4} =  <lbinfo n="mUrDA#vasikta"/>
+	Line 196244: from a Brāhmaṇa father and <lbinfo n="Ksha+triya"/>
+	Line 196245: Kshatriya mother. {2} a consecrated king.
+	Line 198012: by a kshatriya); <ls>Ms. 2. 42.</ls> {@--3@} (In
+	Line 200911: {#yuyuDAnaH#}¦ {@1@} <ab>N.</ab> of Indra. {@--2@} A <lbinfo n="Ksha+triya"/>
+	Line 200912: Kshatriya, warrior. {@--3@} <ab>N.</ab> of Sātyaki.
+	Line 206215: abandoned, which was agreed to. <lbinfo n="Laksh+maṇa"/>
+	Line 206216: Lakshmaṇa on one occasion intruded on
+	Line 206285: Lakshmī (performed by the bridegroom
+	Line 206295: Viṣṇu. {#--vasatiH#} {%<ab>f.</ab>%} ‘Lakshmī's
+	Line 209238: Lakshmī. {#--mArgaH#} an established <lbinfo n="cus+lom"/>
+	Line 212749: affix added to the names of <lbinfo n="Ksha+triyas"/>
+	Line 212750: Kshatriyas; as {#caMqavarman, prahAravarman#}; <ab>cf.</ab> {#dAsa#}.
+	Line 224442: Garuḍa. {#--rAtaH#} <ab>N.</ab> of king <lbinfo n="Parī+kshit"/>
+	Line 224443: Parīkshit. {#--liMgI#} a quail. {#--lokaH#} <lbinfo n="Vi+ṣṇu"/>
+	Line 226346: Lakshmī. {@--2@} Of Gaurī. {@--3@} Of Śaci.
+	Line 236501: got a wife she had better go to <lbinfo n="Laksh+maṇa"/>
+	Line 236502: Lakshmaṇa and try him. But he too rejected
+	Line 239563: Lakshmī. {#--saM#} {@1@} Knowledge. {@--2@} <lbinfo n="Me+ditation"/>
+	Line 246293: a doubt, replying to the <lbinfo n="Pūrvapa+ksha"/>
+	Line 246294: Pūrvapaksha; answering an objection. {@--7@}
+	Line 252749: (following on the refutation of the <lbinfo n="Pūrva+paksha"/>
+	Line 252750: Pūrvapaksha). {3} a proved fact, <lbinfo n="establish+ed"/>
+	Line 254897: The son of a Vaiśya by a <lbinfo n="Ksha+triya"/>
+	Line 254898: Kshatriya wife (his business being that
+	Line 265187: and ‘Dakshiṇa Kośala.’ The former is also called
+	Line 265317: called ‘Dakshina-Pañcāla,’ which was merged in
+k+sh 
+	Line  48026: daughter of Vīraṇa and wife of <lbinfo n="Dak+sha"/> 
+------------------------------------------------------------------------
+
+* Case 755: 12/28/2024 dict=AP90, L=906, hw=adhara, user=srhodes
+old = Line Break Needed
+new = Mb. LB 4.  nearer and further.
+comment = Line Break Needed; Please note that the number "4" is a listing of another numbered definition and needs to be placed on a new line in the window display.
+status = CHANGED
+
+<ls>Mb. 4.</ls> -> <ls>Mb.</ls> {4}
+------------------------------------------------------------------------
+
+* Case 747: 12/27/2024 dict=AP90, L=886, hw=adriḥ, user=srhodes
+old = Hamsa
+new = Haṃsa
+status = CHANGED
+
+Globally -
+	Line    263: altar. [<ab>cf.</ab> <ab>Goth.</ab> {%amsa%}; <ab>L.</ab> {%ansa%}, : nochange here
+	Line  34887: by {%ayanamsa%}. {#--saMkramaH, --saMkrAMtiH#}
+	Line 156367: {#pAramahaMsya#}¦ {%<ab>a.</ab>%} Relating to a <lbinfo n="‘Pa+ramahamsa"/>
+	Line 156368: ‘Paramahamsa’ or a religious man
+
+Also -
+Line  34887: {%ayanamsa%} -> {%ayanāṃśa%} Print Change 
+------------------------------------------------------------------------
+
+* Case 734: 12/26/2024 dict=AP90, L=864, hw=adreśya, user=srhodes
+old = Invisible(adṛśya)
+new = Invisible (adṛśya)
+status = DONE
+------------------------------------------------------------------------
+
+* Case 687: 12/23/2024 dict=AP90, L=761, hw=atyamla, user=srhodes
+old = °paṇīṃ
+new = °parṇī
+status = DONE
+------------------------------------------------------------------------
+* Case 666: 12/22/2024 dict=AP90, L=745, hw=atkaḥ, user=srhodes
+old = 1 LB 1 A traveller.
+new = 1 A traveller.
+comment = Typo – Kaching!
+status = CHANGED : JIM TO CHECK   
+
+{@1@} {1} -> {1}
+
+Jim:
+  After change:  (a) Line-break display ok (b) number not bold.
+  Acceptable display.
+  
+------------------------------------------------------------------------
+
+* Case 663: 12/21/2024 dict=AP90, L=18693, hw=pāpa, user=srhodes
+old = ( LB — niḥ f.)
+new = — (niḥ f.)
+comment = Typo –Please keep the line continuous and unbroken.
+status = CHANGED :  JIM TO CHECK AGAIN
+
+({#--niH#} {%<ab>f.</ab>%}) -> {#--(niH)#} {%<ab>f.</ab>%} 
+
+Jim:  checked display.  OK.
+------------------------------------------------------------------------
+
+* Case 643: 12/20/2024 dict=AP90, L=650, hw=atirucira, user=srhodes
+old = cūḍi-li-kā
+new = cuḍikā or culikā
+comment = Typo –This is a suggested "print change" based upon the possible confusion of what this means: "cūḍi-li-kā"
+status = DONE
+
+{#cUqi-li-kA#} -> {#cUqikA#} or {#cUlikA#}
+------------------------------------------------------------------------
+* Case 632: 12/19/2024 dict=AP90, L=606, hw=atipraśnaḥ, user=srhodes
+old = Vālāki's question to Yājñavalkya about Brahma in bṛhadāraṇyakopaniṣad
+new = Bālāki's question to Yājñavalkya about Brahma in Bṛhadāraṇyakopaniṣad
+comment = Typo – Please note that the correction 1) "Bālāki" is according to all dictionaries (including APTE!);  LB 2) The capital letter "B" is for the purpose of a TITLE. For example, if you purchase the book: "Bṛhadāraṇyakopaniṣad", I am certain that the first letter "B" of this Book Title will confirm this correction, so take it up with the publisher (if you disagree). For example, you could write to the publisher and say, "There are no capital letters in Sanskrit" (LOL). Since I do not take breaks from study, I need to at least have a laugh now and then!
+status = CHANGED : PRINT CHANGE
+1. Vālāki -> Bālāki
+2. bṛhadāraṇyakopaniṣad is in SLP1. Cannot be capitalized.
+------------------------------------------------------------------------
+
+* Case 619: 12/19/2024 dict=AP90, L=579, hw=atidhṛtiḥ, user=srhodes
+old = aticchadaṃs
+new = aticchandas
+comment = Typo –Also please note that it is slightly confusing to see the vertical column of numbers on the left: "1 4 2". This could be remedied in two ways: 1) Move the number "4" to the previous line; 2) spell out the number "four" so as to break the vertical column of digits.
+status = DONE
+Changed to Anusvara aticCaMdas (SLP1)
+Removed curly brackets around 4
+------------------------------------------------------------------------
+
+* Case 617: 12/19/2024 dict=AP90, L=566, hw=atithiḥ, user=srhodes
+old = hospitality attention to the guests
+new = hospitality, attention to the guests
+status = DONE
+Should it be hospitable attention?
+------------------------------------------------------------------------
+
+* Case 600: 12/18/2024 dict=AP90, L=538, hw=atiguhā, user=srhodes
+old = pṛśriparṇī
+new = pṛśniparṇī
+comment = Typo –Please note that this correction has been established on two accounts: 1) MW declares it to be so; 2) Shabda also declares it to be so (go ahead and look up the word). Kaching!
+status = CHANGED
+------------------------------------------------------------------------
+
+* Case 537: 12/14/2024 dict=AP90, L=433, hw=aṃjanā, user=srhodes
+old = Kunjara
+new = Kuñjara
+comment = Typo – Typo –Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction: "nj" ——becomes—— "ñj", as this is required by the rule of Sanskrit Sandhi.
+status = DONE : CHANGED
+------------------------------------------------------------------------
+
+* Case 376: 12/01/2024 dict=AP90, L=152, hw=akṣuṇṇa, user=srhodes
+old = Unbroken uncurtailed
+new = Unbroken, uncurtailed
+status = DONE : CHANGED
+------------------------------------------------------------------------
+
+* Case 314: 11/24/2024 dict=AP90, L=4, hw=aṃśaḥ, user=srhodes
+old = — avatāraḥ LB — taraṇaṃ
+new = — avatāraḥ LB — avataraṇam
+comment = Typo – Please note that the second compound cite above is properly: "aṁśāvataraṇam" and NOT "aṁśataraṇam" as it is currently listed. In other words the second compound cited above is a "continuation and variation", so to speak, of the first compound "aṁśāvatāraḥ". Also, Please consider this suggestion as a Global Correction: all words in APTE dictionary given as ending in the letter "ṃ" are INCORRECT. No word is allowed to end in the anusvāra unless a word follows which "invokes" the anusvāra (so to speak). Therefore, for any solitary word given in a dictionary, the final letter must be "m" and NOT "ṃ". How is that for a "Jackpot Print Change".
+status = DONE : CHANGED
+
+{#--avatAraH#} {#--taraRaM#} -> {#--avatAraH, --taraRaM#}
+
+------------------------------------------------------------------------
+
+* Case 146: 11/10/2024 dict=AP90, L=21861, hw=brahmaṃ, user=srhodes
+old = UPDATED CORRECTION
+new = PLEASE IGNORE MY LAST SUBMISSION. I WAS IN FACT INCORRECT!
+comment = Aumsanskrit Error!
+status = See (Case 145) below
+------------------------------------------------------------------------
+
+* Case 145: 11/10/2024 dict=AP90, L=21861, hw=brahmaṃ, user=srhodes
+old = brahmaṃ
+new = brahma
+comment = Typo – Please note that this Headword Typo follows the printed text. Also, please confer with this statement found in MW dictionary which seems to clarify the matter: "n. (Brahma) is used for the impersonal Spirit". The point is that there is no prātipadika = "brahma"; the prātipadika is "brahman" and the neuter form for nominative and accusative is: "brahma", which apparently is being stated here by APTE. BUT the Headword "brahma" does not exist as a prātipadika, and the form listed as "brahmam" is incorrect.
+status = CHANGED TYPO TO AGREE WITH PRINT
+Digitizing error
+Brahmam - Only in Apte57 print, 
+Brahma - in Apte90 print
+------------------------------------------------------------------------
+
+
+* Case 8: 10/31/2024 dict=AP90, L=9956, hw=kaṃkaḥ, user=srhodes
+old = A Vṛ hṇi
+new = A Vṛṣṇi
+status = ALREADY DONE
+------------------------------------------------------------------------

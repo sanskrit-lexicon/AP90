@@ -1,0 +1,154 @@
+20  Cases where no change was made
+
+
+* Case 988: 01/13/2025 dict=AP90, L=1415, hw=nitya, user=srhodes
+old = -datrimaḥ
+new = -dattrimaḥ
+comment = Typo – I am wondering if this correction would be the better choice based upon the Headword : "dattrima", which apparently NO ONE spells "datrima". Please comment, Jim and Andhrabharati.
+status = NO CHANGE, DONE
+------------------------------------------------------------------------
+
+* Case 947: 01/10/2025 dict=AP90, L=1274, hw=anavānaṃ, user=srhodes
+old = uno tenore
+new = ?
+comment = Typo – I am uncertain of the following meaning: "uno tenore". Is Jim able to offer a translation of this into English?
+status = NO CHANGE : A TERM OF MUSIC IN ITALIAN
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+* Case 922: 01/08/2025 dict=AP90, L=1216, hw=anabhiśasta, user=srhodes
+old = °śastenī leading to perfection or to heaven.
+new = °śastenya leading to perfection or to heaven.
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Jim or Andhrabharati. There are two pieces of supporting evidence for this correction: 1) APTE in his FULL dictionary prints, "°śastenya Yv. 5.5." ; 2) MW Dictionary prints this Headword as well: "an-abhiśastenyá [VS.]".
+status = NO CHANGE : CF. अनभिशस्तेनी GST AND PWG REF. UNDER अनभिशस्ति 
+------------------------------------------------------------------------
+
+* Case 896: 01/06/2025 dict=AP90, L=1171, hw=anaṃta, user=srhodes
+old = Śrīraṅgapaṭṭaṇa (?)
+new = Śrīraṅgapaṭṭaṇa (because there are temples of Viṣṇu reclining on Ananta Serpent).
+comment = Typo –Please note that this is a VERY interesting print change. This comes from APTE himself in his FULLER Sanskrit-English Dictionary. He must have discovered this piece of information subsequently. Andhrabharati has commented that Scott likes to compare dictionaries, and indeed I do! This is a good example of how I gain knowledge from such an approach. Dictionaries are tombs of information and a great source of learning. Now I am curious if you edity APTE by APTE himself! Or do you choose to retain ignorance in the form give here: "(?)" • über-Kaching!
+status = NO CHANGE : JUST A DIFFERENCE BETWEEN APTE 57 AND 90
+------------------------------------------------------------------------
+
+* Case 895: 01/06/2025 dict=AP90, L=1169, hw=ananubhāvuka, user=srhodes
+old = ananubhāvuka
+new = ananubhāvaka
+comment = Typo –Please note that this is a serious "print change". You may confirm this correction by looking up the word "anubhāvaka" without the negative particle. The word "bhāvuka" does not fit the sense given. Also check MW: "ananubhāvaka". • über-Kaching!
+status = NO CHANGE : PUNE DICTIONARY ACCEPTS THIS AS VALID
+------------------------------------------------------------------------
+
+* Case 864: 01/05/2025 dict=AP90, L=1158, hw=anati, user=srhodes
+old = anatipraśna not to be asked to excess
+new = anatipraśnya not to be asked to excess
+comment = Typo –Please note that this is a suggested "print change". MW seems to agree, as well as Vācaspatyam. •Kaching!
+status = NO CHANGE : PUNE DICTIONARY ACCEPTS THIS AS VALID
+------------------------------------------------------------------------
+
+* Case 858: 01/04/2025 dict=AP90, L=1134, hw=anaṃśa, user=srhodes
+old = Without parts, LB (pb) undivided,
+new = Without parts, undivided,
+comment = Typo – Please note that there is no need to include "(pb)" for "page break". Even an idiot can see the page break clearly on the printed page, and of course there is no "page break" online. Also, if you consider "(pb)" to be useful as a "pointer", please consider that there is no "pointer" to the location of the Headword itself on the printed page - an intelligent and discerning eye is required, no training wheels necessary. "(pb)" is simply a nuisance and it should be removed globally from all online dictionaries. There is no page break online! Please make the correction.
+status = NO CHANGE : [Page0055-a+ 56] CAUSES THE PB IN DISPLAY. HOW TO HANDLE?
+------------------------------------------------------------------------
+
+* Case 856: 01/04/2025 dict=AP90, L=1125, hw=adhvara, user=srhodes
+old = [adhvaraṃ gacchati] LB (pb) intended for a sacrifice.
+new = [adhvaraṃ gacchati] intended for a sacrifice.
+comment = Typo – Please note that there is no need to include "(pb)" for "page break". Even an idiot can see the page break clearly on the printed page, and of course there is no "page break" online. Also, if you consider "(pb)" to be useful as a "pointer", please consider there is not "pointer" to the location of the Headword itself on the printed page. An intelligent and discerning eye is required. No training wheels necessary. "(pb)" is simply a nuisance and it should be removed globally from all online dictionaries. There is no page break online! Please make the correction.
+status = NO CHANGE : [PageXXXX] CAUSES THE PB IN DISPLAY. HOW TO HANDLE?
+------------------------------------------------------------------------
+
+* Case 854: 01/04/2025 dict=AP90, L=1124, hw=adhvanīna, user=srhodes
+old = — naḥnyaḥ 
+new = — naḥ  AND  — naḥnyaḥ 
+comment = Typo – please adjust to your taste.
+status = NO CHANGE : SEE 855 ABOVE
+------------------------------------------------------------------------
+
+* Case 839: 01/04/2025 dict=AP90, L=1108, hw=adhyās, user=srhodes
+old = lie down, LB (pb) settle upon; 
+new = lie down, settle upon; 
+comment = Typo – In my opinion including "(pb)" for "page break" is a bit of a nuisance. If someone capable of locating the initial listing on the printed page, then the "Page Break" itself is obvious. Why are we stating the obvious? when in fact it is just a disruption to the definitions be given? I consider this to be worthy of reconsideration: eliminating all such "(pb)" references.
+status = NO CHANGE : [PageXXXX] CAUSES THE PB IN DISPLAY. HOW TO HANDLE?
+------------------------------------------------------------------------
+* Case 810: 01/02/2025 dict=AP90, L=1050, hw=adhyāpanaṃ, user=srhodes
+old = one of the LB (pb) six 
+new = one of the (pb) six 
+comment = Typo –Please keep the line continuous and unbroken.
+status = NO CHANGE : [PageXXXX] CAUSES THE PB IN DISPLAY. HOW TO HANDLE?
+------------------------------------------------------------------------
+
+* Case 710: 12/25/2024 dict=AP90, L=853, hw=adūṣita, user=srhodes
+old = unspotted
+new = unspoiled
+comment = Typo – Please note that Scott has "spotted" the "unspotted" and it is seen to be "unspoiled". Kaching!
+status = NO CHANGE
+------------------------------------------------------------------------
+
+* Case 655: 12/21/2024 dict=AP90, L=723, hw=atisparśa, user=srhodes
+old = niggardly
+new = ungenerous, stingy
+comment = Typo – Please note that this is a very "Radical Print Change" suggested across all dictionaries. I have employed this print change in my own dictionary. Maybe it is just an "American thing", but due to America's history of slavery in regards to the African Americans, the word "niggardly" is a bit outdated and perhaps carries a tinge of "bad taste" in the etiquette of our modern day. I hope that you will give this some serious consideration. Bear in mind that words do change and acquire shades of meaning over time; in this perhaps rare case, some special consideration should be given. Namaste to all beings.
+status = NO CHANGE : 
+
+Idea : Add- "Cologne Editorial Comment" (Retain print word but add a note)
+ 
+------------------------------------------------------------------------
+* Case 652: 12/21/2024 dict=AP90, L=705, hw=atisaktiḥ, user=srhodes
+old = contact, or proximity
+new = contact or proximity
+status = NO CHANGE : AGREE WITH PRINT
+------------------------------------------------------------------------
+* Case 602: 12/18/2024 dict=AP90, L=551, hw=aticchatraḥ, user=srhodes
+old = Anesum
+new = Anisum
+status = NO CHANGE
+Apte uses "anise, principally Anesum" and uses the old historical spelling with an e. So lets retain it. (cf. Gemini)
+
+------------------------------------------------------------------------
+* Case 532: 12/13/2024 dict=AP90, L=406, hw=ajīva, user=srhodes
+old = i. e.
+new = i.e.
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. This is an abbreviation which in a dictionary listing does not contain a space in the middle. I eliminate any "space" that is not needed in the English Language.
+status = DONE : NO CHANGE
+CHANGED ONE WITHOUT SPACE BACK TO SPACE FOR MARKUP
+i.e. -> {%<ab>i. e.</ab>%}
+
+------------------------------------------------------------------------
+
+* Case 367: 11/30/2024 dict=AP90, L=144, hw=akṣita, user=srhodes
+old = — ūti-vasu (tā°) N. of Indra, giving permanent help, or having unfailing wealth (?) 
+new = — ūti  N. of Indra, giving permanent help, LB — vasu (tā°) N. of Indra, having unfailing wealth (?) 
+comment = Typo – Please note this listing is a point of confusion. MW dictionary seems to make the point clear: There are TWO compounds here, not one: 1) "akṣitoti" and 2) "akṣitāvasu". This deserves to be clarified and marked as a print change. Super-Kaching!
+status = NO CHANGE
+TO DO : HOW TO CHANGE ???
+(Compound-Headword)??
+------------------------------------------------------------------------
+* Case 193: 11/12/2024 dict=AP90, L=29065, hw=satya, user=srhodes
+old = The abode of Brahman
+new = The abode of Brahmā
+comment = Typo – Please note that this is a suggested "print change". The reasoning is that "Brahman" neuter gender does not have an abode. Therefore the "Brahman" cited here is specifically the masculine gender which refers to "Brahmā (the creator)", so to speak. I have made this correction to my own dictionary just to make things CLEAR, which is the point of a dictionary to begin with. Another option, would be to add "(Brahmā)" in parenthesis.
+status = NO CHANGE
+Reason- Traditionally valuing the choice of inconsistency of Apte.
+------------------------------------------------------------------------
+
+* Case 46: 11/04/2024 dict=AP90, L=6115, hw=ātman, user=srhodes
+old = pauruṣamātmaśattayā
+new = pauruṣamātmaśaktyā
+comment = Typo – UPDATED CORRECTION; This follows the printed text, and of course has the feminine instrumental singular case ending.
+status = NO CHANGE : DONE : śaktyā is correct
+------------------------------------------------------------------------
+
+* Case 44: 11/04/2024 dict=AP90, L=6115, hw=ātman, user=srhodes
+old = pauruṣamātmaśattayā
+new = pauruṣamātmaśaktayā
+status = SEE CASE 46
+------------------------------------------------------------------------
+
+* Case 2: 10/19/2024 dict=AP90, L=5765, hw=ākūtiḥ, user=srhodes
+old = °para a. accomplishing one's own intentions. 
+new = °pra a. accomplishing one's own intentions. 
+comment = Typo – Please note that this is a possible "print change" that needs confirmation one way or the other. MW dictionary gives this word as "ākūtipra" (where the word 'pra' has been confirmed in this usage). However, I am uncertain if the word 'para' can be used in the sense of  'accomplishing' (unless this is an extension of the authorized sense of the word para: 'following'). Also, have you considered adding all of the APTE compounds as "searchable" Headwords. Of course this would be a HUGE undertaking, but possibly very worthwhile.
+status = NO CHANGE : 
+para ifc. = intention as the highest objective
+------------------------------------------------------------------------

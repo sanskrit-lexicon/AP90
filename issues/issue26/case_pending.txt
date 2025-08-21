@@ -1,0 +1,44 @@
+
+case_pending.txt
+
+
+* Case 974: 01/12/2025 dict=AP90, L=1361, hw=anārabhya, user=srhodes
+old = Alphabetical Placement?
+new = Please note that the Alphabetical Placement here is very strange. The preceding Headword is: "anāraṃbhaḥ [ID=1360]"  AND the subsequent Headword is: "anāraṃbhaṇa [ID=1362]". SO THE "anusvāra" BOTH precedes and follows the Headword: "anārabhya" which contains no anusvāra. How is this possible? Also, please note that MW dictionary does NOT follow this ordering of words.
+comment = Alphabetical Placement?
+status = PENDING : ATTENDED (TO BE LOOKED AT AGAIN)
+NOTE = There are two font sizes in the head words in the scan. The bigger font size is the main word and the smaller one is the sub-word that generates out of the main word. 
+
+------------------------------------------------------------------------
+
+* Case 812: 01/02/2025 dict=AP90, L=1056 , hw=adhīna, user=srhodes
+old =                [ID=1056]
+new = [ID=1056]
+comment = Typo – Please removing empty spacing.
+status = PENDING : NO CHANGE : HTML ISSUE
+------------------------------------------------------------------------
+
+* TODO Case 700: 12/24/2024 dict=AP90, L=821, hw=adadhryaṃc, user=srhodes
+old = adadhryaṃc [amuṃ aṃcati adas-aṃc kvip adhryāgamaḥ
+new = adadryaṃc [amuṃ aṃcati adas-aṃc kvip adryāgamaḥ
+comment = Typo – Please note that this correction is based upon a combination of MW dictionary and Vācaspatyam. I hope that Andhrabharati will have a look into this. I do not find the word "adadhryaṃc" or "adadhryañc" (with the letter dh) anywhere else. MW gives the Headword "adadryañc" and Vācaspatyam prints, " अमुमञ्चति अदस् + अन्च--क्विप् अद्र्यागमः". This correction is a Super Kaching (pending confirmation by Jim or Andhrabharati).
+status = TODO : BOTH APTES HAVE THIS SPELLING BUT NO OTHER DICTIONARIES DO
+------------------------------------------------------------------------
+
+* TODO Case 601: 12/18/2024 dict=AP90, L=542, hw=atigha, user=srhodes
+old = Worth
+new = Wrath
+comment = Typo –Please note that this is a suggested "Print Change" based upon MW as well as the context of the current definition. "Weapon and Wrath" seem more closely related than "Weapon and Worth".
+status = TODO
+Searched and not found the headword in SKD or VCP or SHS.
+PD gives wrath but refers to only MW. 
+
+------------------------------------------------------------------------
+
+* Case 482: 12/10/2024 dict=AP90, L=329, hw=acitvas, user=srhodes
+old = acitvas
+new = acikitvas
+comment = Typo – Please note that this is a very serious "print change" based upon the citation given in APTE's FULL DICTIONARY as follows: "अचिकित्वाञ् चिकितुषश्चितदत्र Rv. 1.164.6." MW Dictionary seems to agree, and for my own dictionary I am listing this word as "acikitvas".
+status = PENDING
+Jim to ask others about Scott's proposed headword change.
+------------------------------------------------------------------------

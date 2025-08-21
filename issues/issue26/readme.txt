@@ -77,13 +77,53 @@ comment in https://github.com/sanskrit-lexicon/AP90/issues/26
 End of part 1
 
 =======================================================
-Part2: Further changes
-(work in progress)
+Part2: LBdash  temp_ap90_2.txt
 =======================================================
-cp temp_ap90_scott_usha.txt temp_ap90_2.txt
+Example: ({#--jaM#}) -> {#--(jaM)#}
+In ap90, the markup {#--X#} of ap90.txt is changed
+by make_xml.py in two steps:
+ {#--X#} -> <s>--X</s>  -> <div n="1"/><b>—</b> <s>X</s>
+ In displays, <div n="1"/> gemerates a line break.
+When parens are added we end up with
+ ({#--X#})  ->  (<div n="1"/><b>—</b> <s>X</s>)
+ So in display '(' is followed by line break, not good.
 
-Resolve case_todo.txt
-cp temp_ap90_scott_usha.txt temp_ap90_2.txt
+A simple change in ap90.txt solves this problem
+ ({#--X#}) -> {#--(X)#}
+-----------------------
+python LBdash.py temp_ap90_scott_usha.txt temp_ap90_2.txt
+
+python diff_to_changes_dict.py temp_ap90_scott_usha.txt temp_ap90_2.txt change_2.txt
+1790 changes written to change_2.txt
+
+# remake displays from temp_ap90_2.txt
+cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
+cp temp_ap90_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/ap90/ap90.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh ap90  ../../ap90
+sh xmlchk_xampp.sh ap90
+cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
+
+# commit changes to github
+cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
+diff temp_ap90_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/ap90/ap90.txt | wc -l
+#0 expected
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull
+git add .
+git commit -m "ap90 corrections  (LBdash)
+Ref: https://github.com/sanskrit-lexicon/AP90/issues/26"
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
+
+# this repo
+cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
+git pull
+git add .
+git commit -m "#26 - part 2"
+git push
+
+=======================================================
 
 ----------------------------------
 Jim TODO global

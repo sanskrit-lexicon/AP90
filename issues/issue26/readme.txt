@@ -115,7 +115,13 @@ git commit -m "ap90 corrections  (LBdash)
 Ref: https://github.com/sanskrit-lexicon/AP90/issues/26"
 git push
 cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
+-----------------
 
+# sync cologne
+csl-orig  # git pull
+# regenerate displays
+
+# sync this repo
 # this repo
 cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
 git pull

@@ -1,0 +1,2714 @@
+-0 : 185 : agati(tI)ka : agatika : 1 : agatIka
+-0 : 313 : aMGri(aMhriH) : aMGri : 1 : aMhriH
+-0 : 413 : ajju(jjU)kA : ajjukA : 1 : ajjUkA
+-0 : 473 : aRa(na)ka : aRaka : 1 : anaka
+-0 : 581 : atinicf(vf)t : atinicft : 1 : atinivft
+-0 : 602 : atipAdanicf(vf)t : atipAdanicft : 1 : atipAdanivft
+-0 : 614 : atiBa(BA)raH : atiBaraH : 1 : atiBAraH
+-0 : 648 : ati(tI)rekaH : atirekaH : 1 : atIrekaH
+-0 : 688 : atiSakka(kva)rI : atiSakkarI : 1 : atiSakvarI
+-0 : 716 : ati(tI)sAraH : atisAraH : 1 : atIsAraH
+-0 : 717 : ati(tI)sArin : atisArin : 1 : atIsArin
+-0 : 921 : aDastarA(mA)m : aDastarAm : 1 : aDastamAm
+-0 : 975 : aDipu(pU)ruzaH : aDipuruzaH : 1 : aDipUruzaH
+-0 : 1371 : anAlaMbu(Bu)kA : anAlaMbukA : 1 : anAlaMBukA
+-0 : 1432 : animi(me)za : animiza : 1 : animeza
+-0 : 2811 : aprati(tI)kAra : apratikAra : 1 : apratIkAra
+-0 : 2843 : apratta(°pradatta) : apratta : 1 : apradatta
+-0 : 2992 : aBi(BI)ka : aBika : 1 : aBIka
+-0 : 3240 : aBimi(me)hya : aBimihya : 1 : aBimehya
+-0 : 3265 : aBiyugva(jva)n : aBiyugvan : 1 : aBiyujvan
+-0 : 3415 : aBi(BI)zwi : aBizwi : 1 : aBIzwi
+-0 : 3420 : aBizyaM(syaM)daH : aBizyaMdaH : 1 : aBisyaMdaH
+-0 : 3421 : aBizyaM(syaM)din : aBizyaMdin : 1 : aBisyaMdin
+-0 : 3460 : aBisAM(SAM)tv : aBisAMtv : 1 : aBiSAMtv
+-0 : 3807 : amAma(mA)sI : amAmasI : 1 : amAmAsI
+-0 : 3908 : amli(mlI)kA : amlikA : 1 : amlIkA
+-0 : 4046 : arAti(tI)yati : arAtiyati : 1 : arAtIyati
+-0 : 4090 : aruza(zya)ti : aruzati : 1 : aruzyati
+-0 : 4489 : avacCa(cCA)daH : avacCadaH : 1 : avacCAdaH
+-0 : 4605 : ava(ba)Dra : avaDra : 1 : abaDra
+-0 : 5183 : avyaBi(BI)cAraH : avyaBicAraH : 1 : avyaBIcAraH
+-0 : 5707 : ahe(hE)tuka : ahetuka : 1 : ahEtuka
+-0 : 5886 : Agu(gU)raRaM : AguraRaM : 1 : AgUraRaM
+-0 : 5912 : AgrahAyaRa(Ri)ka : AgrahAyaRaka : 1 : AgrahAyaRika
+-0 : 5981 : AcCA(cCu)kaH : AcCAkaH : 1 : AcCukaH
+-0 : 6085 : AtApi(yi)n : AtApin : 1 : AtAyin
+-0 : 6092 : Atire(rE)kyaM : AtirekyaM : 1 : AtirEkyaM
+-0 : 6332 : AnuSra(SrA)vika : AnuSravika : 1 : AnuSrAvika
+-0 : 6353 : AMtari(rI)kza : AMtarikza : 1 : AMtarIkza
+-0 : 6501 : ABAsu(sva)ra : ABAsura : 1 : ABAsvara
+-0 : 6548 : Ama(mA)nasyaM : AmanasyaM : 1 : AmAnasyaM
+-0 : 6622 : Amli(mlI)kA : AmlikA : 1 : AmlIkA
+-0 : 6688 : Arakza(kzi)kaH : ArakzakaH : 1 : ArakzikaH
+-0 : 6736 : Ara(rA)vaH : AravaH : 1 : ArAvaH
+-0 : 6849 : AlAbuH(bUH) : AlAbuH : 1 : AlAbUH
+-0 : 6911 : Ava(ba)rhita : Avarhita : 1 : Abarhita
+-0 : 6971 : Avari(rI)tf : Avaritf : 1 : AvarItf
+-0 : 7320 : iqa(la)spatiH : iqaspatiH : 1 : ilaspatiH
+-0 : 7362 : iMdi(dI)varaM : iMdivaraM : 1 : iMdIvaraM
+-0 : 7455 : izi(zI)kA : izikA : 1 : izIkA
+-0 : 7494 : Iqe(le)nya : Iqenya : 1 : Ilenya
+-0 : 7609 : ucciwaM(wiM)gaH : ucciwaMgaH : 1 : ucciwiMgaH
+-0 : 7646 : ucCra(cCrA)yaH : ucCrayaH : 1 : ucCrAyaH
+-0 : 7663 : ujjaya(yi)nI : ujjayanI : 1 : ujjayinI
+-0 : 7998 : udaka(ki)la : udakala : 1 : udakila
+-0 : 8364 : unmajj(masj) : unmajj : 1 : unmasj
+-0 : 8469 : upakva(kvA)RaM : upakvaRaM : 1 : upakvARaM
+-0 : 8804 : upara(rA)maH : uparamaH : 1 : uparAmaH
+-0 : 8913 : upaSiMGa(ha)naM : upaSiMGanaM : 1 : upaSiMhanaM
+-0 : 9181 : uBaye(ya)dyus : uBayedyus : 1 : uBayadyus
+-0 : 9186 : uMba(bu)raH : uMbaraH : 1 : uMburaH
+-0 : 9260 : ulba(lva)Ra : ulbaRa : 1 : ulvaRa
+-0 : 9464 : fta(tA)yu : ftayu : 1 : ftAyu
+-0 : 9484 : fDaj(k) : fDaj : 1 : fDak
+-0 : 9504 : fzi(zI)kaH : fzikaH : 1 : fzIkaH
+-0 : 9643 : Eqa(la)viqaH(laH) : EqaviqaH : 1 : ElaviqaH
+-0 : 9644 : Equ(qU)kaM : EqukaM : 1 : EqUkaM
+-0 : 9698 : okaRaH(RiH) : okaRaH : 1 : okaRiH
+-0 : 9842 : Oparo(rO)Dika : OparoDika : 1 : OparODika
+-0 : 9881 : OrDvade(dE)hika : OrDvadehika : 1 : OrDvadEhika
+-0 : 9882 : OrDvasro(Sro)tasikaH : OrDvasrotasikaH : 1 : OrDvaSrotasikaH
+-0 : 10032 : kawA(WA)kuH : kawAkuH : 1 : kaWAkuH
+-0 : 10076 : kaqaMga(ka)raH : kaqaMgaraH : 1 : kaqaMkaraH
+-0 : 10077 : kaqaMga(ka)rIya : kaqaMgarIya : 1 : kaqaMkarIya
+-0 : 10078 : kaqa(la)traM : kaqatraM : 1 : kalatraM
+-0 : 10080 : kaqaM(laM)baH : kaqaMbaH : 1 : kalaMbaH
+-0 : 10283 : kabaM(vaM)Din : kabaMDin : 1 : kavaMDin
+-0 : 10329 : kara(re)wuH : karawuH : 1 : karewuH
+-0 : 10342 : karaMBaH(baH) : karaMBaH : 1 : karaMbaH
+-0 : 10365 : karena(va)raH : karenaraH : 1 : karevaraH
+-0 : 10430 : karbu(rvu)ra : karbura : 1 : karvura
+-0 : 10431 : karbu(rvu)rita : karburita : 1 : karvurita
+-0 : 10432 : karbU(rvU)ra : karbUra : 1 : karvUra
+-0 : 10445 : karva(rba)ra : karvara : 1 : karbara
+-0 : 10547 : kava(ba)ra : kavara : 1 : kabara
+-0 : 10548 : kava(ba)rI : kavarI : 1 : kabarI
+-0 : 10562 : kavi(vI)yaM : kaviyaM : 1 : kavIyaM
+-0 : 10572 : kaSe(se)ru : kaSeru : 1 : kaseru
+-0 : 10590 : kaze(se)rukA : kazerukA : 1 : kaserukA
+-0 : 10613 : kAkaru(rU)ka : kAkaruka : 1 : kAkarUka
+-0 : 10614 : kAka(kA)laH : kAkalaH : 1 : kAkAlaH
+-0 : 10645 : kAMcanAraH(laH) : kAMcanAraH : 1 : kAMcanAlaH
+-0 : 10867 : kASmIra(ri)ka : kASmIraka : 1 : kASmIrika
+-0 : 10888 : kAsU(SU) : kAsU : 1 : kASU
+-0 : 10896 : kiMSu(la)lukaH : kiMSulukaH : 1 : kiMSulakaH
+-0 : 10902 : kiMcili(lu)kaH : kiMcilikaH : 1 : kiMcilukaH
+-0 : 10987 : kuMS(s) : kuMS : 1 : kuMs
+-0 : 10991 : kuku(kU)daH : kukudaH : 1 : kukUdaH
+-0 : 10992 : kukuMda(du)raH : kukuMdaraH : 1 : kukuMduraH
+-0 : 11048 : kuwwa(wwi)nI : kuwwanI : 1 : kuwwinI
+-0 : 11100 : kuMqi(qI)ra : kuMqira : 1 : kuMqIra
+-0 : 11148 : kube(ve)raH : kuberaH : 1 : kuveraH
+-0 : 11186 : kuraraH(laH) : kuraraH : 1 : kuralaH
+-0 : 11191 : kurAlaH(haH) : kurAlaH : 1 : kurAhaH
+-0 : 11209 : ku(kU)rparaH : kurparaH : 1 : kUrparaH
+-0 : 11264 : kuviM(piM)daH : kuviMdaH : 1 : kupiMdaH
+-0 : 11294 : kusI(si)da : kusIda : 1 : kusida
+-0 : 11344 : kUpA(vA)raH : kUpAraH : 1 : kUvAraH
+-0 : 11346 : kUba(va)ra : kUbara : 1 : kUvara
+-0 : 11347 : kUba(va)rin : kUbarin : 1 : kUvarin
+-0 : 11504 : kesa(Sa)rin : kesarin : 1 : keSarin
+-0 : 11525 : kErAta(ti)ka : kErAtaka : 1 : kErAtika
+-0 : 11552 : kowi(wI)SaH : kowiSaH : 1 : kowISaH
+-0 : 11586 : koSi(zi)n : koSin : 1 : kozin
+-0 : 11595 : kosa(Sa)laH : kosalaH : 1 : koSalaH
+-0 : 11596 : kosa(Sa)lA : kosalA : 1 : koSalA
+-0 : 11623 : kOtUhalaM(lyaM) : kOtUhalaM : 1 : kOtUhalyaM
+-0 : 11657 : kOve(be)ra : kOvera : 1 : kObera
+-0 : 11659 : kOSalaM(lyaM) : kOSalaM : 1 : kOSalyaM
+-0 : 11669 : kOSe(ze)ya : kOSeya : 1 : kOzeya
+-0 : 11723 : krAya(yi)kaH : krAyakaH : 1 : krAyikaH
+-0 : 11792 : klIba(va) : klIba : 1 : klIva
+-0 : 11793 : klEbyaM(vyaM) : klEbyaM : 1 : klEvyaM
+-0 : 11812 : kzaR(n) : kzaR : 1 : kzan
+-0 : 11902 : kzipatiH(stiH) : kzipatiH : 1 : kzipastiH
+-0 : 12036 : Kawa(qa)kkikA : KawakkikA : 1 : KaqakkikA
+-0 : 12111 : Karva(rba) : Karva : 1 : Karba
+-0 : 12113 : Karvu(rbu)jaM : KarvujaM : 1 : KarbujaM
+-0 : 12131 : Kalli(llI)wa : Kalliwa : 1 : KallIwa
+-0 : 12143 : KAw(t) : KAw : 1 : KAt
+-0 : 12161 : KAri(rI)ka : KArika : 1 : KArIka
+-0 : 12193 : Ku(KU)rd : Kurd : 1 : KUrd
+-0 : 12214 : Kora(la) : Kora : 1 : Kola
+-0 : 12225 : gaganaM(RaM) : gaganaM : 1 : gagaRaM
+-0 : 12279 : gaMquH(qUH) : gaMquH : 1 : gaMqUH
+-0 : 12468 : gAMDarva(rvi)kaH : gAMDarvakaH : 1 : gAMDarvikaH
+-0 : 12526 : gili(ri)ta : gilita : 1 : girita
+-0 : 12527 : gi(ge)zRuH : gizRuH : 1 : gezRuH
+-0 : 12556 : guqu(qU)cI : guqucI : 1 : guqUcI
+-0 : 12591 : guMdA(drA)laH : guMdAlaH : 1 : guMdrAlaH
+-0 : 12611 : gu(guM)Pita : guPita : 1 : guMPita
+-0 : 12620 : gu(gU)rjaraH : gurjaraH : 1 : gUrjaraH
+-0 : 12632 : gu(gU)vAkaH : guvAkaH : 1 : gUvAkaH
+-0 : 12650 : gUrta(rRa) : gUrta : 1 : gUrRa
+-0 : 12652 : gUrd(gurd) : gUrd : 1 : gurd
+-0 : 12660 : gfMqi(qI)vaH : gfMqivaH : 1 : gfMqIvaH
+-0 : 12678 : gfhA(ho)likA : gfhAlikA : 1 : gfholikA
+-0 : 12690 : geMqu(du)kaH : geMqukaH : 1 : geMdukaH
+-0 : 12970 : GoRa(na)saH : GoRasaH : 1 : GonasaH
+-0 : 13360 : cibu(vu)kaM : cibukaM : 1 : civukaM
+-0 : 13373 : cilamI(mi)likA : cilamIlikA : 1 : cilamilikA
+-0 : 13394 : cIri(ru)kA : cIrikA : 1 : cIrukA
+-0 : 13443 : co(cO)raH : coraH : 1 : cOraH
+-0 : 13444 : co(cO)rikA : corikA : 1 : cOrikA
+-0 : 13496 : cewaH(qaH) : cewaH : 1 : ceqaH
+-0 : 13521 : cEtraraTaM(TyaM) : cEtraraTaM : 1 : cEtraraTyaM
+-0 : 13534 : colaM(loM)qukaH : colaMqukaH : 1 : coloMqukaH
+-0 : 13671 : jaganuH(nnuH) : jaganuH : 1 : jagannuH
+-0 : 13690 : ja(jaM)jaH : jajaH : 1 : jajaM
+-0 : 13699 : jawiH(wI) : jawiH : 1 : jawI
+-0 : 13704 : jawu(qu)laH : jawulaH : 1 : jaqulaH
+-0 : 13744 : janu(nU) : janu : 1 : janU
+-0 : 13768 : jaMbu(bU)kaH : jaMbukaH : 1 : jaMbUkaH
+-0 : 13775 : jaMBa(BI)raH : jaMBaraH : 1 : jaMBIraH
+-0 : 14022 : juhUrA(vA)RaH : juhUrARaH : 1 : juhUvARaH
+-0 : 14131 : Jaga(gi)ti : Jagati : 1 : Jagiti
+-0 : 14142 : JaRa(na)tkAraH : JaRatkAraH : 1 : JanatkAraH
+-0 : 14167 : JAwi(wI)kA : JAwikA : 1 : JAwIkA
+-0 : 14183 : JURiH(liH) : JURiH : 1 : JUliH
+-0 : 14194 : waMkaRaM(naM) : waMkaRaM : 1 : waMkanaM
+-0 : 14211 : wiwi(wwi)BaH : wiwiBaH : 1 : wiwwiBaH
+-0 : 14214 : wippaRI(nI) : wippaRI : 1 : wippanI
+-0 : 14248 : qiMqI(qi)raH : qiMqIraH : 1 : qiMqiraH
+-0 : 14545 : tA(wa)qakA : tAqakA : 1 : tAwakA
+-0 : 14650 : tijilaH(naH) : tijilaH : 1 : tijinaH
+-0 : 14680 : tiraska(skA)riRI : tiraskariRI : 1 : tiraskAriRI
+-0 : 14780 : tuMba(bu)ruH : tuMbaruH : 1 : tuMburuH
+-0 : 15129 : daSe(se)rakaH : daSerakaH : 1 : daserakaH
+-0 : 15144 : dagA(kA)rgalaM : dagArgalaM : 1 : dakArgalaM
+-0 : 15170 : dadru(drU)Ra : dadruRa : 1 : dadrURa
+-0 : 15206 : damu(mU)nas : damunas : 1 : damUnas
+-0 : 15237 : dardruH (rdrUH) : dardruH : 1 : dardrUH
+-0 : 15238 : dardru(rdrU)Ra : dardruRa : 1 : dardrURa
+-0 : 15247 : darvI(rviH) : darvI : 1 : darviH
+-0 : 15277 : daSe(se)rakaH : daSerakaH : 1 : daserakaH
+-0 : 15396 : dASe(se)yaH : dASeyaH : 1 : dAseyaH
+-0 : 15421 : diDi(DI)zUH : diDizUH : 1 : diDIzUH
+-0 : 15594 : dfMp(P) : dfMp : 1 : dfMP
+-0 : 15715 : dOkU(gU)laH : dOkUlaH : 1 : dOgUlaH
+-0 : 15743 : dOzyaM(zmaM)tiH : dOzyaMtiH : 1 : dOzmaMtiH
+-0 : 15866 : dvAra(ri)kA : dvArakA : 1 : dvArikA
+-0 : 15942 : DanI(ne)yakaM : DanIyakaM : 1 : DaneyakaM
+-0 : 16102 : Dustu(stU)raH : DusturaH : 1 : DustUraH
+-0 : 16113 : DUpa(pi)kaH : DUpakaH : 1 : DUpikaH
+-0 : 16190 : DmAM(DvAM)kz : DmAMkz : 1 : DvAMkz
+-0 : 16464 : nAqiM(qIM)Dama : nAqiMDama : 1 : nAqIMDama
+-0 : 16594 : nikazaH(saH) : nikazaH : 1 : nikasaH
+-0 : 16605 : nikuraM(ruM)baM : nikuraMbaM : 1 : nikuruMbaM
+-0 : 16657 : niga(gA)laH : nigalaH : 1 : nigAlaH
+-0 : 16658 : nigAra(la)ka : nigAraka : 1 : nigAlaka
+-0 : 16747 : nina(nA)daH : ninadaH : 1 : ninAdaH
+-0 : 16793 : niba(va)rhaRa : nibarhaRa : 1 : nivarhaRa
+-0 : 16867 : niravahAni(li)kA : niravahAnikA : 1 : niravahAlikA
+-0 : 16890 : nirISaM(zaM) : nirISaM : 1 : nirIzaM
+-0 : 17095 : nivi(bi)qa : niviqa : 1 : nibiqa
+-0 : 17133 : niSa(SA)raRaM : niSaraRaM : 1 : niSAraRaM
+-0 : 17192 : nizkAsaH(SaH) : nizkAsaH : 1 : nizkASaH
+-0 : 17233.1 : nizWI(zWe)vaH --vaM, nizWI(zWe)vanaM : nizWIvaH : 6 : nizWevaH nizWIvaM nizWevaM nizWIvanaM nizWevanaM nizWIvitaM
+-0 : 17273 : nisyaM(zyaM)daH : nisyaMdaH : 1 : nizyaMdaH
+-0 : 17305 : nIca(ci)kA : nIcakA : 1 : nIcikA
+-0 : 17314 : nIDraM(vraM) : nIDraM : 1 : nIvraM
+-0 : 17321 : nIlaM(lAM)guH : nIlaMguH : 1 : nIlAMguH
+-0 : 17336 : nu(nU)ta : nuta : 1 : nUta
+-0 : 17341 : nutta(nna) : nutta : 1 : nunna
+-0 : 17393 : nEca(ci)kI : nEcakI : 1 : nEcikI
+-0 : 17407 : nEpuRaM(RyaM) : nEpuRaM : 1 : nEpuRyaM
+-0 : 17437 : nEvi(bi)qyaM : nEviqyaM : 1 : nEbiqyaM
+-0 : 17524 : nyuM(nyUM)Ka : nyuMKa : 1 : nyUMKa
+-0 : 17634 : pawwi(wwI)SaH(saH) : pawwiSaH : 1 : pawwISaH
+-0 : 17746 : panuH (nUH) : panuH : 1 : panUH
+-0 : 17787 : paraSva(sva)DaH : paraSvaDaH : 1 : parasvaDaH
+-0 : 17806 : parA(rAM)c : parAc : 1 : parAMc
+-0 : 17818 : parAna(Ra)sA : parAnasA : 1 : parARasA
+-0 : 17988 : pari(rI)RAmaH : pariRAmaH : 1 : parIRAmaH
+-0 : 17992 : pari(rI)RAhaH : pariRAhaH : 1 : parIRAhaH
+-0 : 17999 : pari(rI)RAyaH : pariRAyaH : 1 : parIRAyaH
+-0 : 18029 : pari(rI)dAhaH : paridAhaH : 1 : parIdAhaH
+-0 : 18043 : pari(rI)DAnaM : pariDAnaM : 1 : parIDAnaM
+-0 : 18062 : paripaRaM(naM) : paripaRaM : 1 : paripanaM
+-0 : 18076 : pari(rI)pAkaH : paripAkaH : 1 : parIpAkaH
+-0 : 18109 : paribfM(vfM)h : paribfMh : 1 : parivfMh
+-0 : 18110 : pariba(va)rhaH : paribarhaH : 1 : parivarhaH
+-0 : 18111 : pariba(va)rhaRaM : paribarhaRaM : 1 : parivarhaRaM
+-0 : 18112 : paribfM(vfM)haRaM : paribfMhaRaM : 1 : parivfMhaRaM
+-0 : 18113 : paribfM(vfM)hita : paribfMhita : 1 : parivfMhita
+-0 : 18126 : pari(rI)BavaH : pariBavaH : 1 : parIBavaH
+-0 : 18150 : pari(rI)mARaM : parimARaM : 1 : parImARaM
+-0 : 18202 : pari(rI)vAdaH : parivAdaH : 1 : parIvAdaH
+-0 : 18212 : pari(rI)vAhaH : parivAhaH : 1 : parIvAhaH
+-0 : 18214 : pari(rI)vApaH : parivApaH : 1 : parIvApaH
+-0 : 18224 : pari(rI)veSaH(zaH) : pariveSaH : 1 : parIveSaH
+-0 : 18233 : pari(rI)vAraH : parivAraH : 1 : parIvAraH
+-0 : 18239 : pari(rI)vartaH : parivartaH : 1 : parIvartaH
+-0 : 18267 : pari(rI)SezaH : pariSezaH : 1 : parISezaH
+-0 : 18290 : parizkaM(skaM)d : parizkaMd : 1 : pariskad
+-0 : 18291 : parizkaRRa(nna) : parizkaRRa : 1 : parizkanna
+-0 : 18292 : parizkaM(skaM)da : parizkaMda : 1 : pariskaMda
+-0 : 18293 : parizkaM(skaM)dat : parizkaMdat : 1 : pariskaMdat
+-0 : 18301 : parizwo(sto)maH : parizwomaH : 1 : paristomaH
+-0 : 18303 : parizpaM(spaM)daH : parizpaMdaH : 1 : parispaMdaH
+-0 : 18340 : pari(rI)hAsaH : parihAsaH : 1 : parIhAsaH
+-0 : 18344 : parihARiH(niH) : parihARiH : 1 : parihAniH
+-0 : 18348 : pari(rI)hAraH : parihAraH : 1 : parIhAraH
+-0 : 18550 : pAMsuH(SuH) : pAMsuH : 1 : pAMSuH
+-0 : 18551 : pAMsa(Sa)na : pAMsana : 1 : pAMSana
+-0 : 18552 : pAMsa(Sa)va : pAMsava : 1 : pAMSava
+-0 : 18554 : pAMsu(Su)raH : pAMsuraH : 1 : pAMSuraH
+-0 : 18555 : pAMsu(Su)la : pAMsula : 1 : pAMSula
+-0 : 18799 : pAriyA(pA)traH : pAriyAtraH : 1 : pAripAtraH
+-0 : 18800 : pAriyA(pA)trikaH : pAriyAtrikaH : 1 : pAripAtrikaH
+-0 : 19238.1 : pUpalA(lI), pUpAlikA, pUpAlI : pUpalA : 5 : pUpalI pUpAlikA pUpAlI pUlikA pUpikA
+-0 : 19306 : pfSni(zRi) : pfSni : 1 : pfzRi
+-0 : 19460 : pOrvade(dE)hika : pOrvadehika : 1 : pOrvadEhika
+-0 : 19637 : praca(cA)ya : pracaya : 1 : pracAya
+-0 : 19648 : pracalita(pracalat) : pracalita : 1 : pracalat
+-0 : 19655 : praca(cA)yaH : pracayaH : 1 : pracAyaH
+-0 : 19805 : prati(tI)kASaH : pratikASaH : 1 : pratIkASaH
+-0 : 19812 : prati(tI)kAraH : pratikAraH : 1 : pratIkAraH
+-0 : 19844 : prati(tI)GAtaH : pratiGAtaH : 1 : pratIGAtaH
+-0 : 19892 : prati(tI)nAhaH : pratinAhaH : 1 : pratInAhaH
+-0 : 20118 : prati(tI)hAraH : pratihAraH : 1 : pratIhAraH
+-0 : 20237 : pratyAsa(sA)raH : pratyAsaraH : 1 : pratyAsAraH
+-0 : 20316 : pradeSa(Si)nI : pradeSanI : 1 : pradeSinI
+-0 : 20427 : prapIta(na) : prapIta : 1 : prapIna
+-0 : 20449 : praba(va)rha : prabarha : 1 : pravarha
+-0 : 20456 : praba(va)hlikA : prabahlikA : 1 : pravahlikA
+-0 : 20467 : praboDa(Di)nI : praboDanI : 1 : praboDinI
+-0 : 20514 : pramaRa(na)s : pramaRas : 1 : pramanas
+-0 : 20606 : prayApanaM(RaM) : prayApanaM : 1 : prayApaRaM
+-0 : 20763 : pravista(stA)raH : pravistaraH : 1 : pravistAraH
+-0 : 20873 : prasa(Sa)laH : prasalaH : 1 : praSalaH
+-0 : 20876 : prasa(sA)h : prasah : 1 : prasAh
+-0 : 20980 : prasva(svA)naH : prasvanaH : 1 : prasvAnaH
+-0 : 20992 : prahaRe(ne)miH : prahaRemiH : 1 : prahanemiH
+-0 : 21025 : praharza(rzi)RI : praharzaRI : 1 : praharziRI
+-0 : 21037 : prahrA(hlA)daH : prahrAdaH : 1 : prahlAdaH
+-0 : 21038 : prahrA(hlA)dana : prahrAdana : 1 : prahlAdana
+-0 : 21067 : prAMgaRaM(naM) : prAMgaRaM : 1 : prAMganaM
+-0 : 21175 : prAbA(vA)likaH : prAbAlikaH : 1 : prAvAlikaH
+-0 : 21176 : prAboDa(Di)kaH : prAboDakaH : 1 : prAbADikaH
+-0 : 21189 : prAmoda(di)ka : prAmodaka : 1 : prAmodika
+-0 : 21405 : pro(prO)zWaH : prozWaH : 1 : prOzWaH
+-0 : 21407 : pro(prO)ha : proha : 1 : prOha
+-0 : 21408 : pro(prO)Qa : proQa : 1 : prOQa
+-0 : 21410 : prO(pro)QiH : prOQiH : 1 : proQiH
+-0 : 21459 : PaRa(RA)vat : PaRavat : 1 : PaRAvat
+-0 : 21475 : PalasaH(SaH) : PalasaH : 1 : PalaSaH
+-0 : 21509 : Pu(PU)t : Put : 1 : PUt
+-0 : 21520 : PeRa(na)ka : PeRaka : 1 : Penaka
+-0 : 21521 : Peni(na)la : Penila : 1 : Penala
+-0 : 21540 : baqi(li)SaM : baqiSaM : 1 : baliSaM
+-0 : 21633 : balI(rI)vardaH : balIvardaH : 1 : barIvardaH
+-0 : 21639 : bazkaya(yi)RI(nI) : bazkayaRI : 3 : bazkayiRI bazkayinI bazkayinI
+-0 : 21827 : busaM(zaM) : busaM : 1 : buzaM
+-0 : 21918 : BaMkA(gA)rI : BaMkArI : 1 : BaMgArI
+-0 : 22049 : BasmA(smI)kf : BasmAkf : 1 : BasmIkf
+-0 : 22186 : BiMda(di)pAlaH : BiMdapAlaH : 1 : BiMdipAlaH
+-0 : 22210 : BIru(lu)ka : BIruka : 1 : BIluka
+-0 : 22212 : BIlu(lU)kaH : BIlukaH : 1 : BIlUkaH
+-0 : 22213 : BIrU(lU) : BIrU : 1 : BIlU
+-0 : 22285 : BfkuMSaH(saH) : BfkuMSaH : 1 : BfkuMsaH
+-0 : 22294 : BfMgiri(rI)wiH : BfMgiriwiH : 1 : BfMgirIwiH
+-0 : 22375 : BraMSa(sa)na : BraMSana : 1 : BraMsana
+-0 : 22421 : BrA(BlA)S : BrAS : 1 : BlAS
+-0 : 22425 : BrA(BlA)s : BrAs : 1 : BlAs
+-0 : 22426 : Bru(BrU)kuMSaH(saH) : BrukuMSaH : 3 : BrUkuMSaH BrukuMsaH BrUkuMsaH
+-0 : 22434 : Bre(Ble)z : Brez : 1 : Blez
+-0 : 22579 : maTu(TU)rA : maTurA : 1 : maTUrA
+-0 : 22646 : manAyI(vI) : manAyI : 1 : manAvI
+-0 : 22715 : maya(yu)zwakaH : mayazwakaH : 1 : mayuzwakaH
+-0 : 22733 : mari(rI)caH : maricaH : 1 : marIcaH
+-0 : 22748 : marUva(ba)ka : marUvaka : 1 : marUbaka
+-0 : 22832 : masu(sU)raH : masuraH : 1 : masUraH
+-0 : 22859 : mahar(mahas) : mahar : 1 : mahas
+-0 : 22893 : mAkzi(kzI)ka : mAkzika : 1 : mAkzIka
+-0 : 23059 : mArjAraH(laH) : mArjAraH : 1 : mArjAlaH
+-0 : 23244 : muca(cu)kuMdaH : mucakuMdaH : 1 : mucukuMdaH
+-0 : 23305 : muSa(sa)lI : muSalI : 1 : musalI
+-0 : 23426 : mfnma(Rma)ya : mfnmaya : 1 : mfRmaya
+-0 : 23427 : mfdaMkuraH(ruH) : mfdaMkuraH : 1 : mfdaMkuruH
+-0 : 23566 : mOka(ku)liH : mOkaliH : 1 : mOkuliH
+-0 : 23610 : mrew(q) : mrew : 1 : mreq
+-0 : 23898 : yOw(q) : yOw : 1 : yOq
+-0 : 23931 : rakzaRA(RI)rakaH : rakzaRArakaH : 1 : rakzaRIrakaH
+-0 : 24043 : raSmima(va)t : raSmimat : 1 : raSmivat
+-0 : 24181 : riSyaH(zyaH) : riSyaH : 1 : rizyaH
+-0 : 24212 : ruciH(cI) : ruciH : 1 : rucI
+-0 : 24296 : reb(va) : reb : 1 : rev
+-0 : 24368 : rOw(q) : rOw : 1 : rOq
+-0 : 24576 : lAbuH(bUH) : lAbuH : 1 : lAbUH
+-0 : 24960 : vaDU(Du)wI : vaDUwI : 1 : vaDuwI
+-0 : 25071 : varivasi(syi)ta : varivasita : 1 : varivasyita
+-0 : 25078 : varI(lI)vardaH : varIvardaH : 1 : valIvardaH
+-0 : 25142 : vartI(rti)raH : vartIraH : 1 : vartiraH
+-0 : 25172 : varvU(rvu)raH : varvUraH : 1 : varvuraH
+-0 : 25234 : valyU(lyu)l : valyUl : 1 : valyul
+-0 : 25280 : vasu(sU)kaH : vasukaH : 1 : vasUkaH
+-0 : 25424 : vADu(DU)kyaM : vADukyaM : 1 : vADUkyaM
+-0 : 25560 : vAsi(Si)zWa : vAsizWa : 1 : vASizWa
+-0 : 25593 : vAhli(hlI)kaH : vAhlikaH : 1 : vAhlIkaH
+-0 : 25627 : vikazA(sA) : vikazA : 1 : vikasA
+-0 : 25633 : vikasva(Sva)ra : vikasvara : 1 : vikaSvara
+-0 : 25640 : vikASi(si)n : vikASin : 1 : vikAsin
+-0 : 25861 : viwWa(WWa)laH : viwWalaH : 1 : viWWalaH
+-0 : 25876 : viqo(qO)jas : viqojas : 1 : viqOjas
+-0 : 26036 : vinAsa(si)ka : vinAsaka : 1 : vinAsika
+-0 : 26160 : viprati(tI)sAraH : vipratisAraH : 1 : vipratIsAraH
+-0 : 26254 : vima(maM)T : vimaT : 1 : vimaMT
+-0 : 26375 : viropa(ha)RaM : viropaRaM : 1 : virohaRaM
+-0 : 26668 : vizvadrya(dryaM)c : vizvadryac : 2 : vizvadryaMc vizvadryaMc
+-0 : 26924 : vetaM(daM)qaH : vetaMqaH : 1 : vedaMqaH
+-0 : 27001 : vesa(Sa)vAraH : vesavAraH : 1 : veSavAraH
+-0 : 27168 : vora(la)kaH : vorakaH : 1 : volakaH
+-0 : 27216 : vyati(tI)hAraH : vyatihAraH : 1 : vyatIhAraH
+-0 : 27266 : vyaBi(BI)cAraH : vyaBicAraH : 1 : vyaBIcAraH
+-0 : 27333 : vyAkoSa(za) : vyAkoSa : 1 : vyAkoza
+-0 : 27557 : SaMKanakaH(KaH) : SaMKanakaH : 1 : SaMKanaKaH
+-0 : 27611 : Saba(va)raH : SabaraH : 1 : SavaraH
+-0 : 27612 : Saba(va)la : Sabala : 1 : Savala
+-0 : 27628 : SamI(mi)raH : SamIraH : 1 : SamiraH
+-0 : 27631 : SaMba(va) : SaMba : 1 : SaMva
+-0 : 27663 : SarayuH(yUH) : SarayuH : 1 : SarayUH
+-0 : 27732 : Sazku(sku)lI : SazkulI : 1 : SaskulI
+-0 : 27733 : SazpaH(spaH) : SazpaH : 1 : SaspaH
+-0 : 27820 : SAba(va)ra : SAbara : 1 : SAvara
+-0 : 27833 : SAMbu(bU)kaH : SAMbukaH : 1 : SAMbUkaH
+-0 : 27879 : SAlu(lU)kaM : SAlukaM : 1 : SAlUkaM
+-0 : 27880 : SAlu(lU)raH : SAluraH : 1 : SAlUraH
+-0 : 27966 : SibiH(viH) : SibiH : 1 : SiviH
+-0 : 27967 : Sibi(vi)kA : SibikA : 1 : SivikA
+-0 : 27968 : Sibi(vi)raM : SibiraM : 1 : SiviraM
+-0 : 27969 : Sibi(vi)raTaH : SibiraTaH : 1 : SiviraTaH
+-0 : 28096 : SunaHSepaH(PaH) : SunaHSepaH : 1 : SunaHSePaH
+-0 : 28098 : SunASI(sI)raH : SunASIraH : 1 : SunAsIraH
+-0 : 28118 : Su(SU)r : Sur : 1 : SUra
+-0 : 28122 : Sulv(lb) : Sulv : 1 : Sulba
+-0 : 28123 : SulvaM (lbaM) : SulvaM : 1 : SulbaM
+-0 : 28305 : SOlvi(lbi)kaH : SOlvikaH : 1 : SOlbikaH
+-0 : 28968 : sajuz(s) : sajuz : 1 : sajus
+-0 : 29122 : sanIqa(la) : sanIqa : 1 : sanIla
+-0 : 29290 : saBi(BI)kaH : saBikaH : 1 : saBIkaH
+-0 : 29629 : saMparAya(yi)kaM : saMparAyakaM : 1 : saMparAyikaM
+-0 : 29827 : sarasi(sI)kaH : sarasikaH : 1 : sarasIkaH
+-0 : 29838 : sari(rI)man : sariman : 1 : sarIman
+-0 : 30168 : sArasa(Sa)naM : sArasanaM : 1 : sAraSanaM
+-0 : 30184 : sArpaH(rpyaH) : sArpaH : 1 : sArpyaH
+-0 : 30241 : sASra(sra) : sASra : 1 : sAsra
+-0 : 30383 : sunAsI(SI)raH : sunAsIraH : 1 : sunASIraH
+-0 : 30409 : suzi(zI)ma : suzima : 1 : suzIma
+-0 : 30473 : sUrkz(rkzy) : sUrkz : 1 : sUrkzy
+-0 : 30474 : sUrkza(rkzya)RaM : sUrkzaRaM : 1 : sUrkzyaRaM
+-0 : 30506 : sfRi(RI)kA : sfRikA : 1 : sfRIkA
+-0 : 30760 : stari(rI)man : stariman : 1 : starIman
+-0 : 31069 : syami(mI)kaH : syamikaH : 1 : syamIkaH
+-0 : 31126 : svaM(k)g : svaMg : 1 : svaMk
+-0 : 31264 : hanu(nU)mat : hanumat : 1 : hanUmat
+-0 : 31268 : haMbA(BA) : haMbA : 1 : haMBA
+-0 : 31319 : hallISaM(zaM) : hallISaM : 1 : hallIzaM
+-0 : 31345 : hastina(nA)puraM : hastinapuraM : 1 : hastinApuraM
+-0 : 31378 : hAla(lA)halaM : hAlahalaM : 1 : hAlAhalaM
+-0 : 31394 : hAha(hA)laM : hAhalaM : 1 : hAhAlaM
+-0 : 31426 : hiMqi(qI)raH : hiMqiraH : 1 : hiMqIraH
+-0 : 31477 : huhu(hU) : huhu : 1 : huhU
+-0 : 31480 : hURaH(naH) : hURaH : 1 : hUnaH
+-0 : 31490 : hf(hri)RIyate : hfRIyate : 1 : hriRIyate
+-0 : 31491 : hfRI(Ri)yA : hfRIyA : 1 : hfRiyA
+-0 : 31496 : hfdi(dI)kaH : hfdikaH : 1 : hfdIkaH
+00 : 294 : aMgiraH, aMgiras : aMgiraH : 1 : aMgiras
+00 : 481 : aRIyas, aRizWa : aRIyas : 1 : aRizWa
+00 : 762 : atyaya, atyayika : atyaya : 1 : atyayika
+00 : 808 : aTavA, aTo : aTavA : 1 : aTo
+00 : 835.1 : adAnya, adAyin, adAman : adAnya : 5 : adAyin adAman adASu adASuri adASvas
+00 : 902 : aDa, aDA : aDa : 1 : aDA
+00 : 918 : aDas, aDaH : aDas : 1 : aDaH
+00 : 935 : aDikArin, aDikAravat : aDikArin : 1 : aDikAravat
+00 : 1082 : aDyaya, aDyayanaM : aDyaya : 1 : aDyayanaM
+00 : 1124 : aDvanIna, aDvanya : aDvanIna : 1 : aDvanya
+00 : 1126 : aDvarIyati, aDvaryati : aDvarIyati : 1 : aDvaryati
+00 : 1152 : anajakA, anajikA : anajakA : 1 : anajikA
+00 : 1168 : anaDyAyaH, anaDyayanaM : anaDyAyaH : 1 : anaDyayanaM
+00 : 1237 : anarTya, anarTaka : anarTya : 1 : anarTaka
+00 : 1346 : anAmA, anAmikA : anAmA : 1 : anAmikA
+00 : 1443 : anirdaSa, anirdaSAha : anirdaSa : 1 : anirdaSAha
+00 : 1467 : anizidDa, anizeDra : anizidDa : 1 : anizeDra
+00 : 1639 : anudyata, anudyama : anudyata : 1 : anudyama
+00 : 1680 : anupatanaM, pAtaH : anupatanaM : 1 : pAtaH
+00 : 1841 : anurAgin, anurAgavat : anurAgin : 1 : anurAgavat
+00 : 2003 : anusArataH, anusAreRa : anusArataH : 1 : anusAreRa
+00 : 2035 : anUkti, anUcAna : anUkti : 1 : anUcAna
+00 : 2042 : anUdya, anUdita : anUdya : 1 : anUdita
+00 : 2109 : aMtarAlaM, aMtarAlakaM : aMtarAlaM : 1 : aMtarAlakaM
+00 : 2340 : apati, tika : apati : 1 : tika
+00 : 2476 : apariharaRIya, aparihArya : apariharaRIya : 1 : aparihArya
+00 : 2496 : apalapanaM, apalApaH : apalapanaM : 1 : apalApaH
+00 : 2633 : apAkaraRaM, apAkftiH : apAkaraRaM : 1 : apAkftiH
+00 : 2641 : apAc, apAMc : apAc : 1 : apAMc
+00 : 2732 : apUpIya, apUpya : apUpIya : 1 : apUpya
+00 : 2763 : apohya, apohanIya : apohya : 1 : apohanIya
+00 : 2772 : apnaH, apnas : apnaH : 1 : apnas
+00 : 2775 : appati, appittaM : appati : 1 : appittaM
+00 : 2802 : aprajas, aprajAta : aprajas : 1 : aprajAta
+00 : 2863 : apramUra, apramUrcCita : apramUra : 1 : apramUrcCita
+00 : 2875 : apravartaka, apravartin : apravartaka : 1 : apravartin
+00 : 2988 : aBAvin, aBAvya : aBAvin : 1 : aBAvya
+00 : 3031 : aBigarjanaM, aBigarjitaM : aBigarjanaM : 1 : aBigarjitaM
+00 : 3327 : aBivAnyA, aBivAnyavatsA : aBivAnyA : 1 : aBivAnyavatsA
+00 : 3518 : aBIpsin, aBIpsu : aBIpsin : 1 : aBIpsu
+00 : 3555 : aBedya, aBEdika : aBedya : 1 : aBEdika
+00 : 3582 : aByamita, aByAMta : aByamita : 1 : aByAMta
+00 : 3776 : amarizRu, amarta : amarizRu : 1 : amarta
+00 : 4026 : aramaRa, aramamARa : aramaRa : 1 : aramamARa
+00 : 4040 : arAga, arAgin : arAga : 1 : arAgin
+00 : 4058 : arikTaBAj, arikTIya : arikTaBAj : 1 : arikTIya
+00 : 4077 : arucira, arucya : arucira : 1 : arucya
+00 : 4082 : aruRita, aruRIkfta : aruRita : 1 : aruRIkfta
+00 : 4096 : arUkzita, arUkzRa : arUkzita : 1 : arUkzRa
+00 : 4119 : arkIya, arkya : arkIya : 1 : arkya
+00 : 4136 : arcanIya, arcya : arcanIya : 1 : arcya
+00 : 4545 : avatta, avattin : avatta : 1 : avattin
+00 : 4601 : avaDAraRIya, avaDarya : avaDAraRIya : 1 : avaDarya
+00 : 4688 : avamaMtavya, avamAnya : avamaMtavya : 1 : avamAnya
+00 : 4757 : avarzaH, avarzaRaM : avarzaH : 1 : avarzaRaM
+00 : 4981 : avArya, avArayitavya : avArya : 1 : avArayitavya
+00 : 5220 : aSanAyita, aSanAyuka : aSanAyita : 1 : aSanAyuka
+00 : 5229 : aSaMka, aSaMkita : aSaMka : 1 : aSaMkita
+00 : 5290 : aSmamaya, aSmavat : aSmamaya : 1 : aSmavat
+00 : 5361 : azwakika, azwakin : azwakika : 1 : azwakin
+00 : 5386 : astamike, astA : astamike : 1 : astA
+00 : 5436 : asatkAraH, asatkriyA : asatkAraH : 1 : asatkriyA
+00 : 5487 : asaMBavya, asaMBAvin : asaMBavya : 1 : asaMBAvin
+00 : 5489 : asaMBAvanIya, asaMBAvya : asaMBAvanIya : 1 : asaMBAvya
+00 : 5522 : asADanIya, asADya : asADanIya : 1 : asADya
+00 : 5562 : asUta, asUtika : asUta : 1 : asUtika
+00 : 5590 : asta, astu : asta : 1 : astu
+00 : 5647 : asriD, astreDat : asriD : 1 : astreDat
+00 : 5672 : ahatiH, ahaMtiH : ahatiH : 1 : ahaMtiH
+00 : 5679 : aharaRIya, ahArya : aharaRIya : 1 : ahArya
+00 : 5714 : ahraya, ahrayARa : ahraya : 1 : ahrayARa
+00 : 5727 : AkaMpita, AkaMpra : AkaMpita : 1 : AkaMpra
+00 : 5752 : AkASIya, AkASya : AkASIya : 1 : AkASya
+00 : 5753 : AkiMcanaM, AkiMcanyaM : AkiMcanaM : 1 : AkiMcanyaM
+00 : 5838 : AKaH, AKanaH : AKaH : 1 : AKanaH
+00 : 5870 : Agamin, AgAmin : Agamin : 1 : AgAmin
+00 : 6042 : Awika, Awikya : Awika : 1 : Awikya
+00 : 6051 : AQakika, AQakIna : AQakika : 1 : AQakIna
+00 : 6117 : AtmakIya, AtmIya : AtmakIya : 1 : AtmIya
+00 : 6123 : Atmanvat, Atmanvin : Atmanvat : 1 : Atmanvin
+00 : 6141 : Adara, AdarSa : Adara : 1 : AdarSa
+00 : 6145 : Adatta, Atta : Adatta : 1 : Atta
+00 : 6157 : AditaH, AdO : AditaH : 1 : AdO
+00 : 6177 : AdIpita, AdIpta : AdIpita : 1 : AdIpta
+00 : 6181 : AdaraRIya, Adartavya : AdaraRIya : 1 : Adartavya
+00 : 6193 : AdArin, Aduri : AdArin : 1 : Aduri
+00 : 6301 : AnayaH, AnayanaM : AnayaH : 1 : AnayanaM
+00 : 6350 : AMtaratamyaM, AMtaryaM : AMtaratamyaM : 1 : AMtaryaM
+00 : 6422 : ApI, ApIna : ApI : 1 : ApIna
+00 : 6444 : Apta, Apya : Apta : 1 : Apya
+00 : 6502 : ABicaraRika, ABicArika : ABicaraRika : 1 : ABicArika
+00 : 6512 : ABirUpakaM, ABirUpyaM : ABirUpakaM : 1 : ABirUpyaM
+00 : 6567 : AmikzyaM, AmikzIyaM : AmikzyaM : 1 : AmikzIyaM
+00 : 6676 : AyuDin, AyuDIya : AyuDin : 1 : AyuDIya
+00 : 6727 : ArADanIya, ArADya : ArADanIya : 1 : ArADya
+00 : 6808 : AryakA, AryikA : AryakA : 1 : AryikA
+00 : 6909 : Avaraka, AvaraRa : Avaraka : 1 : AvaraRa
+00 : 6946 : AvidDa, AviDa : AvidDa : 1 : AviDa
+00 : 7013 : ASaMsitf, ASaMsin : ASaMsitf : 1 : ASaMsin
+00 : 7039 : ASita, ASin : ASita : 1 : ASin
+00 : 7111 : As, AH : As : 1 : AH
+00 : 7118 : AsA, AsaH : AsA : 1 : AsaH
+00 : 7134 : AsAdayitavya, AsAdya : AsAdayitavya : 1 : AsAdya
+00 : 7302 : iK, iMK : iK : 1 : iMK
+00 : 7311 : icCaka, icCA : icCaka : 1 : icCA
+00 : 7330 : itarataH, itaratra : itarataH : 1 : itaratra
+00 : 7353 : iDma, idDa : iDma : 1 : idDa
+00 : 7397 : iyattA, iyattvaM : iyattA : 1 : iyattvaM
+00 : 7428 : ilISaH, illiSaH : ilISaH : 1 : illiSaH
+00 : 7487 : IK, IMK : IK : 1 : IMK
+00 : 7517 : Irzy, Irkzy : Irzy : 1 : Irkzy
+00 : 7536 : IzaRa, izARan : IzaRa : 1 : izARan
+00 : 7552 : ukta, ukti : ukta : 1 : ukti
+00 : 7564 : uK, uMK : uK : 1 : uMK
+00 : 7567 : uKarvalaH, uKalaH : uKarvalaH : 1 : uKalaH
+00 : 7760 : utkfzwatA, tAM : utkfzwatA : 1 : tAM
+00 : 8008 : udac, udaMc : udac : 1 : udaMc
+00 : 8032 : udayaH, udayana : udayaH : 1 : udayana
+00 : 8083 : udIcIna, udIcya : udIcIna : 1 : udIcya
+00 : 8104 : udgAtf, udgAra : udgAtf : 1 : udgAra
+00 : 8125 : udgrIva, udgrIvin : udgrIva : 1 : udgrIvin
+00 : 8180 : udDara, udDAra : udDara : 1 : udDAra
+00 : 8201 : udDartf, udDAraka : udDartf : 1 : udDAraka
+00 : 8224 : udBava, udBAvanA : udBava : 1 : udBAvanA
+00 : 8227 : udBAsin, udBAsura : udBAsin : 1 : udBAsura
+00 : 8282 : udvamanaM, udvAMtiH : udvamanaM : 1 : udvAMtiH
+00 : 8359 : unnayaH, unnAyaH : unnayaH : 1 : unnAyaH
+00 : 8367 : unmaT, unmaMT : unmaT : 1 : unmaMT
+00 : 8463 : upakramitavya, upakramya : upakramitavya : 1 : upakramya
+00 : 8546 : upajalpanaM, upajalpitaM : upajalpanaM : 1 : upajalpitaM
+00 : 8701 : upaparcana, upapfc : upaparcana : 1 : upapfc
+00 : 8859 : upavasaTIya, upavasaTya : upavasaTIya : 1 : upavasaTya
+00 : 9104 : upAyaH, upAyana : upAyaH : 1 : upAyana
+00 : 9167 : upozaRaM, upozitaM : upozaRaM : 1 : upozitaM
+00 : 9173 : uB, uMB : uB : 1 : uMB
+00 : 9204 : urasvat, urasila : urasvat : 1 : urasila
+00 : 9292 : ulluMWanaM, ulluMWA : ulluMWanaM : 1 : ulluMWA
+00 : 9297 : ulva, ulvaRa : ulva : 1 : ulvaRa
+00 : 9320 : uzmaH, uzmakaH : uzmaH : 1 : uzmakaH
+00 : 9336 : uzmaM, uzpa : uzmaM : 1 : uzpa
+00 : 9342 : uha, uhaha : uha : 1 : uhaha
+00 : 9416 : fkva, fkvan : fkva : 1 : fkvan
+00 : 9427 : fgmat, fgmin : fgmat : 1 : fgmin
+00 : 9441 : fju, fjuka : fju : 1 : fjuka
+00 : 9475 : ftviya, ftvya : ftviya : 1 : ftvya
+00 : 9549 : eRaH, ekaRaH : eRaH : 1 : ekaRaH
+00 : 9583 : ervAruH, ervArukaH : ervAruH : 1 : ervArukaH
+00 : 9621 : EkaSrutyaM, EkasvaryaM : EkaSrutyaM : 1 : EkasvaryaM
+00 : 9707 : ojasIna, ojasya : ojasIna : 1 : ojasya
+00 : 9708 : ojasvat, ojasvin : ojasvat : 1 : ojasvin
+00 : 9714 : oqikAH, oqI : oqikAH : 1 : oqI
+00 : 9723 : odmaH, odman : odmaH : 1 : odman
+00 : 9751 : OkzakaM, OkzaM : OkzakaM : 1 : OkzaM
+00 : 9755 : OcityaM, ocitI : OcityaM : 1 : ocitI
+00 : 9796 : OdAsInyaM, OdAsyaM : OdAsInyaM : 1 : OdAsyaM
+00 : 9891 : OSana, OSanasa : OSana : 1 : OSanasa
+00 : 9904 : Ozasika, Ozika : Ozasika : 1 : Ozika
+00 : 9910 : OzRyaM, OzmyaM : OzRyaM : 1 : OzmyaM
+00 : 9957 : kaMkawaH, kaMkawakaH : kaMkawaH : 1 : kaMkawakaH
+00 : 10008 : kaMculikA, kaculI : kaMculikA : 1 : kaculI
+00 : 10013 : kaMjaraH, kaMjAraH : kaMjaraH : 1 : kaMjAraH
+00 : 10016 : kaw, kaMw : kaw : 1 : kaMw
+00 : 10066 : kaWinikA, --kaWinI : kaWinikA : 1 : kaWinI
+00 : 10241 : kanyakA, kanyikA : kanyakA : 1 : kanyikA
+00 : 10251 : kapardaH, kapardakaH : kapardaH : 1 : kapardakaH
+00 : 10268 : kapucCalaM, kapuzwakA : kapucCalaM : 1 : kapuzwakA
+00 : 10278 : kaPaRiH, kaPoRiH : kaPaRiH : 1 : kaPoRiH
+00 : 10341 : karaMba, karaMbita : karaMba : 1 : karaMbita
+00 : 10380 : karkaSikA, karkaSI : karkaSikA : 1 : karkaSI
+00 : 10405 : kartarikA, kartarI : kartarikA : 1 : kartarI
+00 : 10560 : kavikaH, kA : kavikaH : 1 : kA
+00 : 10619 : kAkiRI, kAkiRikA : kAkiRI : 1 : kAkiRikA
+00 : 10637 : kAcana, kAcanakaM : kAcana : 1 : kAcanakaM
+00 : 10701 : kApAla, kApAlika : kApAla : 1 : kApAlika
+00 : 10753 : kArayitf, kArayizRu : kArayitf : 1 : kArayizRu
+00 : 10899.1 : kiMkaRI, kiMkiRikA, kiMkiRI : kiMkaRI : 3 : kiMkiRikA kiMkiRI kiMkaRIkA
+00 : 10964 : kIdfSa, kIdfSa : kIdfSa : 1 : kIdfSa
+00 : 11042 : kuwuMbaM, kuwuMbakaM : kuwuMbaM : 1 : kuwuMbakaM
+00 : 11043 : kuwuMbikaH, kuwuMbin : kuwuMbikaH : 1 : kuwuMbin
+00 : 11105 : kutupaH, kutUH : kutupaH : 1 : kutUH
+00 : 11111 : kutsanaM, kutsA : kutsanaM : 1 : kutsA
+00 : 11159 : kumArikA, kumArI : kumArikA : 1 : kumArI
+00 : 11178 : kuraMkaraH, kuraMkuraH : kuraMkaraH : 1 : kuraMkuraH
+00 : 11180 : kuraMgakaH, kuraMgamaH : kuraMgakaH : 1 : kuraMgamaH
+00 : 11208 : kurd, kurdana : kurd : 1 : kurdana
+00 : 11297 : kusIdikaH, kusIdin : kusIdikaH : 1 : kusIdin
+00 : 11317 : kuhuH, kuhUH : kuhuH : 1 : kuhUH
+00 : 11324 : kUcikA, kucI : kUcikA : 1 : kucI
+00 : 11423 : kfmiRa, kfmila : kfmiRa : 1 : kfmila
+00 : 11539 : koMkaH, koMkaRaH : koMkaH : 1 : koMkaRaH
+00 : 11546 : kowarI, kowavI : kowarI : 1 : kowavI
+00 : 11570 : koyazwiH, koyazwikaH : koyazwiH : 1 : koyazwikaH
+00 : 11604 : kOMkaH, kOMkaRaH : kOMkaH : 1 : kOMkaRaH
+00 : 11607 : kOwakikaH, kOwikaH : kOwakikaH : 1 : kOwikaH
+00 : 11640 : kOmodakI, kOmodI : kOmodakI : 1 : kOmodI
+00 : 11661 : kOSalikA, kOSalI : kOSalikA : 1 : kOSalI
+00 : 11699 : kramuH, kramukaH : kramuH : 1 : kramukaH
+00 : 11797 : klomaM, kloman : klomaM : 1 : kloman
+00 : 11811 : kzaMj, kzaj : kzaMj : 1 : kzaj
+00 : 11869 : kzavaH, kzavaTuH : kzavaH : 1 : kzavaTuH
+00 : 11920 : kzIb, kzIba : kzIb : 1 : kzIba
+00 : 11921 : kzIraH, raM : kzIraH : 1 : raM
+00 : 11965 : kzurikA, kzurI : kzurikA : 1 : kzurI
+00 : 11987 : kzoRiH, kzoRI : kzoRiH : 1 : kzoRI
+00 : 12037 : KawinI, KawI : KawinI : 1 : KawI
+00 : 12047 : KawvAkA, KawvikA : KawvAkA : 1 : KawvikA
+00 : 12050 : KaqikA, KaqI : KaqikA : 1 : KaqI
+00 : 12063 : KaMqanIya, KaMqayitavya : KaMqanIya : 1 : KaMqayitavya
+00 : 12109 : KarparIkA, KarparI : KarparIkA : 1 : KarparI
+00 : 12149 : KAMqavikaH, KAMqikaH : KAMqavikaH : 1 : KAMqikaH
+00 : 12150 : KAta, KAtra : KAta : 1 : KAtra
+00 : 12242 : gaqayaMtaH, gaqayitnuH : gaqayaMtaH : 1 : gaqayitnuH
+00 : 12336 : gaMBArikA, gaMBArI : gaMBArikA : 1 : gaMBArI
+00 : 12339 : gaMBIrA, gaMBIrikA : gaMBIrA : 1 : gaMBIrikA
+00 : 12361 : garjA, garjiH : garjA : 1 : garjiH
+00 : 12370 : garDana, garDita : garDana : 1 : garDita
+00 : 12394 : galaMtikA, galaMtI : galaMtikA : 1 : galaMtI
+00 : 12458 : gATa, gATaka : gATa : 1 : gATaka
+00 : 12461 : gADiH, gADin : gADiH : 1 : gADin
+00 : 12524 : gilanaM, giliH : gilanaM : 1 : giliH
+00 : 12621 : gurviRI, gurvI : gurviRI : 1 : gurvI
+00 : 12628 : gulucCaH, guluMCaH : gulucCaH : 1 : guluMCaH
+00 : 12658 : gfj, gfMj : gfj : 1 : gfMj
+00 : 12830 : grEzma, grEzmika : grEzma : 1 : grEzmika
+00 : 12998 : cakrAkI, cakrAMkI : cakrAkI : 1 : cakrAMkI
+00 : 13029 : cawakA, cawikA : cawakA : 1 : cawikA
+00 : 13033 : cawulola, cawullola : cawulola : 1 : cawullola
+00 : 13101 : capewA, capewikA : capewA : 1 : capewikA
+00 : 13144 : carcarikA, carcarI : carcarikA : 1 : carcarI
+00 : 13146 : carcA, carcikA : carcA : 1 : carcikA
+00 : 13163 : carmaruH, carmAraH : carmaruH : 1 : carmAraH
+00 : 13199 : cAwukaH, kaM : cAwukaH : 1 : kaM
+00 : 13364 : ciraMwI, ciriMwI : ciraMwI : 1 : ciriMwI
+00 : 13403 : cukrakaM, cukrikA : cukrakaM : 1 : cukrikA
+00 : 13434 : cuMbaH, bA : cuMbaH : 1 : bA
+00 : 13460 : cUcukaM, cUcUkaM : cUcukaM : 1 : cUcUkaM
+00 : 13465 : cUqika, cUqin : cUqika : 1 : cUqin
+00 : 13559 : CatrA, CatrAkaH : CatrA : 1 : CatrAkaH
+00 : 13653 : CekAla, Cekila : CekAla : 1 : Cekila
+00 : 13667 : jakzaRaM, jakziH : jakzaRaM : 1 : jakziH
+00 : 13689 : jaj, jaMj : jaj : 1 : jaMj
+00 : 13719 : jatunI, jatUkA : jatunI : 1 : jatUkA
+00 : 13759 : jaB,jaMB : jaB : 1 : jaMB
+00 : 13811.1 : jalAkA, jalAlukA, jalikA, jalukA : jalAkA : 6 : jalAlukA jalikA jalukA jalUkA jalokA jalokikA
+00 : 13812 : jalejaM, jalejAtaM : jalejaM : 1 : jalejAtaM
+00 : 13829 : javanikA, javanI : javanikA : 1 : javanI
+00 : 13859 : jAMgaliH, jAMgalikaH : jAMgaliH : 1 : jAMgalikaH
+00 : 13861 : jAMguliH, jAMgulikaH : jAMguliH : 1 : jAMgulikaH
+00 : 13974 : jIrakaH, jIraRaH : jIrakaH : 1 : jIraRaH
+00 : 13999 : jugupsanaM, jugupsA : jugupsanaM : 1 : jugupsA
+00 : 14040 : jfB, jfMB : jfB : 1 : jfMB
+00 : 14067 : jozA, jozit : jozA : 1 : jozit
+00 : 14071 : jYapita, jYapta : jYapita : 1 : jYapta
+00 : 14110 : jyotizI, jyotizkaH : jyotizI : 1 : jyotizkaH
+00 : 14120 : jvarita, jvarin : jvarita : 1 : jvarin
+00 : 14132 : JaMkAraH, JaMkftaM : JaMkAraH : 1 : JaMkftaM
+00 : 14144 : JaMpaH, JaMpA : JaMpaH : 1 : JaMpA
+00 : 14237 : qalakaM, qallakaM : qalakaM : 1 : qallakaM
+00 : 14250 : qip,qiMp : qip : 1 : qiMp
+00 : 14428 : tamasvinI, tamA : tamasvinI : 1 : tamA
+00 : 14440 : taMbA, taMbikA : taMbA : 1 : taMbikA
+00 : 14461 : tarAMDuH, tarAluH : tarAMDuH : 1 : tarAluH
+00 : 14462 : tariH, tarIzaH : tariH : 1 : tarIzaH
+00 : 14490 : tarRaH, tarRakaH : tarRaH : 1 : tarRakaH
+00 : 14500 : tarzaH, tarzaRaM : tarzaH : 1 : tarzaRaM
+00 : 14538 : tAkzaRyaH, tAkzRaH : tAkzaRyaH : 1 : tAkzRaH
+00 : 14544 : tAqa, tAqanaM : tAqa : 1 : tAqanaM
+00 : 14547 : tAqaMkaH, tAqapatraM : tAqaMkaH : 1 : tAqapatraM
+00 : 14571 : tAMtuvAyiH, tAMtavAyyaH : tAMtuvAyiH : 1 : tAMtavAyyaH
+00 : 14634 : tAvatika, tAvatka : tAvatika : 1 : tAvatka
+00 : 14654 : titiraH, tittiraH : titiraH : 1 : tittiraH
+00 : 14681 : tiraskAraH, tiraskftiH : tiraskAraH : 1 : tiraskftiH
+00 : 14693 : tiraScI, tiryaMcI : tiraScI : 1 : tiryaMcI
+00 : 14772 : tuMdikaraH, tuMdikA : tuMdikaraH : 1 : tuMdikA
+00 : 14801 : turParI, turParItu : turParI : 1 : turParItu
+00 : 14850 : tUrRa, tUrRi : tUrRa : 1 : tUrRi
+00 : 14852 : tUrvayARa, tUrvi : tUrvayARa : 1 : tUrvi
+00 : 14899 : tarzita, tarzula : tarzita : 1 : tarzula
+00 : 14934 : tejaH, tejanaM : tejaH : 1 : tejanaM
+00 : 14937 : tejasvat, tejovat : tejasvat : 1 : tejovat
+00 : 14962 : tElikaH, tElin : tElikaH : 1 : tElin
+00 : 14977 : tola, tolanaM : tola : 1 : tolanaM
+00 : 14978 : toza, tozaRa : toza : 1 : tozaRa
+00 : 14984 : tOlikaH, tOlikikaH : tOlikaH : 1 : tOlikikaH
+00 : 15016 : trasura, trasnu : trasura : 1 : trasnu
+00 : 15022 : trARa, trAta : trARa : 1 : trAta
+00 : 15066 : trEvizwapaH, trEvizwapeyaH : trEvizwapaH : 1 : trEvizwapeyaH
+00 : 15094 : tvarA, tvariH : tvarA : 1 : tvariH
+00 : 15097 : tvAdfS, tvAdfSa : tvAdfS : 1 : tvAdfSa
+00 : 15112 : TUtkAraH, TUtkftaM : TUtkAraH : 1 : TUtkftaM
+00 : 15142 : dakziRIya, dakziRya : dakziRIya : 1 : dakziRya
+00 : 15182 : daMtAvalaH, daMtin : daMtAvalaH : 1 : daMtin
+00 : 15189 : daB, daMB : daB : 1 : daMB
+00 : 15252 : dalanI, daliH : dalanI : 1 : daliH
+00 : 15353 : dAMta, dAMtiH : dAMta : 1 : dAMtiH
+00 : 15355 : dApana, dApita : dApana : 1 : dApita
+00 : 15375 : dAridryaM, dAridraM : dAridryaM : 1 : dAridraM
+00 : 15413 : diMqiH, diMqiraH : diMqiH : 1 : diMqiraH
+00 : 15453 : dItiH, dIditiH : dItiH : 1 : dIditiH
+00 : 15566 : dUlikA, dUlI : dUlikA : 1 : dUlI
+00 : 15588 : darpita, darpin : darpita : 1 : darpin
+00 : 15619 : dfh, dfMh : dfh : 1 : dfMh
+00 : 15629 : devakIya, devakya : devakIya : 1 : devakya
+00 : 15643 : devitf, devin : devitf : 1 : devin
+00 : 15695 : dolA, dolikA : dolA : 1 : dolikA
+00 : 15698 : dolAyita, dolita : dolAyita : 1 : dolita
+00 : 15699 : dolikA, dolI : dolikA : 1 : dolI
+00 : 15734 : dOrhfdaM, dOhfdaM : dOrhfdaM : 1 : dOhfdaM
+00 : 15742 : dOzwyaM, dOzWavaM : dOzwyaM : 1 : dOzWavaM
+00 : 15772 : drakawaH, dragaqaH : drakawaH : 1 : dragaqaH
+00 : 15780 : dravaka, dravaRa : dravaka : 1 : dravaRa
+00 : 15820 : druta, drutiH : druta : 1 : drutiH
+00 : 15839 : druhaRaH, druhiRaH : druhaRaH : 1 : druhiRaH
+00 : 15868 : dvArikaH, dvArin : dvArikaH : 1 : dvArin
+00 : 15890 : dvezin, dvezwf : dvezin : 1 : dvezwf
+00 : 15927 : DawikA, DawI : DawikA : 1 : DawI
+00 : 15940 : DanI, DanIkA : DanI : 1 : DanIkA
+00 : 16008 : DAtreyikA, DAtreyI : DAtreyikA : 1 : DAtreyI
+00 : 16017 : DAnurdaMqikaH, DAnuzkaH : DAnurdaMqikaH : 1 : DAnuzkaH
+00 : 16021 : DAnyA, DAnyAkaM : DAnyA : 1 : DAnyAkaM
+00 : 16025 : DAmanikA, DAmanI : DAmanikA : 1 : DAmanI
+00 : 16038 : DArAla, DArAvat : DArAla : 1 : DArAvat
+00 : 16096 : DurIRa, DurIya : DurIRa : 1 : DurIya
+00 : 16115 : DUpita, DUpAyita : DUpita : 1 : DUpAyita
+00 : 16148 : Dfj, DfMj : Dfj : 1 : DfMj
+00 : 16198 : DyAtavya, Dyeya : DyAtavya : 1 : Dyeya
+00 : 16202 : Draj, DraMj : Draj : 1 : DraMj
+00 : 16243 : Dvasta, Dvasti : Dvasta : 1 : Dvasti
+00 : 16314 : nanaMdf, nanAMdf : nanaMdf : 1 : nanAMdf
+00 : 16353 : namasita, namasyita : namasita : 1 : namasyita
+00 : 16410 : navIna, navya : navIna : 1 : navya
+00 : 16447 : nAgaraka, nAgarika : nAgaraka : 1 : nAgarika
+00 : 16489 : nAMdikaraH, nAMdin : nAMdikaraH : 1 : nAMdin
+00 : 16522 : nArAcikA, nArAcI : nArAcikA : 1 : nArAcI
+00 : 16579 : niHSvAsaH, niSvAsaH : niHSvAsaH : 1 : niSvAsaH
+00 : 16624 : nikvaRaH, nikvARaH : nikvaRaH : 1 : nikvARaH
+00 : 16646 : nigadaH, nigAdaH : nigadaH : 1 : nigAdaH
+00 : 16655 : nigaraH, nigAraH : nigaraH : 1 : nigAraH
+00 : 16671 : niGarzaH, niGarzaRaM : niGarzaH : 1 : niGarzaRaM
+00 : 16677 : niGarzaH, niGarzaRaM : niGarzaH : 1 : niGarzaRaM
+00 : 16720 : nidiDyAsaH, nidiDyAsanaM : nidiDyAsaH : 1 : nidiDyAsanaM
+00 : 16741 : nidiDyAsaH, nidiDyAsanaM : nidiDyAsaH : 1 : nidiDyAsanaM
+00 : 16760 : niMdanaM, niMdA : niMdanaM : 1 : niMdA
+00 : 16822 : nimIlA, nimIlikA : nimIlA : 1 : nimIlikA
+00 : 16889 : nirIkzaRaM, nirIkzA : nirIkzaRaM : 1 : nirIkzA
+00 : 16931 : nirJariRI, nirJarI : nirJariRI : 1 : nirJarI
+00 : 16971 : nirDAraH, nirDAraRaM : nirDAraH : 1 : nirDAraRaM
+00 : 17031 : nirvAsaH, nirvAsanaM : nirvAsaH : 1 : nirvAsanaM
+00 : 17070 : niliMpA, niliMpikA : niliMpA : 1 : niliMpikA
+00 : 17112 : nivAraH, nivAraRaM : nivAraH : 1 : nivAraRaM
+00 : 17142 : niSITinI, niSITyA : niSITinI : 1 : niSITyA
+00 : 17187 : nizevaRaM, nizevA : nizevaRaM : 1 : nizevA
+00 : 17200 : nizkozaH, nizkozaRaM : nizkozaH : 1 : nizkozaRaM
+00 : 17237 : nizRa, nizRAta : nizRa : 1 : nizRAta
+00 : 17252 : nizpezaH, nizpezaRaM : nizpezaH : 1 : nizpezaRaM
+00 : 17275 : nisravaH, nisrAvaH : nisravaH : 1 : nisrAvaH
+00 : 17344 : nUtana, nUtna : nUtana : 1 : nUtna
+00 : 17356 : nfttaM, nftyaM : nfttaM : 1 : nftyaM
+00 : 17381 : nEHsvaM, nEHsvyaM : nEHsvaM : 1 : nEHsvyaM
+00 : 17425 : nEruktaH, nEruktikaH : nEruktaH : 1 : nEruktikaH
+00 : 17464 : nyakkaraRaM, nyakkAraH : nyakkaraRaM : 1 : nyakkAraH
+00 : 17523 : nyAsa, nyAsin : nyAsa : 1 : nyAsin
+00 : 17599 : paMcASat, paMcASatiH : paMcASat : 1 : paMcASatiH
+00 : 17676 : patamaH, patasaH : patamaH : 1 : patasaH
+00 : 17723 : padAtaH, padAtiH : padAtaH : 1 : padAtiH
+00 : 17725 : padAtikaH, padAtIyaH : padAtikaH : 1 : padAtIyaH
+00 : 17731 : padga, padraTa : padga : 1 : padraTa
+00 : 17750 : panna, pannaga : panna : 1 : pannaga
+00 : 17767 : paraMjanaH, paraMjayaH : paraMjanaH : 1 : paraMjayaH
+00 : 17791 : parasmEpadaM, parasmEBAzA : parasmEpadaM : 1 : parasmEBAzA
+00 : 17916 : parigamaH, parigamanaM : parigamaH : 1 : parigamanaM
+00 : 17977 : parijYA, parijYAnaM : parijYA : 1 : parijYAnaM
+00 : 18035 : paridiv,paridev : paridiv : 1 : paridev
+00 : 18084 : paripIqanaM, paripIqA : paripIqanaM : 1 : paripIqA
+00 : 18088 : paripUjanaM, paripUjA : paripUjanaM : 1 : paripUjA
+00 : 18220 : pariviMdakaH, pariviMdat : pariviMdakaH : 1 : pariviMdat
+00 : 18253 : parivedanIyA, parivedinI : parivedanIyA : 1 : parivedinI
+00 : 18273 : pariSoDaH, pariSoDanaM : pariSoDaH : 1 : pariSoDanaM
+00 : 18289 : parizekaH, parizecanaM : parizekaH : 1 : parizecanaM
+00 : 18316 : parisamApanaM, parisamAptiH : parisamApanaM : 1 : parisamAptiH
+00 : 18376 : paredyavi, paredyus : paredyavi : 1 : paredyus
+00 : 18407 : paryawanaM, paryawitaM : paryawanaM : 1 : paryawitaM
+00 : 18423 : paryavasTA, paryavasTAnaM : paryavasTA : 1 : paryavasTAnaM
+00 : 18446 : paryAvartaH, paryAvartanaM : paryAvartaH : 1 : paryAvartanaM
+00 : 18512 : pallavati, pallavayati : pallavati : 1 : pallavayati
+00 : 18568 : pAMkteya, pAMktya : pAMkteya : 1 : pAMktya
+00 : 18575 : pAcA, pAciH : pAcA : 1 : pAciH
+00 : 18665 : pAtrIya, pAtrya : pAtrIya : 1 : pAtrya
+00 : 18752 : pAraSvaDaH, pAraSvaDikaH : pAraSvaDaH : 1 : pAraSvaDikaH
+00 : 18767 : pArASaraH, pArASaryaH : pArASaraH : 1 : pArASaryaH
+00 : 18775 : pArijAtaH, pArijAtakaH : pArijAtaH : 1 : pArijAtakaH
+00 : 18786 : pAripArSvakaH, pAripArSvikaH : pAripArSvakaH : 1 : pAripArSvikaH
+00 : 18803 : pArivittyaM, pArivetryaM : pArivittyaM : 1 : pArivetryaM
+00 : 18804 : pArivrAjakaM, pArivrAjyaM : pArivrAjakaM : 1 : pArivrAjyaM
+00 : 18894 : pAzaMqakaH, pAzaMqin : pAzaMqakaH : 1 : pAzaMqin
+00 : 18993 : pipIlaH, pipIlI : pipIlaH : 1 : pipIlI
+00 : 19102 : puttalakaH, puttalikA : puttalakaH : 1 : puttalikA
+00 : 19165 : puroqASa, puroDas : puroqASa : 1 : puroDas
+00 : 19182 : puliMdaH, puliMdakaH : puliMdaH : 1 : puliMdakaH
+00 : 19267 : pUlaH, pUlakaH : pUlaH : 1 : pUlakaH
+00 : 19272 : pUzaH, pUzakaH : pUzaH : 1 : pUzakaH
+00 : 19284 : pfq, pfR : pfq : 1 : pfR
+00 : 19332 : pewikA, pewI : pewikA : 1 : pewI
+00 : 19344 : peliH, pelin : peliH : 1 : pelin
+00 : 19363 : pEMqikyaM, pEMqinyaM : pEMqikyaM : 1 : pEMqinyaM
+00 : 19368 : pEtfzvaseyaH, pEtfzvasrIyaH : pEtfzvaseyaH : 1 : pEtfzvasrIyaH
+00 : 19388 : powwalikA, powwalI : powwalikA : 1 : powwalI
+00 : 19400 : polikA, polI : polikA : 1 : polI
+00 : 19408 : pozin, pozwf : pozin : 1 : pozwf
+00 : 19430 : pOnaruktaM, pOnaruktyaM : pOnaruktaM : 1 : pOnaruktyaM
+00 : 19454 : pOrRamAsI, pOrRamI : pOrRamAsI : 1 : pOrRamI
+00 : 19524 : prakaraRikA, prakaraRI : prakaraRikA : 1 : prakaraRI
+00 : 19564 : prakvaRaH, prakvARaH : prakvaRaH : 1 : prakvARaH
+00 : 19624 : praGawakaH, praGawwakaH : praGawakaH : 1 : praGawwakaH
+00 : 19726 : prajYAla, prajYin : prajYAla : 1 : prajYin
+00 : 19761 : praRipatanaM, praRipAtaH : praRipatanaM : 1 : praRipAtaH
+00 : 19818 : pratikopaH, pratikroDaH : pratikopaH : 1 : pratikroDaH
+00 : 19825 : pratikzepaH, pratikzepaRaM : pratikzepaH : 1 : pratikzepaRaM
+00 : 19855 : praticCaMdaH, praticCaMdakaH : praticCaMdaH : 1 : praticCaMdakaH
+00 : 19987 : pratimokzaH, pratimokzaRaM : pratimokzaH : 1 : pratimokzaRaM
+00 : 19997 : pratiyudDaM, pratiyoDanaM : pratiyudDaM : 1 : pratiyoDanaM
+00 : 20028 : prativAraH, prativAraRaM : prativAraH : 1 : prativAraRaM
+00 : 20056 : pratiSrut, pratiSrutiH : pratiSrut : 1 : pratiSrutiH
+00 : 20061 : pratizeDaka, pratizedDf : pratizeDaka : 1 : pratizedDf
+00 : 20063 : pratizkaH, pratizkasaH : pratizkaH : 1 : pratizkasaH
+00 : 20106 : pratisvanaH, pratisvaraH : pratisvanaH : 1 : pratisvaraH
+00 : 20132 : pratIkzaRa, pratIkzA : pratIkzaRa : 1 : pratIkzA
+00 : 20176 : pratyaMc, pratyac : pratyaMc : 1 : pratyac
+00 : 20186 : pratyaBivAdaH, pratyaBivAdanaM : pratyaBivAdaH : 1 : pratyaBivAdanaM
+00 : 20208 : pratyavekzaRaM, pratyavekzA : pratyavekzaRaM : 1 : pratyavekzA
+00 : 20217 : pratyAgamaH, pratyAgamanaM : pratyAgamaH : 1 : pratyAgamanaM
+00 : 20295 : pradarpaH, pradfptiH : pradarpaH : 1 : pradfptiH
+00 : 20307 : pradAyin, pradAyaka : pradAyin : 1 : pradAyaka
+00 : 20308 : pradiH, pradeyaH : pradiH : 1 : pradeyaH
+00 : 20348 : pradvAr, pradvAraM : pradvAr : 1 : pradvAraM
+00 : 20351 : pradvezaH, pradvezaRaM : pradvezaH : 1 : pradvezaRaM
+00 : 20497 : praBAvaka, praBAvana : praBAvaka : 1 : praBAvana
+00 : 20722 : pravAraH, pravArakaH : pravAraH : 1 : pravArakaH
+00 : 20807 : praSaMsaka, praSaMsin : praSaMsaka : 1 : praSaMsin
+00 : 20830 : praSizwiH, praSis : praSizwiH : 1 : praSis
+00 : 20841 : praSrayin, praSrita : praSrayin : 1 : praSrita
+00 : 20864 : prasAdaka, prasAdin : prasAdaka : 1 : prasAdin
+00 : 20870 : prasamIkzaRaM, prasamIkzA : prasamIkzaRaM : 1 : prasamIkzA
+00 : 21068 : prAc, prAMc : prAc : 1 : prAMc
+00 : 21090 : prAMjalika, prAMjalin : prAMjalika : 1 : prAMjalin
+00 : 21172 : prApya, prAptavya : prApya : 1 : prAptavya
+00 : 21183 : prABftaM, prABftakaM : prABftaM : 1 : prABftakaM
+00 : 21194 : prAyaScittaM, prAyaScittiH : prAyaScittaM : 1 : prAyaScittiH
+00 : 21200 : prAyARika, prAyAtrika : prAyARika : 1 : prAyAtrika
+00 : 21240 : prAvfzika, prAvfzIRa : prAvfzika : 1 : prAvfzIRa
+00 : 21247 : prAvrajyaM, prAvrAjyaM : prAvrajyaM : 1 : prAvrAjyaM
+00 : 21291 : priyaMBavizRu, priyaMBAvuka : priyaMBavizRu : 1 : priyaMBAvuka
+00 : 21370 : proQa, proQi : proQa : 1 : proQi
+00 : 21591 : barhaRa, barhas : barhaRa : 1 : barhas
+00 : 21621 : balina, baliBa : balina : 1 : baliBa
+00 : 21636 : bahlikAH, balhIkAH : bahlikAH : 1 : balhIkAH
+00 : 21712 : bAluH, bAlukaM : bAluH : 1 : bAlukaM
+00 : 21750 : bid, biMd : bid : 1 : biMd
+00 : 21814 : buMd, buMD : buMd : 1 : buMD
+00 : 21855 : boDya, bodDavya : boDya : 1 : bodDavya
+00 : 21886 : bruva, bruvARa : bruva : 1 : bruvARa
+00 : 22001 : BartsanaM, BartsanA : BartsanaM : 1 : BartsanA
+00 : 22010 : BallAtaH, BallAtakaH : BallAtaH : 1 : BallAtakaH
+00 : 22081 : BAwaM, BAwakaM : BAwaM : 1 : BAwakaM
+00 : 22098 : BAdraH, BAdrapadaH : BAdraH : 1 : BAdrapadaH
+00 : 22099 : BAdrapadI, BAdrI : BAdrapadI : 1 : BAdrI
+00 : 22111 : BArika, BArin : BArika : 1 : BArin
+00 : 22195.1 : BizmA, BizmikA --wA, BissawA, BissiwA : BizmA : 4 : BizmikA BizmiwA BissawA BissiwA
+00 : 22236 : BurBurikA, BurBurI : BurBurikA : 1 : BurBurI
+00 : 22241 : Buvar, Buvas : Buvar : 1 : Buvas
+00 : 22292 : BfMgAlikA, BfMgArI : BfMgAlikA : 1 : BfMgArI
+00 : 22318 : BediraM, Bedura : BediraM : 1 : Bedura
+00 : 22330 : BEkzavaM, BEkzukaM : BEkzavaM : 1 : BEkzukaM
+00 : 22410 : BrAtrIya, BrAtreya : BrAtrIya : 1 : BrAtreya
+00 : 22471 : maGavaH, maGavat : maGavaH : 1 : maGavat
+00 : 22515 : mawacI, mawatI : mawacI : 1 : mawatI
+00 : 22522 : maqquH, maqqukaH : maqquH : 1 : maqqukaH
+00 : 22572 : matsyaMqikA, matsyaMqI : matsyaMqikA : 1 : matsyaMqI
+00 : 22585 : madayaMtikA, madayaMtI : madayaMtikA : 1 : madayaMtI
+00 : 22665 : maMT, maT : maMT : 1 : maT
+00 : 22727 : maraRIya, marizRu : maraRIya : 1 : marizRu
+00 : 22736 : marIcin, marIcimat : marIcin : 1 : marIcimat
+00 : 22781 : marzaH, marzaRaM : marzaH : 1 : marzaRaM
+00 : 22826 : masAraH, masArakaH : masAraH : 1 : masArakaH
+00 : 22860 : mahallaH, mahallikaH : mahallaH : 1 : mahallikaH
+00 : 22863 : mahasvat, mahasvin : mahasvat : 1 : mahasvin
+00 : 22896 : mAgaDA, mAgaDikA : mAgaDA : 1 : mAgaDikA
+00 : 22927 : mARibaMDaM, mARimaMTaM : mARibaMDaM : 1 : mARimaMTaM
+00 : 22940 : mAtuliMgaH, mAtuluMgaH : mAtuliMgaH : 1 : mAtuluMgaH
+00 : 22976 : mADyasTaM, mADyasTyaM : mADyasTaM : 1 : mADyasTyaM
+00 : 23001 : mAnuzyaM, mAnuzyakaM : mAnuzyaM : 1 : mAnuzyakaM
+00 : 23006 : mAMdAraH, mAMdAravaH : mAMdAraH : 1 : mAMdAravaH
+00 : 23044 : mArkaMqaH, mArkaMqeyaH : mArkaMqaH : 1 : mArkaMqeyaH
+00 : 23050 : mArgaSiraH, mArgaSiras : mArgaSiraH : 1 : mArgaSiras
+00 : 23051 : mArgaSirI, mArgaSIrzI : mArgaSirI : 1 : mArgaSIrzI
+00 : 23221 : mukuzWaH, mukuzWakaH : mukuzWaH : 1 : mukuzWakaH
+00 : 23237 : muKyaSaH, muKyayaH : muKyaSaH : 1 : muKyayaH
+00 : 23248 : muj, muMj : muj : 1 : muMj
+00 : 23266 : mud, mudA : mud : 1 : mudA
+00 : 23380 : mUzA, mUzikA : mUzA : 1 : mUzikA
+00 : 23408 : mfRAlikA, mfRAlI : mfRAlikA : 1 : mfRAlI
+00 : 23420 : mftsA, mftsna : mftsA : 1 : mftsna
+00 : 23435 : mfdvI, mfdvIkA : mfdvI : 1 : mfdvIkA
+00 : 23460 : mew, meq : mew : 1 : meq
+00 : 23463 : meWiH, meTiH : meWiH : 1 : meTiH
+00 : 23466 : meMWaH, meMqaH : meMWaH : 1 : meMqaH
+00 : 23467 : meMQaH, meMQaMkaH : meMQaH : 1 : meMQaMkaH
+00 : 23489 : meMDikA, meMDI : meMDikA : 1 : meMDI
+00 : 23504 : mezikA, mezI : mezikA : 1 : mezI
+00 : 23542 : mowanaM, mowanakaM : mowanaM : 1 : mowanakaM
+00 : 23549 : modayaMtikA, modayaMtI : modayaMtikA : 1 : modayaMtI
+00 : 23613 : mluc, mluMc : mluc : 1 : mluMc
+00 : 23671 : yatta, yatna : yatta : 1 : yatna
+00 : 23689 : yaMtraRI, yaMtriRI : yaMtraRI : 1 : yaMtriRI
+00 : 23716 : yavanikA, yavanI : yavanikA : 1 : yavanI
+00 : 23719 : yavAnikA, yavAnI : yavAnikA : 1 : yavAnI
+00 : 23728 : yaSasyati, yaSaskAmyati : yaSasyati : 1 : yaSaskAmyati
+00 : 23795 : yAmikA, yAminI : yAmikA : 1 : yAminI
+00 : 23893 : yozA, yozit : yozA : 1 : yozit
+00 : 23937 : rakzitf, rakzin : rakzitf : 1 : rakzin
+00 : 24000 : radanin, radin : radanin : 1 : radin
+00 : 24001 : raD, raMD : raD : 1 : raMD
+00 : 24005 : raMDanaM, raMDiH : raMDanaM : 1 : raMDiH
+00 : 24012 : raP, raMP : raP : 1 : raMP
+00 : 24041 : raSanA, rasanA : raSanA : 1 : rasanA
+00 : 24073 : rAgamaya, rAgavat : rAgamaya : 1 : rAgavat
+00 : 24109 : rAtriMdivaM, rAtriMdivA : rAtriMdivaM : 1 : rAtriMdivA
+00 : 24146 : rAserasaH, rAsevAsaH : rAserasaH : 1 : rAsevAsaH
+00 : 24161 : riMKaRaM, riMgaRaM : riMKaRaM : 1 : riMgaRaM
+00 : 24190 : rihAyas, rihvan : rihAyas : 1 : rihvan
+00 : 24209 : ruc, rucA : ruc : 1 : rucA
+00 : 24218 : ruj, rujA : ruj : 1 : rujA
+00 : 24230 : rudanaM, ruditaM : rudanaM : 1 : ruditaM
+00 : 24245 : ruz, ruzA : ruz : 1 : ruzA
+00 : 24246 : ruzita, ruzwa : ruzita : 1 : ruzwa
+00 : 24249 : ruh, ruha : ruh : 1 : ruha
+00 : 24307 : rezaRaM, rezA : rezaRaM : 1 : rezA
+00 : 24313 : rEtika, rEtya : rEtika : 1 : rEtya
+00 : 24382 : lakacaH, lakucaH : lakacaH : 1 : lakucaH
+00 : 24399 : laK, laMK : laK : 1 : laMK
+00 : 24428 : laMGanIya, laMGya : laMGanIya : 1 : laMGya
+00 : 24455 : laqquH, laqqukaH : laqquH : 1 : laqqukaH
+00 : 24561 : lAj, lAMj : lAj : 1 : lAMj
+00 : 24568 : lAwikA, lAwI : lAwikA : 1 : lAwI
+00 : 24575 : lAbaH, lAbakaH : lAbaH : 1 : lAbakaH
+00 : 24603 : lAvaRyamaya, lAvaRyavat : lAvaRyamaya : 1 : lAvaRyavat
+00 : 24616 : likzA, liKyA : likzA : 1 : liKyA
+00 : 24640 : liptA, liptikA : liptA : 1 : liptikA
+00 : 24696 : lulApaH, lulAyaH : lulApaH : 1 : lulAyaH
+00 : 24764 : loDaH, loDraH : loDaH : 1 : loDraH
+00 : 24767 : lopA, lopAmudrA : lopA : 1 : lopAmudrA
+00 : 24768 : lopAkaH, lopApakaH : lopAkaH : 1 : lopApakaH
+00 : 24769 : lopASaH, lopASakaH : lopASaH : 1 : lopASakaH
+00 : 24774 : loBanIya, loBya : loBanIya : 1 : loBya
+00 : 24810 : lpI, lyI : lpI : 1 : lyI
+00 : 24837 : vakrama, vakraya : vakrama : 1 : vakraya
+00 : 24844 : vaK, vaMK : vaK : 1 : vaMK
+00 : 24890 : vawAkaraH, vawArakaH : vawAkaraH : 1 : vawArakaH
+00 : 24910 : vaRijyaM, vaRijyA : vaRijyaM : 1 : vaRijyA
+00 : 24985 : vanIpakaH, vanIyakaH : vanIpakaH : 1 : vanIyakaH
+00 : 25150 : varDakiH, varDakin : varDakiH : 1 : varDakin
+00 : 25159 : varDrikA, varDrI : varDrikA : 1 : varDrI
+00 : 25163 : varmika, varmin : varmika : 1 : varmin
+00 : 25207 : valina, valiBa : valina : 1 : valiBa
+00 : 25231 : valmika, valmiki : valmika : 1 : valmiki
+00 : 25248 : valhika, valhIka : valhika : 1 : valhIka
+00 : 25268 : vazkayaRI, vazkayiRI : vazkayaRI : 1 : vazkayiRI
+00 : 25457 : vAyavIya, vAyavya : vAyavIya : 1 : vAyavya
+00 : 25502 : vArDraM, vArDrI : vArDraM : 1 : vArDrI
+00 : 25562 : vAsukiH, vAsukeyaH : vAsukiH : 1 : vAsukeyaH
+00 : 25634 : vikAlaH, vikAlakaH : vikAlaH : 1 : vikAlakaH
+00 : 25679 : vikrayikaH, vikrayin : vikrayikaH : 1 : vikrayin
+00 : 25791 : vicCaMdaH, vicCaMdakaH : vicCaMdaH : 1 : vicCaMdakaH
+00 : 25839 : vijYa, vijAnat : vijYa : 1 : vijAnat
+00 : 25872 : viqAla, viqAlaka : viqAla : 1 : viqAlaka
+00 : 25952 : videSin, videSIya : videSin : 1 : videSIya
+00 : 25977 : vidvezin, vidvezwf : vidvezin : 1 : vidvezwf
+00 : 25994 : viDivat, viDitaH : viDivat : 1 : viDitaH
+00 : 26032 : vinAqiH, vinAqikA : vinAqiH : 1 : vinAqikA
+00 : 26105 : vipaMcikA, vipaMcI : vipaMcikA : 1 : vipaMcI
+00 : 26109 : vipaRaH, vipaRanaM : vipaRaH : 1 : vipaRanaM
+00 : 26119 : vipariRamanaM, vipariRAmaH : vipariRamanaM : 1 : vipariRAmaH
+00 : 26138 : vipAS, vipASA : vipAS : 1 : vipASA
+00 : 26226.1 : viBItaH, --taM, viBItakaH --kaM : viBItaH : 5 : viBItaM viBItakaH viBItakaM viBItakI viBItA
+00 : 26275 : vimiSra, vimiSrita : vimiSra : 1 : vimiSrita
+00 : 26322 : virajas, virajaska : virajas : 1 : virajaska
+00 : 26356 : viriMcaH, viriMcanaH : viriMcaH : 1 : viriMcanaH
+00 : 26476 : vivAsaH, vivAsanaM : vivAsaH : 1 : vivAsanaM
+00 : 26553 : viSezya, viSezaRIya : viSezya : 1 : viSezaRIya
+00 : 26569 : viSraRanaM, viSrARataM : viSraRanaM : 1 : viSrARataM
+00 : 26667 : vizvac, vizvaMc : vizvac : 1 : vizvaMc
+00 : 26669 : vizvaRanaM, vizvARaH : vizvaRanaM : 1 : vizvARaH
+00 : 26705 : visarpiH, visarpikA : visarpiH : 1 : visarpikA
+00 : 26740 : visrabDa, visraMBa : visrabDa : 1 : visraMBa
+00 : 26742 : visravaH, visrAvaH : visravaH : 1 : visrAvaH
+00 : 26749 : vihaMgamA, vihaMgikA : vihaMgamA : 1 : vihaMgikA
+00 : 26915 : veR, ven : veR : 1 : ven
+00 : 26938 : vedanaM, vedanA : vedanaM : 1 : vedanA
+00 : 26997 : vezpaH, vezyaH : vezpaH : 1 : vezyaH
+00 : 27010 : vEkakzakaM, vEkakzikaM : vEkakzakaM : 1 : vEkakzikaM
+00 : 27025 : vEklavaM, vEklavyaM : vEklavaM : 1 : vEklavyaM
+00 : 27063 : vEduzI, vEduzyaM : vEduzI : 1 : vEduzyaM
+00 : 27079 : vEDftaM, vEDfti : vEDftaM : 1 : vEDfti
+00 : 27098 : vEmAtraH, vEmAtreyaH : vEmAtraH : 1 : vEmAtreyaH
+00 : 27104 : vEyagraM, vEyagryaM : vEyagraM : 1 : vEyagryaM
+00 : 27118 : vErAgikaH, vErAgin : vErAgikaH : 1 : vErAgin
+00 : 27200 : vyaqaMbakaH, vyaqaMbanaH : vyaqaMbakaH : 1 : vyaqaMbanaH
+00 : 27293 : vyavasTAnaM, vyavasTitiH : vyavasTAnaM : 1 : vyavasTitiH
+00 : 27358 : vyADAmaH, vyADAvaH : vyADAmaH : 1 : vyADAvaH
+00 : 27376 : vyApAdaH, vyApAdanaM : vyApAdaH : 1 : vyApAdanaM
+00 : 27386 : vyAmaH, vyAmanaM : vyAmaH : 1 : vyAmanaM
+00 : 27402 : vyAvakroSI, byAvaBAzI : vyAvakroSI : 1 : byAvaBAzI
+00 : 27437 : vyutTAnaM, vyutTitiH : vyutTAnaM : 1 : vyutTitiH
+00 : 27527 : SakkaraH, SakkariH : SakkaraH : 1 : SakkariH
+00 : 27650 : SayuH, SayunaH : SayuH : 1 : SayunaH
+00 : 27708 : SalkaM, SalkalaM : SalkaM : 1 : SalkalaM
+00 : 27709 : Salkalin, Salkin : Salkalin : 1 : Salkin
+00 : 27764 : SAkuMtalaH, SAkuMtaleyaH : SAkuMtalaH : 1 : SAkuMtaleyaH
+00 : 27770 : SAkteyaH, SAktyaH : SAkteyaH : 1 : SAktyaH
+00 : 27779 : SAKowaH, SAKowakaH : SAKowaH : 1 : SAKowakaH
+00 : 27785 : SAwaH, SAwI : SAwaH : 1 : SAwI
+00 : 28004 : SivikA, Sivira : SivikA : 1 : Sivira
+00 : 28009 : SiSnaM, SistaM : SiSnaM : 1 : SistaM
+00 : 28015 : SihlaH, SihlakaH : SihlaH : 1 : SihlakaH
+00 : 28061 : Sukrala, Sukiya : Sukrala : 1 : Sukiya
+00 : 28072 : Suc, SucA : Suc : 1 : SucA
+00 : 28143 : SUkavat, SUkin : SUkavat : 1 : SUkin
+00 : 28149 : SUdrARI, SUdI : SUdrARI : 1 : SUdI
+00 : 28162 : SUrmaH, SUrmiH : SUrmaH : 1 : SUrmiH
+00 : 28175 : SfgAlikA, SfgAlI : SfgAlikA : 1 : SfgAlI
+00 : 28202 : SepaH, Sepas : SepaH : 1 : Sepas
+00 : 28276 : SOktikeyaM, SOkteyaM : SOktikeyaM : 1 : SOkteyaM
+00 : 28288 : SOMqikaH, SOMqin : SOMqikaH : 1 : SOMqin
+00 : 28304 : SOlkaH, SOlkikaH : SOlkaH : 1 : SOlkikaH
+00 : 28366 : SrayaH, SrayaRaM : SrayaH : 1 : SrayaRaM
+00 : 28459 : SlezmAtaH, SlezmAtakaH : SlezmAtaH : 1 : SlezmAtakaH
+00 : 28466 : Svac, SvaMc : Svac : 1 : SvaMc
+00 : 28473 : SvayaH, SvayanaM : SvayaH : 1 : SvayanaM
+00 : 28501 : SvitAna, Svitna : SvitAna : 1 : Svitna
+00 : 28503 : Svitya, Svitnya : Svitya : 1 : Svitnya
+00 : 28546 : zWIvanaM, zWevanaM : zWIvanaM : 1 : zWevanaM
+00 : 28778 : saMsravaH, saMsrAvaH : saMsravaH : 1 : saMsrAvaH
+00 : 28803 : sakaMpa, sakaMpana : sakaMpa : 1 : sakaMpana
+00 : 28966 : sajAti, sajAtIya : sajAti : 1 : sajAtIya
+00 : 29033 : sawaM, sawA : sawaM : 1 : sawA
+00 : 29052 : satIrTaH, satIrTyaH : satIrTaH : 1 : satIrTyaH
+00 : 29117 : sanAman, sanAmaka : sanAman : 1 : sanAmaka
+00 : 29120 : sanizWIvaM, sanizWevaM : sanizWIvaM : 1 : sanizWevaM
+00 : 29228 : saMniDAnaM, saMniDiH : saMniDAnaM : 1 : saMniDiH
+00 : 29390 : samADin, samADimat : samADin : 1 : samADimat
+00 : 29428 : samAlaMBaH, samAlaMBanaM : samAlaMBaH : 1 : samAlaMBanaM
+00 : 29443 : samAvfttaH, samAvfttakaH : samAvfttaH : 1 : samAvfttakaH
+00 : 29538 : samutpiMja, samutpiMjala : samutpiMja : 1 : samutpiMjala
+00 : 29593 : samupasTA, samupasTAnaM : samupasTA : 1 : samupasTAnaM
+00 : 29641 : saMpuwakA, saMpuwikA : saMpuwakA : 1 : saMpuwikA
+00 : 29735 : saMBAzA, saMBAzaRaM : saMBAzA : 1 : saMBAzaRaM
+00 : 29778 : saMmiSra, saMmiSrita : saMmiSra : 1 : saMmiSrita
+00 : 29844 : sarUpatA, tvaM : sarUpatA : 1 : tvaM
+00 : 29891 : savikalpa, savikalpaka : savikalpa : 1 : savikalpaka
+00 : 29894 : savitarka, savimarSa : savitarka : 1 : savimarSa
+00 : 30111 : sAmanI, sAmnI : sAmanI : 1 : sAmnI
+00 : 30268 : sikatAmaya, sikatAvat : sikatAmaya : 1 : sikatAvat
+00 : 30294 : siDmaM, siDman : siDmaM : 1 : siDman
+00 : 30295 : siDmala, siDmavat : siDmala : 1 : siDmavat
+00 : 30303 : siMdukaH, siMduvAraH : siMdukaH : 1 : siMduvAraH
+00 : 30309 : siMDukaH, siMDuvAraH : siMDukaH : 1 : siMDuvAraH
+00 : 30325 : sihlakI, sihlAM : sihlakI : 1 : sihlAM
+00 : 30331 : sItkAraH, sItkftiH : sItkAraH : 1 : sItkftiH
+00 : 30516 : sfB, sfMB : sfB : 1 : sfMB
+00 : 30558 : sEMhikaH, sEMhikeyaH : sEMhikaH : 1 : sEMhikeyaH
+00 : 30569 : sEraMDraH, sEriMDraH : sEraMDraH : 1 : sEriMDraH
+00 : 30570 : sEraMDrI, sEriMDrI : sEraMDrI : 1 : sEriMDrI
+00 : 30578 : sotka, sotkaMWa : sotka : 1 : sotkaMWa
+00 : 30609 : solluMWaH, solluMWanaM : solluMWaH : 1 : solluMWanaM
+00 : 30615 : sOKaSAyanikaH, sOKaSAyikaH : sOKaSAyanikaH : 1 : sOKaSAyikaH
+00 : 30625 : sOciH, sOcikaH : sOciH : 1 : sOcikaH
+00 : 30646 : sObalI, sObaleyI : sObalI : 1 : sObaleyI
+00 : 30650 : sOBadraH, sOBadreyaH : sOBadraH : 1 : sOBadreyaH
+00 : 30672 : sOraBI, sOraBeyI : sOraBI : 1 : sOraBeyI
+00 : 30696 : sOvidaH, sOvidallaH : sOvidaH : 1 : sOvidallaH
+00 : 30771 : stim, stIm : stim : 1 : stIm
+00 : 30792 : stfh, stFh : stfh : 1 : stFh
+00 : 30821 : strItamA, strItarA : strItamA : 1 : strItarA
+00 : 30897 : sTOReyaH, sTOReyakaH : sTOReyaH : 1 : sTOReyakaH
+00 : 30915 : snAvaH, snAvan : snAvaH : 1 : snAvan
+00 : 30964 : spfzwiH, spfzwikA : spfzwiH : 1 : spfzwikA
+00 : 30978 : sPawikAriH, sPawikArikA : sPawikAriH : 1 : sPawikArikA
+00 : 31120 : srotasvatI, srotasvinI : srotasvatI : 1 : srotasvinI
+00 : 31157 : svargIya, svargya : svargIya : 1 : svargya
+00 : 31158 : svarjikaH, svarjin : svarjikaH : 1 : svarjin
+00 : 31175 : svasrIyA, svasreyI : svasrIyA : 1 : svasreyI
+00 : 31182 : svAdaH, svAdanaM : svAdaH : 1 : svAdanaM
+00 : 31204 : svArocizaH, svArocis : svArocizaH : 1 : svArocis
+00 : 31233 : haMsikA, haMsI : haMsikA : 1 : haMsI
+00 : 31236 : haMjA, haMje : haMjA : 1 : haMje
+00 : 31246 : haMqikA, haMqI : haMqikA : 1 : haMqI
+00 : 31379 : hAlahalI, hAlA : hAlahalI : 1 : hAlA
+00 : 31420 : hijjaH, hijjalaH : hijjaH : 1 : hijjalaH
+00 : 31433 : hiMdolakaH, hiMdolA : hiMdolakaH : 1 : hiMdolA
+00 : 31569 : homIya, homya : homIya : 1 : homya
+00 : 31573 : holikA, holI : holikA : 1 : holI
+00 : 31574 : hohO, hO : hohO : 1 : hO
+00 : 31611 : hrIRa, hrIta : hrIRa : 1 : hrIta
+00 : 31615 : hruq, hrUq : hruq : 1 : hrUq
+00 : 31618 : hrezA, hrezitaM : hrezA : 1 : hrezitaM
+00 : 31625 : hlAdaH, hlAdakaH : hlAdaH : 1 : hlAdakaH
+00 : 31629 : hlIka, hlIku : hlIka : 1 : hlIku
+00 : 32159 : vAhlIka, vAhIka : vAhlIka : 1 : vAhIka
+01 : 936 : aDikAritA --tvaM : aDikAritA : 1 : aDikAritvaM
+01 : 1322 : anAditA --tvaM : anAditA : 1 : anAditvaM
+01 : 1506 : anukUlatA --tvaM : anukUlatA : 1 : anukUlatvaM
+01 : 2431 : aparatA --tvaM : aparatA : 1 : aparatvaM
+01 : 2737 : apUrvatA --tvaM : apUrvatA : 1 : apUrvatvaM
+01 : 4099 : arUpatA --tvaM : arUpatA : 1 : arUpatvaM
+01 : 4854 : avasannatA --tvaM : avasannatA : 1 : avasannatvaM
+01 : 7823 : uttamatA --tvaM : uttamatA : 1 : uttamatvaM
+01 : 12255 : gaRatA --tvaM : gaRatA : 1 : gaRatvaM
+01 : 13098 : capalatA --tvaM : capalatA : 1 : capalatvaM
+01 : 14692 : tiryaktA --tvaM : tiryaktA : 1 : tiryaktvaM
+01 : 16407 : navatA --tvaM : navatA : 1 : navatvaM
+01 : 16785 : nipuRatA --tvaM : nipuRatA : 1 : nipuRatvaM
+01 : 17643 : paRatA --tvaM : paRatA : 1 : paRatvaM
+01 : 18433 : paryAkulatA --tvaM : paryAkulatA : 1 : paryAkulatvaM
+01 : 19508 : prakASatA --tvaM : prakASatA : 1 : prakASatvaM
+01 : 19636 : pracaMqatA --tvaM : pracaMqatA : 1 : pracaMqatvaM
+01 : 19665 : pracuratA --tvaM : pracuratA : 1 : pracuratvaM
+01 : 20356 : praDAnatA --tvaM : praDAnatA : 1 : praDAnatvaM
+01 : 21486 : PalgutA --tvaM : PalgutA : 1 : PalgutvaM
+01 : 21660 : bahulatA --tvaM : bahulatA : 1 : bahulatvaM
+01 : 21864 : brahmatA --tvaM : brahmatA : 1 : brahmatvaM
+01 : 21876 : brAhmaRatA --tvaM : brAhmaRatA : 1 : brAhmaRatvaM
+01 : 22211 : BIrutA --tvaM : BIrutA : 1 : BIrutvaM
+01 : 22608 : maDuratA --tvaM : maDuratA : 1 : maDuratvaM
+01 : 22654 : manuzyatA --tvaM : manuzyatA : 1 : manuzyatvaM
+01 : 22664 : maMtritA --tvaM : maMtritA : 1 : maMtritvaM
+01 : 22676 : maMdatA --tvaM : maMdatA : 1 : maMdatvaM
+01 : 22793 : malinatA --tvaM : malinatA : 1 : malinatvaM
+01 : 22990 : mAnitA --tvaM : mAnitA : 1 : mAnitvaM
+01 : 23000 : mAnuzatA --tvaM : mAnuzatA : 1 : mAnuzatvaM
+01 : 23144 : mitratA --tvaM : mitratA : 1 : mitratvaM
+01 : 23236 : muKyatA --tvaM : muKyatA : 1 : muKyatvaM
+01 : 23240 : mugDatA --tvaM : mugDatA : 1 : mugDatvaM
+01 : 23334 : mUQatA --tvaM : mUQatA : 1 : mUQatvaM
+01 : 24087 : rAjatA --tvaM : rAjatA : 1 : rAjatvaM
+01 : 24825 : vaktavyatA --tvaM : vaktavyatA : 1 : vaktavyatvaM
+01 : 24829 : vakratA --tvaM : vakratA : 1 : vakratvaM
+01 : 25256 : vaSitA --tvaM : vaSitA : 1 : vaSitvaM
+01 : 25358 : vAcyatA --tvaM : vAcyatA : 1 : vAcyatvaM
+01 : 25926 : vidagDatA --tvaM : vidagDatA : 1 : vidagDatvaM
+01 : 26101 : vipakzatA --tvaM : vipakzatA : 1 : vipakzatvaM
+01 : 26124 : viparItatA --tvaM : viparItatA : 1 : viparItatvaM
+01 : 26540 : viSAlatA --tvaM : viSAlatA : 1 : viSAlatvaM
+01 : 27877 : SAlInatA --tvaM : SAlInatA : 1 : SAlInatvaM
+01 : 28781 : saMhatatA --tvaM : saMhatatA : 1 : saMhatatvaM
+01 : 29296 : samatA --tvaM : samatA : 1 : samatvaM
+01 : 29334 : samarTatA --tvaM : samarTatA : 1 : samarTatvaM
+01 : 29941 : sahizRutA --tvaM : sahizRutA : 1 : sahizRutvaM
+01 : 29943 : sahatA --tvaM : sahatA : 1 : sahatvaM
+01 : 30058 : sADutA --tvaM : sADutA : 1 : sADutvaM
+01 : 30291 : sidDatA --tvaM : sidDatA : 1 : sidDatvaM
+01 : 30744 : stabDatA --tvaM : stabDatA : 1 : stabDatvaM
+01 : 30822 : strItA --tvaM : strItA : 1 : strItvaM
+01 : 30824 : strERatA --tvaM : strERatA : 1 : strERatvaM
+01 : 30867 : sTAvaratA --tvaM : sTAvaratA : 1 : sTAvaratvaM
+01 : 30881 : sTiratA --tvaM : sTiratA : 1 : sTiratvaM
+01 : 30889 : sTUlatA --tvaM : sTUlatA : 1 : sTUlatvaM
+01 : 30919 : snigDatA --tvaM : snigDatA : 1 : snigDatvaM
+01 : 31196 : svAmitA --tvaM : svAmitA : 1 : svAmitvaM
+01 : 31224 : svEratA --tvaM : svEratA : 1 : svEratvaM
+01 : 31514 : hetutA --tvaM : hetutA : 1 : hetutvaM
+02 : 257 : aMkuraH --raM : aMkuraH : 1 : aMkuraM
+02 : 284 : aMgAraH --raM : aMgAraH : 1 : aMgAraM
+02 : 285 : aMgArakaH --kaM : aMgArakaH : 1 : aMgArakaM
+02 : 358 : ajakavaH --vaM : ajakavaH : 1 : ajakavaM
+02 : 359 : ajakAvaH --vaM : ajakAvaH : 1 : ajakAvaM
+02 : 429 : aMcalaH --laM : aMcalaH : 1 : aMcalaM
+02 : 448 : aMjIraH --raM : aMjIraH : 1 : aMjIraM
+02 : 485 : aMqaH --qaM : aMqaH : 1 : aMqaM
+02 : 1475 : anIkaH --kaM : anIkaH : 1 : anIkaM
+02 : 2033 : anUkaH --kaM : anUkaH : 1 : anUkaM
+02 : 2866 : apramodaH --daM : apramodaH : 1 : apramodaM
+02 : 4181 : arDarcaH --caM : arDarcaH : 1 : arDarcaM
+02 : 4276 : alAtaH --taM : alAtaH : 1 : alAtaM
+02 : 4487 : avacUlakaH, --kaM : avacUlakaH : 1 : avacUlakaM
+02 : 4515 : avataMsaH --saM : avataMsaH : 1 : avataMsaM
+02 : 4552 : avadAhaH --haM : avadAhaH : 1 : avadAhaM
+02 : 4976 : avAraH, --raM : avAraH : 1 : avAraM
+02 : 5034 : avityajaH --jaM : avityajaH : 1 : avityajaM
+02 : 5225 : aSakunaH --naM : aSakunaH : 1 : aSakunaM
+02 : 5293 : aSmIraH --raM : aSmIraH : 1 : aSmIraM
+02 : 5295 : aSmaMtakaH --kaM : aSmaMtakaH : 1 : aSmaMtakaM
+02 : 5750 : AkASaH --SaM : AkASaH : 1 : AkASaM
+02 : 5842 : AKAtaH --taM : AKAtaH : 1 : AKAtaM
+02 : 6050 : AQakaH, --kaM : AQakaH : 1 : AQakaM
+02 : 6653 : AyavasaH, --saM : AyavasaH : 1 : AyavasaM
+02 : 6674 : AyuDaH, --DaM : AyuDaH : 1 : AyuDaM
+02 : 6685 : AraH, --raM : AraH : 1 : AraM
+02 : 6871 : AlayaH, --yaM : AlayaH : 1 : AlayaM
+02 : 7066 : ASramaH, --maM : ASramaH : 1 : ASramaM
+02 : 8884 : upavizaH --zaM : upavizaH : 1 : upavizaM
+02 : 9334 : uzRIzaH, --zaM : uzRIzaH : 1 : uzRIzaM
+02 : 9721 : odanaH, --naM : odanaH : 1 : odanaM
+02 : 9917 : kaMsaH --saM : kaMsaH : 1 : kaMsaM
+02 : 9931 : kakudaH --daM : kakudaH : 1 : kakudaM
+02 : 9958 : kaMkaRaH --RaM : kaMkaRaH : 1 : kaMkaRaM
+02 : 9960 : kaMkataH, --taM kaMkatI, tikA : kaMkataH : 1 : kaMkataM
+02 : 9964 : kaMkAlaH --laM : kaMkAlaH : 1 : kaMkAlaM
+02 : 9987 : kacCaH --CaM : kacCaH : 1 : kacCaM
+02 : 10020 : kawakaH, --kaM : kawakaH : 1 : kawakaM
+02 : 10042 : kawIraH, --raM : kawIraH : 1 : kawIraM
+02 : 10089 : kaRiSaH, --SaM : kaRiSaH : 1 : kaRiSaM
+02 : 10101 : kaMwakaH, --kaM : kaMwakaH : 1 : kaMwakaM
+02 : 10113 : kaMWaH, --WaM : kaMWaH : 1 : kaMWaM
+02 : 10218 : kaMdaH --daM : kaMdaH : 1 : kaMdaM
+02 : 10222 : kaMdaraH, --raM : kaMdaraH : 1 : kaMdaraM
+02 : 10224 : kaMdalaH --laM : kaMdalaH : 1 : kaMdalaM
+02 : 10229 : kaMdukaH, --kaM : kaMdukaH : 1 : kaMdukaM
+02 : 10247 : kapawaH, --waM : kapawaH : 1 : kapawaM
+02 : 10255 : kapAwaH --waM : kapAwaH : 1 : kapAwaM
+02 : 10256 : kapAlaH, --laM : kapAlaH : 1 : kapAlaM
+02 : 10282 : kabaMDaH, --DaM : kabaMDaH : 1 : kabaMDaM
+02 : 10312 : kaMbalakaH, --kaM : kaMbalakaH : 1 : kaMbalakaM
+02 : 10355 : karIzaH, --zaM : karIzaH : 1 : karIzaM
+02 : 10383 : karketanaH --naM : karketanaH : 1 : karketanaM
+02 : 10420 : karpawaH, --waM : karpawaH : 1 : karpawaM
+02 : 10424 : karpAsaH, --saM, --sI : karpAsaH : 1 : karpAsaM
+02 : 10425 : karpUraH, --raM : karpUraH : 1 : karpUraM
+02 : 10477 : kalalaH, --laM : kalalaH : 1 : kalalaM
+02 : 10482 : kalahaH, --haM : kalahaH : 1 : kalahaM
+02 : 10512 : kalevaraH, --raM : kalevaraH : 1 : kalevaraM
+02 : 10542 : kavacaH, --caM : kavacaH : 1 : kavacaM
+02 : 10550 : kavalaH, --laM : kavalaH : 1 : kavalaM
+02 : 10658 : kAMqaH, --qaM : kAMqaH : 1 : kAMqaM
+02 : 10690 : kAMtAraH, --raM : kAMtAraH : 1 : kAMtAraM
+02 : 10741 : kAyaH, --yaM : kAyaH : 1 : kAyaM
+02 : 10815 : kArzApaRaH, --RaM : kArzApaRaH : 1 : kArzApaRaM
+02 : 10841 : kAlIyakaH, --kaM : kAlIyakaH : 1 : kAlIyakaM
+02 : 10857 : kASaH, --SaM : kASaH : 1 : kASaM
+02 : 10886 : kAsAraH, --raM : kAsAraH : 1 : kAsAraM
+02 : 10930 : kirIwaH, --waM : kirIwaH : 1 : kirIwaM
+02 : 10950 : kiSalayaH, --yaM : kiSalayaH : 1 : kiSalayaM
+02 : 10954 : kisalaH, --laM, kisalayaH, --yaM : kisalaH : 1 : kisalaM
+02 : 10994 : kukUlaH, --laM : kukUlaH : 1 : kukUlaM
+02 : 11019 : kuMjaH, --jaM : kuMjaH : 1 : kuMjaM
+02 : 11024 : kuwaH, --waM : kuwaH : 1 : kuwaM
+02 : 11038 : kuwIraH, --raM, kuwIrakaH : kuwIraH : 1 : kuwIraM
+02 : 11093 : kuMqalaH, --laM : kuMqalaH : 1 : kuMqalaM
+02 : 11115 : kuTaH, --TaM, --TA : kuTaH : 1 : kuTaM
+02 : 11129 : kuMdaH, --daM : kuMdaH : 1 : kuMdaM
+02 : 11161 : kumudaH, --daM : kumudaH : 1 : kumudaM
+02 : 11204 : kuruviMdaH, --daM : kuruviMdaH : 1 : kuruviMdaM
+02 : 11229 : kulAyaH, --yaM : kulAyaH : 1 : kulAyaM
+02 : 11238 : kuliraH, --raM : kuliraH : 1 : kuliraM
+02 : 11239 : kuliSaH, --SaM : kuliSaH : 1 : kuliSaM
+02 : 11244 : kulISaH --SaM : kulISaH : 1 : kulISaM
+02 : 11303 : kusuMBaH, --BaM : kusuMBaH : 1 : kusuMBaM
+02 : 11349 : kUraH, --raM : kUraH : 1 : kUraM
+02 : 11362 : kUlakaH, --kaM : kUlakaH : 1 : kUlakaM
+02 : 11478 : keyUraH, --raM : keyUraH : 1 : keyUraM
+02 : 11545 : kowaraH, --raM : kowaraH : 1 : kowaraM
+02 : 11563 : kodaMqaH, --qaM : kodaMqaH : 1 : kodaMqaM
+02 : 11572 : korakaH --kaM : korakaH : 1 : korakaM
+02 : 11579 : kolAhalaH, --laM : kolAhalaH : 1 : kolAhalaM
+02 : 11582 : kovidAraH, --raM : kovidAraH : 1 : kovidAraM
+02 : 11583 : koSaH, --SaM (zaH, --zaM) : koSaH : 1 : koSaM
+02 : 11733 : krIqanakaH, --kaM, krIqanIyaM, --yakaM : krIqanakaH : 1 : krIqanakaM
+02 : 11813 : kzaRaH, --RaM : kzaRaH : 1 : kzaRaM
+02 : 11990 : kzomaH, --maM : kzomaH : 1 : kzomaM
+02 : 12064 : KaMqalaH, --laM : KaMqalaH : 1 : KaMqalaM
+02 : 12089 : KAnikaH, --kaM : KAnikaH : 1 : KAnikaM
+02 : 12112 : KarvawaH, --waM : KarvawaH : 1 : KarvawaM
+02 : 12115 : KalaH, --laM : KalaH : 1 : KalaM
+02 : 12179 : KilaH --laM : KilaH : 1 : KilaM
+02 : 12344 : garalaH, --laM : garalaH : 1 : garalaM
+02 : 12646 : gUTaH --TaM : gUTaH : 1 : gUTaM
+02 : 12975 : GolaH, --laM : GolaH : 1 : GolaM
+02 : 13048 : caMqAtakaH, --kaM : caMqAtakaH : 1 : caMqAtakaM
+02 : 13079 : caMdanaH --naM : caMdanaH : 1 : caMdanaM
+02 : 13107 : camasaH, --saM : camasaH : 1 : camasaM
+02 : 13125 : caraRaH --RaM : caraRaH : 1 : caraRaM
+02 : 13183 : cazakaH --kaM : cazakaH : 1 : cazakaM
+02 : 13243 : cAmaraH, --raM : cAmaraH : 1 : cAmaraM
+02 : 13408 : cucukaH, --kaM, cucUkaM : cucukaH : 1 : cucukaM
+02 : 13553 : CagaRaH, --RaM : CagaRaH : 1 : CagaRaM
+02 : 13585 : CalaH, --laM : CalaH : 1 : CalaM
+02 : 13611 : CAlaH, --laM : CAlaH : 1 : CAlaM
+02 : 14038 : jUzaH, --zaM : jUzaH : 1 : jUzaM
+02 : 14191 : waMkaH, --kaM : waMkaH : 1 : waMkaM
+02 : 14198 : waMgaH, --gaM : waMgaH : 1 : waMgaM
+02 : 14199 : waMgaRaH, --RaM : waMgaRaH : 1 : waMgaRaM
+02 : 14315 : taqAgaH --gaM : taqAgaH : 1 : taqAgaM
+02 : 14504 : talaH --laM : talaH : 1 : talaM
+02 : 14550 : tAMqavaH --vaM : tAMqavaH : 1 : tAMqavaM
+02 : 14809 : tolaH, --laM : tolaH : 1 : tolaM
+02 : 14854 : tUlaH --laM : tUlaH : 1 : tUlaM
+02 : 14973 : tomaraH --raM : tomaraH : 1 : tomaraM
+02 : 14976 : toraRaH --RaM : toraRaH : 1 : toraRaM
+02 : 15127 : daSanaH, --naM : daSanaH : 1 : daSanaM
+02 : 15150 : daMqaH --qaM : daMqaH : 1 : daMqaM
+02 : 15250 : dalaH --laM : dalaH : 1 : dalaM
+02 : 15381 : dArduraH --raM : dArduraH : 1 : dArduraM
+02 : 15423 : dinaH --naM : dinaH : 1 : dinaM
+02 : 15660 : dehaH, --haM : dehaH : 1 : dehaM
+02 : 15707 : dohadaH --daM : dohadaH : 1 : dohadaM
+02 : 15768 : dyUtaH, --taM : dyUtaH : 1 : dyUtaM
+02 : 15862 : dvAparaH --raM : dvAparaH : 1 : dvAparaM
+02 : 15892 : dvIpaH, --paM : dvIpaH : 1 : dvIpaM
+02 : 16176 : DOteyaH, --yaM : DOteyaH : 1 : DOteyaM
+02 : 16263 : naKaH, --KaM : naKaH : 1 : naKaM
+02 : 16265 : naKaraH --raM : naKaraH : 1 : naKaraM
+02 : 16292 : naqaH --qaM : naqaH : 1 : naqaM
+02 : 16333 : napuMsakaH, --kaM : napuMsakaH : 1 : napuMsakaM
+02 : 16376 : narakaH, --kaM : narakaH : 1 : narakaM
+02 : 16602 : nikuMjaH, --jaM : nikuMjaH : 1 : nikuMjaM
+02 : 16764 : nipaH --paM : nipaH : 1 : nipaM
+02 : 16918 : nirGaMwaH --waM : nirGaMwaH : 1 : nirGaMwaM
+02 : 16929 : nirJaraH --raM : nirJaraH : 1 : nirJaraM
+02 : 17017 : niryAsaH, --saM : niryAsaH : 1 : niryAsaM
+02 : 17190 : nizkaH --kaM : nizkaH : 1 : nizkaM
+02 : 17312 : nIqaH, --qaM : nIqaH : 1 : nIqaM
+02 : 17347 : nUpuraH --raM : nUpuraH : 1 : nUpuraM
+02 : 17551 : paMkaH, --kaM : paMkaH : 1 : paMkaM
+02 : 17607 : paMjarakaH --kaM : paMjarakaH : 1 : paMjarakaM
+02 : 17611 : pawaH --waM : pawaH : 1 : pawaM
+02 : 18496 : palAlaH, --laM : palAlaH : 1 : palAlaM
+02 : 18510 : pallavaH --vaM : pallavaH : 1 : pallavaM
+02 : 18645 : pAtakaH --kaM : pAtakaH : 1 : pAtakaM
+02 : 18667 : pAtrIraH, --raM : pAtrIraH : 1 : pAtrIraM
+02 : 18714 : pAraH, --raM : pAraH : 1 : pAraM
+02 : 18906 : picaMqaH --qaM, piciMqaH --qaM : picaMqaH : 1 : picaMqaM
+02 : 18940 : piwakaH --kaM : piwakaH : 1 : piwakaM
+02 : 18946 : piWaraH --raM : piWaraH : 1 : piWaraM
+02 : 18947 : piWarakaH --kaM : piWarakaH : 1 : piWarakaM
+02 : 18951 : piMqakaH --kaM : piMqakaH : 1 : piMqakaM
+02 : 18966 : piRyAkaH --kaM : piRyAkaH : 1 : piRyAkaM
+02 : 18985 : pinAkaH --kaM : pinAkaH : 1 : pinAkaM
+02 : 19022 : pizwakaH --kaM : pizwakaH : 1 : pizwakaM
+02 : 19023 : pizwapaH --paM : pizwapaH : 1 : pizwapaM
+02 : 19031 : pIWakaH, --kaM : pIWakaH : 1 : pIWakaM
+02 : 19052 : pIyUzaH --zaM : pIyUzaH : 1 : pIyUzaM
+02 : 19068 : puMKaH --KaM : puMKaH : 1 : puMKaM
+02 : 19070 : puMgaH, --gaM : puMgaH : 1 : puMgaM
+02 : 19081 : puwaH --waM : puwaH : 1 : puwaM
+02 : 19158 : puruzakaH --kaM : puruzakaH : 1 : puruzakaM
+02 : 19177 : pulAkaH --kaM : pulAkaH : 1 : pulAkaM
+02 : 19180 : pulinaH --naM : pulinaH : 1 : pulinaM
+02 : 19214 : pustakaH --kaM, pustI : pustakaH : 1 : pustakaM
+02 : 19240 : pUyaH --yaM : pUyaH : 1 : pUyaM
+02 : 19300 : pfTukaH --kaM : pfTukaH : 1 : pfTukaM
+02 : 19330 : pewakaH --kaM : pewakaH : 1 : pewakaM
+02 : 19338 : peyUzaH --zaM : peyUzaH : 1 : peyUzaM
+02 : 19500 : prakAMqaH, --qaM : prakAMqaH : 1 : prakAMqaM
+02 : 20274 : pratyUzaH --zaM : pratyUzaH : 1 : pratyUzaM
+02 : 20742 : pravipalaH --laM : pravipalaH : 1 : pravipalaM
+02 : 21010 : prahutaH --taM : prahutaH : 1 : prahutaM
+02 : 21080 : prAjanaH --naM : prAjanaH : 1 : prAjanaM
+02 : 21323 : preMKaH, --KaM : preMKaH : 1 : preMKaM
+02 : 21744 : biwakaH --kaM, biwakA : biwakaH : 1 : biwakaM
+02 : 21762 : biMbaH --baM : biMbaH : 1 : biMbaM
+02 : 22087 : BAMqakaH --kaM : BAMqakaH : 1 : BAMqakaM
+02 : 22247 : BUkaH --kaM : BUkaH : 1 : BUkaM
+02 : 22291 : BfMgAraH --raM : BfMgAraH : 1 : BfMgAraM
+02 : 22325 : BelakaH --kaM : BelakaH : 1 : BelakaM
+02 : 22510 : maMjIraH --raM : maMjIraH : 1 : maMjIraM
+02 : 22519 : maWaH, --WaM : maWaH : 1 : maWaM
+02 : 22526 : maRikaH --kaM : maRikaH : 1 : maRikaM
+02 : 22534 : maMqaH --qaM : maMqaH : 1 : maMqaM
+02 : 22843 : mastakaH --kaM : mastakaH : 1 : mastakaM
+02 : 23103 : mAsaH, --saM : mAsaH : 1 : mAsaM
+02 : 23218 : mukulaH --laM : mukulaH : 1 : mukulaM
+02 : 23324 : musalaH --laM : musalaH : 1 : musalaM
+02 : 23407 : mfRAlaH --laM : mfRAlaH : 1 : mfRAlaM
+02 : 23412 : mftakaH --kaM : mftakaH : 1 : mftakaM
+02 : 23525 : mEreyaH --yaM, mEreyakaH --kaM : mEreyaH : 1 : mEreyaM
+02 : 23541 : mowakaH --kaM : mowakaH : 1 : mowakaM
+02 : 23809 : yAvakaH --kaM : yAvakaH : 1 : yAvakaM
+02 : 23825 : yugaMDaraH --raM : yugaMDaraH : 1 : yugaMDaraM
+02 : 23865 : yUzaH --zaM yUzan : yUzaH : 1 : yUzaM
+02 : 23978 : raRaH --RaM : raRaH : 1 : raRaM
+02 : 24721 : letaH --taM : letaH : 1 : letaM
+02 : 25199 : valayaH --yaM : valayaH : 1 : valayaM
+02 : 25206 : valikaH --kaM : valikaH : 1 : valikaM
+02 : 25217 : valkalaH --laM : valkalaH : 1 : valkalaM
+02 : 25233 : valmIkaH --kaM : valmIkaH : 1 : valmIkaM
+02 : 25372 : vAwaH --waM : vAwaH : 1 : vAwaM
+02 : 25469 : vAraRAvataH --taM : vAraRAvataH : 1 : vAraRAvataM
+02 : 25555 : vAsaraH --raM : vAsaraH : 1 : vAsaraM
+02 : 25829 : vijinaH --naM(laH, --laM) : vijinaH : 1 : vijinaM
+02 : 25901 : vitAnakaH --kaM : vitAnakaH : 1 : vitAnakaM
+02 : 26262 : vimAnaH --naM : vimAnaH : 1 : vimAnaM
+02 : 26271 : vimAMsaH --saM : vimAMsaH : 1 : vimAMsaM
+02 : 26297 : viMbaH --baM : viMbaH : 1 : viMbaM
+02 : 26366 : virudaH --daM : virudaH : 1 : virudaM
+02 : 26385 : virokaH --kaM : virokaH : 1 : virokaM
+02 : 26629 : vizARaH --RaM, --RI : vizARaH : 1 : vizARaM
+02 : 26649 : vizwapaH --paM : vizwapaH : 1 : vizwapaM
+02 : 26966 : veraH --raM : veraH : 1 : veraM
+02 : 27470 : vraRaH --RaM : vraRaH : 1 : vraRaM
+02 : 27472 : vrataH --taM : vrataH : 1 : vrataM
+02 : 27509 : SakawaH --waM : SakawaH : 1 : SakawaM
+02 : 27512 : SakalaH --laM : SakalaH : 1 : SakalaM
+02 : 27555 : SaMKaH --KaM : SaMKaH : 1 : SaMKaM
+02 : 27556 : SaMKakaH --kaM : SaMKakaH : 1 : SaMKakaM
+02 : 27609 : SaPaH --PaM : SaPaH : 1 : SaPaM
+02 : 27634 : SaMbalaH --laM : SaMbalaH : 1 : SaMbalaM
+02 : 27669 : SarAvaH --vaM : SarAvaH : 1 : SarAvaM
+02 : 27721 : SavaH --vaM : SavaH : 1 : SavaM
+02 : 27746 : SAkaH --kaM : SAkaH : 1 : SAkaM
+02 : 27786 : SAwakaH --kaM : SAwakaH : 1 : SAwakaM
+02 : 27931 : SiKaraH --raM : SiKaraH : 1 : SiKaraM
+02 : 27942 : SiMGARakaH --kaM : SiMGARakaH : 1 : SiMGARakaM
+02 : 27985 : SilaH --laM : SilaH : 1 : SilaM
+02 : 28136 : SuzkalaH, --laM : SuzkalaH : 1 : SuzkalaM
+02 : 28141 : SUkaH, --kaM : SUkaH : 1 : SUkaM
+02 : 28164 : SUlaH --laM : SUlaH : 1 : SUlaM
+02 : 28180 : SfMgakaH --kaM : SfMgakaH : 1 : SfMgakaM
+02 : 28368 : SravaRaH, --RaM : SravaRaH : 1 : SravaRaM
+02 : 28943 : saMGARakaH --kaM : saMGARakaH : 1 : saMGARakaM
+02 : 29129 : saMtAnaH --naM : saMtAnaH : 1 : saMtAnaM
+02 : 29328 : samaraH --raM : samaraH : 1 : samaraM
+02 : 29655 : saMpratiroDakaH --kaM : saMpratiroDakaH : 1 : saMpratiroDakaM
+02 : 29717 : saMbalaH --laM : saMbalaH : 1 : saMbalaM
+02 : 29806 : sarakaH --kaM : sarakaH : 1 : sarakaM
+02 : 31027 : sPuliMgaH, --gaM, sPuliMgA : sPuliMgaH : 1 : sPuliMgaM
+02 : 31361 : hAyanaH --naM : hAyanaH : 1 : hAyanaM
+02 : 31415 : hiMgulaH --laM : hiMgulaH : 1 : hiMgulaM
+02 : 31521 : hemaMtaH --taM : hemaMtaH : 1 : hemaMtaM
+03 : 1183 : ananyatA, --tvaM : ananyatA : 1 : ananyatvaM
+03 : 3770 : amamatA, --tvaM : amamatA : 1 : amamatvaM
+03 : 3774 : amaratA, --tvaM : amaratA : 1 : amaratvaM
+03 : 3804 : amAnitA, --tvaM : amAnitA : 1 : amAnitvaM
+03 : 3816 : amitratA, --tvaM : amitratA : 1 : amitratvaM
+03 : 3853 : amftatA, --tvaM : amftatA : 1 : amftatvaM
+03 : 4170 : arTitA, --tvaM : arTitA : 1 : arTitvaM
+03 : 4331 : alpatA, --tvaM : alpatA : 1 : alpatvaM
+03 : 4818 : avaSyakatA, --tvaM : avaSyakatA : 1 : avaSyakatvaM
+03 : 5758 : AkulatA, --tvaM : AkulatA : 1 : AkulatvaM
+03 : 5967 : AcAryatA, --tvaM : AcAryatA : 1 : AcAryatvaM
+03 : 6118 : AtmatA, --tvaM : AtmatA : 1 : AtmatvaM
+03 : 6159 : AditA, --tvaM : AditA : 1 : AditvaM
+03 : 6544 : AmatA, --tvaM : AmatA : 1 : AmatvaM
+03 : 6918 : AvaSyakatA, --tvaM : AvaSyakatA : 1 : AvaSyakatvaM
+03 : 7056 : AScaryatA, --tvaM : AScaryatA : 1 : AScaryatvaM
+03 : 7178 : AstikatA, --tvaM, AstikyaM : AstikatA : 1 : AstikatvaM
+03 : 7372 : iMdratA, --tvaM : iMdratA : 1 : iMdratvaM
+03 : 7530 : ISitA, --tvaM : ISitA : 1 : ISitvaM
+03 : 7533 : ISvaratA, --tvaM : ISvaratA : 1 : ISvaratvaM
+03 : 7571 : ugratA, --tvaM : ugratA : 1 : ugratvaM
+03 : 7579 : uccatA, --tvaM : uccatA : 1 : uccatvaM
+03 : 7967 : utsukatA, --tvaM : utsukatA : 1 : utsukatvaM
+03 : 9213 : urutA, --tvaM : urutA : 1 : urutvaM
+03 : 9315 : uzRatA, --tvaM : uzRatA : 1 : uzRatvaM
+03 : 9442 : fjutA, --tvaM : fjutA : 1 : fjutvaM
+03 : 9523 : ekatA, --tvaM : ekatA : 1 : ekatvaM
+03 : 10065 : kaWinatA, --tvaM : kaWinatA : 1 : kaWinatvaM
+03 : 10069 : kaWoratA, --tvaM : kaWoratA : 1 : kaWoratvaM
+03 : 11941 : kzudratA, --tvaM : kzudratA : 1 : kzudratvaM
+03 : 12562 : guRatA, --tvaM : guRatA : 1 : guRatvaM
+03 : 12568 : guRavattA, --tvaM : guRavattA : 1 : guRavattvaM
+03 : 12619 : gurutA, --tvaM : gurutA : 1 : gurutvaM
+03 : 13709 : jaqatA, --tvaM : jaqatA : 1 : jaqatvaM
+03 : 16361 : namratA, --tvaM : namratA : 1 : namratvaM
+03 : 16709 : nityatA, --tvaM : nityatA : 1 : nityatvaM
+03 : 17592 : paMcatA, --tvaM : paMcatA : 1 : paMcatvaM
+03 : 17626 : pawutA, --tvaM : pawutA : 1 : pawutvaM
+03 : 19159 : puruzatA, --tvaM : puruzatA : 1 : puruzatvaM
+03 : 20500 : praButA, --tvaM : praButA : 1 : praButvaM
+03 : 20502 : praBUtatA, --tvaM : praBUtatA : 1 : praBUtatvaM
+03 : 21290 : priyatA, --tvaM : priyatA : 1 : priyatvaM
+03 : 21653 : bahutA, --tvaM : bahutA : 1 : bahutvaM
+03 : 24055 : rasikatA, --tvaM : rasikatA : 1 : rasikatvaM
+03 : 24413 : laGutA, --tvaM : laGutA : 1 : laGutvaM
+03 : 28732 : saMsfzwatA, --tvaM : saMsfzwatA : 1 : saMsfzwatvaM
+03 : 29292 : saByatA, --tvaM : saByatA : 1 : saByatvaM
+03 : 29958 : sahAyatA, --tvaM : sahAyatA : 1 : sahAyatvaM
+03 : 30040 : sADanatA, --tvaM : sADanatA : 1 : sADanatvaM
+04 : 322 : acApala --lya : acApala : 1 : acApalya
+04 : 367 : ajana --ni : ajana : 1 : ajani
+04 : 409 : ajura --rya : ajura : 1 : ajurya
+04 : 1197 : anaparADa --Din : anaparADa : 1 : anaparADin
+04 : 1262 : anavalaMba --bana : anavalaMba : 1 : anavalaMbana
+04 : 1286 : anasUya --yaka : anasUya : 1 : anasUyaka
+04 : 1578 : anuja --jAta : anuja : 1 : anujAta
+04 : 1725 : anupAta, --tin : anupAta : 1 : anupAtin
+04 : 2262 : apakAraka, --kArin : apakAraka : 1 : apakArakArin
+04 : 2640 : apAMga --gaka : apAMga : 1 : apAMgaka
+04 : 2656 : apApa --pin : apApa : 1 : apApin
+04 : 2660 : apAya --yin : apAya : 1 : apAyin
+04 : 2927 : abaDa --Dya : abaDa : 1 : abaDya
+04 : 3267 : aBiyoktavya, --yojya : aBiyoktavya : 1 : aBiyoktavyojya
+04 : 3492 : aBihita, --ti : aBihita : 1 : aBihiti
+04 : 3514 : aBIta, --tiM : aBIta : 1 : aBItiM
+04 : 3749 : amaMgala --lya : amaMgala : 1 : amaMgalya
+04 : 3848 : amUla, --laka : amUla : 1 : amUlaka
+04 : 3962 : ayuga, --gala : ayuga : 1 : ayugala
+04 : 5579 : asecana, --naka : asecana : 1 : asecanaka
+04 : 5680 : ahala --li : ahala : 1 : ahali
+04 : 5810 : AkroSaka, --krozwf : AkroSaka : 1 : AkroSakrozwf
+04 : 6344 : AnfSaMsa --sya : AnfSaMsa : 1 : AnfSaMsya
+04 : 6558 : AmaraRAMta, --tika : AmaraRAMta : 1 : AmaraRAMtika
+04 : 8063 : udAsa, --sin : udAsa : 1 : udAsin
+04 : 8303 : udvAsa, --sas : udvAsa : 1 : udvAsas
+04 : 8350 : unnaya --yanaM : unnaya : 1 : unnayanaM
+04 : 8889 : upavfMha, --haRaM : upavfMha : 1 : upavfMhaRaM
+04 : 9403 : UzmaRa, --Rya : UzmaRa : 1 : UzmaRya
+04 : 9664 : EMdriya, --yaka : EMdriya : 1 : EMdriyaka
+04 : 10133 : kaMqUyana, --naka : kaMqUyana : 1 : kaMqUyanaka
+04 : 10284 : kabara, --rI : kabara : 1 : kabarI
+04 : 15972 : DarRasa, --si, DarRi : DarRasa : 1 : DarRasi, DarRi
+04 : 16965 : nirDAra --raRaM : nirDAra : 1 : nirDAraRaM
+04 : 19471 : pOzkara --raka : pOzkara : 1 : pOzkaraka
+05 : 302 : aMguriH --rI : aMguriH : 1 : aMgurI
+05 : 386 : ajAjiH --jI : ajAjiH : 1 : ajAjI
+05 : 452 : awaniH --nI : awaniH : 1 : awanI
+05 : 456 : awaviH --vI : awaviH : 1 : awavI
+05 : 797 : aTariH --rI : aTariH : 1 : aTarI
+05 : 4001 : araRyAniH --nI : araRyAniH : 1 : araRyAnI
+05 : 4507 : avawiH, --wI : avawiH : 1 : avawI
+05 : 4622 : avaniH --nI : avaniH : 1 : avanI
+05 : 4634 : avaMtiH --tI : avaMtiH : 1 : avaMtI
+05 : 6912 : AvaliH, --lI : AvaliH : 1 : AvalI
+05 : 9738 : ozaDiH, --DI : ozaDiH : 1 : ozaDI
+05 : 9898 : OzaDiH, --DI : OzaDiH : 1 : OzaDI
+05 : 10037 : kawiH, --wI : kawiH : 1 : kawI
+05 : 10096 : kaRIciH, --cI : kaRIciH : 1 : kaRIcI
+05 : 10315 : kaMbiH --bI : kaMbiH : 1 : kaMbI
+05 : 10371 : karkawiH, --wI : karkawiH : 1 : karkawI
+05 : 10616 : kAkaliH, --lI : kAkaliH : 1 : kAkalI
+05 : 10647 : kAMciH, --cI : kAMciH : 1 : kAMcI
+05 : 10862 : kASiH, --SI : kASiH : 1 : kASI
+05 : 10997 : kukkuwiH, --wI : kukkuwiH : 1 : kukkuwI
+05 : 11547 : kowiH, --wI : kowiH : 1 : kowI
+05 : 11726 : kreRiH, --RI : kreRiH : 1 : kreRI
+05 : 11899 : kzipaRiH, --RI : kzipaRiH : 1 : kzipaRI
+05 : 11991 : kzORiH, --RI : kzORiH : 1 : kzORI
+05 : 12077 : KaniH, --nI : KaniH : 1 : KanI
+05 : 12124 : KaliH, --lI : KaliH : 1 : KalI
+05 : 12798 : grahaRiH, --RI : grahaRiH : 1 : grahaRI
+05 : 14549 : tAqiH --qI : tAqiH : 1 : tAqI
+05 : 14779 : tuMbiH --bI : tuMbiH : 1 : tuMbI
+05 : 14814 : tuliH --lI : tuliH : 1 : tulI
+05 : 14925 : tAraRiH, --RI : tAraRiH : 1 : tAraRI
+05 : 15034 : truwiH, --wI : truwiH : 1 : truwI
+05 : 15226 : dariH, --rI : dariH : 1 : darI
+05 : 15531 : dUziH --zI : dUziH : 1 : dUzI
+05 : 15609 : dfSiH --SI : dfSiH : 1 : dfSI
+05 : 15665 : dehaliH --lI : dehaliH : 1 : dehalI
+05 : 15825 : druRiH --RI : druRiH : 1 : druRI
+05 : 15847 : droRiH, --RI : droRiH : 1 : droRI
+05 : 15960 : DamaniH, --nI : DamaniH : 1 : DamanI
+05 : 15966 : DaraRiH, --RI : DaraRiH : 1 : DaraRI
+05 : 15990 : DarzaRiH --RI : DarzaRiH : 1 : DarzaRI
+05 : 16080 : DIlawiH --wI : DIlawiH : 1 : DIlawI
+05 : 16090 : DuniH, --nI : DuniH : 1 : DunI
+05 : 16173 : DoraRiH --RI : DoraRiH : 1 : DoraRI
+05 : 16462 : nAqiH, --qI : nAqiH : 1 : nAqI
+05 : 16532 : nAliH --lI : nAliH : 1 : nAlI
+05 : 17197 : nizkuwiH --wI : nizkuwiH : 1 : nizkuwI
+05 : 17329 : nIviH, --vI : nIviH : 1 : nIvI
+05 : 17376 : nemiH --mI : nemiH : 1 : nemI
+05 : 17608 : paMjiH, --jI : paMjiH : 1 : paMjI
+05 : 17621 : pawiH --wI : pawiH : 1 : pawI
+05 : 17722 : padaviH --vI : padaviH : 1 : padavI
+05 : 18078 : paripAwiH --wI : paripAwiH : 1 : paripAwI
+05 : 18386 : parkawiH --wI : parkawiH : 1 : parkawI
+05 : 18865 : pAliH --lI : pAliH : 1 : pAlI
+05 : 18957 : piMqiH --qI : piMqiH : 1 : piMqI
+05 : 18998 : pippaliH --lI : pippaliH : 1 : pippalI
+05 : 19074 : pucCawiH --wI : pucCawiH : 1 : pucCawI
+05 : 19349 : peSiH --SI : peSiH : 1 : peSI
+05 : 19946 : pratibaMDiH --DI : pratibaMDiH : 1 : pratibaMDI
+05 : 20720 : pravARiH --RI : pravARiH : 1 : pravARI
+05 : 20789 : praveRiH --RI : praveRiH : 1 : praveRI
+05 : 20912 : prasaraRiH --RI : prasaraRiH : 1 : prasaraRI
+05 : 21553 : baMdiH --dI : baMdiH : 1 : baMdI
+05 : 21922 : BaMgiH --gI : BaMgiH : 1 : BaMgI
+05 : 21956 : BaMqiH --qI : BaMqiH : 1 : BaMqI
+05 : 22243 : BuSuMqiH --qI : BuSuMqiH : 1 : BuSuMqI
+05 : 22286 : BfkuwiH --wI : BfkuwiH : 1 : BfkuwI
+05 : 22321 : BeriH --rI : BeriH : 1 : BerI
+05 : 22427 : BrukuwiH --wI : BrukuwiH : 1 : BrukuwI
+05 : 22502 : maMjariH --rI : maMjariH : 1 : maMjarI
+05 : 22505 : maMjiH --jI : maMjiH : 1 : maMjI
+05 : 22821 : maziH --zI : maziH : 1 : mazI
+05 : 23078 : mAlatiH --tI : mAlatiH : 1 : mAlatI
+05 : 23707 : yayiH --yI : yayiH : 1 : yayI
+05 : 23799 : yAmiH --mI : yAmiH : 1 : yAmI
+05 : 23853 : yuvatiH --tI : yuvatiH : 1 : yuvatI
+05 : 23959 : rajaniH --nI : rajaniH : 1 : rajanI
+05 : 24096 : rAjiH --jI : rAjiH : 1 : rAjI
+05 : 24540 : lahariH --rI : lahariH : 1 : laharI
+05 : 24636 : lipiH, --pI : lipiH : 1 : lipI
+05 : 24900 : vaqaBiH --BI : vaqaBiH : 1 : vaqaBI
+05 : 25145 : vartmaniH --nI : vartmaniH : 1 : vartmanI
+05 : 25197 : valaBiH --BI : valaBiH : 1 : valaBI
+05 : 25205 : valiH --lI : valiH : 1 : valI
+05 : 25241 : vallariH --rI : vallariH : 1 : vallarI
+05 : 25270 : vasatiH --tI : vasatiH : 1 : vasatI
+05 : 25442 : vApiH --pI : vApiH : 1 : vApI
+05 : 25860 : viwiH --wI : viwiH : 1 : viwI
+05 : 26110 : vipaRiH, --RI : vipaRiH : 1 : vipaRI
+05 : 26317 : viyoniH --nI : viyoniH : 1 : viyonI
+05 : 26807 : vITiH --TI : vITiH : 1 : vITI
+05 : 26918 : veRiH --RI : veRiH : 1 : veRI
+05 : 27052 : vEtaraRiH --RI : vEtaraRiH : 1 : vEtaraRI
+05 : 27475 : vratatiH, --tI : vratatiH : 1 : vratatI
+05 : 27561 : SaciH --cI : SaciH : 1 : SacI
+05 : 27711 : SalmaliH --lI : SalmaliH : 1 : SalmalI
+05 : 28082 : SuMWiH --WI : SuMWiH : 1 : SuMWI
+05 : 28424 : SroRiH --RI : SroRiH : 1 : SroRI
+05 : 29034 : sawiH --wI : sawiH : 1 : sawI
+05 : 29815 : saraRiH, --RI : saraRiH : 1 : saraRI
+05 : 30160 : sAraRiH --RI : sAraRiH : 1 : sAraRI
+05 : 30171 : sAriH --rI : sAriH : 1 : sArI
+05 : 30427 : sUciH --cI : sUciH : 1 : sUcI
+05 : 31005 : sPuwiH --wI : sPuwiH : 1 : sPuwI
+05 : 31180 : svAtiH --tI : svAtiH : 1 : svAtI
+06 : 2142 : aMduH --dUH : aMduH : 1 : aMdUH
+06 : 3214 : aBiBuH --BUH : aBiBuH : 1 : aBiBUH
+06 : 4278 : alAbuH --bUH : alAbuH : 1 : alAbUH
+06 : 10374 : karkaMDuH, --DUH : karkaMDuH : 1 : karkaMDUH
+06 : 12051 : KaquH --qUH : KaquH : 1 : KaqUH
+07 : 2246 : anvezaka, anvezin, anvezwf : anvezaka : 2 : anvezin, anvezwf
+07 : 2464 : aparimARa, aparimita, aparimeya : aparimARa : 2 : aparimita, aparimeya
+07 : 2871 : aprayuccat, aprayuta, aprayutvan : aprayuccat : 2 : aprayuta, aprayutvan
+07 : 2982 : aBastrakA, aBastrikA, aBastrAkA : aBastrakA : 2 : aBastrikA, aBastrAkA
+07 : 3719 : aByuzaH, aByUzaH, aByozaH : aByuzaH : 2 : aByUzaH, aByozaH
+07 : 3993 : arajas, araja, arajaska : arajas : 2 : araja, arajaska
+07 : 5611 : asTanvat, asTimat, asTimaya : asTanvat : 2 : asTimat, asTimaya
+07 : 5673 : ahaMtya, ahaMtra, ahanya : ahaMtya : 2 : ahaMtra, ahanya
+07 : 5958 : AcaraRIya, Acaritavya, Acarya : AcaraRIya : 2 : Acaritavya, Acarya
+07 : 7233 : Ahava, AhAva, Ahavana : Ahava : 2 : AhAva, Ahavana
+07 : 7518 : Irzya, Irzyu, Irzyaka : Irzya : 2 : Irzyu, Irzyaka
+07 : 8972 : upasara, upasarga, upasarpaRa : upasara : 2 : upasarga, upasarpaRa
+07 : 9332 : uzRa, uzRaka, uzman : uzRa : 2 : uzRaka, uzman
+07 : 9485 : fP, fP, fnP : fP : 2 : fP, fnP
+07 : 9868 : Oma, Omika, Omaka : Oma : 2 : Omika, Omaka
+07 : 9878 : OrRa, OrRaka, OrRika : OrRa : 2 : OrRaka, OrRika
+07 : 10722 : kAmayamAna, kAmayAna, kAmayitf : kAmayamAna : 2 : kAmayAna, kAmayitf
+07 : 11012 : kujJawiH, kujJawikA, kujJawI : kujJawiH : 2 : kujJawikA, kujJawI
+07 : 11176 : kuMBIrakaH, kuMBIlaH, kuMBIlakaH : kuMBIrakaH : 2 : kuMBIlaH, kuMBIlakaH
+07 : 11183 : kuraMwaH, kuraMwakaH, kuraMwikA : kuraMwaH : 2 : kuraMwakaH, kuraMwikA
+07 : 11319 : kuheqikA, kuheqI, kuhelikA : kuheqikA : 2 : kuheqI, kuhelikA
+07 : 11326 : kUjaH, kUjanaM, kUjitaM : kUjaH : 2 : kUjanaM, kUjitaM
+07 : 11771 : klamaH, klamaTaH, klamaTuH : klamaH : 2 : klamaTaH, klamaTuH
+07 : 11825 : kzatriyakA, kzatriyA, kzatriyikA : kzatriyakA : 2 : kzatriyA, kzatriyikA
+07 : 11846 : kzamAvat, kzamAnvita, kzamAyukta : kzamAvat : 2 : kzamAnvita, kzamAyukta
+07 : 12228 : gaMgAkA, gaMgakA, gaMgikA : gaMgAkA : 2 : gaMgakA, gaMgikA
+07 : 12917 : GuMwaH, GuMwakaH, GuMwikA : GuMwaH : 2 : GuMwakaH, GuMwikA
+07 : 13103 : camatkaraRaM, camatkAraH, camatkftiH : camatkaraRaM : 2 : camatkAraH, camatkftiH
+07 : 13115 : caMpakAvatI, caMpA, caMpAvatI : caMpakAvatI : 2 : caMpA, caMpAvatI
+07 : 13519 : cEtriH, cEtrikaH, cEtrin : cEtriH : 2 : cEtrikaH, cEtrin
+07 : 13583 : CardaH, CardanaM, CardiH : CardaH : 2 : CardanaM, CardiH
+07 : 13649 : CurI, CUrikA, CUrI : CurI : 2 : CUrikA, CUrI
+07 : 13773 : jaMBakA, jaMBA, jaMBikA : jaMBakA : 2 : jaMBA, jaMBikA
+07 : 13855 : jAgartiH, jAgaryA, jAgriyA : jAgartiH : 2 : jAgaryA, jAgriyA
+07 : 13955 : jittamaH, jitumaH, jitmaH : jittamaH : 2 : jitumaH, jitmaH
+07 : 14145 : JaMpAkaH, JaMpAruH, JaMpin : JaMpAkaH : 2 : JaMpAruH, JaMpin
+07 : 14146 : JaraH, JarA, JarI : JaraH : 2 : JarA, JarI
+07 : 14176 : JirikA, JirI, JirIkA : JirikA : 2 : JirI, JirIkA
+07 : 14603 : tAraRa, tArita, tArika : tAraRa : 2 : tArita, tArika
+07 : 14663 : tiMduH, tiMdukaH, tiMdulaH : tiMduH : 2 : tiMdukaH, tiMdulaH
+07 : 14729 : tukKAraH, tuKAraH, tuzAraH : tukKAraH : 2 : tuKAraH, tuzAraH
+07 : 14921 : taritraM, taritrI, tariRI : taritraM : 2 : taritrI, tariRI
+07 : 15164 : datta, dataka, datrima : datta : 2 : dataka, datrima
+07 : 15239 : darpaH, darpaRa, darpita : darpaH : 2 : darpaRa, darpita
+07 : 15248 : darSa, darSaka, darSana : darSa : 2 : darSaka, darSana
+07 : 15568 : dUzaka, dUzaRa, dUzya : dUzaka : 2 : dUzaRa, dUzya
+07 : 15700 : doza, dozika, dozin : doza : 2 : dozika, dozin
+07 : 15706 : doha, dohana, dohya : doha : 2 : dohana, dohya
+07 : 15861 : dvAja, dvAtriMSat, dvAdaSa : dvAja : 2 : dvAtriMSat, dvAdaSa
+07 : 15962 : DammalaH, DammilaH, DammillaH : DammalaH : 2 : DammilaH, DammillaH
+07 : 16182 : DOrtakaM, DOrtikaM, DOrtyaM : DOrtakaM : 2 : DOrtikaM, DOrtyaM
+07 : 16192 : DyAta, DyAna, DyAnika : DyAta : 2 : DyAna, DyAnika
+07 : 16517 : nArakika, nArakin, nArakIya : nArakika : 2 : nArakin, nArakIya
+07 : 16932 : nirRayaH, nirRIta, nirRetf : nirRayaH : 2 : nirRIta, nirRetf
+07 : 17155 : niSrayaRI, niSreRi, niSreRI : niSrayaRI : 2 : niSreRi, niSreRI
+07 : 17276 : nisvanaH, nisvAnaH, nisvanitaM : nisvanaH : 2 : nisvAnaH, nisvanitaM
+07 : 17357 : nfpa, nfpati, nfpAla : nfpa : 2 : nfpati, nfpAla
+07 : 17535 : pakti, paktf, pakva : pakti : 2 : paktf, pakva
+07 : 18188 : parirakzitin, parirakzitf, parirakzin : parirakzitin : 2 : parirakzitf, parirakzin
+07 : 18286 : parizadaH, parizadyaH, parizadvalaH : parizadaH : 2 : parizadyaH, parizadvalaH
+07 : 18677 : pAdAtiH, pAdAtikaH, pAdAvikaH : pAdAtiH : 2 : pAdAtikaH, pAdAvikaH
+07 : 18991 : pipAsita, pipAsin, pipAsu : pipAsita : 2 : pipAsin, pipAsu
+07 : 19058 : pIva, pIvara, pIvasa : pIva : 2 : pIvara, pIvasa
+07 : 19108 : putriya, putrIya, putrya : putriya : 2 : putrIya, putrya
+07 : 19251 : pUrRimA, pUrRimAsI, pUrRamA : pUrRimA : 2 : pUrRimAsI, pUrRamA
+07 : 19998 : pratiyoDaH, pratiyoDin, pratiyodDf : pratiyoDaH : 2 : pratiyoDin, pratiyodDf
+07 : 20051 : pratiSyA, pratiSyAnaM, pratiSyAyaH : pratiSyA : 2 : pratiSyAnaM, pratiSyAyaH
+07 : 20149 : pratIveSa, pratIhAra, pratIhAsa : pratIveSa : 2 : pratIhAra, pratIhAsa
+07 : 21126 : prAtiveSikaH, prAtiveSmakaH, prAtiveSyakaH : prAtiveSikaH : 2 : prAtiveSmakaH, prAtiveSyakaH
+07 : 21286 : priyaMkara, priyaMkaraRa, priyaMkAra : priyaMkara : 2 : priyaMkaraRa, priyaMkAra
+07 : 21329 : preta, preti, pretya : preta : 2 : preti, pretya
+07 : 21714 : bAlukI, bAluMkI, bAluMgI : bAlukI : 2 : bAluMkI, bAluMgI
+07 : 21718 : bAlhakAH, bAlhikAH, bAlhIkAH : bAlhakAH : 2 : bAlhikAH, bAlhIkAH
+07 : 21951 : BaRanaM, BaRitaM, BaRitiH : BaRanaM : 2 : BaRitaM, BaRitiH
+07 : 22181 : BidiH, BidiraM, BiduH : BidiH : 2 : BidiraM, BiduH
+07 : 22881 : mahIlA, mahelA, mahelikA : mahIlA : 2 : mahelA, mahelikA
+07 : 22938 : mAtulA, mAtulAnI, mAtulI : mAtulA : 2 : mAtulAnI, mAtulI
+07 : 23383 : mUzI, mUzIkaH, mUzIkA : mUzI : 2 : mUzIkaH, mUzIkA
+07 : 23404 : mfqA, mfqAnI, mfqI : mfqA : 2 : mfqAnI, mfqI
+07 : 24406 : laguqaH, laguraH, lagulaH : laguqaH : 2 : laguraH, lagulaH
+07 : 25317 : vahitraM, vAhitrakaM, vahinI : vahitraM : 2 : vAhitrakaM, vahinI
+07 : 25376 : vAwyA, vAwyAlaH, vAwyAlI : vAwyA : 2 : vAwyAlaH, vAwyAlI
+07 : 25500 : vArdDuziH, vArdDuzikaH, vArdDuzin : vArdDuziH : 2 : vArdDuzikaH, vArdDuzin
+07 : 26432 : vilepikA, vilepI, vilepyaH : vilepikA : 2 : vilepI, vilepyaH
+07 : 26551 : viSezatas, viSezeRa, viSezAt : viSezatas : 2 : viSezeRa, viSezAt
+07 : 26756 : vihasanaM, vihasitaM, vihAsaH : vihasanaM : 2 : vihasitaM, vihAsaH
+07 : 27059 : vEdagDaM, vEdagDI, vEdagDyaM : vEdagDaM : 2 : vEdagDI, vEdagDyaM
+07 : 27099 : vEmAtrA, vEmAtrI, vEmAtreyI : vEmAtrA : 2 : vEmAtrI, vEmAtreyI
+07 : 27124 : vErocanaH, vErocaniH, vErociH : vErocanaH : 2 : vErocaniH, vErociH
+07 : 27636 : SaMbuH, SaMbukaH, SaMbukkaH : SaMbuH : 2 : SaMbukaH, SaMbukkaH
+07 : 28337 : SyAlakI, SyAlikA, SyAlI : SyAlakI : 2 : SyAlikA, SyAlI
+07 : 28689 : saMSayAna, saMSayAlu, saMSayitf : saMSayAna : 2 : saMSayAlu, saMSayitf
+07 : 28774 : saMsPewaH, saMsPowaH, saMsPowiH : saMsPewaH : 2 : saMsPowaH, saMsPowiH
+07 : 29602 : samUraH, samUruH, samUrakaH : samUraH : 2 : samUruH, samUrakaH
+07 : 29800 : samyac, samyaMc, samIcI : samyac : 2 : samyaMc, samIcI
+07 : 29852 : sarjiH, sarjikA, sarjI : sarjiH : 2 : sarjikA, sarjI
+07 : 30022 : sAtInaH, sAtInakaH, sAtIlakaH : sAtInaH : 2 : sAtInakaH, sAtIlakaH
+07 : 30065 : sAnikA, sAnoyikA, sAneyI : sAnikA : 2 : sAnoyikA, sAneyI
+07 : 31213 : svIkaraRaM, svIkAraH, svIkftiH : svIkaraRaM : 2 : svIkAraH, svIkftiH
+07 : 31495 : hfdayAlu, hfdayika, hfdayin : hfdayAlu : 2 : hfdayika, hfdayin
+07 : 31537 : hezaH, hezA, hezitaM : hezaH : 2 : hezA, hezitaM
+08 : 12886 : GarGarA, --rI : GarGarA : 1 : GarGarI
+08 : 13042 : caMqA, --qI : caMqA : 1 : caMqI
+08 : 13310 : cikkaRA, --RI : cikkaRA : 1 : cikkaRI
+08 : 14159 : JallarA --rI : JallarA : 1 : JallarI
+08 : 19908 : pratipadA --dI : pratipadA : 1 : pratipadI
+08 : 23308 : muzA --zI : muzA : 1 : muzI
+08 : 26300 : viMbA --bI : viMbA : 1 : viMbI
+08 : 27694 : SarvalA --lI : SarvalA : 1 : SarvalI
+08 : 29875 : sarvalA, --lI : sarvalA : 1 : sarvalI
+08 : 30316 : siMbA --bI : siMbA : 1 : siMbI
+09 : 2583 : apasAraRaM --RA : apasAraRaM : 1 : apasAraRA
+09 : 3592 : aByarTanaM --nA : aByarTanaM : 1 : aByarTanA
+09 : 3800 : amAnanaM, --nA : amAnanaM : 1 : amAnanA
+09 : 4691 : avamAnanaM, --nA : avamAnanaM : 1 : avamAnanA
+09 : 4943 : avahelanaM --nA : avahelanaM : 1 : avahelanA
+09 : 5819 : AkzAraRaM, --RA : AkzAraRaM : 1 : AkzAraRA
+09 : 5923 : AGozaRaM --RA : AGozaRaM : 1 : AGozaRA
+09 : 6550 : AmaMtraRaM --RA : AmaMtraRaM : 1 : AmaMtraRA
+09 : 6891 : AlocanaM, --nA : AlocanaM : 1 : AlocanA
+09 : 7416 : irgalaM, --lA : irgalaM : 1 : irgalA
+09 : 7846 : uttejanaM, --nA : uttejanaM : 1 : uttejanA
+09 : 8136 : udGawwanaM, --nA : udGawwanaM : 1 : udGawwanA
+09 : 8454 : upakalpanaM, --nA : upakalpanaM : 1 : upakalpanA
+09 : 9113 : upArjanaM, --nA : upArjanaM : 1 : upArjanA
+09 : 9131 : upAsanaM, --nA : upAsanaM : 1 : upAsanA
+09 : 11861 : kzAraRaM, --RA : kzAraRaM : 1 : kzAraRA
+09 : 12360 : garjanaM, --nA : garjanaM : 1 : garjanA
+09 : 12386 : garhaRaM, --RA : garhaRaM : 1 : garhaRA
+09 : 12777 : graMTanaM, --nA : graMTanaM : 1 : graMTanA
+09 : 12852 : GawanaM, --nA : GawanaM : 1 : GawanA
+09 : 12936 : GozaRaM, --RA : GozaRaM : 1 : GozaRA
+09 : 12944 : GUrRanaM, --nA : GUrRanaM : 1 : GUrRanA
+09 : 13168 : carvaRaM, --RA : carvaRaM : 1 : carvaRA
+09 : 13350 : ciMtanaM, --nA : ciMtanaM : 1 : ciMtanA
+09 : 13589 : CalanaM, --nA : CalanaM : 1 : CalanA
+09 : 14018 : jozaRaM, --RA : jozaRaM : 1 : jozaRA
+09 : 14140 : JaRaJaRaM, --RA : JaRaJaRaM : 1 : JaRaJaRA
+09 : 14488 : tarjanaM --nA : tarjanaM : 1 : tarjanA
+09 : 15989 : DarzaRaM, --RA : DarzaRaM : 1 : DarzaRA
+09 : 16831 : niyaMtraRaM --RA : niyaMtraRaM : 1 : niyaMtraRA
+09 : 16900 : nirUpaRaM --RA : nirUpaRaM : 1 : nirUpaRA
+09 : 16981 : nirBartsanaM --nA : nirBartsanaM : 1 : nirBartsanA
+09 : 17318 : nIrAjanaM, --nA : nIrAjanaM : 1 : nIrAjanA
+09 : 17876 : parikalpanaM --nA : parikalpanaM : 1 : parikalpanA
+09 : 17913 : parigaRanaM --nA : parigaRanaM : 1 : parigaRanA
+09 : 18445 : paryAlocanaM --nA : paryAlocanaM : 1 : paryAlocanA
+09 : 18463 : paryezaRaM --RA : paryezaRaM : 1 : paryezaRA
+09 : 19674 : pracCanaM --nA : pracCanaM : 1 : pracCanA
+09 : 20367 : praDarzaRaM --RA : praDarzaRaM : 1 : praDarzaRA
+09 : 20938 : prastaraRaM --RA : prastaraRaM : 1 : prastaraRA
+09 : 21214 : prArTanaM --nA : prArTanaM : 1 : prArTanA
+09 : 21340 : preraRaM, --RA : preraRaM : 1 : preraRA
+09 : 21346 : prezaRaM, --RA : prezaRaM : 1 : prezaRA
+09 : 21391 : prodGozaRaM, --RA : prodGozaRaM : 1 : prodGozaRA
+09 : 22658 : maMtraRaM --RA : maMtraRaM : 1 : maMtraRA
+09 : 22985 : mAnanaM --nA : mAnanaM : 1 : mAnanA
+09 : 23011 : mApanaM --nA : mApanaM : 1 : mApanA
+09 : 23688 : yaMtraRaM --RA : yaMtraRaM : 1 : yaMtraRA
+09 : 23743 : yAcanaM --nA : yAcanaM : 1 : yAcanA
+09 : 23951 : racanaM --nA : racanaM : 1 : racanA
+09 : 24279 : recanaM, --nA : recanaM : 1 : recanA
+09 : 24882 : vaMcanaM --nA : vaMcanaM : 1 : vaMcanA
+09 : 25117 : varRanaM --nA : varRanaM : 1 : varRanA
+09 : 25721 : vigarhaRaM, --RA : vigarhaRaM : 1 : vigarhaRA
+09 : 25744 : viGawwanaM --nA : viGawwanaM : 1 : viGawwanA
+09 : 25846 : vijYApanaM --nA : vijYApanaM : 1 : vijYApanA
+09 : 25869 : viqaMbanaM --nA : viqaMbanaM : 1 : viqaMbanA
+09 : 26233 : viBAvanaM --nA : viBAvanaM : 1 : viBAvanA
+09 : 26287 : vimardanaM, --nA : vimardanaM : 1 : vimardanA
+09 : 26293 : vimokzaRaM --RA : vimokzaRaM : 1 : vimokzaRA
+09 : 26319 : viracanaM --nA : viracanaM : 1 : viracanA
+09 : 26514 : vivecanaM --nA : vivecanaM : 1 : vivecanA
+09 : 26686 : visUraRaM --RA : visUraRaM : 1 : visUraRA
+09 : 26785 : vIkzaRaM --RA : vIkzaRaM : 1 : vIkzaRA
+09 : 28126 : SuSrUzaRaM, --RA : SuSrUzaRaM : 1 : SuSrUzaRA
+09 : 28358 : SrapaRaM --RA : SrapaRaM : 1 : SrapaRA
+09 : 28631 : saMvAhanaM, --nA : saMvAhanaM : 1 : saMvAhanA
+09 : 28644 : saMvedanaM --nA : saMvedanaM : 1 : saMvedanA
+09 : 28708 : saMSlezaRaM --RA : saMSlezaRaM : 1 : saMSlezaRA
+09 : 28850 : saMkalanaM --nA : saMkalanaM : 1 : saMkalanA
+09 : 28872 : saMkIrtanaM --nA : saMkIrtanaM : 1 : saMkIrtanA
+09 : 28941 : saMGawwanaM --nA : saMGawwanaM : 1 : saMGawwanA
+09 : 29208 : saMDAraRaM --RA : saMDAraRaM : 1 : saMDAraRA
+09 : 29335 : samarTanaM --nA : samarTanaM : 1 : samarTanA
+09 : 29668 : saMpraDAraRaM --RA : saMpraDAraRaM : 1 : saMpraDAraRA
+09 : 29748 : saMBAvanaM --nA : saMBAvanaM : 1 : saMBAvanA
+09 : 30425 : sUcanaM --nA : sUcanaM : 1 : sUcanA
+09 : 31401 : hiMsanaM --nA : hiMsanaM : 1 : hiMsanA
+09 : 31529 : helanaM --nA : helanaM : 1 : helanA
+98 : 34 : akaqamaM, akaTahaM, °cakraM : akaqamaM : 3 : akaTahaM, akaqamacakraM, akaTahacakraM
+98 : 53 : akalkana --ka : akalkana : 1 : akalkaka
+98 : 58 : akava --vA : akava : 1 : akavA
+98 : 150 : akzIva--(ba) : akzIva : 1 : akzIba
+98 : 217 : agnimat, --vat : agnimat : 1 : agnivat
+98 : 234 : agruH --grUH : agruH : 1 : agrUH
+98 : 280 : aMganaM --RaM : aMganaM : 1 : aMgaRaM
+98 : 300 : aMgIkAraH --kftiH --karaRaM : aMgIkAraH : 2 : aMgIkftiH, aMgIkaraRaM
+98 : 304 : aMguliH --lI --riH --rI : aMguliH : 3 : aMgulI, aMguriH, aMgurI
+98 : 306 : aMgulI(rI)yaM-kaM, --yakaM : aMgulIyaM : 5 : aMguIkaM, aMgurIyaM, aMgurIkaM, aMgulIyakaM, aMgurIyakaM
+98 : 327 : aciMtya --tanIya : aciMtya : 1 : aciMtanIya
+98 : 331 : acizRu --zwu : acizRu : 1 : acizwu
+98 : 339 : acCa --cCA : acCa : 1 : acCA
+98 : 346 : acCedika, --acCEdika : acCedika : 1 : acCEdika
+98 : 357 : ajakA, --ajikA : ajakA : 1 : ajikA
+98 : 378 : ajarat, --rayu, --ras : ajarat : 2 : ajarayu, ajaras
+98 : 445 : aMjizWaH --zRuH : aMjizWaH : 1 : aMjizRuH
+98 : 455 : awaru --rU --zaH : awaru : 3 : awarU, awaruzaH, awarUzaH
+98 : 464 : awwAlaH --lakaH : awwAlaH : 1 : awwAlakaH
+98 : 498 : ataMdra --drita --n --la : ataMdra : 3 : ataMdrita, ataMdrin, ataMdrila
+98 : 500 : atapas --ska : atapas : 1 : atapaska
+98 : 535 : atigahana, --gavhara : atigahana : 1 : atigavhara
+98 : 551 : aticCatraH --trA,--cCatrakA : aticCatraH : 2 : aticCatrA, aticCatrakA
+98 : 552 : aticCaMdaH --das : aticCaMdaH : 1 : aticCaMdas
+98 : 560 : atitarAM, --atitamAM : atitarAM : 1 : atitamAM
+98 : 561 : atitIvra --tIkzRa : atitIvra : 1 : atitIkzRa
+98 : 584 : atinO --nu : atinO : 1 : atinu
+98 : 607 : atiprasaMgaH, --prasaktiH : atiprasaMgaH : 1 : atiprasaktiH
+98 : 623 : atimartya --mAnuza : atimartya : 1 : atimAnuza
+98 : 655 : ati-lo-romaSa : atiromaSa : 1 : atilomaSa
+98 : 686 : ativyaTanaM --TA : ativyaTanaM : 1 : ativyaTA
+98 : 779 : atyuktA --kTA : atyuktA : 1 : atyukTA
+98 : 791 : atrasta, atrAsa, --trasnu : atrasta : 2 : atrAsa, atrasnu
+98 : 799 : aTarya --ryu : aTarya : 1 : aTaryu
+98 : 811 : ad --da : ad : 1 : ada
+98 : 814 : adakziRIya --dakziRya : adakziRIya : 1 : adakziRya
+98 : 824 : adabDa, --daMBa : adabDa : 1 : adaMBa
+98 : 861 : adevayat --yu : adevayat : 1 : adevayu
+98 : 868 : adomada --Da : adomada : 1 : adomaDa
+98 : 888 : adruh, --druhvan : adruh : 1 : adruhvan
+98 : 893 : advayat, --advayas : advayat : 1 : advayas
+98 : 911 : aDarasmAt, --rataH, --stAt, --rAt, --tAt, --reRa : aDarasmAt : 5 : aDarataH, aDarastAt, aDarAt, aDaratAt, aDareRa
+98 : 913 : aDarAcIna-cya : aDarAcIna : 1 : aDarAcya
+98 : 941 : aDikramaH, --kramaRaM : aDikramaH : 1 : aDikramaRaM
+98 : 947 : aDigamaH --manaM : aDigamaH : 1 : aDigamanaM
+98 : 948 : aDigamya, --gamanIya, --gaMtavya : aDigamya : 2 : aDigamanIya, aDigaMtavya
+98 : 963 : aDidevaH --vatA : aDidevaH : 1 : aDidevatA
+98 : 965 : aDidEvaM --dEvataM : aDidEvaM : 1 : aDidEvataM
+98 : 999 : aDirAjyaM --zwraM : aDirAjyaM : 1 : aDirAzwraM
+98 : 1032 : aDiSrayaRaM --paRaM : aDiSrayaRaM : 1 : aDiSrapaRaM
+98 : 1073 : aDo'kza, aDoMSuka, aDo'kzaja : aDokza : 2 : aDoMSuka, aDokzaja
+98 : 1100 : aDyApaka --panaM, aDyAya : aDyApaka : 2 : aDyApanaM, aDyAya
+98 : 1111 : aDyAhAraH --haraRaM : aDyAhAraH : 1 : aDyAharaRaM
+98 : 1150 : anaMguri --li : anaMguri : 1 : anaMguli
+98 : 1188 : anapakaraRaM --karman, --kriyA : anapakaraRaM : 2 : anapakarman, anapakriyA
+98 : 1202 : anapasPur --ra --rat : anapasPur : 2 : anapasPura, anapasPurat
+98 : 1206 : anapekza --kzin : anapekza : 1 : anapekzin
+98 : 1210 : anapsaras --rA : anapsaras : 1 : anapsarA
+98 : 1216 : anaBiSasta, --sti, --stya : anaBiSasta : 2 : anaBiSasti, anaBiSastya
+98 : 1220 : anaByASa, --sa : anaByASa : 1 : anaByAsa
+98 : 1234 : anarGatvaM --tA : anarGatvaM : 1 : anarGatA
+98 : 1277 : anavekza-kzA : anavekza : 1 : anavekzA
+98 : 1288 : anasTa --sTika : anasTa : 1 : anasTika
+98 : 1332 : anADfzwa --zya : anADfzwa : 1 : anADfzya
+98 : 1412 : anicCa, --cCaka, --cCu, --cCuka, --cCat : anicCa : 4 : anicCaka, anicCu, anicCuka, anicCat
+98 : 1431 : animizaM --zA --mezaM : animizaM : 2 : animizA, animezaM
+98 : 1456 : anirvftiH --ttiH : anirvftiH : 1 : anirvfttiH
+98 : 1510 : anukaraRaM, --kftiH : anukaraRaM : 1 : anukftiH
+98 : 1515 : anukArya, --karaRIya, --kartavya : anukArya : 2 : anukaraRIya, anukartavya
+98 : 1519 : anukarzaH --rzaRaM : anukarzaH : 1 : anukarzaRaM
+98 : 1543 : anugamaH --manaM : anugamaH : 1 : anugamanaM
+98 : 1561 : anugrahaH, --haRaM : anugrahaH : 1 : anugrahaRaM
+98 : 1573 : anuciMtA, --ciMtanaM : anuciMtA : 1 : anuciMtanaM
+98 : 1584 : anujYA, --jYAnaM : anujYA : 1 : anujYAnaM
+98 : 1587 : anujYApanaM, --jYAptiH : anujYApanaM : 1 : anujYAptiH
+98 : 1626 : anudinaM --divasaM : anudinaM : 1 : anudivasaM
+98 : 1657 : anunaya, --nAyikA : anunaya : 1 : anunAyikA
+98 : 1669 : anunmAda, --anunmatta : anunmAda : 1 : anunmatta
+98 : 1696 : anupameya --mita : anupameya : 1 : anupamita
+98 : 1733 : anupUrvaSaH, --pUrveRa : anupUrvaSaH : 1 : anupUrveRa
+98 : 1741 : anuprapAtaM --daM : anuprapAtaM : 1 : anuprapAdaM
+98 : 1772 : anubrAhmaRin, --ka : anubrAhmaRin : 1 : anubrAhmaRika
+98 : 1773 : anuBava --BAva : anuBava : 1 : anuBAva
+98 : 1821 : anuyAtraM --trA : anuyAtraM : 1 : anuyAtrA
+98 : 1846 : anurasaH, --rasitaM : anurasaH : 1 : anurasitaM
+98 : 1855 : anuroDaH --DanaM : anuroDaH : 1 : anuroDanaM
+98 : 1856 : anuroDin, --Daka : anuroDin : 1 : anuroDaka
+98 : 1858 : anurUpataH --peRa, --paSaH : anurUpataH : 2 : anurUpeRa, anurUpaSaH
+98 : 1861 : anulAsaH, --syaH : anulAsaH : 1 : anulAsyaH
+98 : 1863 : anulepaH --lepanaM : anulepaH : 1 : anulepanaM
+98 : 1864 : anulepaka, --lepin : anulepaka : 1 : anulepin
+98 : 1885 : anuvAdaka, --vAdin : anuvAdaka : 1 : anuvAdin
+98 : 1887 : anuvartana, --vartin : anuvartana : 1 : anuvartin
+98 : 1896 : anuvAsaH --sanaM : anuvAsaH : 1 : anuvAsanaM
+98 : 1907 : anuveSaH --SanaM : anuveSaH : 1 : anuveSanaM
+98 : 1924 : anuveDaH, --vyADaH : anuveDaH : 1 : anuvyADaH
+98 : 1927 : anuvyAharaRaM, --vyAhAraH : anuvyAharaRaM : 1 : anuvyAhAraH
+98 : 1930 : anuvrajanaM, --vrajyA : anuvrajanaM : 1 : anuvrajyA
+98 : 1934 : anuSaya, --Sayin : anuSaya : 1 : anuSayin
+98 : 1938 : anuSAsaka, --SAsin, --SAstf, --SAsitf : anuSAsaka : 3 : anuSAsin, anuSAstf, anuSAsitf
+98 : 1951 : anuSokaH, --SocanaM : anuSokaH : 1 : anuSocanaM
+98 : 1952 : anuSocaka --Socin : anuSocaka : 1 : anuSocin
+98 : 1957 : anuzak --w : anuzak : 1 : anuzaw
+98 : 1963 : anuzekaH --secanaM : anuzekaH : 1 : anusecanaM
+98 : 1969 : anuzWAtf, --zWAyin : anuzWAtf : 1 : anuzWAyin
+98 : 1975 : anuzWiH --zWuH : anuzWiH : 1 : anuzWuH
+98 : 1976 : anuzWeya, --zWAtavya : anuzWeya : 1 : anuzWAtavya
+98 : 1987 : anusaMDAnin, --saMDAyin : anusaMDAnin : 1 : anusaMDAyin
+98 : 2004 : anusAraka, --sArin : anusAraka : 1 : anusArin
+98 : 2030 : anuharaRaM, --hAraH : anuharaRaM : 1 : anuhAraH
+98 : 2047 : anUyAja, anUrADa : anUyAja : 1 : anUrADa
+98 : 2056 : anfc-ca : anfc : 1 : anfca
+98 : 2059 : anfRatA, --AnfRyaM : anfRatA : 1 : AnfRyaM
+98 : 2062 : anftaka, --anftin : anftaka : 1 : anftin
+98 : 2111 : aMtarayaH --rAyaH : aMtarayaH : 1 : aMtarAyaH
+98 : 2113 : aMtari --rI --kzaM : aMtari : 3 : aMtarI, aMtarikzaM, aMtarIkzaM
+98 : 2114 : aMtari --rI --kzya : aMtari : 2 : aMtarI, aMtarikzya
+98 : 2116 : aMtare, --reRa : aMtare : 1 : aMtareRa
+98 : 2149 : aMDaMBavizRu, --BAvuka : aMDaMBavizRu : 1 : aMDaMBAvuka
+98 : 2176 : anyAdfkz --S --Sa : anyAdfkz : 2 : anyAdfS, anyAdfSa
+98 : 2217 : anvADeyaM --yakaM : anvADeyaM : 1 : anvADeyakaM
+98 : 2227 : anvAraMBaH, --BaRaM : anvAraMBaH : 1 : anvAraMBaRaM
+98 : 2245 : anvezaH, --zaRaM --RA : anvezaH : 2 : anvezaRaM, anvezaRA
+98 : 2248 : anvIkzaRaM, --kzA : anvIkzaRaM : 1 : anvIkzA
+98 : 2278 : apakramaRaM, --krAmaH : apakramaRaM : 1 : apakrAmaH
+98 : 2286 : apakzepaH, --kzepaRaM : apakzepaH : 1 : apakzepaRaM
+98 : 2291 : apagamaH, --manaM : apagamaH : 1 : apagamanaM
+98 : 2299 : apagAraM --goraM : apagAraM : 1 : apagoraM
+98 : 2320 : apacCedaH --danaM : apacCedaH : 1 : apacCedanaM
+98 : 2354 : apad --pAd : apad : 1 : apAd
+98 : 2360 : apadAnaM --dAnakaM : apadAnaM : 1 : apadAnakaM
+98 : 2445 : aparAjizRu --parAjeya : aparAjizRu : 1 : aparAjeya
+98 : 2454 : aparicayin, --pariceya : aparicayin : 1 : apariceya
+98 : 2499 : apalAzin, --lAzuka : apalAzin : 1 : apalAzuka
+98 : 2506 : apavAdaka, --apavAdin : apavAdaka : 1 : apavAdin
+98 : 2508 : apavaraka, --vAraka : apavaraka : 1 : apavAraka
+98 : 2512 : apavAhaH, --hanaM : apavAhaH : 1 : apavAhanaM
+98 : 2523 : apavarakaH --kA : apavarakaH : 1 : apavarakA
+98 : 2545 : apavyayin --vyayamAna : apavyayin : 1 : apavyayamAna
+98 : 2553 : apaSiras --SIrza, --rzan : apaSiras : 2 : apaSIrza, apaSIrzan
+98 : 2564 : apazWura --la : apazWura : 1 : apazWula
+98 : 2572 : apasara-sarpa : apasara : 1 : apasarpa
+98 : 2576 : apasavya, --savyaka : apasavya : 1 : apasavyaka
+98 : 2586 : apasarpaH, --rpakaH : apasarpaH : 1 : apasarpakaH
+98 : 2601 : apasmAraH, --smftiH : apasmAraH : 1 : apasmftiH
+98 : 2604 : apasya, --syu : apasya : 1 : apasyu
+98 : 2612 : apahasitaM, --hAsaH : apahasitaM : 1 : apahAsaH
+98 : 2624 : apahAraka, --hArin : apahAraka : 1 : apahArin
+98 : 2639 : apAMkta, --pAMkteya, --pAMktya : apAMkta : 2 : apAMkteya, apAMktya
+98 : 2657 : apAMpitta °napAt : apAMpitta : 1 : apAMnapAt
+98 : 2671 : apAvartanaM, --vfttiH : apAvartanaM : 1 : apAvfttiH
+98 : 2699 : apiDAnaM, --piDAnaM : apiDAnaM : 1 : piDAnaM
+98 : 2701 : apihita --pihita : apihita : 1 : pihita
+98 : 2750 : apekzA --kzaRaM : apekzA : 1 : apekzaRaM
+98 : 2751 : apekzya, --kzitavya, --kzaRIya : apekzya : 2 : apekzitavya, apekzaRIya
+98 : 2764 : apOruza --pOruzeya : apOruza : 1 : apOruzeya
+98 : 2769 : aptu --ptUryaM : aptu : 1 : aptUryaM
+98 : 2770 : aptoryAmaH, --man : aptoryAmaH : 1 : aptoryAman
+98 : 2869 : aprayApaRi --niH : aprayApaRi : 1 : aprayApaRiH
+98 : 2916 : apsaH --psA : apsaH : 1 : apsA
+98 : 2926 : abadDa --dDaka : abadDa : 1 : abadDaka
+98 : 2931 : abaMDu, --bAMDava : abaMDu : 1 : abAMDava
+98 : 2942 : abuD --buDa : abuD : 1 : abuDa
+98 : 2945 : aboDya, --boDanIya : aboDya : 1 : aboDanIya
+98 : 2956 : abdevatAka, --dEvata : abdevatAka : 1 : abdEvata
+98 : 2970 : aBakzaH, --BakzaRaM : aBakzaH : 1 : aBakzaRaM
+98 : 2977 : aBayaMkara --kft : aBayaMkara : 1 : aBayaMkft
+98 : 3010 : aBikramaRaM, --krAMtiH : aBikramaRaM : 1 : aBikrAMtiH
+98 : 3026 : aBigamaH, --gamanaM : aBigamaH : 1 : aBigamanaM
+98 : 3043 : aBigezRa --zRu : aBigezRa : 1 : aBigezRu
+98 : 3048 : aBiGAta, --GAtaka, --takin : aBiGAta : 2 : aBiGAtaka, aBiGAtakin
+98 : 3062 : aBicAraka, --cArin : aBicAraka : 1 : aBicArin
+98 : 3102 : aBidravaH, --vaRaM : aBidravaH : 1 : aBidravaRaM
+98 : 3127 : aBinaMdanIya --naMdya : aBinaMdanIya : 1 : aBinaMdya
+98 : 3129 : aBinaBaH, --naByaM : aBinaBaH : 1 : aBinaByaM
+98 : 3160 : aBineya, --netavya : aBineya : 1 : aBinetavya
+98 : 3192 : aBiprAp, --ptiH : aBiprAp : 1 : aBiprAptiH
+98 : 3213 : aBiBAvin, --BAva(vu)ka : aBiBAvin : 2 : aBiBAvaka, aBiBAvuka
+98 : 3243 : aBimuKIkf, --muKayati : aBimuKIkf : 1 : aBimuKayati
+98 : 3250 : aBimarSaH, --rSanaM, --marzaH, --rzaRaM : aBimarSaH : 3 : aBimarSanaM, aBimarzaH, aBimarzaRaM
+98 : 3251 : aBimarSaka --rzaMka, --marSin --rzin : aBimarSaka : 3 : aBimarzaMka, aBimarSin, aBimarzin
+98 : 3254 : aBimlAta --na : aBimlAta : 1 : aBimlAna
+98 : 3258 : aBiyAtf, --yAtin : aBiyAtf : 1 : aBiyAtin
+98 : 3259 : aBiyAtiH, --yAyin --tf : aBiyAtiH : 2 : aBiyAyin, aBiyAtf
+98 : 3262 : aBiyAcanaM, --yAYcA : aBiyAcanaM : 1 : aBiyAYcA
+98 : 3273 : aBirakzA, --rakzaRaM : aBirakzA : 1 : aBirakzaRaM
+98 : 3305 : aBilAzaka, --lAzi(si)n, --lAzuka : aBilAzaka : 3 : aBilAzin, aBilAsin, aBilAzuka
+98 : 3314 : aBivAdaH, --vAdanaM : aBivAdaH : 1 : aBivAdanaM
+98 : 3318 : aBivAdya--, vAdanIya : aBivAdya : 1 : aBivAdanIya
+98 : 3322 : aBivAsaH, --sanaM : aBivAsaH : 1 : aBivAsanaM
+98 : 3355 : aBivyApaka--, vyApin : aBivyApaka : 1 : aBivyApin
+98 : 3359 : aBivyAharaRaM, --vyAhAraH : aBivyAharaRaM : 1 : aBivyAhAraH
+98 : 3363 : aBiSaMsaka, --SaMsin : aBiSaMsaka : 1 : aBiSaMsin
+98 : 3372 : aBiSapanaM --SApaH : aBiSapanaM : 1 : aBiSApaH
+98 : 3379 : aBiSIta, --SyAta : aBiSIta : 1 : aBiSyAta
+98 : 3380 : aBiSIna, --SyAna : aBiSIna : 1 : aBiSyAna
+98 : 3388 : aBiSriz --Sliz : aBiSriz : 1 : aBiSliz
+98 : 3404 : aBizecanIya, --zecya, --kya : aBizecanIya : 2 : aBizecya, aBizekya
+98 : 3409 : aBizAvakaH, --zotf : aBizAvakaH : 1 : aBizotf
+98 : 3441 : aBisaMDaH, --DakaH : aBisaMDaH : 1 : aBisaMDakaH
+98 : 3458 : aBisara, --sarga, --sarjana : aBisara : 2 : aBisarga, aBisarjana
+98 : 3461 : aBisAM(SAM)tvaH, --tvanaM : aBisAMtvaH : 2 : aBiSAMtvaH, aBisAMtvanaM
+98 : 3503 : aBihvara, --hvAra : aBihvara : 1 : aBihvAra
+98 : 3528 : aBIlu --luka : aBIlu : 1 : aBIluka
+98 : 3535 : aBISuH --zuH : aBISuH : 1 : aBIzuH
+98 : 3552 : aBfta, --aBftrima : aBfta : 1 : aBftrima
+98 : 3556 : aBoktf, --Bogin : aBoktf : 1 : aBogin
+98 : 3574 : aByanujYA, --jYAnaM : aByanujYA : 1 : aByanujYAnaM
+98 : 3585 : aByamitrIRaH, --yaH, --mitryaH : aByamitrIRaH : 2 : aByamitrIyaH, aByamitryaH
+98 : 3588 : aByarcanaM, --rcA : aByarcanaM : 1 : aByarcA
+98 : 3593 : aByarTanIya, --rTya : aByarTanIya : 1 : aByarTya
+98 : 3606 : aByavaskaMdaH --danaM : aByavaskaMdaH : 1 : aByavaskaMdanaM
+98 : 3655 : aByAmardaH, --mardanaM : aByAmardaH : 1 : aByAmardanaM
+98 : 3661 : aByArohaH, --rohaRaM : aByArohaH : 1 : aByArohaRaM
+98 : 3668 : aByASa --sa : aByASa : 1 : aByAsa
+98 : 3699 : aByudgamaH, --manaM, --gatiH : aByudgamaH : 2 : aByudgamanaM, aByudgatiH
+98 : 3720 : aByu(ByU)zya-zIya, aByozya, aByozIya : aByuzya : 5 : aByuzIya, aByUzya, aByUzIya, aByozya, aByozIya
+98 : 3740 : aBriH --BrI : aBriH : 1 : aBrI
+98 : 3759 : amanas, --amanaska : amanas : 1 : amanaska
+98 : 3765 : amaMtra, --traka : amaMtra : 1 : amaMtraka
+98 : 3782 : amarzaRa, --rzita, --rzin, --rzavat : amarzaRa : 3 : amarzita, amarzin, amarzavat
+98 : 3795 : amAtf --tfka : amAtf : 1 : amAtfka
+98 : 3809 : amAyika, --mAyin : amAyika : 1 : amAyin
+98 : 3812 : amAvasyA, --vAsyA, --vasI, --vAsI : amAvasyA : 3 : amAvAsyA, amAvasI, amAvAsI
+98 : 3813 : amAvAsya, --syaka : amAvAsya : 1 : amAvAsyaka
+98 : 3819 : amitrIya, --trya : amitrIya : 1 : amitrya
+98 : 3826 : amiSra, --Srita : amiSra : 1 : amiSrita
+98 : 3843 : amUdfS, --Sa, --kza, --SI, --kzI : amUdfS : 4 : amUdfSa, amUdfkza, amUdfSI, amUdfkzI
+98 : 3893 : aMbikeyaH, --yakaH : aMbikeyaH : 1 : aMbikeyakaH
+98 : 3905 : amrAtaH --takaH : amrAtaH : 1 : amrAtakaH
+98 : 3939 : ayasmaya,(ayomaya) : ayasmaya : 1 : ayomaya
+98 : 3979 : ayoguqa, --jAla : ayoguqa : 1 : ayojAla
+98 : 3991 : araMkf, --gam : araMkf : 1 : araMgam
+98 : 4084 : aruRIyaH, --°yogaH : aruRIyaH : 1 : aruRIyayogaH
+98 : 4088 : aruz --zwa : aruz : 1 : aruzwa
+98 : 4108 : arogin, --arogya : arogin : 1 : arogya
+98 : 4121 : argalaH --lA --lI --laM : argalaH : 3 : argalA, argalI, argalaM
+98 : 4124 : argalIya, --lya : argalIya : 1 : argalya
+98 : 4139 : arcimat, --vat : arcimat : 1 : arcivat
+98 : 4189 : arbu(rvu)daH, --daM : arbudaH : 2 : arvudaH, arbudaM
+98 : 4195 : armaH --rmaM : armaH : 1 : armaM
+98 : 4222 : arhaRaM-RA : arhaRaM : 1 : arhaRA
+98 : 4234 : alaktaH --ktakaH : alaktaH : 1 : alaktakaH
+98 : 4250 : alaMjaraH, --juraH : alaMjaraH : 1 : alaMjuraH
+98 : 4299 : aliMpaka --baka : aliMpaka : 1 : aliMbaka
+98 : 4306 : aluk, °samAsaH : aluk : 1 : aluksamAsaH
+98 : 4346 : avakara, --karta : avakara : 1 : avakarta
+98 : 4356 : avakIrRa, --rRin : avakIrRa : 1 : avakIrRin
+98 : 4427 : avagamaH --gamanaM : avagamaH : 1 : avagamanaM
+98 : 4431 : avagAhaH, --hanaM : avagAhaH : 1 : avagAhanaM
+98 : 4442 : avaguraRaM-goraRaM : avaguraRaM : 1 : avagoraRaM
+98 : 4457 : avaGozaH, --zaRaM : avaGozaH : 1 : avaGozaRaM
+98 : 4482 : avacUqaH --laH : avacUqaH : 1 : avacUlaH
+98 : 4511 : avaqaMgaH --kaH : avaqaMgaH : 1 : avaqaMkaH
+98 : 4713 : avayA, --yAta : avayA : 1 : avayAta
+98 : 4802 : avavadaH --vadanaM : avavadaH : 1 : avavadanaM
+98 : 4829 : avaSIrza --rzaka : avaSIrza : 1 : avaSIrzaka
+98 : 4889 : avaskaMdaH, --danaM : avaskaMdaH : 1 : avaskaMdanaM
+98 : 4935 : ava(ba)hitTA --tTaM : avahitTA : 2 : abahitTA, avahitTaM
+98 : 4942 : avahelaH --lA : avahelaH : 1 : avahelA
+98 : 5069 : aviBAvanA --naM : aviBAvanA : 1 : aviBAvanaM
+98 : 5130 : avIja --jaka(abIja) : avIja : 2 : avIjaka, abIja
+98 : 5198 : avyAKyA, --KyAnaM : avyAKyA : 1 : avyAKyAnaM
+98 : 5267 : aSoDana, --Dita : aSoDana : 1 : aSoDita
+98 : 5308 : aSriH --SrI : aSriH : 1 : aSrI
+98 : 5353 : aSvastana, --stanika : aSvastana : 1 : aSvastanika
+98 : 5449 : asaMdita --na : asaMdita : 1 : asaMdina
+98 : 5455 : asaMniDiH, --niDAnaM : asaMniDiH : 1 : asaMniDAnaM
+98 : 5475 : asamAvfttaH --ttakaH : asamAvfttaH : 1 : asamAvfttakaH
+98 : 5576 : asfpAwaH --wI : asfpAwaH : 1 : asfpAwI
+98 : 5651 : asvaka, --asvakIya, asvika : asvaka : 2 : asvakIya, asvika
+98 : 5652 : asvatvaM --tA : asvatvaM : 1 : asvatA
+98 : 5685 : ahaha-hA : ahaha : 1 : ahahA
+98 : 5708 : aheLa(qa)t, --heqamAna : aheLat : 2 : aheqat, aheqamAna
+98 : 5768 : AkA(ka)raRaM, --RA : AkAraRaM : 2 : AkaraRaM, AkAraRA
+98 : 5797 : AkramaH, --maRaM : AkramaH : 1 : AkramaRaM
+98 : 5809 : AkroSaH, --SanaM : AkroSaH : 1 : AkroSanaM
+98 : 5833 : AkzowaH --qaH : AkzowaH : 1 : AkzoqaH
+98 : 5887 : AgUrRa --rta : AgUrRa : 1 : AgUrta
+98 : 5917 : AGarzaH, --rzaRaM : AGarzaH : 1 : AGarzaRaM
+98 : 5983 : AcCedaH, --danaM : AcCedaH : 1 : AcCedanaM
+98 : 5996 : Ajanma --nmaM : Ajanma : 1 : AjanmaM
+98 : 6014 : AjIvaH, --vanaM : AjIvaH : 1 : AjIvanaM
+98 : 6054 : AQyaMBavizRu, --BAvuka : AQyaMBavizRu : 1 : AQyaMBAvuka
+98 : 6102 : AtodyaM --dyakaM : AtodyaM : 1 : AtodyakaM
+98 : 6112 : AtaraH, --AtAraH : AtaraH : 1 : AtAraH
+98 : 6165 : Adi(dI)navaH, --vaM : AdinavaH : 2 : AdInavaH, AdinavaM
+98 : 6210 : ADitvaM, --tA : ADitvaM : 1 : ADitA
+98 : 6320 : AnupUrvaM, --rvyaM --rvI : AnupUrvaM : 2 : AnupUrvyaM, AnupUrvI
+98 : 6321 : AnupUrve --rvye --Ra, AnupUrvyA : AnupUrve : 3 : AnupUrvye, AnupUrveRa, AnupUrvyA
+98 : 6345 : AnEpuRaM, --RyaM : AnEpuRaM : 1 : AnEpuRyaM
+98 : 6414 : ApAnaM, --nakaM : ApAnaM : 1 : ApAnakaM
+98 : 6463 : AprItapaH, --pAH : AprItapaH : 1 : AprItapA
+98 : 6465 : AplavaH, --plavanaM : AplavaH : 1 : AplavanaM
+98 : 6474 : AbaMDaH, --DanaM : AbaMDaH : 1 : AbaMDanaM
+98 : 6560 : AmarzaH --rzaRaM : AmarzaH : 1 : AmarzaRaM
+98 : 6561 : AmalakaH, --kI : AmalakaH : 1 : AmalakI
+98 : 6570 : AmiSra --Sla : AmiSra : 1 : AmiSla
+98 : 6584 : Amur, --ri : Amur : 1 : Amuri
+98 : 6592 : AmarSaH, --rSanaM : AmarSaH : 1 : AmarSanaM
+98 : 6621 : AmlaH, --mlA : AmlaH : 1 : AmlA
+98 : 6743 : Aruj, --ja : Aruj : 1 : Aruja
+98 : 6773 : ArgalaH --lI : ArgalaH : 1 : ArgalI
+98 : 6817 : ArhaMtI --tyaM : ArhaMtI : 1 : ArhaMtyaM
+98 : 6827 : AlApya, --lApanIya : AlApya : 1 : AlApanIya
+98 : 6833 : AlaBya, Ala(laM)BanIya : AlaBya : 2 : AlaBanIya, AlaMBanIya
+98 : 6834 : AlaMBaH, --BanaM : AlaMBaH : 1 : AlaMBanaM
+98 : 6863 : AliMdaH, --dakaH : AliMdaH : 1 : AliMdakaH
+98 : 6886 : AlokaH, --kanaM : AlokaH : 1 : AlokanaM
+98 : 6942 : AvedanIya, --vedya : AvedanIya : 1 : Avedya
+98 : 6959 : AvizkaraRaM, --zkAraH : AvizkaraRaM : 1 : AvizkAraH
+98 : 7047 : ASutvaM, --tA : ASutvaM : 1 : ASutA
+98 : 7057 : ASco(Scyo)tana : AScotana : 1 : AScyotana
+98 : 7119 : AsaMsAra, --saMsfti : AsaMsAra : 1 : AsaMsfti
+98 : 7168 : AsevA, --vanaM : AsevA : 1 : AsevanaM
+98 : 7172 : AskaMdaH, --danaM : AskaMdaH : 1 : AskaMdanaM
+98 : 7173 : AskaMditaM, --takaM : AskaMditaM : 1 : AskaMditakaM
+98 : 7180 : Astf --stF : Astf : 1 : AstF
+98 : 7199 : AsPal, --sPul : AsPal : 1 : AsPul
+98 : 7206 : AsPotaH, --takaH : AsPotaH : 1 : AsPotakaH
+98 : 7309 : iMgudaH, --dI, iMgulaH : iMgudaH : 2 : iMgudI, iMgulaH
+98 : 7322 : iqA --lA : iqA : 1 : ilA
+98 : 7328 : iMqraH, --qraM(iMqvaM) : iMqraH : 2 : iMqraM, iMqvaM
+98 : 7418 : irvAru --lu : irvAru : 1 : irvAlu
+98 : 7429 : ilvakAH, --lAH : ilvakAH : 1 : ilvalAH
+98 : 7454 : izyaH, --zyaM : izyaH : 1 : izyaM
+98 : 7488 : Ij --IMj : Ij : 1 : IMj
+98 : 7498 : Idfkza --Sa : Idfkza : 1 : IdfSa
+98 : 7519 : IrzyA --rzA : IrzyA : 1 : IrzA
+98 : 7520 : IrzyA(rzA)lu, Irzyu(rzu) : IrzyAlu : 3 : IrzAlu, Irzyu, Irzu
+98 : 7542 : Izma, --zvaH : Izma : 1 : IzvaH
+98 : 7586 : uccEstaraM --rAM : uccEstaraM : 1 : uccEstarAM
+98 : 7611 : uccUqaH --laH : uccUqaH : 1 : uccUlaH
+98 : 7619 : ucCAstra, °vartin : ucCAstra : 1 : ucCAstravartin
+98 : 7626 : ucCedaH, --danaM : ucCedaH : 1 : ucCedanaM
+98 : 7632 : ucCezaH, --zaRaM : ucCezaH : 1 : ucCezaRaM
+98 : 7674 : ujjfMBA, --BaRaM : ujjfMBA : 1 : ujjfMBaRaM
+98 : 7738 : utkAsaH, --sanaM, utkAsikA : utkAsaH : 2 : utkAsanaM, utkAsikA
+98 : 7740 : utkuMcitA, --kA : utkuMcitA : 1 : utkuMcikA
+98 : 7790 : utkleSana, --Sin : utkleSana : 1 : utkleSin
+98 : 7827 : uttaMBaH, --BanaM : uttaMBaH : 1 : uttaMBanaM
+98 : 7831 : uttarataH, --rAt : uttarataH : 1 : uttarAt
+98 : 7835 : uttarIyaM, --yakaM : uttarIyaM : 1 : uttarIyakaM
+98 : 7910 : utpiMjara --la : utpiMjara : 1 : utpiMjala
+98 : 7929 : utprAsaH, --sanaM : utprAsaH : 1 : utprAsanaM
+98 : 7985 : utsarpaH, --rpaRaM : utsarpaH : 1 : utsarpaRaM
+98 : 8036 : udaravat, udarika-la : udaravat : 2 : udarika, udarila
+98 : 8120 : udgraBaRaM, --udgrABaH : udgraBaRaM : 1 : udgrABaH
+98 : 8121 : udgrahaH, --haRaM : udgrahaH : 1 : udgrahaRaM
+98 : 8221 : udboDaH, --DanaM : udboDaH : 1 : udboDanaM
+98 : 8232 : udBedaH, --danaM : udBedaH : 1 : udBedanaM
+98 : 8267 : udraMkaH, --gaH : udraMkaH : 1 : udraMgaH
+98 : 8307 : udveji(gi)n, --jaka : udvejin : 2 : udvegin, udvejaka
+98 : 8338 : uMdaruH, uMduraH, uMduruH, uMdUruH : uMdaruH : 3 : uMduraH, uMduruH, uMdUruH
+98 : 8386 : unmanas, --naska : unmanas : 1 : unmanaska
+98 : 8402 : unmezaH, --zaRaM : unmezaH : 1 : unmezaRaM
+98 : 8405 : unmIlaH, --lanaM : unmIlaH : 1 : unmIlanaM
+98 : 8432 : upakuMciH, --cikA : upakuMciH : 1 : upakuMcikA
+98 : 8438 : upakUpaM --pe : upakUpaM : 1 : upakUpe
+98 : 8467 : upakroSaH, --SanaM : upakroSaH : 1 : upakroSanaM
+98 : 8486 : upagamaH, --manaM : upagamaH : 1 : upagamanaM
+98 : 8488 : upagiri --raM : upagiri : 1 : upagiraM
+98 : 8520 : upacarma --rmaM : upacarma : 1 : upacarmaM
+98 : 8548 : upajihvA, --hvikA : upajihvA : 1 : upajihvikA
+98 : 8552 : upajIvaka, --vin : upajIvaka : 1 : upajIvin
+98 : 8553 : upajIvanaM, --jIvikA : upajIvanaM : 1 : upajIvikA
+98 : 8556 : upajozaH, --zaRaM : upajozaH : 1 : upajozaRaM
+98 : 8588 : upadAnaM, --nakaM : upadAnaM : 1 : upadAnakaM
+98 : 8611 : upadevaH, --devatA : upadevaH : 1 : upadevatA
+98 : 8658 : upaniDAtf, --DAyaka : upaniDAtf : 1 : upaniDAyaka
+98 : 8678 : upanAyaH, --nAyanaM : upanAyaH : 1 : upanAyanaM
+98 : 8700 : upaparIkzA --kzaRaM : upaparIkzA : 1 : upaparIkzaRaM
+98 : 8708 : upapArSvaH --rSvaM : upapArSvaH : 1 : upapArSvaM
+98 : 8727 : upabarhaH, --rhaRaM : upabarhaH : 1 : upabarhaRaM
+98 : 8733 : upabdaH, --bdiH : upabdaH : 1 : upabdiH
+98 : 8741 : upaBogya, --Boktavya, --Bojya : upaBogya : 2 : upaBoktavya, upaBojya
+98 : 8872 : upavAhyaH, --hyA : upavAhyaH : 1 : upavAhyA
+98 : 8881 : upaveSaH --SanaM : upaveSaH : 1 : upaveSanaM
+98 : 8912 : upaSikzA --kzaRaM : upaSikzA : 1 : upaSikzaRaM
+98 : 8920 : upaSoBanaM, --SoBA : upaSoBanaM : 1 : upaSoBA
+98 : 8930 : upaSlezaH, --zaRaM : upaSlezaH : 1 : upaSlezaRaM
+98 : 8951 : upasaMgrahaH, --haRaM : upasaMgrahaH : 1 : upasaMgrahaRaM
+98 : 8971 : upasaMBAzaH --zA : upasaMBAzaH : 1 : upasaMBAzA
+98 : 8995 : upasevanaM, --sevA : upasevanaM : 1 : upasevA
+98 : 9004 : upastaMBaH, --BanaM : upastaMBaH : 1 : upastaMBanaM
+98 : 9011 : upastf, --stF : upastf : 1 : upastF
+98 : 9029 : upasparSaH --rSanaM : upasparSaH : 1 : upasparSanaM
+98 : 9043 : upaGAtaka, --tin : upaGAtaka : 1 : upaGAtin
+98 : 9072 : upAKyAnaM, --nakaM : upAKyAnaM : 1 : upAKyAnakaM
+98 : 9116 : upAlaMBaH, --BanaM : upAlaMBaH : 1 : upAlaMBanaM
+98 : 9190 : uragaH, --gI : uragaH : 1 : uragI
+98 : 9191 : uraMgaH, --gamaH : uraMgaH : 1 : uraMgamaH
+98 : 9214 : uruvuH, --vukaH, --vUkaH : uruvuH : 2 : uruvukaH, uruvUkaH
+98 : 9253 : ulUpa, --pin : ulUpa : 1 : ulUpin
+98 : 9257 : ulbaM, --lvaM : ulbaM : 1 : ulvaM
+98 : 9306 : uSI(zI)raH, --raM, uSI(zI)rakaM : uSIraH : 4 : uzIraH, uSIraM, uSIrakaM, uzIrakaM
+98 : 9453 : fRavat, -van, fRAvat : fRavat : 2 : fRavan, fRAvat
+98 : 9548 : equ(qU,qo)kaH, --kaM : equkaH : 3 : eqUkaH, eqUqokaH, equkaM
+98 : 9560 : etAdfS, --dfkza, --dfSa(--SI, --kzI) : etAdfS : 4 : etAdfkza, etAdfSa, etAdfSI, etAdfkzI
+98 : 9686 : Ezamastana --mastya : Ezamastana : 1 : Ezamastya
+98 : 9713 : oqaka, --qavaH : oqaka : 1 : oqavaH
+98 : 9773 : OttAnapAdaH, --dIH : OttAnapAdaH : 1 : OttAnapAdIH
+98 : 9792 : OdaSvita, --Svitkra : OdaSvita : 1 : OdaSvitkra
+98 : 9813 : OpakAryaM, --ryA : OpakAryaM : 1 : OpakAryA
+98 : 9814 : OpagrastikaH --grahikaH : OpagrastikaH : 1 : OpagrahikaH
+98 : 9901 : OzaraM, --rakaM : OzaraM : 1 : OzarakaM
+98 : 9943 : kakkolaH --lI : kakkolaH : 1 : kakkolI
+98 : 9967 : kaMku(gu)zWaH --zWaM : kaMkuzWaH : 2 : kaMguzWaH, kaMkuzWaM
+98 : 9970 : kaMkellaH --lliH : kaMkellaH : 1 : kaMkelliH
+98 : 9988 : kacCa(cCA)wikA, kacCAwI : kacCawikA : 2 : kacCAwikA, kacCAwI
+98 : 9991 : kacCuH --kacCU : kacCuH : 1 : kacCU
+98 : 10011 : kaMjakaH --kI : kaMjakaH : 1 : kaMjakI
+98 : 10059 : kaWalyaH, --kaWallaH : kaWalyaH : 1 : kaWallaH
+98 : 10094 : kaRAwInaH, --wIraH, --wArakaH : kaRAwInaH : 2 : kaRAwIraH, kaRAwArakaH
+98 : 10098 : kaReraH, --ruH : kaReraH : 1 : kaReruH
+98 : 10132 : kaMqUyati --te : kaMqUyati : 1 : kaMqUyate
+98 : 10145 : kataH, --katakaH : kataH : 1 : katakaH
+98 : 10183 : kadaMbaH, --kadaMbakaH : kadaMbaH : 1 : kadaMbakaH
+98 : 10186 : kadalaH, --kadalakaH : kadalaH : 1 : kadalakaH
+98 : 10194 : kaDapriya --kaDaprI : kaDapriya : 1 : kaDaprI
+98 : 10230 : kaMdowaH(--wwaH) : kaMdowaH : 1 : kaMdowwaH
+98 : 10297 : kamaMqaluH, --lu : kamaMqaluH : 1 : kamaMqalu
+98 : 10323 : karakaH, --kaM : karakaH : 1 : karakaM
+98 : 10332 : karaMqakaH, --karaMqikA, karaMqI : karaMqakaH : 2 : karaMqikA, karaMqI
+98 : 10366 : karowaM, --karowiH : karowaM : 1 : karowiH
+98 : 10384 : karkowaH, --wakaH : karkowaH : 1 : karkowakaH
+98 : 10408 : kartrikA --kartrI : kartrikA : 1 : kartrI
+98 : 10416 : kardaH, --kardawaH : kardaH : 1 : kardawaH
+98 : 10421 : karpawika, --n : karpawika : 1 : karpawin
+98 : 10479 : kalaviMkaH, --gaH : kalaviMkaH : 1 : kalaviMgaH
+98 : 10480 : kalaSaH, --saH : kalaSaH : 1 : kalasaH
+98 : 10487 : kalAcika-kalAcI : kalAcika : 1 : kalAcI
+98 : 10489 : kalAdaH, --dakaH : kalAdaH : 1 : kalAdakaH
+98 : 10502 : kalikA, --kaliH : kalikA : 1 : kaliH
+98 : 10554 : kavaza, --kavaz : kavaza : 1 : kavaz
+98 : 10573 : kaSerukaH, kaserukaH --kA : kaSerukaH : 2 : kaserukaH, kaSerukA
+98 : 10600 : kastu(stU)rikA, kastUrI : kasturikA : 2 : kastUrikA, kastUrI
+98 : 10649 : kAMjikaM, kAMjikA, kAMjI, kAMjIkaM : kAMjikaM : 3 : kAMjikA, kAMjI, kAMjIkaM
+98 : 10653 : kAWinaM, --nyaM : kAWinaM : 1 : kAWinyaM
+98 : 10656 : kAReyaH, --raH : kAReyaH : 1 : kAReraH
+98 : 10686 : kAnizWineyaH, --yI : kAnizWineyaH : 1 : kAnizWineyI
+98 : 10712 : kApyakaraH, --kAraH : kApyakaraH : 1 : kApyakAraH
+98 : 10717 : kAmataH, --kAmena : kAmataH : 1 : kAmena
+98 : 10736 : kAMpillaH, kAMpilaH, --kAMpillakaH : kAMpillaH : 2 : kAMpilaH, kAMpillakaH
+98 : 10771 : kArukaH, --kA : kArukaH : 1 : kArukA
+98 : 10774 : kAruMqikA, --kAruMqI : kAruMqikA : 1 : kAruMqI
+98 : 10776 : kArota(tta)maH --raH : kArotamaH : 2 : kArottamaH, kArotaraH
+98 : 10811 : kArzaH, --rzakaH : kArzaH : 1 : kArzakaH
+98 : 10882 : kAsaH, --sA : kAsaH : 1 : kAsA
+98 : 10903 : kiMjaM, --kiMjalaH, --kiMjalkaH : kiMjaM : 2 : kiMjalaH, kiMjalkaH
+98 : 10908 : kiwwaM, --kiwwakaM : kiwwaM : 1 : kiwwakaM
+98 : 10939 : kilakilaH, --lA : kilakilaH : 1 : kilakilA
+98 : 10940 : kilakilAyati --te : kilakilAyati : 1 : kilakilAyate
+98 : 10952 : kizkiMDaH, --DyaH : kizkiMDaH : 1 : kizkiMDyaH
+98 : 11011 : kujaMBalaH, kujaMBilaH, --raH : kujaMBalaH : 2 : kujaMBilaH, kujaMBaraH
+98 : 11023 : kuwika --ta : kuwika : 1 : kuwita
+98 : 11062 : kuWAwaMkaH, --kA : kuWAwaMkaH : 1 : kuWAwaMkA
+98 : 11063 : kuWAraH --rI : kuWAraH : 1 : kuWArI
+98 : 11092 : kuMqaH, --qI, --qaM : kuMqaH : 2 : kuMqI, kuMqaM
+98 : 11116 : kuddAraH, --laH, --lakaH : kuddAraH : 2 : kuddAlaH, kuddAlakaH
+98 : 11118 : kudraMkaH, --gaH : kudraMkaH : 1 : kudraMgaH
+98 : 11190 : kuravaH(baH), kurava(ba)kaH : kuravaH : 3 : kurabaH, kuravakaH, kurabakaH
+98 : 11210 : ku(kU)rpAsaH, ku(kU)rpAsakaH : kurpAsaH : 3 : kUrpAsaH, kurpAsakaH, kUrpAsakaH
+98 : 11217 : kulaMBaraH, --laH : kulaMBaraH : 1 : kulaMBalaH
+98 : 11242 : kulIraH, --rakaH : kulIraH : 1 : kulIrakaH
+98 : 11248 : kulPaH, --lPaM : kulPaH : 1 : kulPaM
+98 : 11268 : kuSayaH --kuSapaH : kuSayaH : 1 : kuSapaH
+98 : 11287 : kuzWaH, --zWaM : kuzWaH : 1 : kuzzWaM
+98 : 11350 : kUrcaH, --rcaM : kUrcaH : 1 : kUrcaM
+98 : 11380 : kfte, --kftena : kfte : 1 : kftena
+98 : 11385 : kfkaRaH, --raH : kfkaRaH : 1 : kfkaraH
+98 : 11387 : kfkalAsaH, --SaH : kfkalAsaH : 1 : kfkalASaH
+98 : 11437 : kfzARaH, --kfzikaH : kfzARaH : 1 : kfzikaH
+98 : 11461 : kekAvalaH, --kekikaH, --kekin : kekAvalaH : 2 : kekikaH, kekin
+98 : 11502 : kesa(Sa)raH, --raM : kesaraH : 2 : keSaraH, kesaraM
+98 : 11538 : kokilaH, --lA : kokilaH : 1 : kokilA
+98 : 11567 : konAlakaH, --kA, --kaM : konAlakaH : 2 : konAlakA, konAlakaM
+98 : 11578 : kolA, --liH, --lI : kolA : 2 : koliH, kolI
+98 : 11700 : kramelaH, --kramelakaH : kramelaH : 1 : kramelakaH
+98 : 11785 : kliSita, --klizwa : kliSita : 1 : klizwa
+98 : 11802 : kvaRaH, kvaRanaM, kvaRitaM, kvARaH : kvaRaH : 3 : kvaRanaM, kvaRitaM, kvARaH
+98 : 11822 : kzatraH, --traM : kzatraH : 1 : kzatraM
+98 : 12008 : kzveqitaH taM : kzveqitaH : 1 : kzveqitaM
+98 : 12010 : kzvelA, kzvelikA, kzvelitaM, kzvelyaM : kzvelA : 3 : kzvelikA, kzvelitaM, kzvelyaM
+98 : 12030 : KaMjarIwaH, --wakaH, KaMjaleKaH : KaMjarIwaH : 2 : KaMjarIwakaH, KaMjaleKaH
+98 : 12041 : KawwASaH --SI : KawwASaH : 1 : KawwASI
+98 : 12080 : KanitrakaM --trikA : KanitrakaM : 1 : KanitrikA
+98 : 12095 : KariMDama, --ya : KariMDama : 1 : KariMDaya
+98 : 12117 : Kali(lI)naH, --naM : KalinaH : 2 : KalInaH, KalinaM
+98 : 12119 : KalIkAraH, --kftiH : KalIkAraH : 1 : KalIkftiH
+98 : 12120 : KaleDAnI, --vAlI : KaleDAnI : 1 : KalevAlI
+98 : 12144 : KAwaH --wA, --wikA --wI : KAwaH : 3 : KAwA, KAwikA, KAwI
+98 : 12160 : KAraH, --riH --rI : KAraH : 2 : KAriH, KArI
+98 : 12190 : KurAkaH, --kA : KurAkaH : 1 : KurAkA
+98 : 12202 : KewitAnaH, --laH : KewitAnaH : 1 : KewitAlaH
+98 : 12211 : Kow, --q, --r, --l : Kow : 3 : Koq, Kor, Kol
+98 : 12246 : gaqura, --la : gaqura : 1 : gaqula
+98 : 12249 : gaqqaraH; --laH : gaqqaraH : 1 : gaqqalaH
+98 : 12282 : gaMqUzaH --zA : gaMqUzaH : 1 : gaMqUzA
+98 : 12284 : gata, gati : gata : 1 : gati
+98 : 12295 : gadyARa(na, --la)kaH : gadyARakaH : 2 : gadyAnakaH, gadyAlakaH
+98 : 12363 : gartaH, --rtA, --rtaM : gartaH : 2 : gartA, gartaM
+98 : 12401 : galdaH, --ldA : galdaH : 1 : galdA
+98 : 12415 : gaviz, --gaviza : gaviz : 1 : gaviza
+98 : 12423 : gavyUtaM, --tiH : gavyUtaM : 1 : gavyUtiH
+98 : 12424 : gavequH, --DuH--, DukA : gavequH : 2 : gaveDuH, gaveDukA
+98 : 12440 : gAMgawaH --weyaH : gAMgawaH : 1 : gAMgaweyaH
+98 : 12451 : gAMqi(qI)vaH, --vaM : gAMqivaH : 2 : gAMqIvaH, gAMqivaM
+98 : 12480 : gAyatraH --traM : gAyatraH : 1 : gAyatraM
+98 : 12494 : gArBiRaM, --RyaM : gArBiRaM : 1 : gArBiRyaM
+98 : 12520 : giri(rI)yakaH, giriyAkaH : giriyakaH : 2 : girIyakaH, giriyAkaH
+98 : 12536 : guggulaH, --luH : guggulaH : 1 : gugguluH
+98 : 12606 : gopin, --gopila : gopin : 1 : gopila
+98 : 12630 : gulmaH, --lmaM : gulmaH : 1 : gulmaM
+98 : 12665 : gfDyaM, --DyA : gfDyaM : 1 : gfDyA
+98 : 12702 : gATakaH --TikaH : gATakaH : 1 : gATikaH
+98 : 12717 : gozWaH --zWaM : gozWaH : 1 : gozWaM
+98 : 12728 : gopaH, --gopanaM : gopaH : 1 : gopanaM
+98 : 12731 : golaH, --lA, --laM : golaH : 2 : golA, golaM
+98 : 12735 : gozWiH --zWI : gozWiH : 1 : gozWI
+98 : 12740 : gOMjikaH, --gaH : gOMjikaH : 1 : gOMjigaH
+98 : 12898 : GAwaH, --wA : GAwaH : 1 : GAwA
+98 : 12913 : GuwaH, GuwiH, --wI : GuwaH : 2 : GuwiH, GuwI
+98 : 12925 : GurGurakaH, --rikA : GurGurakaH : 1 : GurGurikA
+98 : 12968 : GowaH, --GoMwakaH : GowaH : 1 : GoMwakaH
+98 : 12969 : GowI, --GowikA : GowI : 1 : GowikA
+98 : 13013 : caMkuRaH, --raH : caMkuRaH : 1 : caMkuraH
+98 : 13022 : caMcarI, --caMcarIkaH : caMcarI : 1 : caMcarIkaH
+98 : 13031 : cawuH, --wu : cawuH : 1 : cawu
+98 : 13198 : cAwuH, --wu : cAwuH : 1 : cAwu
+98 : 13215 : cAturTaka, --cAturTika : cAturTaka : 1 : cAturTika
+98 : 13237 : cAMdramasAyanaH, --niH : cAMdramasAyanaH : 1 : cAMdramasAyaniH
+98 : 13242 : cApalaM, --lyaM : cApalaM : 1 : cApalyaM
+98 : 13279 : cAzaH --saH : cAzaH : 1 : cAsaH
+98 : 13344 : citrIkaraRaM, --kAraH : citrIkaraRaM : 1 : citrIkAraH
+98 : 13358 : cipiwakaH, --cipuwaH : cipiwakaH : 1 : cipuwaH
+98 : 13376 : cillakA, --cillikA, cillI : cillakA : 2 : cillikA, cillI
+98 : 13418 : cuMwA, --qA : cuMwA : 1 : cuMqA
+98 : 13459 : custaH, --staM : custaH : 1 : custaM
+98 : 13464 : cUqAra --la : cUqAra : 1 : cUqAla
+98 : 13472 : cUrI --cUrikA : cUrI : 1 : cUrikA
+98 : 13474 : cUrRaH --rRaM : cUrRaH : 1 : cUrRaM
+98 : 13477 : cUrRiH --rRI : cUrRiH : 1 : cUrrRI
+98 : 13498 : cewi(qi)kA, cewiH(wI)(qI) : cewikA : 4 : ceqikA, cewiH, cewI, ceqI
+98 : 13564 : CadaH, --CadanaM : CadaH : 1 : CadanaM
+98 : 13592 : CalliH, --llI : CalliH : 1 : CallI
+98 : 13696 : jawAyuH, --jawAyus : jawAyuH : 1 : jawAyus
+98 : 13698 : jawAlaka, --jawika : jawAlaka : 1 : jawika
+98 : 13735 : janar, --janas : janar : 1 : janas
+98 : 13736 : janiH, --janikA, --janI : janiH : 2 : janikA, janI
+98 : 13767 : jaMbu-bU : jaMbu : 1 : jaMbU
+98 : 13787 : jaratikA, --jaratI : jaratikA : 1 : jaratI
+98 : 13871 : jAtIya, --ka : jAtIya : 1 : jAtIyaka
+98 : 13900 : jAMbIraM (--laM) : jAMbIraM : 1 : jAMbIlaM
+98 : 14041 : jfMBaH, --BA --BaM : jfMBaH : 2 : jfMBA, jfMBaM
+98 : 14063 : joMgaM, --gakaM : joMgaM : 1 : joMgakaM
+98 : 14098 : jyezWAmUla --mUlIyaH : jyezWAmUla : 1 : jyezWAmUlIyaH
+98 : 14157 : JallakaM --kI : JallakaM : 1 : JallakI
+98 : 14205 : wa(wA)laH, --walanaM : walaH : 2 : wAlaH, walanaM
+98 : 14219 : wera, --weraka : wera : 1 : weraka
+98 : 14260 : quMquBaH --maH : quMquBaH : 1 : quMqumaH
+98 : 14303 : tawAkaH --ka : tawAkaH : 1 : tawAka
+98 : 14334 : tattvataH --tattvena : tattvataH : 1 : tattvena
+98 : 14338 : taTAtvaM --taTAtA : taTAtvaM : 1 : taTAtA
+98 : 14371 : taMtunaH --RaH : taMtunaH : 1 : taMtuRaH
+98 : 14372 : taMturaM --laM : taMturaM : 1 : taMtulaM
+98 : 14381 : taMtriH, --trI : taMtriH : 1 : taMtrI
+98 : 14385 : taMdriH, --drI : taMdriH : 1 : taMdrI
+98 : 14432 : tami, --mI : tami : 1 : tamI
+98 : 14444 : tara, taraRa, taraRi, taraMqa, tari-rI, tarIza : tara : 6 : taraRa, taraRi, taraMqa, tari, tarI, tarIza
+98 : 14445 : tarakzaH, --kzuH : tarakzaH : 1 : tarakzuH
+98 : 14493 : tardu-rdU : tardu : 1 : tardU
+98 : 14516 : talpaH --lpaM : talpaH : 1 : talpaM
+98 : 14573 : tApa, tApana : tApa : 1 : tApana
+98 : 14637 : tAvizaH --zI : tAvizaH : 1 : tAvizI
+98 : 14661 : tiMtiqaH, --qI, tiMtiqikA, tiMtiqIkaH : tiMtiqaH : 3 : tiMtiqI, tiMtiqikA, tiMtiqIkaH
+98 : 14662 : tiMtilI, tiMtili(lI)kA : tiMtilI : 2 : tiMtilikA, tiMtilIkA
+98 : 14664 : tiMdukaM, --kI : tiMdukaM : 1 : tiMdukI
+98 : 14678 : tiraskf(tiraH --kf) : tiraskf : 1 : tiraHkf
+98 : 14771 : tuMdika, tuMdita, tuMdin, tuMdiBa, tuMdila : tuMdika : 4 : tuMdita, tuMdin, tuMdiBa, ttuMdila
+98 : 14773 : tup, --tuMp, --tuMP : tup : 2 : tuMp, tuMP
+98 : 14830 : tuzwa, --tuzwiH : tuzwa : 1 : tuzwiH
+98 : 14840 : tURiH, tURIraH --raM : tURiH : 2 : tURIraH, tURIraM
+98 : 14851 : tUryaH, --ryaM : tUryaH : 1 : tUryaM
+98 : 14914 : taraMqaH, --qA, --qI, --qaM : taraMqaH : 3 : taraMqA, taraMqI, taraMqaM
+98 : 14918 : tariH --rIH : tariH : 1 : tarIH
+98 : 14972 : tottraM, toda, --todanaM : tottraM : 2 : toda, todanaM
+98 : 15005 : trapulaM --zaM, trapus : trapulaM : 2 : trapuzaM, trapus
+98 : 15037 : trup(P), truMp(P) : trup : 3 : truP, truMp, truMP
+98 : 15131 : daMsanaM --nA, daMsas, daMsiH : daMsanaM : 3 : daMsanA, daMsas, daMsiH
+98 : 15145 : dagDa, --dagDikA : dagDa : 1 : dagDikA
+98 : 15177 : daDIcaH, --ciH : daDIcaH : 1 : daDIciH
+98 : 15196 : damaTaH, --TuH : damaTaH : 1 : damaTuH
+98 : 15246 : darvikaH --kA : darvikaH : 1 : darvikA
+98 : 15273 : daSana, dazwa : daSana : 1 : dazwa
+98 : 15339 : dAqi(li)maH --mA : dAqimaH : 3 : dAlimaH, dAqimA, dAlimA
+98 : 15346 : dAka, dAti, dAtf, dAnaM, dAnu : dAka : 4 : dAti, dAtf, dAnaM, dAnu
+98 : 15397 : dASaraTaH, --dASaraTiH : dASaraTaH : 1 : dASaraTiH
+98 : 15407 : dAseraH, --rakaH : dAseraH : 1 : dAserakaH
+98 : 15410 : dAha, dAhaka, dAhana, dAhya : dAha : 3 : dAhaka, dAhana, dAhya
+98 : 15495 : dugDa, --duGa : dugDa : 1 : duGa
+98 : 15557 : dUtaH, --dUtakaH : dUtaH : 1 : dUtakaH
+98 : 15558 : dUtikA, --dUtI : dUtikA : 1 : dUtI
+98 : 15579 : dfQIkaraRaM, --kAraH : dfQIkaraRaM : 1 : dfQIkAraH
+98 : 15672 : dErGyaM --rGaM : dErGyaM : 1 : dErGaM
+98 : 15673 : dEnaM, --nyaM : dEnaM : 1 : dEnyaM
+98 : 15682 : dEvalaH, --lakaH : dEvalaH : 1 : dEvalakaH
+98 : 15725 : dOrbalyaM --laM : dOrbalyaM : 1 : dOrbalaM
+98 : 15849 : drORAyanaH, --niH, drORiH : drORAyanaH : 2 : drORAyaniH, drORiH
+98 : 15867 : dvAravatI, dvArAvatI : dvAravatI : 1 : dvArAvatI
+98 : 15898 : dvezaH dvezaRa, dvezya : dvezaH : 2 : dvezaRa, dvezya
+98 : 15930 : DattUraH, --DattUrakaH --kA : DattUraH : 2 : DattUrakaH, DattUrakA
+98 : 15933 : DanakaH, --DanAyA : DanakaH : 1 : DanAyA
+98 : 16009 : DAnaM, --nI : DAnaM : 1 : DAnI
+98 : 16016 : DAnayaH --kaH : DAnayaH : 1 : DAnakaH
+98 : 16026 : DAya, --DAyaka : DAya : 1 : DAyaka
+98 : 16060 : DikkAraH --DikkriyA : DikkAraH : 1 : DikkriyA
+98 : 16120 : DUmAyati --te : DUmAyati : 1 : DUmAyate
+98 : 16136 : DUS (z-s) : DUS : 2 : DUz, DUs
+98 : 16178 : DOti --tI : DOti : 1 : DOtI
+98 : 16279 : nagnakA, --nagnikA : nagnakA : 1 : nagnikA
+98 : 16281 : nagnaMBavizRu, --BAvuka : nagnaMBavizRu : 1 : nagnaMBAvuka
+98 : 16449 : nAgarIwaH, --nAgavIwaH : nAgarIwaH : 1 : nAgavIwaH
+98 : 16459 : nAweyaH, --raH : nAweyaH : 1 : nAweraH
+98 : 16497 : nABi --BI : nABi : 1 : nABI
+98 : 16506 : nAmaDaH --DA : nAmaDaH : 1 : nAmaDA
+98 : 16525 : nArikeraH, --laH : nArikeraH : 1 : nArikelaH
+98 : 16534 : nAlikera, nAlikeli-lI : nAlikera : 2 : nAlikeli, nAlikelI
+98 : 16567 : nAhuzaH --ziH : nAhuzaH : 1 : nAhuziH
+98 : 16574 : niHSraya(yi)RI, niHSreRI : niHSrayaRI : 2 : niHSrayiRI, niHSreRI
+98 : 16599 : nikASaH, --saH : nikASaH : 1 : nikAsaH
+98 : 16620 : niketaH, --takaH : niketaH : 1 : niketakaH
+98 : 16652 : nigaraH, --raRaM : nigaraH : 1 : nigaraRaM
+98 : 16686 : nicikI, --nEcikI : nicikI : 1 : nEcikI
+98 : 16716 : nidarSaka, --naM : nidarSaka : 1 : nidarSanaM
+98 : 16765 : nipa(pA)WaH, nipaWanaM, nipaWitiH : nipaWaH : 3 : nipAWaH, nipaWanaM, nipaWitiH
+98 : 16796 : niboDaH --DanaM : niboDaH : 1 : niboDanaM
+98 : 16886 : niriMgiRI --nI : niriMgiRI : 1 : niriMginI
+98 : 16896 : niroDaH niroDanaM : niroDaH : 1 : niroDanaM
+98 : 16927 : nirjayaH, --nirjitiH : nirjayaH : 1 : nirjitiH
+98 : 16951 : nirdawa --qa : nirdawa : 1 : nirdaqa
+98 : 16992 : nirmaTaH, nirmaTanaM, nirmaMTaH, nirmaMTanaM : nirmaTaH : 3 : nirmaTanaM, nirmaMTaH, nirmaMTanaM
+98 : 17102 : nivirI(qI)Sa-sa : nivirISa : 3 : niviqISa, nivirIsa, niviqIsa
+98 : 17253 : nizpravARaM, --Ri : nizpravARaM : 1 : nizpravARi
+98 : 17629 : pawwaH, --wwaM : pawwaH : 1 : pawwaM
+98 : 17631 : pawwanaM --nI : pawwanaM : 1 : pawwanI
+98 : 17745 : panAyita, --panita : panAyita : 1 : panita
+98 : 17868 : parikarzaH, --karzaRaM : parikarzaH : 1 : parikarzaRaM
+98 : 17885 : parikrayaH, --krayaRaM : parikrayaH : 1 : parikrayaRaM
+98 : 17935 : pariGAtaH, --GAtanaM : pariGAtaH : 1 : pariGAtanaM
+98 : 17946 : paricArakaH, --paricArikaH, --paricArin : paricArakaH : 2 : paricArikaH, paricArin
+98 : 17998 : pariRayaH, --RayanaM : pariRayaH : 1 : pariRayanaM
+98 : 18037 : paridevanaM, --nA, paridevitaM : paridevanaM : 2 : paridevanA, paridevitaM
+98 : 18093 : paripowaH, --powakaH : paripowaH : 1 : paripowakaH
+98 : 18157 : parimArgaH, --parimArgaRaM : parimArgaH : 1 : parimArgaRaM
+98 : 18171 : parimardaH, --parimardanaM : parimardaH : 1 : parimardanaM
+98 : 18187 : parirakzaRaM, --parirakzA : parirakzaRaM : 1 : parirakzA
+98 : 18191 : pari(rI)raMBaH, --pariraMBaRaM : pariraMBaH : 2 : pariraMBaH, pariraMBaRaM
+98 : 18307 : parizvaMgaH, parizvaM(svaM)janaM : parizvaMgaH : 2 : parizvaMjanaM, parisvaMjanaM
+98 : 18321 : pari(rI)saryA, pari(rI)sAraH : parisaryA : 3 : parisaryA, parisAraH, parIsAraH
+98 : 18361 : parItApa, parIpAka, parIvAra-ha, parIhAsa : parItApa : 4 : parIpAka, parIvAra, parIvAha, parIhAsa
+98 : 18384 : parozwiH, parozRI : parozwiH : 1 : parozRI
+98 : 18402 : parpikaH --kI : parpikaH : 1 : parpikI
+98 : 18458 : paryupAsaka, --sin --sitf : paryupAsaka : 2 : paryupAsin, paryupAsitf
+98 : 18516 : palliH --llI : palliH : 1 : pallI
+98 : 18547 : pahna(hla)vAH, pahlikAH : pahnavAH : 2 : pahlavAH, pahlikAH
+98 : 18560 : pAkuH, --pAkukaH : pAkuH : 1 : pAkukaH
+98 : 18619 : pARiMDama-ya : pARiMDama : 1 : pARiMDaya
+98 : 18668 : pAtrebahulaH --pAtresamitaH : pAtrebahulaH : 1 : pAtresamitaH
+98 : 18686 : pAdAliMdaH --dA --dI : pAdAliMdaH : 2 : pAdAliMdA, pAdAliMdI
+98 : 18722 : pArawIwaH --naH : pArawIwaH : 1 : pArawInaH
+98 : 18726 : pArayati --te : pArayati : 1 : pArayate
+98 : 18862 : pAlakyaH --kyA : pAlakyaH : 1 : pAlakyA
+98 : 18908 : picaM(ciM)qin -(ka, --la) : picaMqin : 5 : piciMqin, picaMqika, piciMqika, picaMqila, piciMqila
+98 : 18948 : piqakaH --kA : piqakaH : 1 : piqakA
+98 : 19019 : piSIlaM --lakaM : piSIlaM : 1 : piSIlakaM
+98 : 19072 : pucCaH --cCaM : pucCaH : 1 : pucCaM
+98 : 19101 : puttalaH --lI : puttalaH : 1 : puttalI
+98 : 19106 : putrakA, --putrikA : putrakA : 1 : putrikA
+98 : 19127 : puraMDriH, --DrI : puraMDriH : 1 : puraMDrI
+98 : 19174 : pulastiH --styaH : pulastiH : 1 : pulastyaH
+98 : 19247 : pUrikaH --kA : pUrikaH : 1 : pUrikA
+98 : 19307 : pfSni(zRi)kA, pfSnI(zRI) : pfSnikA : 3 : pfzRikA, pfSnI, pfzRI
+98 : 19347 : peSa(za-sa)la : peSala : 2 : pezala, pesala
+98 : 19377 : pESunaM --nyaM : pESunaM : 1 : pESunyaM
+98 : 19517 : prakopana --Ra : prakopana : 1 : prakopaRa
+98 : 19622 : pragrIvaH --vam : pragrIvaH : 1 : pragrIvam
+98 : 19626 : praGaRaH(naH), praGARaH(naH) : praGaRaH : 3 : praGanaH, praGARaH, praGAnaH
+98 : 19751 : praRAlaH --lI, praRAlikA : praRAlaH : 2 : praRAlI, praRAlikA
+98 : 19752 : praRASaH --SanaM : praRASaH : 1 : praRASanaM
+98 : 19809 : pratikartavya, --kArya : pratikartavya : 1 : pratikArya
+98 : 19841 : pratigrAhaka --hin : pratigrAhaka : 1 : pratigrAhin
+98 : 19845 : pratiGAtaka, --GAtin : pratiGAtaka : 1 : pratiGAtin
+98 : 19885 : pratiDvaniH, --pratiDvAnaH : pratiDvaniH : 1 : pratiDvAnaH
+98 : 19922 : pratipUjanaM, --pUjA : pratipUjanaM : 1 : pratipUjA
+98 : 19936 : pratiPalaH, --pratiPalanaM : pratiPalaH : 1 : pratiPalanaM
+98 : 20002 : pratiyogitA tvaM : pratiyogitA : 1 : pratiyogitvaM
+98 : 20003 : pratirakzaRaM --rakzA : pratirakzaRaM : 1 : pratirakzA
+98 : 20009 : pratiroDaka, pratiroDin-dDf : pratiroDaka : 2 : pratiroDin, pratirodDf
+98 : 20163 : pratArakaH --pratArin : pratArakaH : 1 : pratArin
+98 : 20197 : pratyavamarSaH --rzaH : pratyavamarSaH : 1 : pratyavamarzaH
+98 : 20201 : pratyavaskaMdaH --danaM : pratyavaskaMdaH : 1 : pratyavaskaMdanaM
+98 : 20245 : pratyuccAraH --ccAraRaM : pratyuccAraH : 1 : pratyuccAraRaM
+98 : 20249 : pratyutkramaH, --kramaRaM, --krAMtiH : pratyutkramaH : 2 : pratyutkramaRaM, pratyutkrAMtiH
+98 : 20269 : pratyupaveSaH, --veSanaM : pratyupaveSaH : 1 : pratyupaveSanaM
+98 : 20273 : pratyuzaH, --pratyuzas : pratyuzaH : 1 : pratyuzas
+98 : 20350 : pradviz, pradvizat : pradviz : 1 : pradvizat
+98 : 20381 : pranAlaH --lI : pranAlaH : 1 : pranAlI
+98 : 20429 : prapunA(nnA)waH --qaH : prapunAwaH : 3 : prapunnAwaH, prapunAqaH, prapunnAqaH
+98 : 20457 : prabA(vA)laH --laM : prabAlaH : 3 : pravAlaH, prabAlaM, pravAlaM
+98 : 20516 : pramaT --maMT : pramaT : 1 : pramaMT
+98 : 20673 : pravagaH, --pravaMgaH, --pravaMgamaH : pravagaH : 2 : pravaMgaH, pravaMgamaH
+98 : 20713 : pravahliH --hlI : pravahliH : 1 : pravahlI
+98 : 20792 : pravepaH, pravepakaH, pravepaTuH, pravepanaM : pravepaH : 3 : pravepakaH, pravepaTuH, pravepanaM
+98 : 20840 : praSrayaH, --praSrayaRaM : praSrayaH : 1 : praSrayaRaM
+98 : 20895 : prasu-sU : prasu : 1 : prasU
+98 : 20929 : prasevaH, --prasevakaH : prasevaH : 1 : prasevakaH
+98 : 20941 : prastIta --ma : prastIta : 1 : prastIma
+98 : 20972 : prasyaMdaH --danaM : prasyaMdaH : 1 : prasyaMdanaM
+98 : 21065 : prAGuRaH, prAGuRakaH, prAGuRikaH, prAGUrRakaH, prAGUrRikaH : prAGuRaH : 4 : prAGuRakaH, prAGuRikaH, prAGUrRakaH, prAGUrRikaH
+98 : 21083 : prAjikaH --prAjin : prAjikaH : 1 : prAjin
+98 : 21131 : prAtihAraH,, pratihArakaH, prAtihArikaH : prAtihAraH : 2 : pratihArakaH, prAtihArikaH
+98 : 21239 : prAvfzaH --zA : prAvfzaH : 1 : prAvfzA
+98 : 21282 : prAhRetarAM --mAM : prAhRetarAM : 1 : prAhRetamAM
+98 : 21328 : preMKolaH, --preMKolanaM : preMKolaH : 1 : preMKolanaM
+98 : 21458 : PaRaH --RA : PaRaH : 1 : PaRA
+98 : 21481 : PalinI, --PalI : PalinI : 1 : PalI
+98 : 21519 : PeRaH, --naH : PeRaH : 1 : PenaH
+98 : 21522 : PeraH; PeraMqaH : PeraH : 1 : PeraMqaH
+98 : 21526 : PelaM, PelA, PelikA, PelI : PelaM : 3 : PelA, PelikA, PelI
+98 : 21590 : barhaH --rhaM : barhaH : 1 : barhaM
+98 : 21610 : balAkaH --kA : balAkaH : 1 : balAkA
+98 : 21635 : balvajaH --jA : balvajaH : 1 : balvajA
+98 : 21681 : bADaH --DA : bADaH : 1 : bADA
+98 : 21694 : bArhadraTaH, barhadraTiH : bArhadraTaH : 1 : barhadraTiH
+98 : 21720 : bAzpaH --zpaM : bAzpaH : 1 : bAzpaM
+98 : 21794 : bukkaH --kkaM : bukkaH : 1 : bukkaM
+98 : 21798 : bukkA --kkI : bukkA : 1 : bukkI
+98 : 21807 : budDimattA --ttvaM : budDimattA : 1 : budDimattvaM
+98 : 21831 : bfSI, bfzI(sI) : bfSI : 2 : bfzI, bfsI
+98 : 21970 : BaMBarAlikA, BaMBarAlI : BaMBarAlikA : 1 : BaMBarAlI
+98 : 22008 : BallaH --llI --llaM : BallaH : 2 : BallI, BallaM
+98 : 22019 : BavaMtaH --tiH : BavaMtaH : 1 : BavaMtiH
+98 : 22036 : BazaH, --BazakaH : BazaH : 1 : BazakaH
+98 : 22043 : BastrakA, --BastrA, --BastriH : BastrakA : 2 : BastrA, BastriH
+98 : 22092 : BAMqikaH --laH : BAMqikaH : 1 : BAMqilaH
+98 : 22129 : BAlu(lU)kaH, BAllu(llU)kaH : BAlukaH : 3 : BAlUkaH, BAllukaH, BAllUkaH
+98 : 22192 : BillowaH --wakaH : BillowaH : 1 : BillowakaH
+98 : 22281 : BftyatA --tvaM, BftyABAvaH : BftyatA : 2 : BftyatvaM, BftyABAvaH
+98 : 22333 : BEmaseniH --nyaH : BEmaseniH : 1 : BEmasenyaH
+98 : 22373 : BraMSaH --saH : BraMSaH : 1 : BraMsaH
+98 : 22422 : BrAzwraH --zwraM : BrAzwraH : 1 : BrAzwraM
+98 : 22423 : BrAzwrakaM --kaH : BrAzwrakaM : 1 : BrAzwrakaH
+98 : 22452 : makuzwaH, --makuzwakaH : makuzwaH : 1 : makuzwakaH
+98 : 22461 : makzikaH, --makzi(kzI)kA : makzikaH : 2 : makzikA, makzIkA
+98 : 22538 : maMqapakaH --pikA : maMqapakaH : 1 : maMqapikA
+98 : 22689 : maMdArakaH, --maMdAravaH, --maMdAruH : maMdArakaH : 2 : maMdAravaH, maMdAruH
+98 : 22704 : mapa(pu)zwaH --kaH : mapazwaH : 3 : mapuzwaH, mapazwakaH, mapuzwakaH
+98 : 22729 : maraMdaH --dakaH : maraMdaH : 1 : maraMdakaH
+98 : 22750 : maroliH --likaH : maroliH : 1 : marolikaH
+98 : 22806 : malliH --llI : malliH : 1 : mallI
+98 : 22917 : mAqqukaH --kikaH : mAqqukaH : 1 : mAqqukikaH
+98 : 23026 : mAyUrakaH, --mAyUrikaH : mAyUrakaH : 1 : mAyUrikaH
+98 : 23179 : miSiH(ziH --siH) : miSiH : 2 : miziH, misiH
+98 : 23251 : muMjAwaH --wakaH : muMjAwaH : 1 : muMjAwakaH
+98 : 23330 : mustaH --stA --staM : mustaH : 2 : mustA, mustaM
+98 : 23339 : muhUrtaH --rtaM : muhUrtaH : 1 : muhUrtaM
+98 : 23352 : mUrKatA --tvaM, mUrKiman : mUrKatA : 2 : mUrKatvaM, mUrKiman
+98 : 23365 : mUrvA --rvI, mUrvikA : mUrvA : 2 : mUrvI, mUrvikA
+98 : 23470 : meTikA, meTinI : meTikA : 1 : meTinI
+98 : 23614 : mlecC, mleC : mlecC : 1 : mleC
+98 : 23619 : mlew, --mleq : mlew : 1 : mleq
+98 : 23625 : mlAyat, --mlAyin : mlAyat : 1 : mlAyin
+98 : 23634 : yakzmaH, yakzman : yakzmaH : 1 : yakzman
+98 : 23730 : yazwiH --zwI : yazwiH : 1 : yazwI
+98 : 23772 : yATAkAmI --kAmyaM : yATAkAmI : 1 : yATAkAmyaM
+98 : 23856 : yuzmAdfS --Sa : yuzmAdfS : 1 : yuzmAdfSa
+98 : 23857 : yUkaH --kA : yUkaH : 1 : yUkA
+98 : 23861 : yUTikA, --yUTI : yUTikA : 1 : yUTI
+98 : 24106 : rAtriH --trI : rAtriH : 1 : rAtrI
+98 : 24124 : rAmaWaH WaM : rAmaWaH : 1 : rAmaWaM
+98 : 24138 : rASIkfta, --BUta : rASIkfta : 1 : rASIBUta
+98 : 24160 : riMK, riMg : riMK : 1 : riMg
+98 : 24241 : ruvuH, rubu(bU)kaH : ruvuH : 2 : rubukaH, rubUkaH
+98 : 24526 : laSu(SU)naH --naM : laSunaH : 3 : laSUnaH, laSunaM, laSUnaM
+98 : 24643 : libiH, --vI : libiH : 1 : livI
+98 : 24648 : liMpiH, --libiH : liMpiH : 1 : libiH
+98 : 24659 : lIlAyati --te : lIlAyati : 1 : lIlAyate
+98 : 24666 : luMcaH, --luMcanaM : luMcaH : 1 : luMcanaM
+98 : 24682 : luMWiH --wI : luMWiH : 1 : luMwI
+98 : 24757 : lowA, lowikA : lowA : 1 : lowikA
+98 : 24789 : lozwaH, --zwaM : lozwaH : 1 : lozwaM
+98 : 24915 : vaMwAlaH, --vaMqAlaH : vaMwAlaH : 1 : vaMqAlaH
+98 : 24957 : vaDuH, --vaDukA : vaDuH : 1 : vaDukA
+98 : 25001 : vaMDya, vaMDyA : vaMDya : 1 : vaMDyA
+98 : 25016 : vapraH --praM : vapraH : 1 : vapraM
+98 : 25030 : vamraH --mrI : vamraH : 1 : vamrI
+98 : 25065 : varAlaH, --varAlakaH : varAlaH : 1 : varAlakaH
+98 : 25066 : varASiH --siH : varASiH : 1 : varAsiH
+98 : 25136 : vartiH --rtI : vartiH : 1 : vartI
+98 : 25173 : varzaH, --rzaM : varzaH : 1 : varzaM
+98 : 25196 : valagnaH, --gnaM : valagnaH : 1 : valagnaM
+98 : 25210 : valiSaM --SI : valiSaM : 1 : valiSI
+98 : 25215 : valkaH --lkaM : valkaH : 1 : valkaM
+98 : 25311 : vahatI, --vahA : vahatI : 1 : vahA
+98 : 25323 : vahlika, --vahlIka : vahlika : 1 : vahlIka
+98 : 25408 : vAtsiH --tsI : vAtsiH : 1 : vAtsI
+98 : 25423 : vAD, vADa, vADaka, vADana nA, vADA : vAD : 5 : vADa, vADaka, vADana, vADanA, vADA
+98 : 25455 : vAyanaM, --vAyanakaM : vAyanaM : 1 : vAyanakaM
+98 : 25490 : vArtAkaH, vArtAkiH, vArtAkin, vArtAkI, vArtAkuH : vArtAkaH : 4 : vArtAkiH, vArtAkin, vArtAkI, vArtAkuH
+98 : 25526 : vAlmIkaH, --vAlmIkiH : vAlmIkaH : 1 : vAlmIkiH
+98 : 25543 : vAzpaH, --zpaM : vAzpaH : 1 : vAzpaM
+98 : 25603 : vikaMkawaH --taH : vikaMkawaH : 1 : vikaMkataH
+98 : 25666 : vikoSa --za : vikoSa : 1 : vikoza
+98 : 25835 : vijjanaM --laM : vijjanaM : 1 : vijjalaM
+98 : 25852 : viMjoli --lI : viMjoli : 1 : viMjolI
+98 : 25895 : vitardiH, --rdI, vitardikA : vitardiH : 2 : vitardI, vitardikA
+98 : 25896 : vitardDiH --rdDI, vitardDikA : vitardDiH : 2 : vitardDI, vitardDikA
+98 : 26214 : viBAtaM --tI : viBAtaM : 1 : viBAtI
+98 : 26265 : vimanas, --vimanaska : vimanas : 1 : vimanaska
+98 : 26288 : vimardita, --vimfdita : vimardita : 1 : vimfdita
+98 : 26290 : vimarSaH --rSanaM : vimarSaH : 1 : vimarSanaM
+98 : 26326 : viraMcaH, --ciH : viraMcaH : 1 : viraMciH
+98 : 26722 : visPowaH --wA : visPowaH : 1 : visPowA
+98 : 26736 : visraMsaH --sA : visraMsaH : 1 : visraMsA
+98 : 26799 : vIwiH, --vIwikA, --vIwI : vIwiH : 2 : vIwikA, vIwI
+98 : 26824 : vIruD --DA : vIruD : 1 : vIruDA
+98 : 26840 : vfkkaH --kkA : vfkkaH : 1 : vfkkA
+98 : 26865 : vfMtAkaH --kI : vfMtAkaH : 1 : vfMtAkI
+98 : 26965 : vemaH, --veman : vemaH : 1 : veman
+98 : 27114 : vEraktaM --ktyaM : vEraktaM : 1 : vEraktyaM
+98 : 27487 : vrIqaH --qA : vrIqaH : 1 : vrIqA
+98 : 27525 : SakulaH, --lI : SakulaH : 1 : SakulI
+98 : 27536 : Sakna, Saknu : Sakna : 1 : Saknu
+98 : 27553 : SaMkuciH, SaMkocaH(ciH) : SaMkuciH : 2 : SaMkocaH, SaMkociH
+98 : 27751 : SAkapURiH --rRiH : SAkapURiH : 1 : SAkapUrRiH
+98 : 27799 : SAtapatrakaH --kI : SAtapatrakaH : 1 : SAtapatrakI
+98 : 27858 : SArkaraka --rika --rIya : SArkaraka : 2 : SArkarika, SArkarIya
+98 : 27917 : SikyaM, --kyA : SikyaM : 1 : SikyA
+98 : 28091 : SutudriH --drUH : SutudriH : 1 : SutudrUH
+98 : 28120 : SulkaH, --lakaM : SulkaH : 1 : SulakaM
+98 : 28130 : SuzaH, --SuzI : SuzaH : 1 : SuzI
+98 : 28160 : SUrpaH --rpaM : SUrpaH : 1 : SUrpaM
+98 : 28176 : SfMKalaH --lA --laM : SfMKalaH : 2 : SfMKalA, SfMKalaM
+98 : 28203 : SePAliH --lI, SePAlikA : SePAliH : 2 : SePAlI, SePAlikA
+98 : 28215 : SEKarikaH --reyaH : SEKarikaH : 1 : SEKareyaH
+98 : 28313 : Scyo(Sco)taH, Sco(Scyo)tanaM : ScyotaH : 3 : ScotaH, ScotanaM, ScyotanaM
+98 : 28343 : SyoRAkaH, SyonAkaH : SyoRAkaH : 1 : SyonAkaH
+98 : 28372 : SravApyaH --yyaH : SravApyaH : 1 : SravAyyaH
+98 : 28391 : SrAvastiH --stI : SrAvastiH : 1 : SrAvastI
+98 : 28497 : SvApucCaH --cCaM : SvApucCaH : 1 : SvApucCaM
+98 : 28513 : SvEtraM, --SvEtryaM : SvEtraM : 1 : SvEtryaM
+98 : 28548 : zvakk, zvask --zk : zvakk : 2 : zvask, zvazk
+98 : 28755 : saMstf-stF : saMstf : 1 : saMstF
+98 : 28839 : sagarBaH --rByaH : sagarBaH : 1 : sagarByaH
+98 : 29278 : saParaH --rI : saParaH : 1 : saParI
+98 : 29488 : samIkaraRaM --kriyA : samIkaraRaM : 1 : samIkriyA
+98 : 29519 : samucCvasitaM, --samucCvAsaH : samucCvasitaM : 1 : samucCvAsaH
+98 : 29570 : samudri(drI)ya, samudrya : samudriya : 2 : samudrIya, samudrya
+98 : 29594 : samupasTitiH --samupasTAnaM : samupasTitiH : 1 : samupasTAnaM
+98 : 29809 : sarajas --sA : sarajas : 1 : sarajasA
+98 : 29902 : saviBrama, savilAsa : saviBrama : 1 : savilAsa
+98 : 30002 : sAMkASyaM --SyA : sAMkASyaM : 1 : sAMkASyA
+98 : 30025 : sAtyavataH, sAtyavateyaH : sAtyavataH : 1 : sAtyavateyaH
+98 : 30050 : sADAraRatA tvaM : sADAraRatA : 1 : sADAraRatvaM
+98 : 30077 : sAMtvaH, sAMtvanaM --nA : sAMtvaH : 2 : sAMtvanaM, sAMtvanA
+98 : 30265 : siMhARaM(naM),siMhARakaH --kaM : siMhARaM : 3 : siMhAnaM, siMhARakaH, siMhARakaM
+98 : 30274 : siMGa(GA)RaM, siMGARakaM : siMGaRaM : 2 : siMGARaM, siMGARakaM
+98 : 30324 : sihlaH, --sihlakaH : sihlaH : 1 : sihlakaH
+98 : 30350 : sIsaM, sIsakaM, sIsapatrakaM, sIsapatraM : sIsaM : 3 : sIsakaM, sIsapatrakaM, sIsapatraM
+98 : 30393 : suraMgaH --gA : suraMgaH : 1 : suraMgA
+98 : 30477 : sUrmiH --rmI : sUrmiH : 1 : sUrmI
+98 : 30634 : sOdAmanI, sOdAminI, sOdAmnI : sOdAmanI : 2 : sOdAminI, sOdAmnI
+98 : 30662 : sOmitraH; sOmitriH : sOmitraH : 1 : sOmitriH
+98 : 30705 : sOhArdyaM, sOhfdaM dyaM, sOhfdayaM : sOhArdyaM : 3 : sOhfdaM, sOhfdyaM, sOhfdayaM
+98 : 30810 : stotriyaH --yA : stotriyaH : 1 : stotriyA
+98 : 30928 : snuh, snuhA --hiH : snuh : 2 : snuhA, snuhiH
+98 : 31113 : sruvaH --vA : sruvaH : 1 : sruvA
+98 : 31174 : svasrIyaH svasreyaH : svasrIyaH : 1 : svasreyaH
+98 : 31243 : haqi(qqi)kaH, haqqiH : haqikaH : 2 : haqqikaH, haqqiH
+98 : 31263 : hanu --nU : hanu : 1 : hanU
+98 : 31580 : hnavaH --vanaM : hnavaH : 1 : hnavanaM
+98 : 31614 : hrIveraM --laM : hrIveraM : 1 : hrIvelaM
+98 : 32011 : nArAyaRa (BawwanArAyaRa) : nArAyaRa : 1 : BawwanArAyaRa
+98 : 32130 : tripura-rI : tripura : 1 : tripurI

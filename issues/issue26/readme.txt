@@ -131,6 +131,7 @@ git push
 
 =======================================================
 Part 3: althw_1,   temp_ap90_3.txt
+=======================================================
 see readme_althw_1.txt.
   # includes sync to Github and Cologne
   
@@ -141,15 +142,23 @@ git add .
 git commit -m "#26 - althw_1"
 git push
 
+=======================================================
+Part 4: althw_2,   temp_ap90_4.txt  start
+=======================================================
+see readme_althw_2.txt.
+  # includes sync to Github and Cologne
+  
+# sync this repo
+cd /c/xampp/htdocs/sanskrit-lexicon/ap90/issues/issue26
+git pull
+git add .
+git commit -m "#26 - althw_1"
+git push
 
 =======================================================
 
 ----------------------------------
 Jim TODO global
--------------------
-case_LBdash.txt
- ({#--jaM#}) -> {#--(jaM)#}  ref LBdash.png
-1825 matches for "({#--[^#]+#})" in buffer: temp_ap90_scott_usha.txt
 -------------------
 case_curlynum.txt
 Some {N} were changed.  Probably some remain

@@ -1,0 +1,293 @@
+old: 306 : aMgulI(rI)yaM-kaM, --yakaM : aMgulIyaM : 5 : aMguIkaM aMgurIyaM aMgurIkaM aMgulIyakaM aMgurIyakaM 
+new: 306 : aMgulI(rI)yaM-kaM, --yakaM : aMgulIyaM : 5 : aMgulIkaM aMgurIyaM aMgurIkaM aMgulIyakaM aMgurIyakaM
+status: ok Note:
+
+old: 1587 : anujYApanaM, --jYAptiH : anujYApanaM : 1 : anujYAptiH 
+new: 1587 : anujYApanaM, --jYaptiH : anujYApanaM : 1 : anujYaptiH 
+status: ok Note: typo jYAptiH -> jYaptiH
+
+old: 1680 : anupatanaM, pAtaH : anupatanaM : 1 : pAtaH 
+new: 1680 : anupatanaM, pAtaH : anupatanaM : 1 : anupAtaH 
+status: ok Note:
+
+old: 2114 : aMtari --rI --kzya : aMtari : 2 : aMtarI aMtarikzya 
+new: 2114 : aMtari --rI --kzya : aMtari : 2 : aMtarI aMtarikzaM 
+status: ok Note: typo kzya -> kzaM
+
+old: 2262 : apakAraka, --kArin : apakAraka : 1 : apakArakArin 
+new: 2262 : apakAraka, --kArin : apakAraka : 1 : apakArin 
+status: ok Note:
+
+old: 2340 : apati, tika : apati : 1 : tika 
+new: 2340 : apati, tika : apati : 1 : apatika 
+status: ok Note:
+
+old: 2869 : aprayApaRi --niH : aprayApaRi : 1 : aprayApaRiH 
+new: 2869 : aprayApaRi --niH : aprayApaRi : 1 : aprayApaniH 
+status: ok Note:
+
+old: 3251 : aBimarSaka --rzaMka, --marSin --rzin : aBimarSaka : 3 : aBimarzaMka aBimarSin aBimarzin 
+new: 3251 : aBimarSaka --rzaMka, --marSin --rzin : aBimarSaka : 3 : aBimarzaka aBimarSin aBimarzin 
+status: ok Note: typo rzaMka -> rzaka
+
+old: 3267 : aBiyoktavya, --yojya : aBiyoktavya : 1 : aBiyoktavyojya 
+new: 3267 : aBiyoktavya, --yojya : aBiyoktavya : 1 : aBiyoktavya
+status: ok Note:
+
+old: 3461 : aBisAM(SAM)tvaH, --tvanaM : aBisAMtvaH : 2 : aBiSAMtvaH aBisAMtvanaM 
+new: 3461 : aBisAM(SAM)tvaH, --tvanaM : aBisAMtvaH : 2 : aBiSAMtvaH aBisAMtvanaM aBiSAMtvanaM 
+status: ok Note:
+
+old: 3514 : aBIta, --tiM : aBIta : 1 : aBItiM 
+new: 3514 : aBIta, --tiM : aBIta : 1 : aBIti 
+status: ok Note: typo tiM -> ti
+
+old: 4189 : arbu(rvu)daH, --daM : arbudaH : 2 : arvudaH arbudaM 
+new: 4189 : arbu(rvu)daH, --daM : arbudaH : 2 : arvudaH arbudaM arvudaM
+status: ok Note:
+
+old: 4935 : ava(ba)hitTA --tTaM : avahitTA : 2 : abahitTA avahitTaM 
+new: 4935 : ava(ba)hitTA --tTaM : avahitTA : 2 : abahitTA avahitTaM abahitTaM
+status: ok Note:
+
+old: 5130 : avIja --jaka(abIja) : avIja : 2 : avIjaka abIja 
+new: 5130 : avIja --jaka(abIja) : avIja : 2 : avIjaka abIja
+status: nochange Note: Jim thinks this ok
+
+old: 5768 : AkA(ka)raRaM, --RA : AkAraRaM : 2 : AkaraRaM AkAraRA 
+new: 5768 : AkA(ka)raRaM, --RA : AkAraRaM : 2 : AkaraRaM AkAraRA AkaraRA
+status: ok Note:
+
+old: 5810 : AkroSaka, --krozwf : AkroSaka : 1 : AkroSakrozwf 
+new: 5810 : AkroSaka, --krozwf : AkroSaka : 1 : Akrozwf 
+status: ok Note:
+
+old: 6165 : Adi(dI)navaH, --vaM : AdinavaH : 2 : AdInavaH AdinavaM 
+new: 6165 : Adi(dI)navaH, --vaM : AdinavaH : 2 : AdInavaH AdinavaM AdInavaM 
+status: ok Note:
+
+old: 6321 : AnupUrve --rvye --Ra, AnupUrvyA : AnupUrve : 3 : AnupUrvye AnupUrveRa AnupUrvyA 
+new: 6321 : AnupUrve --rvye --Ra, AnupUrvyA : AnupUrve : 3 : AnupUrvye AnupUrveRa AnupUrvyA AnupUrvyeRa 
+status: ok Note:
+
+old: 7178 : AstikatA, --tvaM, AstikyaM : AstikatA : 1 : AstikatvaM 
+new: 7178 : AstikatA, --tvaM, AstikyaM : AstikatA : 1 : AstikatvaM AstikyaM 
+status: ok Note:
+
+old: 7536 : IzaRa, izARan : IzaRa : 1 : izARan 
+new: 7536 : IzaRa, izARan : IzaRa : 1 : izaRin 
+status: ok Note: typo: izARan -> izaRin
+
+old: 7760 : utkfzwatA, tAM : utkfzwatA : 1 : tAM 
+new: 7760 : utkfzwatA, tAM : utkfzwatA : 1 : utkfzwatvaM 
+status: ok Note: typo tAM -> tvaM
+
+old: 9306 : uSI(zI)raH, --raM, uSI(zI)rakaM : uSIraH : 4 : uzIraH uSIraM uSIrakaM uzIrakaM 
+new: 9306 : uSI(zI)raH, --raM, uSI(zI)rakaM : uSIraH : 4 : uzIraH uSIraM uSIrakaM uzIrakaM uzIraM 
+status: ok Note:
+
+old: 9548 : equ(qU,qo)kaH, --kaM : equkaH : 3 : eqUkaH eqUqokaH equkaM 
+new: 9548 : equ(qU,qo)kaH, --kaM : equkaH : 3 : eqUkaH eqokaH equkaM eqUkaM eqokaM
+status: ok Note:
+
+old: 9643 : Eqa(la)viqaH(laH) : EqaviqaH : 1 : ElaviqaH 
+new: 9643 : Eqa(la)viqaH(laH) : EqaviqaH : 1 : ElaviqaH EqavilaH ElavilaH
+status: ok Note:
+
+old: 9755 : OcityaM, ocitI : OcityaM : 1 : ocitI 
+new: 9755 : OcityaM, ocitI : OcityaM : 1 : OcitI 
+status: ok Note: typo ocitI -> OcitI
+
+---------------------------
+
+old: 9960 : kaMkataH, --taM kaMkatI, tikA : kaMkataH : 1 : kaMkataM 
+new: 9960 ok kaMkataH, --taM kaMkatI, tikA : kaMkataH : 1 : kaMkataM : kaMkatI : kaMkatikA
+status: ok Note:
+
+old: 9967 : kaMku(gu)zWaH --zWaM : kaMkuzWaH : 2 : kaMguzWaH kaMkuzWaM 
+new: 9967 : kaMku(gu)zWaH --zWaM : kaMkuzWaH : 2 : kaMguzWaH kaMkuzWaM kagkuzWaM
+status: ok Note:
+
+old: 10008 : kaMculikA, kaculI : kaMculikA : 1 : kaculI 
+new: 10008 : kaMculikA, kaculI : kaMculikA : 1 : kaMculI 
+status: ok Note: typo kaculI -> kaMculI
+
+old: 10094 : kaRAwInaH, --wIraH, --wArakaH : kaRAwInaH : 2 : kaRAwIraH kaRAwArakaH 
+new: 10094 : kaRAwInaH, --wIraH, --wArakaH : kaRAwInaH : 2 : kaRAwIraH kaRAwIrakaH 
+status: ok Note: printchange wArakaH -> wIrakaH  Also AP
+
+old: 10573 : kaSerukaH, kaserukaH --kA : kaSerukaH : 2 : kaserukaH kaSerukA 
+new: 10573 : kaSerukaH, kaserukaH --kA : kaSerukaH : 2 : kaserukaH kaSerukA kaserukA 
+status: ok Note:
+
+old: 10776 : kArota(tta)maH --raH : kArotamaH : 2 : kArottamaH kArotaraH 
+new: 10776 : kArota(tta)maH --raH : kArotamaH : 2 : kArottamaH kArotaraH kArottaraH 
+status: ok Note:
+
+old: 10954 : kisalaH, --laM, kisalayaH, --yaM : kisalaH : 1 : kisalaM 
+new: 10954 : kisalaH, --laM, kisalayaH, --yaM : kisalaH : 1 : kisalaM kisalayaH kisalayaM
+status: ok Note:
+
+old: 10964 : kIdfSa, kIdfSa : kIdfSa : 1 : kIdfSa 
+new: 10964 : kIdfS, kIdfSa, --SI, kIdfkza, --kzI : kIdfS : 1 : kIdfSa kIdfSI kIdfkza kIdfkzI
+status: ok Note: typo and markup. k2 -> kIdfS, kIdfSa, --SI, kIdfkza, --kzI
+
+old: 11011 : kujaMBalaH, kujaMBilaH, --raH : kujaMBalaH : 2 : kujaMBilaH kujaMBaraH 
+new: 11011 : kujaMBalaH, kujaMBilaH, --raH : kujaMBalaH : 2 : kujaMBilaH kujaMBaraH kujaMBiraH
+status: ok Note:
+
+old: 11038 : kuwIraH, --raM, kuwIrakaH : kuwIraH : 1 : kuwIraM 
+new: 11038 : kuwIraH, --raM, kuwIrakaH : kuwIraH : 1 : kuwIraM kuwIrakaH 
+status: ok Note:
+
+old: 11115 : kuTaH, --TaM, --TA : kuTaH : 1 : kuTaM 
+new: 11115 : kuTaH, --TaM, --TA : kuTaH : 1 : kuTaM kuTA
+status: ok Note:
+
+old: 11324 : kUcikA, kucI : kUcikA : 1 : kucI 
+new: 11324 : kUcikA, kUcI : kUcikA : 1 : kUcI 
+status: ok Note: print change kucI -> kUcI
+
+old: 11502 : kesa(Sa)raH, --raM : kesaraH : 2 : keSaraH kesaraM 
+new: 11502 : kesa(Sa)raH, --raM : kesaraH : 2 : keSaraH kesaraM keSaraM 
+status: ok Note:
+
+old: 11583 : koSaH, --SaM (zaH, --zaM) : koSaH : 1 : koSaM 
+new: 11583 : koSaH, --SaM (zaH, --zaM) : koSaH : 1 : koSaM kozaH kozaM 
+status: ok Note:
+
+old: 11733 : krIqanakaH, --kaM, krIqanIyaM, --yakaM : krIqanakaH : 1 : krIqanakaM 
+new: 11733 : krIqanakaH, --kaM, krIqanIyaM, --yakaM : krIqanakaH : 1 : krIqanakaM krIqanIyaM krIqanIyakaM
+status: ok Note:
+
+old: 12117 : Kali(lI)naH, --naM : KalinaH : 2 : KalInaH KalinaM 
+new: 12117 : Kali(lI)naH, --naM : KalinaH : 2 : KalInaH KalinaM KalInaM
+status: ok Note:
+
+old: 12451 : gAMqi(qI)vaH, --vaM : gAMqivaH : 2 : gAMqIvaH gAMqivaM 
+new: 12451 : gAMqi(qI)vaH, --vaM : gAMqivaH : 2 : gAMqIvaH gAMqivaM gAMqIvaM
+status: ok Note:
+
+old: 13408 : cucukaH, --kaM, cucUkaM : cucukaH : 1 : cucukaM 
+new: 13408 : cucukaH, --kaM, cucUkaM : cucukaH : 1 : cucukaM cucUkaM 
+status: ij Note:
+
+old: 13434 : cuMbaH, bA : cuMbaH : 1 : bA 
+new: 13434 : cuMbaH, bA : cuMbaH : 1 : cuMbA 
+status: ok Note:
+
+old: 13477 : cUrRiH --rRI : cUrRiH : 1 : cUrrRI 
+new: 13477 : cUrRiH --rRI : cUrRiH : 1 : cUrRI 
+status: ok Note:
+
+old: 14303 : tawAkaH --ka : tawAkaH : 1 : tawAka 
+new: 14303 : tawAkaH --kaM : tawAkaH : 1 : tawAkaM 
+status: ok Note: print change 'ka' -> kaM
+
+old: 15164 : datta, dataka, datrima : datta : 2 : dataka datrima 
+new: 15164 : datta, dattaka, datrima : datta : 2 : dattaka datrima 
+status: ok Note: printchange dataka -> dattaka
+
+old: 15861 : dvAja, dvAtriMSat, dvAdaSa : dvAja : 2 : dvAtriMSat dvAdaSa 
+new: 15861 : dvAja, dvAtriMSat, dvAdaSa : dvAja : 2 : dvAtriMSat dvAdaSa 
+status: nochange Note: Jim thinks no change needed
+
+old: 17634 : pawwi(wwI)SaH(saH) : pawwiSaH : 1 : pawwISaH 
+new: 17634 : pawwi(wwI)SaH(saH) : pawwiSaH : 1 : pawwISaH pawwisaH pawwIsaH
+status: ok Note:
+
+old: 18191 : pari(rI)raMBaH, --pariraMBaRaM : pariraMBaH : 2 : pariraMBaH pariraMBaRaM 
+new: 18191 : pari(rI)raMBaH, --pariraMBaRaM : pariraMBaH : 2 : pariraMBaH pariraMBaRaM parIraMBaH
+status: ok Note:
+
+old: 18224 : pari(rI)veSaH(zaH) : pariveSaH : 1 : parIveSaH 
+new: 18224 : pari(rI)veSaH(zaH) : pariveSaH : 1 : parIveSaH parivezaH parIvezaH
+status: ok Note:
+
+old: 18290 : parizkaM(skaM)d : parizkaMd : 1 : pariskad 
+new: 18290 : parizkaM(skaM)d : parizkaMd : 1 : pariskaMd 
+status: ok Note:
+
+old: 18321 : pari(rI)saryA, pari(rI)sAraH : parisaryA : 3 : parisaryA parisAraH parIsAraH 
+new: 18321 : pari(rI)saryA, pari(rI)sAraH : parisaryA : 3 : parIsaryA parisAraH parIsAraH 
+status: ok Note:
+
+old: 18906 : picaMqaH --qaM, piciMqaH --qaM : picaMqaH : 1 : picaMqaM 
+new: 18906 : picaMqaH --qaM, piciMqaH --qaM : picaMqaH : 1 : picaMqaM piciMqaH piciMqaM
+status: ok Note:
+
+old: 19214 : pustakaH --kaM, pustI : pustakaH : 1 : pustakaM 
+new: 19214 : pustakaH --kaM, pustI : pustakaH : 1 : pustakaM pustI 
+status: ok Note:
+
+old: 21639 : bazkaya(yi)RI(nI) : bazkayaRI : 3 : bazkayiRI bazkayinI bazkayinI 
+new: 21639 : bazkaya(yi)RI(nI) : bazkayaRI : 3 : bazkayiRI bazkayanI bazkayinI 
+status: ok Note:
+
+old: 21718 : bAlhakAH, bAlhikAH, bAlhIkAH : bAlhakAH : 2 : bAlhikAH bAlhIkAH 
+new: 21718 : bAlhakAH, bAlhikAH, bAlhIkAH : bAlhakAH : 2 : bAlhikAH bAlhIkAH 
+status: nochange Note: ap: has 'hl'. mw, pw, pwg, vcp have bAlhaka etc.
+
+old: 21744 : biwakaH --kaM, biwakA : biwakaH : 1 : biwakaM 
+new: 21744 : biwakaH --kaM, biwakA : biwakaH : 1 : biwakaM biwakA 
+status: ok Note:
+
+old: 23467 : meMQaH, meMQaMkaH : meMQaH : 1 : meMQaMkaH 
+new: 23467 : meMQaH, meMQakaH : meMQaH : 1 : meMQakaH 
+status: ok Note: typo meMQaMkaH -> meMQakaH
+
+old: 23525 : mEreyaH --yaM, mEreyakaH --kaM : mEreyaH : 1 : mEreyaM 
+new: 23525 : mEreyaH --yaM, mEreyakaH --kaM : mEreyaH : 1 : mEreyaM mEreyakaH mEreyakaM 
+status: ok Note:
+
+---------------------------
+
+old: 23865 : yUzaH --zaM yUzan : yUzaH : 1 : yUzaM 
+new: 23865 : yUzaH --zaM yUzan : yUzaH : 1 : yUzaM yUzan 
+status: ok Note:
+
+old: 24643 : libiH, --vI : libiH : 1 : livI 
+new: 24643 : libiH, --vI : libiH : 1 : libI 
+status: ok Note: k2 -> libiH, --bI
+
+old: 25829 : vijinaH --naM(laH, --laM) : vijinaH : 1 : vijinaM 
+new: 25829 : vijinaH --naM(laH, --laM) : vijinaH : 1 : vijinaM vijilaH vijilaM
+status: ok Note:
+
+old: 26629 : vizARaH --RaM, --RI : vizARaH : 1 : vizARaM 
+new: 26629 : vizARaH --RaM, --RI : vizARaH : 1 : vizARaM vizARI 
+status: ok Note:
+
+old: 27402 : vyAvakroSI, byAvaBAzI : vyAvakroSI : 1 : byAvaBAzI 
+new: 27402 : vyAvakroSI, byAvaBAzI : vyAvakroSI : 1 : vyAvaBAzI 
+status: ok Note: k2 typo byAvaBAzI -> vyAvaBAzI
+
+old: 28120 : SulkaH, --lakaM : SulkaH : 1 : SulakaM 
+new: 28120 : SulkaH, --lkaM : SulkaH : 1 : SulkaM 
+status: ok Note: typo lakaM -> lkaM
+
+old: 28122 : Sulv(lb) : Sulv : 1 : Sulba 
+new: 28122 : Sulv(lb) : Sulv : 1 : Sulb 
+status: ok Note:
+
+old: 28149 : SUdrARI, SUdI : SUdrARI : 1 : SUdI 
+new: 28149 : SUdrARI, SUdI : SUdrARI : 1 : SUdrI 
+status: ok Note: typo SUdI -> SUdrI
+
+old: 29033 : sawaM, sawA : sawaM : 1 : sawA 
+new: 29033 : sawaM, sawA : sawaM : 1 : sawA 
+status: nochange Note: 
+
+old: 29844 : sarUpatA, tvaM : sarUpatA : 1 : tvaM 
+new: 29844 : sarUpatA, tvaM : sarUpatA : 1 : sarUpatvaM 
+status: ok Note:
+
+old: 30325 : sihlakI, sihlAM : sihlakI : 1 : sihlAM 
+new: 30325 : sihlakI, sihlA : sihlakI : 1 : sihlA 
+status: ok Note:  typo (maybe p.c.) sihlAM -> sihlA
+
+old: 31027 : sPuliMgaH, --gaM, sPuliMgA : sPuliMgaH : 1 : sPuliMgaM 
+new: 31027 : sPuliMgaH, --gaM, sPuliMgA : sPuliMgaH : 1 : sPuliMgaM sPuliMgA 
+status: ok Note:
+
+

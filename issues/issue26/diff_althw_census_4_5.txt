@@ -1,0 +1,272 @@
+16c16
+< 306 : aMgulI(rI)yaM-kaM, --yakaM : aMgulIyaM : 5 : aMguIkaM aMgurIyaM aMgurIkaM aMgulIyakaM aMgurIyakaM
+---
+> 306 : aMgulI(rI)yaM-kaM, --yakaM : aMgulIyaM : 5 : aMgulIkaM aMgurIyaM aMgurIkaM aMgulIyakaM aMgurIyakaM
+132c132
+< 1587 : anujYApanaM, --jYAptiH : anujYApanaM : 1 : anujYAptiH
+---
+> 1587 : anujYApanaM, --jYaptiH : anujYApanaM : 1 : anujYaptiH
+137c137
+< 1680 : anupatanaM, pAtaH : anupatanaM : 1 : pAtaH
+---
+> 1680 : anupatanaM, pAtaH : anupatanaM : 1 : anupAtaH
+183c183
+< 2114 : aMtari --rI --kzya : aMtari : 2 : aMtarI aMtarikzya
+---
+> 2114 : aMtari-rI-kzaM : aMtarikzaM : 1 : aMtarIkzaM
+193c193
+< 2262 : apakAraka, --kArin : apakAraka : 1 : apakArakArin
+---
+> 2262 : apakAraka, --kArin : apakAraka : 1 : apakArin
+199c199
+< 2340 : apati, tika : apati : 1 : tika
+---
+> 2340 : apati, tika : apati : 1 : apatika
+249c249
+< 2869 : aprayApaRi --niH : aprayApaRi : 1 : aprayApaRiH
+---
+> 2869 : aprayApaRi --niH : aprayApaRi : 1 : aprayApaniH
+280c280
+< 3251 : aBimarSaka --rzaMka, --marSin --rzin : aBimarSaka : 3 : aBimarzaMka aBimarSin aBimarzin
+---
+> 3251 : aBimarSaka --rzaka, --marSin --rzin : aBimarSaka : 3 : aBimarzaka aBimarSin aBimarzin
+286c286
+< 3267 : aBiyoktavya, --yojya : aBiyoktavya : 1 : aBiyoktavyojya
+---
+> 3267 : aBiyoktavya, --yojya : aBiyoktavya : 1 : aBiyojya
+308c308
+< 3461 : aBisAM(SAM)tvaH, --tvanaM : aBisAMtvaH : 2 : aBiSAMtvaH aBisAMtvanaM
+---
+> 3461 : aBisAM(SAM)tvaH, --tvanaM : aBisAMtvaH : 3 : aBiSAMtvaH aBisAMtvanaM aBiSAMtvanaM
+311c311
+< 3514 : aBIta, --tiM : aBIta : 1 : aBItiM
+---
+> 3514 : aBIta, --ti : aBIta : 1 : aBIti
+380c380
+< 4189 : arbu(rvu)daH, --daM : arbudaH : 2 : arvudaH arbudaM
+---
+> 4189 : arbu(rvu)daH, --daM : arbudaH : 3 : arvudaH arbudaM arvudaM
+417c417
+< 4935 : ava(ba)hitTA --tTaM : avahitTA : 2 : abahitTA avahitTaM
+---
+> 4935 : ava(ba)hitTA --tTaM : avahitTA : 3 : abahitTA avahitTaM abahitTaM
+424c424
+< 5130 : avIja --jaka(abIja) : avIja : 2 : avIjaka abIja
+---
+> 5130 : avIja --jaka(abIja) : avIja : 3 : avIjaka abIja abIjaka
+466c466
+< 5768 : AkA(ka)raRaM, --RA : AkAraRaM : 2 : AkaraRaM AkAraRA
+---
+> 5768 : AkA(ka)raRaM, --RA : AkAraRaM : 3 : AkaraRaM AkAraRA AkaraRA
+469c469
+< 5810 : AkroSaka, --krozwf : AkroSaka : 1 : AkroSakrozwf
+---
+> 5810 : AkroSaka, --krozwf : AkroSaka : 1 : Akrozwf
+501c501
+< 6165 : Adi(dI)navaH, --vaM : AdinavaH : 2 : AdInavaH AdinavaM
+---
+> 6165 : Adi(dI)navaH, --vaM : AdinavaH : 3 : AdInavaH AdinavaM AdInavaM
+508c508
+< 6321 : AnupUrve --rvye --Ra, AnupUrvyA : AnupUrve : 3 : AnupUrvye AnupUrveRa AnupUrvyA
+---
+> 6321 : AnupUrve --rvye --Ra, AnupUrvyA : AnupUrveRa : 2 : AnupUrvyeRa AnupUrvyA
+575c575
+< 7178 : AstikatA, --tvaM, AstikyaM : AstikatA : 1 : AstikatvaM
+---
+> 7178 : AstikatA, --tvaM, AstikyaM : AstikatA : 2 : AstikatvaM AstikyaM
+607c607
+< 7536 : IzaRa, izARan : IzaRa : 1 : izARan
+---
+> 7536 : IzaRa, izaRin : IzaRa : 1 : izaRin
+625c625
+< 7760 : utkfzwatA, tAM : utkfzwatA : 1 : tAM
+---
+> 7760 : utkfzwatA, tvaM : utkfzwatA : 1 : tvaM
+726c726
+< 9306 : uSI(zI)raH, --raM, uSI(zI)rakaM : uSIraH : 4 : uzIraH uSIraM uSIrakaM uzIrakaM
+---
+> 9306 : uSI(zI)raH, --raM, uSI(zI)rakaM : uSIraH : 5 : uzIraH uSIraM uzIraM uSIrakaM uzIrakaM
+745c745
+< 9548 : equ(qU,qo)kaH, --kaM : equkaH : 3 : eqUkaH eqUqokaH equkaM
+---
+> 9548 : equ(qU,qo)kaH, --kaM : equkaH : 5 : eqUkaH eqokaH equkaM eqUkaM eqokaM
+750c750
+< 9643 : Eqa(la)viqaH(laH) : EqaviqaH : 1 : ElaviqaH
+---
+> 9643 : Eqa(la)viqaH(laH) : EqaviqaH : 3 : ElaviqaH EqavilaH EqavilaH
+763c763
+< 9755 : OcityaM, ocitI : OcityaM : 1 : ocitI
+---
+> 9755 : OcityaM, OcitI : OcityaM : 1 : OcitI
+784c784
+< 9960 : kaMkataH, --taM kaMkatI, tikA : kaMkataH : 1 : kaMkataM
+---
+> 9960 : kaMkataH, --taM kaMkatI, tikA : kaMkataH : 3 : kaMkataM kaMkatI kaMkatikA
+786c786
+< 9967 : kaMku(gu)zWaH --zWaM : kaMkuzWaH : 2 : kaMguzWaH kaMkuzWaM
+---
+> 9967 : kaMku(gu)zWaH --zWaM : kaMkuzWaH : 3 : kaMguzWaH kaMkuzWaM kaMguzWaM
+791c791
+< 10008 : kaMculikA, kaculI : kaMculikA : 1 : kaculI
+---
+> 10008 : kaMculikA, kaMculI : kaMculikA : 1 : kaMculI
+808c808
+< 10094 : kaRAwInaH, --wIraH, --wArakaH : kaRAwInaH : 2 : kaRAwIraH kaRAwArakaH
+---
+> 10094 : kaRAwInaH, --wIraH, --wIrakaH : kaRAwInaH : 2 : kaRAwIraH kaRAwIrakaH
+877c877
+< 10573 : kaSerukaH, kaserukaH --kA : kaSerukaH : 2 : kaserukaH kaSerukA
+---
+> 10573 : kaSerukaH, kaserukaH --kA : kaSerukaH : 3 : kaserukaH kaSerukA kaSerukA
+902c902
+< 10776 : kArota(tta)maH --raH : kArotamaH : 2 : kArottamaH kArotaraH
+---
+> 10776 : kArota(tta)maH --raH : kArotamaH : 3 : kArottamaH kArotaraH kArottaraH
+922,923c922,923
+< 10954 : kisalaH, --laM, kisalayaH, --yaM : kisalaH : 1 : kisalaM
+< 10964 : kIdfSa, kIdfSa : kIdfSa : 1 : kIdfSa
+---
+> 10954 : kisalaH, --laM, kisalayaH, --yaM : kisalaH : 3 : kisalaM kisalayaH kisalayaM
+> 10964 : kIdfSa, kIdfSa : kIdfSa : 2 : kIdfSa kIdfkza
+929c929
+< 11011 : kujaMBalaH, kujaMBilaH, --raH : kujaMBalaH : 2 : kujaMBilaH kujaMBaraH
+---
+> 11011 : kujaMBalaH, kujaMBilaH, --raH : kujaMBalaH : 3 : kujaMBilaH kujaMBaraH kujaMBiraH
+934c934
+< 11038 : kuwIraH, --raM, kuwIrakaH : kuwIraH : 1 : kuwIraM
+---
+> 11038 : kuwIraH, --raM, kuwIrakaH : kuwIraH : 2 : kuwIraM kuwIrakaH
+945c945
+< 11115 : kuTaH, --TaM, --TA : kuTaH : 1 : kuTaM
+---
+> 11115 : kuTaH, --TaM, --TA : kuTaH : 2 : kuTaM kuTA
+978c978
+< 11324 : kUcikA, kucI : kUcikA : 1 : kucI
+---
+> 11324 : kUcikA, kUcI : kUcikA : 1 : kUcI
+993c993
+< 11502 : kesa(Sa)raH, --raM : kesaraH : 2 : keSaraH kesaraM
+---
+> 11502 : kesa(Sa)raH, --raM : kesaraH : 3 : keSaraH kesaraM keSaraM
+1009c1009
+< 11583 : koSaH, --SaM (zaH, --zaM) : koSaH : 1 : koSaM
+---
+> 11583 : koSaH, --SaM (zaH, --zaM) : koSaH : 3 : koSaM kozaH kozaM
+1025c1025
+< 11733 : krIqanakaH, --kaM, krIqanIyaM, --yakaM : krIqanakaH : 1 : krIqanakaM
+---
+> 11733 : krIqanakaH, --kaM, krIqanIyaM, --yakaM : krIqanakaH : 3 : krIqanakaM krIqanIyaM krIqanIyakaM
+1069c1069
+< 12117 : Kali(lI)naH, --naM : KalinaH : 2 : KalInaH KalinaM
+---
+> 12117 : Kali(lI)naH, --naM : KalinaH : 3 : KalInaH KalinaM KalInaM
+1110c1110
+< 12451 : gAMqi(qI)vaH, --vaM : gAMqivaH : 2 : gAMqIvaH gAMqivaM
+---
+> 12451 : gAMqi(qI)vaH, --vaM : gAMqivaH : 3 : gAMqIvaH gAMqivaM gAMqIvaM
+1199c1199
+< 13408 : cucukaH, --kaM, cucUkaM : cucukaH : 1 : cucukaM
+---
+> 13408 : cucukaH, --kaM, cucUkaM : cucukaH : 2 : cucukaM cucUkaM
+1201c1201
+< 13434 : cuMbaH, bA : cuMbaH : 1 : bA
+---
+> 13434 : cuMbaH, bA : cuMbaH : 1 : cuMbA
+1210c1210
+< 13477 : cUrRiH --rRI : cUrRiH : 1 : cUrrRI
+---
+> 13477 : cUrRiH --rRI : cUrRiH : 1 : cUrRI
+1291c1291
+< 14303 : tawAkaH --ka : tawAkaH : 1 : tawAka
+---
+> 14303 : tawAkaH --kaM : tawAkaH : 1 : tawAkaM
+1379c1379
+< 15164 : datta, dataka, datrima : datta : 2 : dataka datrima
+---
+> 15164 : datta, dattaka, datrima : datta : 2 : dattaka datrima
+1618c1618
+< 17634 : pawwi(wwI)SaH(saH) : pawwiSaH : 1 : pawwISaH
+---
+> 17634 : pawwi(wwI)SaH(saH) : pawwiSaH : 3 : pawwISaH pawwisaH pawwIsaH
+1666c1666
+< 18191 : pari(rI)raMBaH, --pariraMBaRaM : pariraMBaH : 2 : pariraMBaH pariraMBaRaM
+---
+> 18191 : pari(rI)raMBaH, --pariraMBaRaM : pariraMBaH : 2 : parIraMBaH pariraMBaRaM
+1671c1671
+< 18224 : pari(rI)veSaH(zaH) : pariveSaH : 1 : parIveSaH
+---
+> 18224 : pari(rI)veSaH(zaH) : pariveSaH : 3 : parIveSaH parivezaH parIvezaH
+1679c1679
+< 18290 : parizkaM(skaM)d : parizkaMd : 1 : pariskad
+---
+> 18290 : parizkaM(skaM)d : parizkaMd : 1 : pariskaMd
+1687c1687
+< 18321 : pari(rI)saryA, pari(rI)sAraH : parisaryA : 3 : parisaryA parisAraH parIsAraH
+---
+> 18321 : pari(rI)saryA, pari(rI)sAraH : parisaryA : 3 : parIsaryA parisAraH parIsAraH
+1737c1737
+< 18906 : picaMqaH --qaM, piciMqaH --qaM : picaMqaH : 1 : picaMqaM
+---
+> 18906 : picaMqaH --qaM, piciMqaH --qaM : picaMqaH : 3 : picaMqaM piciMqaH piciMqaM
+1773c1773
+< 19214 : pustakaH --kaM, pustI : pustakaH : 1 : pustakaM
+---
+> 19214 : pustakaH --kaM, pustI : pustakaH : 2 : pustakaM pustI
+1965c1965
+< 21639 : bazkaya(yi)RI(nI) : bazkayaRI : 3 : bazkayiRI bazkayinI bazkayinI
+---
+> 21639 : bazkaya(yi)RI(nI) : bazkayaRI : 3 : bazkayiRI bazkayanI bazkayinI
+1974c1974
+< 21744 : biwakaH --kaM, biwakA : biwakaH : 1 : biwakaM
+---
+> 21744 : biwakaH --kaM, biwakA : biwakaH : 2 : biwakaM biwakA
+2133c2133
+< 23467 : meMQaH, meMQaMkaH : meMQaH : 1 : meMQaMkaH
+---
+> 23467 : meMQaH, meMQakaH : meMQaH : 1 : meMQakaH
+2137c2137
+< 23525 : mEreyaH --yaM, mEreyakaH --kaM : mEreyaH : 1 : mEreyaM
+---
+> 23525 : mEreyaH --yaM, mEreyakaH --kaM : mEreyaH : 3 : mEreyaM mEreyakaH mEreyakaM
+2166c2166
+< 23865 : yUzaH --zaM yUzan : yUzaH : 1 : yUzaM
+---
+> 23865 : yUzaH --zaM yUzan : yUzaH : 2 : yUzaM yUzan
+2222c2222
+< 24643 : libiH, --vI : libiH : 1 : livI
+---
+> 24643 : libiH, --bI : libiH : 1 : libI
+2315c2315
+< 25829 : vijinaH --naM(laH, --laM) : vijinaH : 1 : vijinaM
+---
+> 25829 : vijinaH --naM(laH, --laM) : vijinaH : 3 : vijinaM vijilaH vijilaM
+2371c2371
+< 26629 : vizARaH --RaM, --RI : vizARaH : 1 : vizARaM
+---
+> 26629 : vizARaH --RaM, --RI : vizARaH : 2 : vizARaM vizARI
+2419c2419
+< 27402 : vyAvakroSI, byAvaBAzI : vyAvakroSI : 1 : byAvaBAzI
+---
+> 27402 : vyAvakroSI, vyAvaBAzI : vyAvakroSI : 1 : vyAvaBAzI
+2484,2485c2484,2485
+< 28120 : SulkaH, --lakaM : SulkaH : 1 : SulakaM
+< 28122 : Sulv(lb) : Sulv : 1 : Sulba
+---
+> 28120 : SulkaH, --lkaM : SulkaH : 1 : SulkaM
+> 28122 : Sulv(lb) : Sulv : 1 : Sulb
+2492c2492
+< 28149 : SUdrARI, SUdI : SUdrARI : 1 : SUdI
+---
+> 28149 : SUdrARI, SUdrI : SUdrARI : 1 : SUdrI
+2581c2581
+< 29844 : sarUpatA, tvaM : sarUpatA : 1 : tvaM
+---
+> 29844 : sarUpatA, tvaM : sarUpatA : 1 : sarUpatvaM
+2614c2614
+< 30325 : sihlakI, sihlAM : sihlakI : 1 : sihlAM
+---
+> 30325 : sihlakI, sihlI : sihlakI : 1 : sihlI
+2659c2659
+< 31027 : sPuliMgaH, --gaM, sPuliMgA : sPuliMgaH : 1 : sPuliMgaM
+---
+> 31027 : sPuliMgaH, --gaM, sPuliMgA : sPuliMgaH : 2 : sPuliMgaM sPuliMgA

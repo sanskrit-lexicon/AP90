@@ -1,0 +1,441 @@
+* DONE 306
+old: 306 : aMgulI(rI)yaM-kaM, --yakaM : aMgulIyaM : 5 : aMguIkaM aMgurIyaM aMgurIkaM aMgulIyakaM aMgurIyakaM
+new: 306 : aMgulI(rI)yaM-kaM, --yakaM : aMgulIyaM : 5 : aMgulIkaM aMgurIyaM aMgurIkaM aMgulIyakaM aMgurIyakaM
+status: ok Note:
+AB: Good
+
+* DONE 1587
+old: 1587 : anujYApanaM, --jYAptiH : anujYApanaM : 1 : anujYAptiH
+new: 1587 : anujYApanaM, --jYaptiH : anujYApanaM : 1 : anujYaptiH
+status: ok Note: typo jYAptiH -> jYaptiH
+AB: Good
+
+* DONE 1680
+old: 1680 : anupatanaM, pAtaH : anupatanaM : 1 : pAtaH
+new: 1680 : anupatanaM, pAtaH : anupatanaM : 1 : anupAtaH
+status: ok Note:
+AB: Good
+
+* DONE 2113  nochange Added by AB. see 2114 next ABException
+old: 2113 : aMtari --rI --kzaM : aMtari : 3 : aMtari aMtarikzaM aMtarIkzaM
+ABn: 2113 : aMtari --rI --kzaM : aMtarikzaM : 1 : aMtarIkzaM
+
+* DONE 2114  ABException see new1
+old: 2114 : aMtari --rI --kzya : aMtari : 2 : aMtarI aMtarikzya
+new: 2114 : aMtari --rI --kzya : aMtari : 2 : aMtarI aMtarikzaM
+new1: 2114 : aMtari-rI-kzaM : aMtarikzaM : 1 : aMtarIkzaM  ;; JIM: Print is kzaM, not kzya
+status: ok Note: typo kzya -> kzaM
+ABn: 2114 :  aMtari --rI --kzya : aMtarikzya : 1 : aMtarIkzya
+
+* DONE 2262
+old: 2262 : apakAraka, --kArin : apakAraka : 1 : apakArakArin
+new: 2262 : apakAraka, --kArin : apakAraka : 1 : apakArin
+status: ok Note:
+AB: Good
+
+* DONE 2340
+old: 2340 : apati, tika : apati : 1 : tika
+new: 2340 : apati, tika : apati : 1 : apatika
+status: ok Note:
+AB: Good
+
+* DONE 2869
+old: 2869 : aprayApaRi --niH : aprayApaRi : 1 : aprayApaRiH
+new: 2869 : aprayApaRi --niH : aprayApaRi : 1 : aprayApaniH
+status: ok Note:
+AB: Good
+
+* DONE 3251
+old: 3251 : aBimarSaka --rzaMka, --marSin --rzin : aBimarSaka : 3 : aBimarzaMka aBimarSin aBimarzin
+new: 3251 : aBimarSaka --rzaMka, --marSin --rzin : aBimarSaka : 3 : aBimarzaka aBimarSin aBimarzin
+status: ok Note: typo rzaMka -> rzaka
+AB: Good
+
+* DONE 3267
+old: 3267 : aBiyoktavya, --yojya : aBiyoktavya : 1 : aBiyoktavyojya
+new: 3267 : aBiyoktavya, --yojya : aBiyoktavya : 1 : aBiyoktavya
+status: ok Note:
+ABn: 3267 : aBiyoktavya, --yojya : aBiyoktavya : 1 : aBiyojya
+
+* DONE 3461
+old: 3461 : aBisAM(SAM)tvaH, --tvanaM : aBisAMtvaH : 2 : aBiSAMtvaH aBisAMtvanaM
+new: 3461 : aBisAM(SAM)tvaH, --tvanaM : aBisAMtvaH : 2 : aBiSAMtvaH aBisAMtvanaM aBiSAMtvanaM
+status: ok Note:
+ABn:  3461 : aBisAM(SAM)tvaH, --tvanaM : aBisAMtvaH : 3 : aBiSAMtvaH aBisAMtvanaM aBiSAMtvanaM ;;count change
+
+* DONE 3514
+old: 3514 : aBIta, --tiM : aBIta : 1 : aBItiM
+new: 3514 : aBIta, --tiM : aBIta : 1 : aBIti
+status: ok Note: typo tiM -> ti
+AB: Good
+
+* DONE 4189
+old: 4189 : arbu(rvu)daH, --daM : arbudaH : 2 : arvudaH arbudaM
+new: 4189 : arbu(rvu)daH, --daM : arbudaH : 2 : arvudaH arbudaM arvudaM
+status: ok Note:
+ABn: 4189 : arbu(rvu)daH, --daM : arbudaH : 3 : arvudaH arbudaM arvudaM ;;count change
+
+* DONE 4935  aba-hitTA and aba-hitTam are unique to ap90, ap 
+old: 4935 : ava(ba)hitTA --tTaM : avahitTA : 2 : abahitTA avahitTaM
+new: 4935 : ava(ba)hitTA --tTaM : avahitTA : 2 : abahitTA avahitTaM abahitTaM
+status: ok Note:
+ABn: 4935 : ava(ba)hitTA --tTaM : avahitTA : 3 : abahitTA avahitTaM abahitTaM ;;count change
+
+* DONE 5130
+old: 5130 : avIja --jaka(abIja) : avIja : 2 : avIjaka abIja
+new: 5130 : avIja --jaka(abIja) : avIja : 2 : avIjaka abIja
+status: nochange Note: Jim thinks this ok
+ABn: 5130 : avIja --jaka(abIja) : avIja : 3 : avIjaka abIja  abIjaka
+
+* DONE 5768
+old: 5768 : AkA(ka)raRaM, --RA : AkAraRaM : 2 : AkaraRaM AkAraRA
+new: 5768 : AkA(ka)raRaM, --RA : AkAraRaM : 2 : AkaraRaM AkAraRA AkaraRA
+status: ok Note:
+AB: 5768 : AkA(ka)raRaM, --RA : AkAraRaM : 3 : AkaraRaM AkAraRA AkaraRA ;;count change
+
+* DONE 5810
+old: 5810 : AkroSaka, --krozwf : AkroSaka : 1 : AkroSakrozwf
+new: 5810 : AkroSaka, --krozwf : AkroSaka : 1 : Akrozwf
+status: ok Note:
+AB: Good
+
+* DONE 6165
+old: 6165 : Adi(dI)navaH, --vaM : AdinavaH : 2 : AdInavaH AdinavaM
+new: 6165 : Adi(dI)navaH, --vaM : AdinavaH : 2 : AdInavaH AdinavaM AdInavaM
+status: ok Note:
+ABn: 6165 : Adi(dI)navaH, --vaM : AdinavaH : 3 : AdInavaH AdinavaM AdInavaM ;;count change
+
+* DONE 6321  confirm pw under AnupUrva: 
+old: 6321 : AnupUrve --rvye --Ra, AnupUrvyA : AnupUrve : 3 : AnupUrvye AnupUrveRa AnupUrvyA
+new: 6321 : AnupUrve --rvye --Ra, AnupUrvyA : AnupUrve : 3 : AnupUrvye AnupUrveRa AnupUrvyA AnupUrvyeRa
+status: ok Note:
+ABn: 6321 : AnupUrve --rvye --Ra, AnupUrvyA : AnupUrveRa : 2 :  AnupUrvyeRa  AnupUrvyA
+
+* DONE 7178
+old: 7178 : AstikatA, --tvaM, AstikyaM : AstikatA : 1 : AstikatvaM
+new: 7178 : AstikatA, --tvaM, AstikyaM : AstikatA : 1 : AstikatvaM AstikyaM
+status: ok Note:
+ABn: 7178 : AstikatA, --tvaM, AstikyaM : AstikatA : 2 : AstikatvaM AstikyaM ;;count change
+
+* DONE 7536
+old: 7536 : IzaRa, izARan : IzaRa : 1 : izARan
+new: 7536 : IzaRa, izARin : IzaRa : 1 : izaRin
+status: ok Note: typo: izARan -> izaRin
+AB: Good
+
+* DONE 7760
+old: 7760 : utkfzwatA, tAM : utkfzwatA : 1 : tAM
+new: 7760 : utkfzwatA, tAM : utkfzwatA : 1 : utkfzwatvaM
+status: ok Note: typo tAM -> tvaM
+ABn: 7760 : utkfzwatA, tvaM : utkfzwatA : 1 : utkfzwatvaM
+
+* DONE 9306
+old: 9306 : uSI(zI)raH, --raM, uSI(zI)rakaM : uSIraH : 4 : uzIraH uSIraM uSIrakaM uzIrakaM
+new: 9306 : uSI(zI)raH, --raM, uSI(zI)rakaM : uSIraH : 4 : uzIraH uSIraM uSIrakaM uzIrakaM uzIraM
+status: ok Note:
+ABn: 9306 : uSI(zI)raH, --raM, uSI(zI)rakaM : uSIraH : 5 : uzIraH uSIraM uzIraM uSIrakaM uzIrakaM ;;count change
+
+* DONE 9548
+old: 9548 : equ(qU,qo)kaH, --kaM : equkaH : 3 : eqUkaH eqUqokaH equkaM
+new: 9548 : equ(qU,qo)kaH, --kaM : equkaH : 3 : eqUkaH eqokaH equkaM eqUkaM eqokaM
+status: ok Note:
+ABn: 9548 : equ(qU,qo)kaH, --kaM : equkaH : 5 : eqUkaH eqokaH equkaM eqUkaM eqokaM ;;count change
+
+* DONE 9643
+old: 9643 : Eqa(la)viqaH(laH) : EqaviqaH : 1 : ElaviqaH
+new: 9643 : Eqa(la)viqaH(laH) : EqaviqaH : 1 : ElaviqaH EqavilaH ElavilaH
+status: ok Note:
+ABn: 9643 : Eqa(la)viqaH(laH) : EqaviqaH : 3 : ElaviqaH EqavilaH ElavilaH ;;count change
+
+* DONE 9755
+old: 9755 : OcityaM, ocitI : OcityaM : 1 : ocitI
+new: 9755 : OcityaM, ocitI : OcityaM : 1 : OcitI
+status: ok Note: typo ocitI -> OcitI
+AB: Good
+---------------------------
+* DONE 9960
+old: 9960 : kaMkataH, --taM kaMkatI, tikA : kaMkataH : 1 : kaMkataM
+new: 9960 : kaMkataH, --taM kaMkatI, tikA : kaMkataH : 1 : kaMkataM kaMkatI kaMkatikA
+status: ok Note:
+ABn: 9960 : kaMkataH, --taM kaMkatI, tikA : kaMkataH : 3 : kaMkataM kaMkatI kaMkatikA ;;count change
+
+* DONE 9967
+old: 9967 : kaMku(gu)zWaH --zWaM : kaMkuzWaH : 2 : kaMguzWaH kaMkuzWaM
+new: 9967 : kaMku(gu)zWaH --zWaM : kaMkuzWaH : 2 : kaMguzWaH kaMkuzWaM kagkuzWaM
+status: ok Note:
+ABn: 9967 : kaMku(gu)zWaH --zWaM : kaMkuzWaH : 3 : kaMguzWaH kaMkuzWaM kaMguzWaM
+
+* DONE 10008
+old: 10008 : kaMculikA, kaculI : kaMculikA : 1 : kaculI
+new: 10008 : kaMculikA, kaculI : kaMculikA : 1 : kaMculI
+status: ok Note: typo kaculI -> kaMculI
+AB: Good
+
+* DONE 10094
+old: 10094 : kaRAwInaH, --wIraH, --wArakaH : kaRAwInaH : 2 : kaRAwIraH kaRAwArakaH
+new: 10094 : kaRAwInaH, --wIraH, --wArakaH : kaRAwInaH : 2 : kaRAwIraH kaRAwIrakaH
+status: ok Note: printchange wArakaH -> wIrakaH Also AP
+AB: Good
+
+* DONE 10573
+old: 10573 : kaSerukaH, kaserukaH --kA : kaSerukaH : 2 : kaserukaH kaSerukA
+new: 10573 : kaSerukaH, kaserukaH --kA : kaSerukaH : 2 : kaserukaH kaSerukA kaserukA
+status: ok Note:
+ABn: 10573 : kaSerukaH, kaserukaH --kA : kaSerukaH : 3 : kaserukaH kaSerukA kaserukA ;;count change
+
+* DONE 10776
+old: 10776 : kArota(tta)maH --raH : kArotamaH : 2 : kArottamaH kArotaraH
+new: 10776 : kArota(tta)maH --raH : kArotamaH : 2 : kArottamaH kArotaraH kArottaraH
+status: ok Note:
+ABn: 10776 : kArota(tta)maH --raH : kArotamaH : 3 : kArottamaH kArotaraH kArottaraH ;;count change
+
+* DONE 10954
+old: 10954 : kisalaH, --laM, kisalayaH, --yaM : kisalaH : 1 : kisalaM
+new: 10954 : kisalaH, --laM, kisalayaH, --yaM : kisalaH : 1 : kisalaM kisalayaH kisalayaM
+status: ok Note:
+ABn: 10954 : kisalaH, --laM, kisalayaH, --yaM : kisalaH : 3 : kisalaM kisalayaH kisalayaM ;;count change
+
+* DONE 10964  ABQUESTION: Why drop kIdfSI, kIdfkzI?
+old: 10964 : kIdfSa, kIdfSa : kIdfSa : 1 : kIdfSa
+new: 10964 : kIdfS, kIdfSa, --SI, kIdfkza, --kzI : kIdfS : 1 : kIdfSa kIdfSI kIdfkza kIdfkzI
+status: ok Note: typo and markup. k2 -> kIdfS, kIdfSa, --SI, kIdfkza, --kzI
+ABn: 10964 : kIdfS, kIdfSa, kIdfkza : kIdfS : 2 : kIdfSa kIdfkza
+
+* DONE 11011
+old: 11011 : kujaMBalaH, kujaMBilaH, --raH : kujaMBalaH : 2 : kujaMBilaH kujaMBaraH
+new: 11011 : kujaMBalaH, kujaMBilaH, --raH : kujaMBalaH : 2 : kujaMBilaH kujaMBaraH kujaMBiraH
+status: ok Note:
+ABn: 11011 : kujaMBalaH, kujaMBilaH, --raH : kujaMBalaH : 3 : kujaMBilaH kujaMBaraH kujaMBiraH ;;count change
+
+* DONE 11038
+old: 11038 : kuwIraH, --raM, kuwIrakaH : kuwIraH : 1 : kuwIraM
+new: 11038 : kuwIraH, --raM, kuwIrakaH : kuwIraH : 1 : kuwIraM kuwIrakaH
+status: ok Note:
+ABn: 11038 : kuwIraH, --raM, kuwIrakaH : kuwIraH : 2 : kuwIraM kuwIrakaH ;;count change
+
+* DONE 11115
+old: 11115 : kuTaH, --TaM, --TA : kuTaH : 1 : kuTaM
+new: 11115 : kuTaH, --TaM, --TA : kuTaH : 1 : kuTaM kuTA
+status: ok Note:
+ABn: 11115 : kuTaH, --TaM, --TA : kuTaH : 2 : kuTaM kuTA ;;count change
+
+* DONE 11324
+old: 11324 : kUcikA, kucI : kUcikA : 1 : kucI
+new: 11324 : kUcikA, kUcI : kUcikA : 1 : kUcI
+status: ok Note: print change kucI -> kUcI
+AB: Good
+
+* DONE 11502
+old: 11502 : kesa(Sa)raH, --raM : kesaraH : 2 : keSaraH kesaraM
+new: 11502 : kesa(Sa)raH, --raM : kesaraH : 2 : keSaraH kesaraM keSaraM
+status: ok Note:
+ABn: 11502 : kesa(Sa)raH, --raM : kesaraH : 3 : keSaraH kesaraM keSaraM ;;count change
+
+* DONE 11583
+old: 11583 : koSaH, --SaM (zaH, --zaM) : koSaH : 1 : koSaM
+new: 11583 : koSaH, --SaM (zaH, --zaM) : koSaH : 1 : koSaM kozaH kozaM
+status: ok Note:
+ABn: 11583 : koSaH, --SaM (zaH, --zaM) : koSaH : 3 : koSaM kozaH kozaM ;;count change
+
+* DONE 11733
+old: 11733 : krIqanakaH, --kaM, krIqanIyaM, --yakaM : krIqanakaH : 1 : krIqanakaM
+new: 11733 : krIqanakaH, --kaM, krIqanIyaM, --yakaM : krIqanakaH : 1 : krIqanakaM krIqanIyaM krIqanIyakaM
+status: ok Note:
+ABn: 11733 : krIqanakaH, --kaM, krIqanIyaM, --yakaM : krIqanakaH : 3 : krIqanakaM krIqanIyaM krIqanIyakaM ;;count change
+
+* DONE 12117
+old: 12117 : Kali(lI)naH, --naM : KalinaH : 2 : KalInaH KalinaM
+new: 12117 : Kali(lI)naH, --naM : KalinaH : 2 : KalInaH KalinaM KalInaM
+status: ok Note:
+ABn: 12117 : Kali(lI)naH, --naM : KalinaH : 3 : KalInaH KalinaM KalInaM ;;count change
+
+* DONE 12451
+old: 12451 : gAMqi(qI)vaH, --vaM : gAMqivaH : 2 : gAMqIvaH gAMqivaM
+new: 12451 : gAMqi(qI)vaH, --vaM : gAMqivaH : 2 : gAMqIvaH gAMqivaM gAMqIvaM
+status: ok Note:
+ABn: 12451 : gAMqi(qI)vaH, --vaM : gAMqivaH : 3 : gAMqIvaH gAMqivaM gAMqIvaM ;;count change
+
+* DONE 13408
+old: 13408 : cucukaH, --kaM, cucUkaM : cucukaH : 1 : cucukaM
+new: 13408 : cucukaH, --kaM, cucUkaM : cucukaH : 1 : cucukaM cucUkaM
+status: ij Note:
+ABn: 13408 : cucukaH, --kaM, cucUkaM : cucukaH : 2 : cucukaM cucUkaM ;;count change
+
+* DONE 13434
+old: 13434 : cuMbaH, bA : cuMbaH : 1 : bA
+new: 13434 : cuMbaH, bA : cuMbaH : 1 : cuMbA
+status: ok Note:
+AB: Good
+
+* DONE 13477
+old: 13477 : cUrRiH --rRI : cUrRiH : 1 : cUrrRI
+new: 13477 : cUrRiH --rRI : cUrRiH : 1 : cUrRI
+status: ok Note:
+AB: Good
+
+* DONE 14303
+old: 14303 : tawAkaH --ka : tawAkaH : 1 : tawAka
+new: 14303 : tawAkaH --kaM : tawAkaH : 1 : tawAkaM
+status: ok Note: print change 'ka' -> kaM
+AB: Good
+
+* DONE 15164
+old: 15164 : datta, dataka, datrima : datta : 2 : dataka datrima
+new: 15164 : datta, dattaka, datrima : datta : 2 : dattaka datrima
+status: ok Note: printchange dataka -> dattaka
+AB: Good
+
+* DONE 15861 ABEXception. 
+old: 15861 : dvAja, dvAtriMSat, dvAdaSa : dvAja : 2 : dvAtriMSat dvAdaSa
+new: 15861 : dvAja, dvAtriMSat, dvAdaSa : dvAja : 2 : dvAtriMSat dvAdaSa
+status: nochange Note: Jim thinks no change needed
+AB: dvAja (which in no way can be found under ‘dvi’) has to be dvija ;;print change
+JIM: dvAja appears in l4v, mw, pw, pwg, vcp. in AP90(AP) these dvA words appear as 'dvi' compounds
+     
+     
+* DONE 17634
+old: 17634 : pawwi(wwI)SaH(saH) : pawwiSaH : 1 : pawwISaH
+new: 17634 : pawwi(wwI)SaH(saH) : pawwiSaH : 1 : pawwISaH pawwisaH pawwIsaH
+status: ok Note:
+ABn: 17634 : pawwi(wwI)SaH(saH) : pawwiSaH : 3 : pawwISaH pawwisaH pawwIsaH ;;count change
+
+* DONE 18191
+old: 18191 : pari(rI)raMBaH, --pariraMBaRaM : pariraMBaH : 2 : pariraMBaH pariraMBaRaM
+new: 18191 : pari(rI)raMBaH, --pariraMBaRaM : pariraMBaH : 2 : pariraMBaH pariraMBaRaM parIraMBaH
+status: ok Note:
+ABn: 18191 : pari(rI)raMBaH, --pariraMBaRaM : pariraMBaH : 2 : parIraMBaH pariraMBaRaM 
+
+* DONE 18224
+old: 18224 : pari(rI)veSaH(zaH) : pariveSaH : 1 : parIveSaH
+new: 18224 : pari(rI)veSaH(zaH) : pariveSaH : 1 : parIveSaH parivezaH parIvezaH
+status: ok Note:
+ABn: 18224 : pari(rI)veSaH(zaH) : pariveSaH : 3 : parIveSaH parivezaH parIvezaH ;;count change
+
+* DONE 18290
+old: 18290 : parizkaM(skaM)d : parizkaMd : 1 : pariskad
+new: 18290 : parizkaM(skaM)d : parizkaMd : 1 : pariskaMd
+status: ok Note:
+AB: Good
+
+* DONE 18321
+old: 18321 : pari(rI)saryA, pari(rI)sAraH : parisaryA : 3 : parisaryA parisAraH parIsAraH
+new: 18321 : pari(rI)saryA, pari(rI)sAraH : parisaryA : 3 : parIsaryA parisAraH parIsAraH
+status: ok Note:
+AB: Good
+
+* DONE 18906
+old: 18906 : picaMqaH --qaM, piciMqaH --qaM : picaMqaH : 1 : picaMqaM
+new: 18906 : picaMqaH --qaM, piciMqaH --qaM : picaMqaH : 1 : picaMqaM piciMqaH piciMqaM
+status: ok Note:
+ABn: 18906 : picaMqaH --qaM, piciMqaH --qaM : picaMqaH : 3 : picaMqaM piciMqaH piciMqaM ;;count change
+
+* DONE 19214
+old: 19214 : pustakaH --kaM, pustI : pustakaH : 1 : pustakaM
+new: 19214 : pustakaH --kaM, pustI : pustakaH : 1 : pustakaM pustI
+status: ok Note:
+ABn: 19214 : pustakaH --kaM, pustI : pustakaH : 2 : pustakaM pustI ;;count change
+
+* DONE 21639
+old: 21639 : bazkaya(yi)RI(nI) : bazkayaRI : 3 : bazkayiRI bazkayinI bazkayinI
+new: 21639 : bazkaya(yi)RI(nI) : bazkayaRI : 3 : bazkayiRI bazkayanI bazkayinI
+status: ok Note:
+AB: Good
+
+* DONE 21718  ABException
+old: 21718 : bAlhakAH, bAlhikAH, bAlhIkAH : bAlhakAH : 2 : bAlhikAH bAlhIkAH
+new: 21718 : bAlhakAH, bAlhikAH, bAlhIkAH : bAlhakAH : 2 : bAlhikAH bAlhIkAH
+status: nochange Note: ap: has 'hl'. mw, pw, pwg, vcp have bAlhaka etc.
+ABn: 21718 : bAhlakAH, bAhlikAH, bAhlIkAH : bAhlakAH : 2 : bAhlikAH bAhlIkAH ;;In Skt. there is no 'lh' (which, of course, is in Prakrit!); see the entry 25323 below as the corresp. counterpart!
+JIM:  This is too complicated, 
+      For example, entry 25323 says '{#vahlika, --vahlIka#},¦ see {#bahlika, bahlIka#}.'
+      but there is No bahlika or bahlIka (according to ap90).
+* DONE 21744
+old: 21744 : biwakaH --kaM, biwakA : biwakaH : 1 : biwakaM
+new: 21744 : biwakaH --kaM, biwakA : biwakaH : 1 : biwakaM biwakA
+status: ok Note:
+ABn: 21744 : biwakaH --kaM, biwakA : biwakaH : 2 : biwakaM biwakA ;;count change
+
+* DONE 23467
+old: 23467 : meMQaH, meMQaMkaH : meMQaH : 1 : meMQaMkaH
+new: 23467 : meMQaH, meMQakaH : meMQaH : 1 : meMQakaH
+status: ok Note: typo meMQaMkaH -> meMQakaH
+AB: Good
+
+* DONE 23525
+old: 23525 : mEreyaH --yaM, mEreyakaH --kaM : mEreyaH : 1 : mEreyaM
+new: 23525 : mEreyaH --yaM, mEreyakaH --kaM : mEreyaH : 1 : mEreyaM mEreyakaH mEreyakaM
+status: ok Note:
+ABn: 23525 : mEreyaH --yaM, mEreyakaH --kaM : mEreyaH : 3 : mEreyaM mEreyakaH mEreyakaM ;;count change
+---------------------------
+* DONE 23865
+old: 23865 : yUzaH --zaM yUzan : yUzaH : 1 : yUzaM
+new: 23865 : yUzaH --zaM yUzan : yUzaH : 1 : yUzaM yUzan
+status: ok Note:
+ABn: 23865 : yUzaH --zaM yUzan : yUzaH : 2 : yUzaM yUzan ;;count change
+
+* DONE 24643
+old: 24643 : libiH, --vI : libiH : 1 : livI
+new: 24643 : libiH, --vI : libiH : 1 : libI
+status: ok Note: k2 -> libiH, --bI
+AB: Good
+
+* DONE 25829
+old: 25829 : vijinaH --naM(laH, --laM) : vijinaH : 1 : vijinaM
+new: 25829 : vijinaH --naM(laH, --laM) : vijinaH : 1 : vijinaM vijilaH vijilaM
+status: ok Note:
+ABn: 25829 : vijinaH --naM(laH, --laM) : vijinaH : 3 : vijinaM vijilaH vijilaM ;;count change
+
+* DONE 26629
+old: 26629 : vizARaH --RaM, --RI : vizARaH : 1 : vizARaM
+new: 26629 : vizARaH --RaM, --RI : vizARaH : 1 : vizARaM vizARI
+status: ok Note:
+ABn: 26629 : vizARaH --RaM, --RI : vizARaH : 2 : vizARaM vizARI ;;count change
+
+* DONE 27402
+old: 27402 : vyAvakroSI, byAvaBAzI : vyAvakroSI : 1 : byAvaBAzI
+new: 27402 : vyAvakroSI, byAvaBAzI : vyAvakroSI : 1 : vyAvaBAzI
+status: ok Note: k2 typo byAvaBAzI -> vyAvaBAzI
+AB: Good
+
+* DONE 28120
+old: 28120 : SulkaH, --lakaM : SulkaH : 1 : SulakaM
+new: 28120 : SulkaH, --lkaM : SulkaH : 1 : SulkaM
+status: ok Note: typo lakaM -> lkaM
+AB: Good
+
+* DONE 28122
+old: 28122 : Sulv(lb) : Sulv : 1 : Sulba
+new: 28122 : Sulv(lb) : Sulv : 1 : Sulb
+status: ok Note:
+AB: Good
+
+* DONE 28149
+old: 28149 : SUdrARI, SUdI : SUdrARI : 1 : SUdI
+new: 28149 : SUdrARI, SUdI : SUdrARI : 1 : SUdrI
+status: ok Note: typo SUdI -> SUdrI
+AB: Good
+
+* DONE 29033
+old: 29033 : sawaM, sawA : sawaM : 1 : sawA
+new: 29033 : sawaM, sawA : sawaM : 1 : sawA
+status: nochange Note: 
+AB: Sorry for my pointing this wrongly! 
+
+* DONE 29844
+old: 29844 : sarUpatA, tvaM : sarUpatA : 1 : tvaM
+new: 29844 : sarUpatA, tvaM : sarUpatA : 1 : sarUpatvaM
+status: ok Note:
+AB: Good
+
+* DONE 30325
+old: 30325 : sihlakI, sihlAM : sihlakI : 1 : sihlAM
+new: 30325 : sihlakI, sihlA : sihlakI : 1 : sihlA
+status: ok Note: typo (maybe p.c.)  sihlAM -> sihlA
+ABn: 30325 : sihlakI, sihlI : sihlakI : 1 : sihlI
+
+* DONE 31027
+old: 31027 : sPuliMgaH, --gaM, sPuliMgA : sPuliMgaH : 1 : sPuliMgaM
+new: 31027 : sPuliMgaH, --gaM, sPuliMgA : sPuliMgaH : 1 : sPuliMgaM sPuliMgA
+status: ok Note:
+AB:  31027 : sPuliMgaH, --gaM, sPuliMgA : sPuliMgaH : 2 : sPuliMgaM sPuliMgA ;;count change
+

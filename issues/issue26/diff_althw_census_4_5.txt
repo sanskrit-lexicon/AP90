@@ -77,7 +77,7 @@
 607c607
 < 7536 : IzaRa, izARan : IzaRa : 1 : izARan
 ---
-> 7536 : IzaRa, izaRin : IzaRa : 1 : izaRin
+> 7536 : IzaRa, IzaRin : IzaRa : 1 : IzaRin
 625c625
 < 7760 : utkfzwatA, tAM : utkfzwatA : 1 : tAM
 ---

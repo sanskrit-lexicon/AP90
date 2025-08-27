@@ -604,7 +604,7 @@
 7520 : IrzyA(rzA)lu, Irzyu(rzu) : IrzyAlu : 3 : IrzAlu Irzyu Irzu
 7530 : ISitA, --tvaM : ISitA : 1 : ISitvaM
 7533 : ISvaratA, --tvaM : ISvaratA : 1 : ISvaratvaM
-7536 : IzaRa, izaRin : IzaRa : 1 : izaRin
+7536 : IzaRa, IzaRin : IzaRa : 1 : IzaRin
 7542 : Izma, --zvaH : Izma : 1 : IzvaH
 7552 : ukta, ukti : ukta : 1 : ukti
 7564 : uK, uMK : uK : 1 : uMK

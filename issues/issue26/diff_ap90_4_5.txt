@@ -116,12 +116,12 @@
 < <L>7536<pc>0284-b<k1>IzaRa<k2>IzaRa, izARan
 < {#IzaRa, izARan#}¦ {%<ab>a.</ab>%} Hastening. {#--RA#}
 ---
-> <L>7536<pc>0284-b<k1>IzaRa<k2>IzaRa, izaRin
-> {#IzaRa, izaRin#}¦ {%<ab>a.</ab>%} Hastening. {#--RA#}
+> <L>7536<pc>0284-b<k1>IzaRa<k2>IzaRa, IzaRin
+> {#IzaRa, IzaRin#}¦ {%<ab>a.</ab>%} Hastening. {#--RA#}
 66129c66144
 < <L>7536.1<pc>0284-b<k1>izARan<k2>izARan
 ---
-> <L>7536.1<pc>0284-b<k1>izaRin<k2>izaRin
+> <L>7536.1<pc>0284-b<k1>IzaRin<k2>IzaRin
 67823,67824c67838,67839
 < <L>7760<pc>0291-b<k1>utkfzwatA<k2>utkfzwatA, tAM
 < {#utkfzwatA, tAM#}¦ Excellence, <lbinfo n="emi+nence"/>

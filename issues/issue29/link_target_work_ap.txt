@@ -1,0 +1,354 @@
+
+* linked (29)
+** AP  : 00079	Ait. Br.	Aitareya Brāhmaṇa, (Bombay).
+PWG : 05214	AIT. BR.	AITAREYABRĀHMAṆA.
+    ap has 2 and 3 parms
+    2 parameters "https://sanskrit-lexicon-scans.github.io/aitbr/app1?"
+    (16 instances in ap)
+    sAMnAhuka 'Ait. Br. 7. 14' ok
+    stokaH 'Ait. Br. 2. 12'  ok
+    3 parameters "https://sanskrit-lexicon-scans.github.io/aitbr_auf/app1?"
+     (12 instances in ap)
+    suSeva 'Ait. Br. 7. 13. 11'   no
+    ABUtiH 'Ait. Br. 8. 13. 8'  no   corrected to 7. 13. 8
+conclude use aitbr for 2-parms.  No link for 3-parms
+Note: The way basicadjust is written,  
+  the 3-parm links are handled by aitbr/app1 -- 3rd parameter ignored.
+  See Andhrabharati comment at https://github.com/sanskrit-lexicon/AP/issues/19#issuecomment-4362925850
+  
+** AP  : 00187	Ak.	Amarakoṣa, (Bombay).
+PWG : 16155	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOKE und LOISELEUR&#13;&#10;DESLONGCHAMPS (GILD. Bibl. 251. 253).
+  ap only 10 cases with parameters  
+  "https://sanskrit-lexicon-scans.github.io/amara_dlc/app1?"
+  3 parms:
+   antarvaMSikaH 'Ak. 2. 8. 8' OK
+   asiDenuH 'Ak. 2. 8. 92' NOT FOUND
+   jalpaka  'Ak. 3. 1. 36' OK
+================================================
+** AP  : 00422	Av.	Atharva-Veda. 
+PWG : 16245	AV.	ATHARVAVEDASAM̃HITĀ
+ 3 numeric parameters 
+  'hrefbase':"https://sanskrit-lexicon.github.io/avlinks/avhymns/" +avXX.YYY.html#avYYY.ZZ
+  av10.005.html#av10.005.15
+  upatfRyaH 'Av. 5. 13. 5'  OK
+  arbudiH 'Av. 11. 9' OK  2 parms - insert '1' as implied 3rd parm.
+================================================
+** AP  : 01541	Bg.	Bhagavadgītā (Tilak Edition).
+PWG : 02586	BHAG.	BHAGAVADGĪTĀ, Ausg. von SCHLEGEL (GILD. Bibl. 116).
+  2 parameters
+  "https://sanskrit-lexicon-scans.github.io/bhagavadgita/app1?"
+  UrDvam Bg. 15. 1  OK
+  carAcara  Bg. 11. 43  OK 
+================================================
+** AP  : 01634	Bk.	Bhaṭṭikāvya, (Nirṇaya Sāgara, 1928).
+PWG : 02785	BHAṬṬ.	BHAṬṬIKĀVYA, ed. Calc. (GILD. Bibl. 137).
+  Bk. 2 parameters
+  BHAṬṬ. 2 parameters "https://sanskrit-lexicon-scans.github.io/bhattikavya/app1?"
+  aNgulitram 'Bk. 1. 26'   OK
+  kram 'Bk. 8. 2'  OK
+================================================
+** AP  : 02978	Bhāg.	Bhāgavata, (V. Ramaswamy Sastrulu & Sons, Madras).
+PWG : 30549	BHĀG. P.	BHĀGAVATAPURĀṆA
+   PWG NOTE: # burnouf edition parm1 = [1-9];  bombay edition parm1 = 10
+ 3 parms (akartaH, mahAmohaH,apohanam )
+   "https://sanskrit-lexicon-scans.github.io/bhagp_bur/app1/?"  NOT USED
+   "https://sanskrit-lexicon-scans.github.io/bhagp_bom/app1/?"  USED
+  agadarAjaH 'Bhāg. 10. 47. 59' NO
+  acalapatiH 'Bhāg. 4. 22. 58'  OK
+  prasidDiH 'Bhāg. 11. 3. 3'  OK
+  syandaH 'Bhāg. 5. 21. 9' 
+================================================
+** AP  : 00062	C. P.	Caurapañcāśikā.
+PWG : 00421	CAURAP.	CAURAPAÑCĀŚIKĀ, ed. BOHLEN 
+   1 parameter
+   "https://sanskrit-lexicon-scans.github.io/bhartrhari/app1?"
+   avasakta 'C. P. 4' ok
+   capala 'C. P. 8' NO!
+   dAman  'C. P. 1' ok 
+   paripA 'C. P. 50'  ok
+** AP  : 00017	Abh. Cin.	Abhidhāna Cintāmaṇi Kośa.
+PWG : 16658	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI
+  1 parameter "https://sanskrit-lexicon-scans.github.io/abch2/app1?"
+  pAradaH 'Abh. Cin. 1050' ok
+  pEYjUzaH 'Abh. Cin. 573' ok
+  2 parameters
+  powagalaH 'Abh. Cin. 11. 93'  correction 'Abh. Cin. 1193'
+  praGaRaH 'Abh. Cin. 10. 10'   correction 'Abh. Cin. 1010'
+** AP  : 00299	Ks.	Kathāsaritsāgara.
+PWG: 25016	KATHĀS.	KATHĀSARITSĀGARA
+     2 parameters "https://sanskrit-lexicon-scans.github.io/kss/index.html?"
+     ativah 'Ks. 33. 91'  ok
+     GozavatI 'Ks. 11. 3' ok
+** AP  : 02613	Ku.	Kumārasambhava, (Nirṇaya Sāgara, 1916).
+PWG : 02692	KUMĀRAS.	KUMĀRASAM̃BHAVA, ed. STENZLER (GILD. Bibl. 136).
+  2 parameters  "https://sanskrit-lexicon-scans.github.io/kumaras/app1?"
+  praveSaH 'Ku. 3. 60' OK
+  itTamBUta 'Ku. 6. 26' OK
+================================================
+** AP  : 05195	Ms.	Manusmṛti, (J. M. Gurjar, Bombay, 1894).
+PWG : 22581	M.	MANU'S Gesetzbuch in der Ausg. von LOISELEUR DESLONGCHAMPS&#13;&#10;(GILD. Bibl. 289).
+  2 parameters  "https://sanskrit-lexicon-scans.github.io/manu/index.html?"  
+  BAvyam 'Ms. 5. 150' OK
+  pratyavAyaH 'Ms. 4. 245' OK
+================================================
+** AP  : 04102	Mb.	Mahābhārata, (चित्रशाळा, पुणें , १९२९-३३).
+PWG :  : MBH. ed. Bomb.
+  3 parameters  "https://sanskrit-lexicon-scans.github.io/mbhbomb/app1?"
+  agatika 'Mb. 12. 10. 16' OK
+  kOmArikaH 'Mb. 1. 100. 90' OK
+================================================
+** AP  : 00056	Med.	Medinīkośa.
+PWG : 12989	MED.	MEDINĪKOṢA, ed. Calc. 
+   2 parameters "https://sanskrit-lexicon-scans.github.io/medini/app1?"
+   In ap, no parameterized references.
+** AP  : 01188	Me.	Meghadūta, (R. D. Karmarkar, 1938).
+PWG : 02363	MEGH.	MEGHADŪTA, ed. GILDEMEISTER (GILD. Bibl. 151).
+  1 numeric parameter
+  "https://sanskrit-lexicon-scans.github.io/meghasrnga/app1?"
+  acetana  'Me. 5' OK
+  paricayaH 'Me. 9' 
+================================================
+** AP  : 00028	Mārk. P.	Mārkaṇḍeya Purāṇa.
+PWG : 06456	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA 
+   2 parameters "https://sanskrit-lexicon-scans.github.io/markandeyapurana/app1?"
+   maruprapatanam 'Mārk. P. 40. 3' ok  [print marut...]
+   GrARapuwakA 'Mārk. P. 65. 22'  ok
+** AP  : 00025	Nala.	Nalopākhyāna, (Bombay).
+PWG : 02738	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathie
+    2 parameters  "https://sanskrit-lexicon-scans.github.io/bchrest1/app1?"
+    avakartaH 'Nala. 10. 22'  OK
+    Akula 'Nala. 4. 18' OK
+    uragaH 'Nala. 1. 28' OK
+    kftyakA 'Nala. 13. 29'  NO! 
+** AP  : 00100	Nir.	Nirukta.
+PWG : 03727	NIR.	YĀSKA'S NIRUKTA 
+  2 parameters "https://sanskrit-lexicon-scans.github.io/nirukta/app1?"
+  akraH 'Nir. 6. 17' OK
+  aprAdeSika 'Nir. 1. 13'  ok
+  abAla 'Nir. IX. 10'   TYPO  'Nir. 9. 10' (abAliSa alternate hw found)
+ 
+================================================
+================================================
+================================================
+================================================
+================================================
+================================================
+** AP  : 01338	P.	Pāṇiniʼs Aṣṭādhyāyī.
+PWG : 25310	P.	PĀṆINI'S acht Bücher grammatischer
+ 3 parameters, first in capital Roman
+ "https://ashtadhyayi.com/sutraani"
+ akaTita, P. I. 4. 51  ok
+================================================
+** AP  : 07182	R.	Raghuvaṃśa, (R. A. Sagoon, Bombay 1897).
+PWG : 09726	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 134).
+  2 parameters  https://sanskrit-lexicon-scans.github.io/raghuvamsa/app1?a,b
+  akAlaH 'R. 12. 81' OK
+  aMsala 'R. 3. 34' OK
+  dIkzita 'R. 8. 75' NO
+  dIkzita 'R. 11. 24' OK
+  SAsanam 'R. 3. 69' OK
+================================================
+** AP  : 00182	Rāj. T.	Rājataraṅgiṇī.
+PWG : 10286	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER 
+   2 parameters "https://sanskrit-lexicon-scans.github.io/rajatar/app1?"
+   aSvaGAsakAyasTaH 'Rāj. T. 3. 489' ok  [print looks like aSvaGAmakAyasTaH  ? ]
+   cAkrikaH 'Rāj. T. 6. 272' ok
+** AP  : 00430	S. D.	Sāhityadarpaṇa.
+PWG : 04645	SĀH. D.	SĀHITYADARPAṆA,
+   1 parameter in ap.txt
+   1 or 2 parms in pwg: "https://sanskrit-lexicon-scans.github.io/sahityadarpana/app1?"
+   avaSrayaRam 'S. D. 2' NO (searched thru page 6)
+   avamarzaH 'S. D. 336' ok  (found 'vimarza' which ap text mentions)
+   CekAnuprAsaH 'S. D. 634' OK
+   Note: 1 instance in ap.txt of 2 parameters:
+     saMlApaH '<ls>S. D. 6. 131</ls>' NO 
+================================================
+** AP  : 00006	T. Br.	Taittirīya Brāhmaṇa.
+PWG : 03316	TBR.	TAITTIRĪYABRĀHMAṆA.
+   4 parameters "https://sanskrit-lexicon-scans.github.io/taittiriyabr/app1?"
+   ap.txt has 4 or 3 parameters
+   aDipatnI 'T. Br. 3. 1. 1. 11' OK
+   anuvatsaraH 'T. Br. 1. 4. 10'  found in app1?1,4,10,1  (the only 3-parm)
+   upajIvA 'T. Br. 1. 5. 6. 4' OK
+** AP  : 00020	Ts.	Taittirīya Saṃhitā.
+PWG : 06193	TS.	TAITTIRĪYASAM̃HITĀ. 7 Kāṇḍa,
+   4 parameters "https://sanskrit-lexicon-scans.github.io/taittiriyas/app1?"
+   ap.txt 4 parameters  ok
+   utkrodaH 'Ts. 7. 5. 9. 2'  OK
+   akzAvApaH 'Ts. I, 8. 9. 1. 2'   print change 'TS. 1. 8. 9. 2'
+   grAhuka 'Ts. 6. 4. 1. 1' OK
+   4 parameter not found
+   agnisvAttaH 'Ts. 2. 5. 12. 2'  print has 'Tsy. 2. 5. 12. 2' ?  'Tsy.' not found in AP
+     3 parameters  make print changes?
+   udgraBaRam 'Ts. 1. 1. 13'  NO (3 parm) but 1,1,13,1 OK
+   upayA 'Ts. 1. 4. 15'  NO (3 parm) but 1,4,15,1  OK
+   Urj 'Ts. 1. 1. 1'  NO (3 parm) but 1,1,1,1 OK
+   Urjasvat 'Ts. 1. 1. 1'  NO (3 parm) but 1,1,1,1 OK
+** AP  : 00154	Bṛ. S.	Varāhamihiraʼs Bṛhatsamhitā
+PWG : 14307	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ
+     2 parameters "https://sanskrit-lexicon-scans.github.io/brihatsam/app1?"
+     ap.txt has 2 parameters
+     check 2 parameters
+     atisanDA 'Bṛ. S. 53. 82'  ok
+     aBitaq 'Bṛ. S. 11. 61' ok
+     
+** AP  : Vāj.	Vājasaneyi Saṃhitā,
+PWG : 06888	VS.	VĀJASANEYISAM̃HITĀ.
+  2 parameters "https://sanskrit-lexicon-scans.github.io/vajasasa/app1?"
+  anuyA 'Vāj. 15. 6' OK
+  uparisad 'Vāj. 9. 35'  OK  
+================================================
+** AP  : 01064	Y.	Yājñavalkya Smṛti, (Nirṇaya Sāgara, 1926).
+PWG : 04015	YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch. Sanskrit und Deutsch herausge-&#13;&#10;geben von Dr. ADOLPH FRIEDRICH STENZLER. Berlin und London 1849.
+   2 parameters
+   "https://sanskrit-lexicon-scans.github.io/yajnavalkya/app1?"
+   aMSaBAj 'Y. 2. 132' OK  (alternate hw aMSahara)
+   AkANkz  'Y. 1. 153' OK
+================================================
+** AP  : 00032	Ś. Til.	Śṛṅgāratilaka.
+PWG : 00111	ŚṚṄGĀRAT.	ŚṚṄGĀRATILAKA, ed. GILDEMEISTER
+   1 parameter "https://sanskrit-lexicon-scans.github.io/meghasrnga/app2?"
+   examples:
+   apUrva 'Ś. Til. 17' NO  <<< in 18
+   kiMvA 'Ś. Til. 7'  OK
+   caturaNga 'Ś. Til. 4' OK
+   nIrasa 'Ś. Til. 9' OK
+   pariBavaviDiH 'Ś. Til. 16'  NO   <<< in 17
+   nirmAlyam 'Ś. Til. 10' NO 
+wrong edition?
+
+** AP  : 00099	Śat. Br.	Śatapatha Brāhmaṇa.
+PWG : 20767	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA 
+  ap 1,2,3,4 parms
+  4 parameters "https://sanskrit-lexicon-scans.github.io/shatapathabr/app1?"
+    ucCvaNkaH 'Śat. Br. 5. 4. 1. 9'  OK
+** AP  : 01493	Rv.	Ṛgveda, .
+PWG : 56230	ṚV.	ṚGVEDA. 
+ 3 numeric parameters  
+  'hrefbase':"https://sanskrit-lexicon.github.io/rvlinks/rvhymns/" +rvXX.YYY.html#rvYYY.ZZ
+  rv10.005.html#rv10.005.15
+  aMsya 'Rv. 1. 191. 7' OK 
+  mitraH 'Rv. 3. 59' OK
+ 2 numeric parameters  (mitraH ok)  3rd parameter = 1
+================================================
+* ------------------------------------
+* wrong edition (12)
+** AP  : 01051	Bh.	Bhartṛhariʼs three śatakas
+PWG : 01330	BHARTṚ.	BHARTṚHARI, Ausg. von BOHLEN
+   2 parameters
+   "https://sanskrit-lexicon-scans.github.io/bhartrhari/app2?"
+   akArpaRya 'Bh. 3. 51'  NO
+   arTapara 'Bh. 2. 47' NO
+   WRONG EDITION
+================================================
+** AP  : 00506	Gīt.	Gītagovinda.
+PWG : 01226	GĪT.	GĪTAGOVINDA, ed. LASSEN (GILD. Bibl. 168).
+  1 parameter  not handled by 'gitagov'  
+  2 parameters "https://sanskrit-lexicon-scans.github.io/gitagov/app1?"
+   only 20 2-parameter instances in ap.txt
+  AravaqiRqimaH 'Gīt. 11. 6'  NO
+  kalkiH 'Gīt. 1. 10' NO
+WRONG EDITION
+================================================
+** AP  : 00059	Hariv.	Harivaṃśa, (चित्रशाळा, पुणें, १९३६).
+PWG : 15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH
+   1 parameter "https://sanskrit-lexicon-scans.github.io/hariv?"
+   only 2 ap refs with a parameter
+   aBavaniH 'Hariv. 7'  NO
+   avarakzaRI 'Hariv. 7' NO
+WRONG EDITION
+** AP  : 00057	H. Pr.	हितोपदेश-प्रस्ताविका
+PWG: 00230	HIT. Pr.	Prooemium im HIT.
+  1 parameter "https://sanskrit-lexicon-scans.github.io/hitopadesha/app1?"
+  agadaH 'H. Pr. 29' NO
+  ahAryaH 'H. Pr. 4' OK
+  Akfz 'H. Pr. 9'  Akfzya
+WRONG EDITION
+** AP  : 00688	H.	Hitopadeśa, (आर्यभूषण प्रेस, पुणें, १९३३).
+PWG : 03912	HIT.	HITOPADEŚA, ed. SCHLEGEL und LASSEN (GILD. Bibl. 225).
+      2 Parameters
+        https://sanskrit-lexicon-scans.github.io/hitopadesha/app1?
+        gfhacCidram 'H. 1. 123'  OK
+	gurutA 'H. 2. 46' NO
+	grahapIqanam 'H. 1. 51' 
+      00230	HIT. Pr.	Prooemium im HIT.
+      1 Parameter
+       https://sanskrit-lexicon-scans.github.io/hitopadesha/app1?
+       kasmAt 'H. 1'  NO
+       adravyam 'H. Pr. 43'  app1?0,43  OK
+WRONG EDITION
+================================================
+** AP  : 00646	M.	Mālavikāgnimitra, (Prin. R. D. Karmarkar, 1933).
+PWG : 01169	MĀLAV.	MĀLAVIKĀGNIMITRA, ed. TULLBERG (GILD. Bibl. 209). (pwg link)
+      00010	MĀLAV. ed. Bomb.	 MĀLAVIKĀGNIMITRA, Bombay edition 
+      2 parameters "https://sanskrit-lexicon-scans.github.io/malavikagni/app2?"
+      agnisAkzika 'M. 4. 12'
+      1 parameter  "https://sanskrit-lexicon-scans.github.io/malavikagni/app1?"
+      akzaram 'M. 3' NO
+WRONG EDITION
+================================================
+** AP  : 00027	Pañc.	Pañcarātra 
+PWG : 02756	PAÑCAR.	NĀRADA PAÑCARĀTRA 
+  3 parameters  "https://sanskrit-lexicon-scans.github.io/pancar/app1?"
+  2 parameters  "https://sanskrit-lexicon-scans.github.io/pancar/app0?"
+      '^<ls n="PAÑCAR\.">(S\.) ([0-9]+)(.*)</ls>$
+  ap.txt uses 2 numeric parameters
+  apayAnam  'Pañc. 3. 3'  NO using app1?3,3,1
+  ap.txt also uses 1 numeric parameter
+  akramaH 'Pañc. 1'   NO using app0?1
+WRONG EDITION
+** AP  : 01653	Pt.	Pañcatantra. Chap, I, IV, V, (आर्यभूषण प्रेस, पुणें  १८९३); Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+PWG : 09145	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinquepartitum de&#13;&#10;moribus exponens, ex codicibus manuscriptis edidit, commentariis&#13;&#10;criticis auxit IO. GODOFR. LUDOV. KOSEGARTEN. Pars prima, textum&#13;&#10;sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8º. Eine&#13;&#10;darauf folgende römische Zahl bezeichnet das Buch, eine arabische&#13;&#10;-- die Seite; die zweite Zahl bezeichnet hier die Zeile, dort den&#13;&#10;Śloka.
+  PWG 'PAÑCAT. ed. orn.' 2 parms
+          "https://sanskrit-lexicon-scans.github.io/pantankoseorn/app1?"
+      'PAÑCAT.'  2 parms
+          "https://sanskrit-lexicon-scans.github.io/pantankose/app2?"
+
+  ** AP 1154 matches in 1150 lines for "<ls>Pt\. [0-9]+[.] [0-9]+</ls>"
+     
+      410 matches in 406 lines for "<ls>Pt\. [0-9]+</ls>"
+wrong edition
+================================================
+** AP  : 02430	Rām.	Rāmāyaṇa, (Nirṇaya Sāgara, 1888).
+PWG : 00334	R. ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 [Cologne addition]
+   3 parameters
+   "https://sanskrit-lexicon-scans.github.io/ramayanabom/app1/?"
+   udArasattvABijana 'Rām. 4. 47. 14'  NO
+   aMSumat 'Rām. 5. 5. 1' NO
+================================================
+** AP  : 00013	Trik.	Trikāṇḍaśeṣa.
+PWG : 08819	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc.
+  3 parameters "https://sanskrit-lexicon-scans.github.io/medini/app2?"
+  ap.txt only 1 linkable, which has 1 parameter
+WRONG EDITION
+** AP  : 00869	V.	Vikramorvaśīyam, (R. D. Karmarkar, 1932).
+PWG : 01659	VIKR.	VIKRAMORVAŚĪ, ed. BOLLENSEN (GILD. Bibl. 206)
+  2 parameters 
+    "https://sanskrit-lexicon-scans.github.io/vikramor/app2?"
+    dfzwikzama 'V. 4. 21'  app2?4,21 has no match
+  1 parameter
+    "https://sanskrit-lexicon-scans.github.io/vikramor/app1?"
+    kumAraH 'V. 5' NO
+    dfzwiH  'V. 2' NO
+PROBLEM - WRONG EDITION
+================================================
+** AP  : 02539	Ś.	Śakuntalam, (Shiralkar & Co. Poona, 1902).
+PWG : 06592	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von BÖHTLINGK (GILD.&#13;&#10;Bibl. 191). Eine einfache Zahl bezeichnet den Śloka, eine doppelte&#13;&#10;-- Seite und Zeile.
+  944 1 parameter
+     (agniSaraRam <ls>Ś. 5</ls> NOT FOUND
+     avalambita <ls>Ś. 4</ls>  ?
+   https://sanskrit-lexicon-scans.github.io/shakuntala/app1?
+ 1449 2 parameter  aMSukam
+    https://sanskrit-lexicon-scans.github.io/shakuntala/app2?
+ WRONG EDITION
+================================================
+
+* not used: AP with no PWG link target
+** AP  : 02857	Śi.	Śiśupālavadha, (Nirṇaya Sāgara, 1902).
+PWG : 01300	ŚIŚ.	ŚIŚUPĀLAVADHA, ed. Calc. (GILD. Bibl. 141).
+   not in sanskrit-lexicon-scans
+================================================
+** AP  : 01871 Ki.	Kirātārjunīya, (Nirṇaya Sāgara, 1922).
+PWG : 00668	KIR.	KIRĀTĀRJUNĪYA, ed. Calc. (GILD. Bibl. 139).
+  
+================================================

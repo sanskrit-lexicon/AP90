@@ -2,9 +2,9 @@
 # Excluded dirs contain Python 2 legacy scripts (pre-2020 research artifacts).
 
 exclude = [
-    "ap57_verbs01/",,
-    "apte_s2h/",,
-    "compounds/",,
+    "ap57_verbs01/",
+    "apte_s2h/",
+    "compounds/",
     "verbs01/",
 ]
 

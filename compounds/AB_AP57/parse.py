@@ -134,7 +134,7 @@ def write_cpds1(cpdentries,fileout):
  for e in cpdentries:
   ncpds = ncpds + len(e.cpds)
   hw = e.hw
-  hw = re.sub(r'[^a-zA-z].*$','',hw)  # remove 'comments'
+  hw = re.sub(r'[^a-zA-Z].*$','',hw)  # remove 'comments'
   a = []
   for e in e.cpds:
    pfx,sfx = e

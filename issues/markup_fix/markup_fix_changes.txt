@@ -1,0 +1,7 @@
+; markup_fix log for ap90.txt
+; nested <ab>: 0
+; whitespace: 1
+; changed: 1
+;
+42758 old <ls n="R.">6. </ls>; <ls n="R.">9. 22</ls>; <ls n="R.">11. 31</ls>; <ls n="R.">13. 61</ls>; <ls>Y. 3. 244</ls>;
+42758 new <ls n="R.">6.</ls>; <ls n="R.">9. 22</ls>; <ls n="R.">11. 31</ls>; <ls n="R.">13. 61</ls>; <ls>Y. 3. 244</ls>;

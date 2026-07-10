@@ -1,9 +1,9 @@
 # AP90 — Apte's Sanskrit-English Dictionary (1890)
 
-_Created: 14-03-2020 · Last updated: 05-07-2026_
+_Created: 14-03-2020 · Last updated: 10-07-2026_
 
 Research and correction work on **Apte's Sanskrit-English Dictionary of
-1890** — 27 issue-tracked correction campaigns, a verb-identification
+1890** — 31 issue-tracked correction campaigns, a verb-identification
 pipeline that mapped 3,632 AP90 verb entries to Monier-Williams, and a full
 literary-source-abbreviation transcoding pipeline — part of the
 [sanskrit-lexicon](https://github.com/sanskrit-lexicon) project.
@@ -135,7 +135,9 @@ python updateByLine.py <input_file> <changein_file> <output_file>
 ```
 
 Change file format: paired `NNN old <original>` / `NNN new <replacement>`
-lines; `;` prefix for comments.
+lines; `;` prefix for comments. Corrections are never applied to the source
+directly; the org-wide snapshot → validate → batched-PR process is documented
+canonically in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
 ---
 
@@ -156,50 +158,56 @@ lines; `;` prefix for comments.
 
 | Milestone | Project | Total | Open | Closed |
 |---|---|---|---|---|
-| Dictionary to Book (1) | Project 1 | 1 | 1 | 0 |
+| Dictionary to Book (1) | Project 1 | 3 | 2 | 1 |
 | Digitization Quality (2) | Project 2 | 10 | 3 | 7 |
-| Structured Data (3) | Project 3 | 11 | 7 | 4 |
-| Major Enhancements (4) | Project 4 | 5 | 4 | 1 |
-| **Total** | | **27** | **15** | **12** |
+| Structured Data (3) | Project 3 | 12 | 6 | 6 |
+| Major Enhancements (4) | Project 4 | 6 | 5 | 1 |
+| **Total** | | **31** | **16** | **15** |
+
+_Milestone/open/closed counts verified live against the [AP90 issue tracker](https://github.com/sanskrit-lexicon/AP90/issues) on 10-07-2026._
 
 ## Issue Typology
 
-### Solved (12 closed)
+### Solved (15 closed)
 
 | # | Type | Severity | Summary |
 |---|---|---|---|
-| #4 | markup | medium | `<ls>` markup batch corrections |
-| #5 | content-enhancement | minor | Display upgrade |
-| #7 | encoding | minor | Character rendering fix |
-| #8 | encoding | minor | Character rendering fix |
-| #9 | markup | minor | XML tag normalisation |
-| #13 | encoding | minor | SLP1 transcoding fix |
-| #18 | text-correction | minor | German/English definition correction |
-| #19 | markup | minor | XML tag normalisation |
-| #20 | text-correction | minor | Definition correction |
-| #22 | encoding | minor | Character rendering fix |
-| #24 | markup | medium | `<ls>` markup batch corrections |
-| #25 | text-correction | minor | Definition correction |
+| [#4](https://github.com/sanskrit-lexicon/AP90/issues/4) | markup | medium | Abbreviation markup |
+| [#5](https://github.com/sanskrit-lexicon/AP90/issues/5) | content-enhancement | minor | Expansion of composite headwords |
+| [#7](https://github.com/sanskrit-lexicon/AP90/issues/7) | encoding | minor | Hyphenated non-Devanagari |
+| [#8](https://github.com/sanskrit-lexicon/AP90/issues/8) | encoding | minor | Hyphenated Devanagari at line end |
+| [#9](https://github.com/sanskrit-lexicon/AP90/issues/9) | markup | minor | Abbrev markup: compar. and superl. |
+| [#13](https://github.com/sanskrit-lexicon/AP90/issues/13) | encoding | minor | Missing characters |
+| [#18](https://github.com/sanskrit-lexicon/AP90/issues/18) | text-correction | minor | ap90ab — missing hyphens in derivations |
+| [#19](https://github.com/sanskrit-lexicon/AP90/issues/19) | markup | minor | ap90ab_v2: `{}` around Devanagari |
+| [#20](https://github.com/sanskrit-lexicon/AP90/issues/20) | text-correction | minor | nyāya maxims, appendix writers/places |
+| [#22](https://github.com/sanskrit-lexicon/AP90/issues/22) | encoding | minor | Devanagari font ligature problem (zWy) |
+| [#24](https://github.com/sanskrit-lexicon/AP90/issues/24) | markup | medium | Additional literary sources from ap90ab_v2 |
+| [#25](https://github.com/sanskrit-lexicon/AP90/issues/25) | text-correction | minor | Errata in Appendix I (Sanskrit prosody) |
+| [#27](https://github.com/sanskrit-lexicon/AP90/issues/27) | question | minor | bālhakāḥ citation variations |
+| [#29](https://github.com/sanskrit-lexicon/AP90/issues/29) | link-target | medium | Activate ap90 link targets |
+| [#30](https://github.com/sanskrit-lexicon/AP90/issues/30) | markup | minor | Minor ap90.txt markup oddities |
 
-### Open (15 open)
+### Open (16 open)
 
 | # | Type | Severity | Summary |
 |---|---|---|---|
-| #1 | content-enhancement | medium | Verb markup integration |
-| #2 | content-enhancement | medium | Bibliography enhancements |
-| #3 | content-enhancement | minor | Display upgrade |
-| #6 | bug | minor | Broken link or XML error |
-| #11 | markup | medium | `<ls>` markup corrections |
-| #12 | link-target | medium | `<ls>` click-through to PDF pages |
-| #14 | markup | minor | XML tag normalisation |
-| #15 | markup | minor | XML tag normalisation |
-| #16 | markup | minor | XML tag normalisation |
-| #17 | content-enhancement | medium | Major display upgrade |
-| #21 | text-correction | minor | Definition correction |
-| #23 | markup | medium | `<ls>` markup batch corrections |
-| #26 | text-correction | medium | Batch definition corrections |
-| #27 | question | minor | Editorial question |
-| #28 | question | minor | Editorial question |
+| [#1](https://github.com/sanskrit-lexicon/AP90/issues/1) | content-enhancement | medium | verbs01 verb markup integration |
+| [#2](https://github.com/sanskrit-lexicon/AP90/issues/2) | content-enhancement | medium | Verbs from the 1957 Apte |
+| [#3](https://github.com/sanskrit-lexicon/AP90/issues/3) | content-enhancement | minor | Add AP review |
+| [#6](https://github.com/sanskrit-lexicon/AP90/issues/6) | bug | minor | Newline for some entries |
+| [#10](https://github.com/sanskrit-lexicon/AP90/issues/10) | link-target | medium | Deep page hyperlinks (Page0463-c) |
+| [#11](https://github.com/sanskrit-lexicon/AP90/issues/11) | markup | medium | Markup of literary source references, continued |
+| [#12](https://github.com/sanskrit-lexicon/AP90/issues/12) | link-target | medium | Hitopadeśa link target |
+| [#14](https://github.com/sanskrit-lexicon/AP90/issues/14) | markup | minor | Devanagari markup changes |
+| [#15](https://github.com/sanskrit-lexicon/AP90/issues/15) | markup | minor | Misc. markup corrections |
+| [#16](https://github.com/sanskrit-lexicon/AP90/issues/16) | markup | minor | Misc markup changes, Part 2 |
+| [#17](https://github.com/sanskrit-lexicon/AP90/issues/17) | content-enhancement | medium | Andhrabharati coding of AP90 |
+| [#21](https://github.com/sanskrit-lexicon/AP90/issues/21) | question | minor | Sanskrit spelling errors |
+| [#23](https://github.com/sanskrit-lexicon/AP90/issues/23) | markup | medium | ap57_90 literary source |
+| [#26](https://github.com/sanskrit-lexicon/AP90/issues/26) | text-correction | hard | Scott's corrections to ap90 |
+| [#28](https://github.com/sanskrit-lexicon/AP90/issues/28) | question | minor | dvāja print change? |
+| [#31](https://github.com/sanskrit-lexicon/AP90/issues/31) | content-enhancement | medium | docs-pass: AP90 documentation review |
 
 ---
 

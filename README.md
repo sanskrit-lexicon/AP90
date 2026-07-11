@@ -26,6 +26,7 @@ lists, and per-issue working files for the 27 tracked corrections.
 
 | Directory | Description |
 |---|---|
+| [`docs/PIPELINE_MANUAL.md`](https://github.com/sanskrit-lexicon/AP90/blob/master/docs/PIPELINE_MANUAL.md) | **Operator manual** — every pipeline end-to-end from the real `redo.sh` files (cheat-sheet, walkthroughs, symptom→cure, maintainer appendix); metadoc at [`docs/PIPELINE_MANUAL.meta.md`](https://github.com/sanskrit-lexicon/AP90/blob/master/docs/PIPELINE_MANUAL.meta.md) |
 | [`verbs01/`](https://github.com/sanskrit-lexicon/AP90/tree/master/verbs01) | Verb identification and correlation with MW dictionary |
 | [`ap57_verbs01/`](https://github.com/sanskrit-lexicon/AP90/tree/master/ap57_verbs01) | Same pipeline for the smaller Apte AP57 |
 | [`markup/abls/`](https://github.com/sanskrit-lexicon/AP90/tree/master/markup/abls) | Literary source (`<ls>`) abbreviation markup — round 1 |

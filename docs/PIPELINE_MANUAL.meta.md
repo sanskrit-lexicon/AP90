@@ -67,6 +67,48 @@ files**, correcting the two idealized step lists in CLAUDE.md/README.
 - The three coexisting path conventions are remapped descriptively, not
   fixed; parameterization is upstream work in each folder.
 
+## Intended use / known misuse
+
+- **For:** onboarding a new operator/contributor to run or re-run an AP90
+  pipeline (markup rounds, hyphenation, either verb pipeline, transcoding, or
+  the two open issue campaigns) from the *actual* `redo.sh` drivers, and for
+  a maintainer or historian who needs the corrected step counts, the traps
+  appendix, or the commit-hash chaining order between campaigns.
+- **Known/likely misuse:**
+  - Treating the manual as a substitute for CLAUDE.md's code contract — it
+    corrects two step lists but does not replace CLAUDE.md's role for AI/code
+    sessions.
+  - Assuming the transcription-verified campaigns (all but apte_s2h) were
+    re-executed on 11-07-2026 — they were read and reconciled against the
+    scripts, not re-run; counts are inherited, not fresh (backlog #4).
+  - Reproducing a historical campaign against the *current* csl-orig HEAD
+    instead of its own pinned start commit — the hyphen_deva → abls → abls1
+    chaining only holds against each campaign's recorded commit.
+  - Using this manual as evidence that issue26/issue29 are closed — both are
+    open campaigns; the manual is a snapshot of their 11-07-2026 state, not
+    their live log (that's each folder's own readme).
+
+## Maintenance & sunset plan
+
+- **Owner:** the AP90 repo itself (`sanskrit-lexicon/AP90`), specifically
+  whoever next touches the markup/hyphen/verb tooling or works issue26/issue29
+  — there is no dedicated bot or scheduled job keeping this manual in sync.
+  Drift is caught opportunistically (a session editing a `redo.sh` should
+  update the matching manual section) or during a future census-batch sweep
+  like the one that authored it (H501–H531).
+- **Sunset trigger:** this manual is retired/superseded if AP90's pipelines
+  are consolidated into the org-wide Cologne tooling runbook (referenced from
+  the org `CLAUDE.md`) such that a per-repo operator manual becomes redundant,
+  or if the repo itself is archived. Until then it stays `active`.
+- **Archived/ended looks like:** the manual file moved under an `archive/`
+  folder (or the repo itself archived on GitHub) with a pointer left in
+  CLAUDE.md/README to wherever the operating knowledge lives instead, and this
+  metadoc's Deprecation status flipped accordingly.
+
+## Deprecation status
+
+`active`
+
 ## Related documents
 
 - [README.md](https://github.com/sanskrit-lexicon/AP90/blob/master/README.md) — repo overview + the verified apte_s2h usage example
@@ -80,5 +122,6 @@ files**, correcting the two idealized step lists in CLAUDE.md/README.
 | Date | Change | By |
 |---|---|---|
 | 11-07-2026 | Initial manual + this metadoc authored (H523); 11 workspaces surveyed (1 Explore agent + first-hand README/CLAUDE/issue reads); 2 doc-vs-code discrepancies corrected, 8 traps recorded | Fable 5 (`claude-fable-5`) |
+| 11-07-2026 | template v2 backfill (H663) | Sonnet 5 (`claude-sonnet-5`) |
 
 _Dr. Mārcis Gasūns_

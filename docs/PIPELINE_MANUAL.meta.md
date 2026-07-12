@@ -28,7 +28,7 @@ files**, correcting the two idealized step lists in CLAUDE.md/README.
 ## Provenance
 
 - Authored 11-07-2026 by Fable 5 (`claude-fable-5`) executing handoff
-  [H523-Fable_AP90_markup_verbs_pipeline_manual_10.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/H523-Fable_AP90_markup_verbs_pipeline_manual_10.07.26.md)
+  [H523-Fable_AP90_markup_verbs_pipeline_manual_10.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H523-Fable_AP90_markup_verbs_pipeline_manual_10.07.26.md)
   (manual-coverage census batch H501–H531).
 - Modelled on the gold-standard operator manual
   [RussianRamayana Litpam-Indexator MANUAL.md](https://github.com/gasyoun/RussianRamayana/blob/main/Litpam-Indexator/docs/indesign-pipeline/MANUAL.md).

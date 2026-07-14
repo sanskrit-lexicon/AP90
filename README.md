@@ -12,7 +12,7 @@ literary-source-abbreviation transcoding pipeline — part of the
 
 ## Why this repo exists
 
-The canonical source text ([`ap90.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap90/ap90.txt))
+The canonical source text ([`ap90.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ap90/ap90.txt))
 lives in the sibling `csl-orig` repo and is never edited directly. This repo
 is where the actual correction and enrichment engineering happens: markup
 normalization pipelines (five sequential `prep*.py` steps for `<ls>`

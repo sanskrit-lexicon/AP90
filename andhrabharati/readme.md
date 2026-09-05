@@ -1,3 +1,5 @@
+_Created: 20-05-2021 · Last updated: 05-09-2026_
+
 Andhrabharati's version of ap90.
 
 
@@ -8,3 +10,4 @@ Ref https://github.com/sanskrit-lexicon/AP90/issues/17
 * AP90_abbr.AB.txt  list of normal abbreviations, marked as {X}  - {Atm.}
 * AP90_ls.AB.txt list of literary sources, marked as <X> - e.g. <Śaṅkara>
 
+_Dr. Mārcis Gasūns_

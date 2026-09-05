@@ -1,3 +1,5 @@
+_Created: 07-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -62,3 +64,4 @@ Change file format: paired `NNN old <original>` / `NNN new <replacement>` lines;
 - **ap90.txt** — in sibling directory `../../csl-orig/v02/ap90/ap90.txt` (relative to working dirs)
 - **mw.txt** — in sibling repo for the verb pipeline cross-reference
 
+_Dr. Mārcis Gasūns_

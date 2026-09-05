@@ -1,3 +1,5 @@
+_Created: 16-06-2021 · Last updated: 05-09-2026_
+
 
 the Apte Student ed. S2H (a translation of Apte Student's S2E 1890 into Hindi in 1965)
 
@@ -15,3 +17,5 @@ python transcode.py slp1 deva apte_s2h_works.txt apte_s2h_works_deva.txt
 python transcode.py slp1 roman apte_s2h_works.txt apte_s2h_works_iast.txt
   The 'words' (both in abbreviation and name fields) are capitalized.
   
+
+_Dr. Mārcis Gasūns_

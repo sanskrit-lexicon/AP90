@@ -1,5 +1,7 @@
 # AP90 — Apte's Sanskrit-English Dictionary (1890)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151282.svg)](https://doi.org/10.5281/zenodo.23151282)
+
 _Created: 14-03-2020 · Last updated: 05-07-2026_
 
 Research and correction work on **Apte's Sanskrit-English Dictionary of

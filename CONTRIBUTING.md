@@ -4,7 +4,7 @@ _Created: 07-05-2026 · Last updated: 05-09-2026_
 
 AP90 is part of the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project — corrections and enhancements for the Cologne digitisation of *Apte Sanskrit–English Dictionary of 1890*.
 
-> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
+> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/main/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
 
 ## Reporting issues
 
